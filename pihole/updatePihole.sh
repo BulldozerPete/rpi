@@ -64,6 +64,7 @@
 #         1.0.7 - [Zelo72]          - Kompatiblitaet fuer Pihole 5.x
 #         1.0.8 - [Zelo72]          - Auf Update nur simulieren nicht automatisch durchführen umgestellt.
 #                                     Betrifft Raspberry Pakete und das Pi-hole Softwareupdate.
+#         1.0.9 - [Zelo72]          - Lokalen Blocklisten-Cache vor Gravity-Update bereinigen. 
 #
 
 # Prüfen ob das Script als root ausgefuehrt wird
@@ -208,6 +209,11 @@ else
    writeLog "[I] Kopiere $gravListPihole nach $gravListBeforeUpdate ..."
    cp $gravListPihole $gravListBeforeUpdate
 fi
+writeLog "[I] Bereinge lokalen Pi-hole Blocklisten-Cache  ..."
+echo ""
+$piholeBinDir/ls list.*.domains
+$piholeBinDir/rm list.*.domains
+echo ""
 writeLog "[I] Aktualisiere Pi-hole Gravity  ..."
 echo ""
 $piholeBinDir/pihole -g # Pi-hole Gravity aktualisieren
