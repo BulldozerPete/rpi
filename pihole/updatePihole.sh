@@ -211,8 +211,8 @@ else
 fi
 writeLog "[I] Bereinge lokalen Pi-hole Blocklisten-Cache  ..."
 echo ""
-$piholeBinDir/ls list.*.domains
-$piholeBinDir/rm list.*.domains
+ls $piholeBinDir/list.*.domains
+rm $piholeBinDir/list.*.domains
 echo ""
 writeLog "[I] Aktualisiere Pi-hole Gravity  ..."
 echo ""
