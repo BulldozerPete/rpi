@@ -1,11 +1,44 @@
 # ---------------------------------
 # | Zelo72's Pihole Blockliste    |
 # | https://github.com/Zelo72/rpi |
-# | Stand: 05.04.2021 07:30       |
+# | Stand: 05.04.2021 - V2        |
 # ---------------------------------
 
 # Popups
 earliestinspectprone.com
+
+# Office 365 Telemetrie nach BSI (vom 06.10.2020)
+# https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Studien/Office_Telemetrie/Office_Telemetrie.html?nn=459634
+
+self.events.data.microsoft.com
+nexus.officeapps.live.com
+hubblecontent.osi.office.net
+
+# Windows 10 Telemetrie nach BSI (1.2 vom 27.04.2020)
+# https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/SiSyPHus/Analyse_Telemetriekomponente_1_2.html
+
+geo.settings-win.data.microsoft.com.akadns.net
+db5-eap.settings-win.data.microsoft.com.akadns.net
+settings-win.data.microsoft.com
+db5.settings-win.data.microsoft.com.akadns.net
+asimov-win.settings.data.microsoft.com.akadns.net
+db5.vortex.data.microsoft.com.akadns.net
+v10-win.vortex.data.microsoft.com.akadns.net
+geo.vortex.data.microsoft.com.akadns.net
+v10.vortex-win.data.microsoft.com
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+us.vortex-win.data.microsoft.com
+eu.vortex-win.data.microsoft.com
+vortex-win-sandbox.data.microsoft.com
+alpha.telemetry.microsoft.com
+oca.telemetry.microsoft.com
+ceuswatcab01.blob.core.windows.net
+ceuswatcab02.blob.core.windows.net
+eaus2watcab01.blob.core.windows.net
+eaus2watcab02.blob.core.windows.net
+weus2watcab01.blob.core.windows.net
+weus2watcab02.blob.core.windows.net
 
 # Fake-Streaming-Webseiten
 # https://www.vzbv.de/pressemitteilung/woplay-streamba-oneflix-co-beschwerden-zu-fake-streaming-webseiten-reien-nicht-ab
