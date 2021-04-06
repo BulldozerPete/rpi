@@ -1,11 +1,7 @@
 # ---------------------------------
 # | Zelo72's Pihole Blockliste    |
 # | https://github.com/Zelo72/rpi |
-# | Stand: 05.04.2021 - V3        |
 # ---------------------------------
-
-# Popups
-earliestinspectprone.com
 
 # Fake-Streaming-Webseiten
 # https://www.vzbv.de/pressemitteilung/woplay-streamba-oneflix-co-beschwerden-zu-fake-streaming-webseiten-reien-nicht-ab
