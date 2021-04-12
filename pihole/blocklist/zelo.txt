@@ -1,22 +1,28 @@
 # -----------------------------------------------
 # Zelo*s deutsche "Handarbeit" Pihole-Blockliste
 # -----------------------------------------------
+# Als Erweiterung zur Standard Blockliste von
+# https://github.com/StevenBlack/hosts:
+#
+# Ads, Scam, Tracking, "Mist" aus dem Netz,
+# Fake-Shops, -Streaming, Abzocke und Co
+# -----------------------------------------------
 # Falsch positive / neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # -----------------------------------------------
+# Letzte Aktualisierung: 12.04.2021 21:38  
+# -----------------------------------------------
 
 # -----------------------------------------------
-# [MULTI] - manuell gepflegt
+# [MULTI] Ads, Scam, Tracking, Mist aus dem Netz
 # -----------------------------------------------
-# Ads, Scam, Tracking, "Mist" aus dem Netz
 # Domains, die mir beim Surfen durch das WWW
 # negativ "aufgefallen" sind.
+# Zusaetzlich: 
+# https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
 # -----------------------------------------------
 
 0.solo84.biz
-0byv9mgbn0.com
-0n.click
-0pen.page
 1.shoppinglifestyle.biz
 1.solo84.biz
 119.vcdn.xyz
@@ -26,7 +32,6 @@
 2mdnsys.com
 3.solo84.biz
 396f4.rpket.pro
-3s-smart-rtb.mobvista.com
 4.solo84.biz
 45eijvhgj2.com
 5.solo84.biz
@@ -48,13 +53,10 @@ acrmbjkk6qc5utby.pro
 action.miedinherit.top
 acurlik.com
 ad.rcnky.com
-ad6media.fr
 adfdsaf.ow.truesteamachievements.com
 adqy6rzwcs.com
 ads.2mdnsys.com
-ads.juicyads.com
 ads2.uptobox.com
-adsco.re
 adserver.juicyads.com
 adsterra.com
 adultblogtoplist.com
@@ -74,7 +76,6 @@ app5911.vnbue51.live
 appaldishonestbribe.com
 armhutspa.com
 arwartortleer.com
-as-sec.casalemedia.com
 as.2020mustang.com
 as.pringral.com
 aterroppop.com
@@ -87,7 +88,6 @@ beformine.club
 bestpeacheu.com
 bestvideo2019.xyz
 beyanmaan.com
-bid.contextweb.com
 bigcoin.io
 blacurlik.com
 bodconst.com
@@ -95,19 +95,11 @@ bristlyapace.com
 btds.zog.link
 bycelebian.com
 c.adsco.re
-c.betrad.com
 c.otaserve.net
-c1.popads.net
-c2.popads.net
-ca.clcknads.pro
 cdn.cloudimagesb.com
-cdn.playwire.com
-cdn.popcash.net
-cdn.run-syndicate.com
 cdn.runative-syndicate.com
 cdn.sb-inv1.com
 cdn.yourwebbars.com
-cdn1.adcdnx.com
 cfa.2mdnsys.com
 ch4b6.rpket.pro
 chairwaydenew.site
@@ -121,7 +113,6 @@ commodates.info
 communits.club
 condles-temark.com
 config.playwire.com
-constintptr.com
 counevan.pro
 coweatsup.com
 d.otaserve.net
@@ -131,14 +122,11 @@ data.haswaswhere.info
 data.otaserve.net
 dawmal.com
 dcjtx.chskm.pro
-defpush.com
 dexchangeinc.com
 digiadzone.com
-digitaldsp.com
 dingoftoftedrob.info
 disguisesunattractive.com
 djiboutdifficial.info
-dolohen.com
 dolsoste.com
 doubtfirework.com
 dpypzvjarj.com
@@ -155,19 +143,16 @@ expectorslapsino.info
 eynpays.xyz
 facebook.0ndfls4hmp.top
 fartris.pw
-fingahvf.top
 foxypp.com
 funwarcab.club
 gaobook.review
 garrogy.info
 gate.hockeyapp.net
 gejute.com
-get.s-onetag.com
 gftnk.com
 ghkgf.info
 gillynn.com
 gladiol9us10.com
-gloyah.net
 goforthebest.network
 goldenbettingefforlessefforless.com
 gotrack1.es
@@ -186,14 +171,12 @@ hpeshwdwkzyz.com
 hrahdmon.com
 i.bestcontentpc.top
 i.jads.co
-ib.adnxs.com
 ie8eamus.com
 im1.mediacnt.pro
 im2.mediacnt.pro
 implementedinstalled.com
 insight.lewd.host
 iss.jisiss.is
-itnuzleafan.com
 ixxrjygfpzfty.com
 iyfsearch.com
 jagruropsi.pro
@@ -231,18 +214,14 @@ lovacmar.click
 lowtyroguer.com
 loyalinvadeballoon.com
 luckypushh.com
-madcpms.com
 main.dynsrvazg.com
-majoritishbettes.info
 makemyvids.com
 maybezcw.duckdns.org
-mc.yandex.ru
 mdlhzknv.com
 meehaina.net
 meetclick.biz
 mentiopportal.pro
 mercialtaver.club
-metrics-collector.s-onetag.com
 mibmcbm.com
 miedinherit.top
 minessetion.info
@@ -253,7 +232,6 @@ mobileoffers-bl-download.com
 mobisupport.pro
 mon2.chromalin.com
 morphonebrities.info
-ms.applvn.com
 msgose.com
 mugleafly.com
 mvdbdtwicgw.bid
@@ -275,12 +253,8 @@ noviceexplanationteapot.com
 ohleiludieje.info
 olmsoneenh.info
 oloxtraffic.net
-onclickmega.com
-onclicksuper.com
 onclklnd.com
 onestepproductions.online
-onetag-geo-grouping.s-onetag.com
-onetag-geo.s-onetag.com
 otaserve.net
 ottomdisede.club
 overkirliaan.com
@@ -289,13 +263,11 @@ ozvxadosic.com
 p311425.clksite.com
 padsabs.com
 padsecz.com
-parronnotandone.info
 paupepsu.click
 payingnoodlescam.com
 phethikapso.pro
 pianistrefutationgoose.com
 pieceredirect.com
-pixel.runative-syndicate.com
 pixel.tonpaleftpar.info
 pl14474450.pvclouds.com
 pl14704306.pvclouds.com
@@ -303,20 +275,16 @@ pl3980.pvclouds.com
 play8735.myprizebox2.live
 playwire.com
 pmfvn.rpket.pro
-popcash.net
 postlnk.com
 poweredby.jads.co
 providentsopport.site
-prsaln.com
 push.lifecapture.co
-pushame.com
 pushance.com
 pusherism.com
 pushlum.com
 pushmejs.com
 pushokey.com
 pushrase.com
-pushwhy.com
 qfwou.bemobtracks.com
 r3.o.lencr.org
 raggedstriking.com
@@ -333,17 +301,14 @@ rpket.pro
 rsalcau.com
 rsalcch.com
 rudsools.net
-run-syndicate.com
 runative-syndicate.com
 runative.com
 rusenov.com
 rw9bj24c2j.s.ad6media.fr
 s-onetag.com
 s.opoxv.com
-s20dh7e9dh.com
 safewarns.com
 sarah.ttnrd.com
-sb.scorecardresearch.com
 sconcentpract.info
 screenshotfactory.com
 script.bangdom.com
@@ -420,7 +385,6 @@ vidcpm.com
 vm508823.had.su
 vy4e3jw46l.com
 w1sercher.biz
-waust.at
 weethery.com
 whadaupo.net
 wildbearads.go2affise.com
@@ -439,12 +403,10 @@ ym-a.cc
 youtubw.com
 yurvyhtp.com
 yzfjg.rpket.pro
-z.moatads.com
 zro56hd6szoy.com
-zukxd6fkxqn.com
 
 # -----------------------------------------------
-# [VORSICHT FALLE] - manuell gepflegt
+# [VORSICHT FALLE]
 # -----------------------------------------------
 # Fake-Shops, -Streaming, Abzocke und Co
 # auf Basis von:
@@ -526,9 +488,7 @@ airfreshseeing.com
 airmaxoutlet.de
 airmaxoutlet.net
 airmaxsale.de
-airycloth.com
 airyclub.com
-airydress.com
 ajelanie.com
 ajservice.de
 akku-pc.at
@@ -1128,7 +1088,6 @@ cubum.at
 cuervo-club.at
 cuffup-shop.com
 cuir-patine.de
-cullgame.com
 culsaa.com
 cunont.com
 cuoredicarta.it
@@ -3710,7 +3669,6 @@ slutmedtandlaegeskraek.dk
 smart.disucerns.com
 smatam.com
 smiss-training.at
-smushgame.com
 smxrt.de
 snackit.at
 sneaker2020z.com
@@ -4087,7 +4045,6 @@ trainer-cube.de
 trainerstorunshoes.uk.com
 trakl-leibl.at
 transbase-lda.com
-transbodek.com
 transdirectcourierservices.com
 transgrain-shipping.com
 translogistic.biz
@@ -4523,9 +4480,7 @@ www.airfreshseeing.com
 www.airmaxoutlet.de
 www.airmaxoutlet.net
 www.airmaxsale.de
-www.airycloth.com
 www.airyclub.com
-www.airydress.com
 www.ajelanie.com
 www.ajservice.de
 www.akku-pc.at
@@ -5125,7 +5080,6 @@ www.cubum.at
 www.cuervo-club.at
 www.cuffup-shop.com
 www.cuir-patine.de
-www.cullgame.com
 www.culsaa.com
 www.cunont.com
 www.cuoredicarta.it
@@ -7705,7 +7659,6 @@ www.slutmedtandlaegeskraek.dk
 www.smart.disucerns.com
 www.smatam.com
 www.smiss-training.at
-www.smushgame.com
 www.smxrt.de
 www.snackit.at
 www.sneaker2020z.com
@@ -8082,7 +8035,6 @@ www.trainer-cube.de
 www.trainerstorunshoes.uk.com
 www.trakl-leibl.at
 www.transbase-lda.com
-www.transbodek.com
 www.transdirectcourierservices.com
 www.transgrain-shipping.com
 www.translogistic.biz
