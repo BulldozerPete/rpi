@@ -10,7 +10,7 @@
 # Falsch positive / neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # -----------------------------------------------
-# Letzte Aktualisierung: 12.04.2021 21:38  
+# Letzte Aktualisierung: 12.04.2021 21:48  
 # -----------------------------------------------
 
 # -----------------------------------------------
@@ -2102,7 +2102,6 @@ inoplay.de
 ins-hispanico.de
 inside.mereutricious.com
 insolvenzamt.com
-instagram.com
 installateur-24h.pro
 installateur-fritz.at
 installateur-gwh24.at
@@ -6092,7 +6091,6 @@ www.inoplay.de
 www.ins-hispanico.de
 www.inside.mereutricious.com
 www.insolvenzamt.com
-www.instagram.com
 www.installateur-24h.pro
 www.installateur-fritz.at
 www.installateur-gwh24.at
