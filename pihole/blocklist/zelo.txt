@@ -1,5 +1,5 @@
-# Zelo*s manuell gepflegte Liste
-# https://github.com/Zelo72/rpi
+# Zelo*s manuell gepflegte Pihole-Blockliste
+# Falsch positive Domains melden: https://github.com/Zelo72/rpi/issues/new
 
 tripsbooth.com
 secureblogeu.com			# Popup Scam
@@ -7,6 +7,16 @@ bestpeacheu.com				# Popup Scam
 condles-temark.com
 timeryielding.com
 disguisesunattractive.com
+clix.superclix.de			# Referral
+www.ujqcbxcjkc.com
+ujqcbxcjkc.com
+kindlyfeebleremembered.com
+cdn.yourwebbars.com
+comacheerlesslump.com
+stovoori.net
+grygrothapi.pro
+cdn.sb-inv1.com
+cdn.cloudimagesb.com
 	
 # TLDs
 zemanta.com
