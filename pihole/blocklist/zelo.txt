@@ -10,7 +10,7 @@
 # Falsch positive / neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # -----------------------------------------------
-# Letzte Aktualisierung: 12.04.2021 21:48  
+# Letzte Aktualisierung: 13.04.2021 06:18 
 # -----------------------------------------------
 
 # -----------------------------------------------
@@ -21,6 +21,10 @@
 # Zusaetzlich: 
 # https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
 # -----------------------------------------------
+
+ostensibledaytimeseaweed.com
+inclinationwitchcraftafresh.com
+babysitterpancakerich.com
 
 0.solo84.biz
 1.shoppinglifestyle.biz
