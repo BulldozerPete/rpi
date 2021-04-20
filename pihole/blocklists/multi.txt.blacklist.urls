@@ -8,6 +8,8 @@ https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
 https://dbl.oisd.nl/basic/
 https://gist.githubusercontent.com/BBcan177/2a9fc2548c3c5a5e2dc86e580b5795d2/raw/2f5c90ffb3bd02199ace1b16a0bd9f53b29f0879/EasyList_DE
 ! https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://justdomains.github.io/blocklists/lists/adguarddns-justdomains.txt
 https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt
 https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt
@@ -30,9 +32,11 @@ https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 ! https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
 ! https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 ! https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 ! https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
+! https://someonewhocares.org/hosts/zero/hosts
 ! https://urlhaus.abuse.ch/downloads/hostfile/
 https://v.firebog.net/hosts/AdguardDNS.txt
 https://v.firebog.net/hosts/Admiral.txt
