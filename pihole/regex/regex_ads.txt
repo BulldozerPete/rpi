@@ -29,5 +29,9 @@
 (^|\.)mxcdn.\.net$
 (^|\.)vgwort\.de$
 (^|\.)googletagmanager\.com$
-(^|\.)google-analytics\.com$
 (^|\.)googlesyndication\.com$
+(^|\.)applvn\.com$
+(^|\.)doubleclick\.net$
+(^|\.)amplitude\.com$	
+(^|\.)googleadservices\.com$	
+(^|\.)doubleclick\.net$	
