@@ -1,7 +1,13 @@
 # ---------------------------------------------
-# Zelo*s TEST Pihole-Blockliste
+# Zelo*s "nur zum Testen!" Pihole-Blockliste
 # ---------------------------------------------
-# 3931 Domains - 2021.04.20-10:17:43
+# Blacklist:
+#   https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/ext.txt.blacklist.zelo
+#
+# Whitelists:
+#   https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/whitelist.urls
+# ---------------------------------------------
+# 3931 Domains - 2021.04.20-10:32:09
 # ---------------------------------------------
 #
 04b7c8ea007fad75d49ac77123916a26.adnxs.com
