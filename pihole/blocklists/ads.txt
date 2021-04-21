@@ -14,7 +14,7 @@
 # phishing.army spam404 urlhaus zelo72 
 #
 # Verwendete Blacklists: 
-#   # https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/add.txt.blacklist.urls
+#   # https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/ads.txt.blacklist.urls
 #
 # Whitelist-Quellen:
 # ******************
@@ -28,7 +28,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 59648 Domains - 2021.04.21-07:50:47
+# 59648 Domains - 2021.04.21-07:57:32
 # ---------------------------------------------
 #
 001www.com
