@@ -11,7 +11,8 @@
 # ******************
 # 0zinc bbcan177 firebog justdomains 
 # osint.digitalside.it pgl.yoyo.org
-# phishing.army spam404 urlhaus zelo72 
+# phishing.army spam404 urlhaus
+# zelo72 
 #
 # Verwendete Blacklists: 
 #   # https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/ads.txt.blacklist.urls
@@ -28,7 +29,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 59648 Domains - 2021.04.21-07:57:32
+# 59636 Domains - 2021.04.21-08:06:18
 # ---------------------------------------------
 #
 001www.com
@@ -4043,7 +4044,6 @@ algopine.com
 algorix.co
 algovid.com
 alhajajy.com
-alhjchfstdyonlinsthg.dns.army
 alhujobi.com
 aliadvert.ru
 alias.com.br
@@ -4957,7 +4957,6 @@ annoyedairport.com
 annoyedfifth.com
 annoyingacoustics.com
 annwwu.guitarcenter.com
-annyms2stdygeneratin.dns.army
 anoik.com
 anomaloustradingmerciful.com
 anon-stats.eff.org
@@ -24556,7 +24555,6 @@ kuheylanpoligon.com.tr
 kulkerbolda.com
 kumanaun.net
 kumaneev.ru
-kumaralok.in
 kumed.hrm.healthgrades.com
 kumpulblogger.com
 kumteerg.com
@@ -24564,7 +24562,6 @@ kunapu.ru
 kundalibhagyatv.net
 kungfupan.club
 kungsb2stdytalengvst.dns.army
-kungsb2stdytalenjfst.dns.army
 kunstpris.dk
 kuntzenyt.club
 kupona.de
@@ -26643,7 +26640,6 @@ manydocs.com
 maodoap.top
 mapasminecraft.jonasefonfon.com
 mapcrayonmiss.com
-maphandbook.com
 maple-palawan.com
 mapletonlawgroup.com
 map-loadings-icloud.com
@@ -26907,7 +26903,6 @@ masharanam.org
 mashtourgaunt.com
 mashw.cn
 masjidhabeebiyarazviya.mysunni.com
-maskcovld.ga
 maskedwarrior.dlcodes.com
 maskedwarriordlc.sharezips.info
 maskedwarriordlc.sharezips.net
@@ -29022,7 +29017,6 @@ multimater.com
 multimc.info
 multimedia-internet.org
 multimediawin.com
-multiplaprotecao.com
 multiplayercharacterdlc.sharezips.info
 multiplayercharacterdlc.sharezips.net
 multiview.com
@@ -33565,6 +33559,7 @@ payment-otrymac.store
 payment-p2p.info
 paymentp2p.info
 payments-allegro.me
+payments.atifsiddiqui.me
 payment-save.site
 payments-id.site
 payments-olx.pl
@@ -44069,10 +44064,8 @@ stc.tools
 st.devcodin.com
 stdirection.com
 std.o.webmd.com
-stdykungcommunicatcs.dns.army
 stdykungcommunicatkd.dns.army
 st.dynamicyield.com
-stdyperezluzcafefrst.dns.army
 stdytheviejupcazfekr.dns.army
 steaccommunity.com
 steadfastsound.com
@@ -48423,7 +48416,6 @@ ubutplho.com
 ubvsjh.pointtown.com
 ubxnqtnnoljn.com
 ubxvdx.accuweather.com
-uc-56.ru
 ucaluco.com
 ucatedcanc.top
 uccessarytrict.club
@@ -49107,7 +49099,6 @@ utad.site
 utarget.co.uk
 utarget.pro
 utarget.ru
-u.teknik.io
 utexas.actonservice.com
 utfusckgnj.com
 utherverse.com
@@ -54658,7 +54649,6 @@ www.michaelambrosio.com
 www.michaelkorshandbags-uk.me.uk
 www.michasiapaczka.org
 www.michelleuz.com
-www.microsofl.bid
 www.middlepecosgcd.org
 www.miejskagazeta.online
 www.miejskie24.gpe.pl
@@ -57944,7 +57934,6 @@ www.xn--polskagwat24-lcc.eu
 www.xpressiongraphics.com
 www.xtc.sued-rollo.de
 www.xtrixtviptv.com
-www.yafa-coach.co.il
 www.yalistubborne.xyz
 www.yastk.com
 www.yellohm.com
