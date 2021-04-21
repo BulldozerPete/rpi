@@ -4,7 +4,7 @@
 # Erstellt zur rein persönlichen, privaten
 # Nutzung.
 #
-# EasyList & EasyList Privacy
+# EasyList (+Germany) & EasyList Privacy
 #
 # Blacklist-Quellen:
 # ******************
@@ -14,7 +14,8 @@
 #
 # Whitelist-Quellen:
 # ******************
-# anudeepnd notracking rpilist zelo72
+# anudeepnd notracking rpilist
+# shadowwhisperer zelo72
 #
 # Verwendete Whitelists:
 #  https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/whitelist.urls
@@ -23,7 +24,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 21420 Domains - 2021.04.21-14:49:24
+# 21420 Domains - 2021.04.21-16:40:18
 # ---------------------------------------------
 #
 006a039c957c142bb.com
