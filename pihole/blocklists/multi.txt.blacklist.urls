@@ -6,6 +6,9 @@ https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
 ! https://blocklistproject.github.io/Lists/scam.txt
 ! https://blocklistproject.github.io/Lists/tracking.txt
 https://dbl.oisd.nl/basic/
+& https://easylist.to/easylist/easylist.txt
+& https://easylist.to/easylist/easyprivacy.txt
+& https://easylist.to/easylistgermany/easylistgermany.txt
 https://gist.githubusercontent.com/BBcan177/2a9fc2548c3c5a5e2dc86e580b5795d2/raw/2f5c90ffb3bd02199ace1b16a0bd9f53b29f0879/EasyList_DE
 ! https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt

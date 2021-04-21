@@ -7,7 +7,7 @@
 # Whitelists:
 #   https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/whitelist.urls
 # ---------------------------------------------
-# 6263 Domains - 2021.04.21-07:49:38
+# 6263 Domains - 2021.04.21-12:15:23
 # ---------------------------------------------
 #
 000000000.fls.doubleclick.net
