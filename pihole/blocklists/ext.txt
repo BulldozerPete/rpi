@@ -7,7 +7,7 @@
 # Whitelists:
 #   https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/whitelist.urls
 # ---------------------------------------------
-# 6262 Domains - 2021.04.21-06:49:17
+# 6263 Domains - 2021.04.21-07:49:38
 # ---------------------------------------------
 #
 000000000.fls.doubleclick.net
@@ -6191,6 +6191,7 @@ www.tom.vgwort.de
 www.tracking.omnitagjs.com
 www.tracking-usa02.omnitagjs.com
 www.try.unity3d.com
+www.unity3d.com
 www.vgwort.de
 www.vision.ml.unity3d.com
 www.vision-stg.ml.unity3d.com

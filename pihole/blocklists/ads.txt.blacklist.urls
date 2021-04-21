@@ -1,0 +1,16 @@
+https://gist.githubusercontent.com/BBcan177/2a9fc2548c3c5a5e2dc86e580b5795d2/raw/2f5c90ffb3bd02199ace1b16a0bd9f53b29f0879/EasyList_DE
+! https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt
+https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt
+https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt
+https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+! https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+https://phishing.army/download/phishing_army_blocklist_extended.txt
+https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easylistgermany.txt
+https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easylist.txt
+https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easyprivacy.txt
+https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
+https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+! https://urlhaus.abuse.ch/downloads/hostfile/
+https://v.firebog.net/hosts/Admiral.txt
+https://v.firebog.net/hosts/Easylist.txt
+https://v.firebog.net/hosts/Easyprivacy.txt
