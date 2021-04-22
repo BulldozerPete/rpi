@@ -23,7 +23,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 52788 Domains - 2021.04.21-16:39:29
+# 52817 Domains - 2021.04.22-03:47:11
 # ---------------------------------------------
 #
 007drones.de
@@ -952,6 +952,7 @@ alternativen.ltd
 alternzuhause.at
 altersarmut-ohne-mich.de
 alters-coaching.at
+altes-bahnhoefli.de
 altesgeldonline.xyz
 altesgeldpromotion-shop.xyz
 alte-wirtsstube.de
@@ -1965,6 +1966,7 @@ bauer-einmahl.de
 bauern-jause.at
 baufieber.com
 bauflaschnerei-weber.de
+baugelddirekt.at
 baugemeinde.net
 baugenius.net
 baugenossenschaftswohnung-buxtehude.de
@@ -2786,6 +2788,7 @@ blaroken.com
 blasberg-computer.de
 blattgold-blumenwerkstatt.de
 blaue-baerchen.de
+blaue-dragoner.de
 blaue-feder60.de
 blauer-engel-malzhaus.de
 blauerhein.de
@@ -3280,6 +3283,7 @@ btecmarkt.com
 btj-automotive-spedition.com
 bubbleglibberball.de
 bubblleq.com
+bub-gerber.de
 bubu-x.de
 buchbinderei-hohmann.de
 buch-box.com
@@ -5064,6 +5068,7 @@ de.fencia.co
 defensecdc.com
 deflorenflor.eu
 defootswear.com
+de.fordeals24.com
 defuhrerscheinmpu.com
 de.funtest.me
 de-fusionelectronix.glopalstore.com
@@ -7290,6 +7295,7 @@ exeedshop.top
 exeton.de
 exgesen.de
 exjoh.de
+exklusif.de
 exklusiv4you.de
 exklusivedates.at
 exklusivedates.ch
@@ -8657,6 +8663,7 @@ fussballtrikotsdeutschland.de
 fussballtrikots-outlet.de
 fusselkatzen.de
 fussfee-oase.de
+fusspflege-klesen.de
 fusspflege-lutz.de
 fussundpfote-nrw.de
 futanie.com
@@ -11768,6 +11775,7 @@ infopino.ch
 infosantandar.com
 infosender.space
 infosquare.info
+infox24.de
 info-zahnzusatz.org
 infra-structure.de
 ingadoo.com
@@ -13152,6 +13160,7 @@ kiwibankgroups.com
 kiwiflix.de
 kixaro.com
 kiyomina.com
+kizaro.de
 kizzle.de
 kizzsta.de
 kjs-werbung.de
@@ -16747,6 +16756,7 @@ myyesrun.com
 myzaehne.com
 mzamsitradingenterprise.com
 mzanzilivestock.com
+mz-training.de
 naakhononline.com
 nabona-media.com
 nachbarschaft24.net
@@ -17838,6 +17848,7 @@ ortokidsz.com
 ortsinfo-deutschland.de
 oru-markt.com
 o-s1987.de
+osamigos.de
 oschatz-air.de
 oschuetz.de
 oshopcure.com
@@ -18988,6 +18999,7 @@ prenz.net
 prerugo.com
 presa-shop.com
 prescotshoppingcentre.co.uk
+presentpanda.de
 presentplus.at
 presidentcheese-promotion.co.uk
 pressearbeit-auf-erfolgsbasis.de
@@ -22929,6 +22941,7 @@ tammyland.de
 tampagsd.com
 tandem-bk.com
 tandem-manufaktur.de
+tangobonn.de
 tangram-mkn.at
 tani-und-caro.de
 tankandloulou.com
@@ -24664,6 +24677,7 @@ undiplomatic.info
 undnach.de
 undpfs.com
 unendliche-begrenzung.de
+unentwearinz.de
 une.visualsaint.com
 unglaublichepreise.com
 ungloballogisitics.com
@@ -25486,6 +25500,7 @@ vmeetang.com
 vm-martinschulz.de
 vmove.ca
 vmp-marketing.de
+vm-schoenegaerten.de
 vms-website.de
 vndance.info
 vnhome.de
@@ -27388,6 +27403,7 @@ www.alternativen.ltd
 www.alternzuhause.at
 www.altersarmut-ohne-mich.de
 www.alters-coaching.at
+www.altes-bahnhoefli.de
 www.altesgeldonline.xyz
 www.altesgeldpromotion-shop.xyz
 www.alte-wirtsstube.de
@@ -28372,6 +28388,7 @@ www.bauer-einmahl.de
 www.bauern-jause.at
 www.baufieber.com
 www.bauflaschnerei-weber.de
+www.baugelddirekt.at
 www.baugemeinde.net
 www.baugenius.net
 www.baugenossenschaftswohnung-buxtehude.de
@@ -29167,6 +29184,7 @@ www.blaroken.com
 www.blasberg-computer.de
 www.blattgold-blumenwerkstatt.de
 www.blaue-baerchen.de
+www.blaue-dragoner.de
 www.blaue-feder60.de
 www.blauer-engel-malzhaus.de
 www.blauerhein.de
@@ -29627,6 +29645,7 @@ www.btecmarkt.com
 www.btj-automotive-spedition.com
 www.bubbleglibberball.de
 www.bubblleq.com
+www.bub-gerber.de
 www.bubu-x.de
 www.buchbinderei-hohmann.de
 www.buch-box.com
@@ -33492,6 +33511,7 @@ www.exeedshop.top
 www.exeton.de
 www.exgesen.de
 www.exjoh.de
+www.exklusif.de
 www.exklusiv4you.de
 www.exklusivedates.at
 www.exklusivedates.ch
@@ -34787,6 +34807,7 @@ www.fussballtrikotsdeutschland.de
 www.fussballtrikots-outlet.de
 www.fusselkatzen.de
 www.fussfee-oase.de
+www.fusspflege-klesen.de
 www.fusspflege-lutz.de
 www.fussundpfote-nrw.de
 www.futanie.com
@@ -37800,6 +37821,7 @@ www.infopino.ch
 www.infosantandar.com
 www.infosender.space
 www.infosquare.info
+www.infox24.de
 www.info-zahnzusatz.org
 www.infra-structure.de
 www.ingadoo.com
@@ -39143,6 +39165,7 @@ www.kiweecases.com
 www.kiwibankgroups.com
 www.kixaro.com
 www.kiyomina.com
+www.kizaro.de
 www.kizzle.de
 www.kizzsta.de
 www.kjs-werbung.de
@@ -42572,6 +42595,7 @@ www.myyesrun.com
 www.myzaehne.com
 www.mzamsitradingenterprise.com
 www.mzanzilivestock.com
+www.mz-training.de
 www.naakhononline.com
 www.nabona-media.com
 www.nachbarschaft24.net
@@ -43609,6 +43633,7 @@ www.ortokidsz.com
 www.ortsinfo-deutschland.de
 www.oru-markt.com
 www.o-s1987.de
+www.osamigos.de
 www.oschatz-air.de
 www.oschuetz.de
 www.oshopcure.com
@@ -44646,6 +44671,7 @@ www.prenz.net
 www.prerugo.com
 www.presa-shop.com
 www.prescotshoppingcentre.co.uk
+www.presentpanda.de
 www.presentplus.at
 www.presidentcheese-promotion.co.uk
 www.pressearbeit-auf-erfolgsbasis.de
@@ -48377,6 +48403,7 @@ www.tammyland.de
 www.tampagsd.com
 www.tandem-bk.com
 www.tandem-manufaktur.de
+www.tangobonn.de
 www.tangram-mkn.at
 www.tani-und-caro.de
 www.tankandloulou.com
@@ -50044,6 +50071,7 @@ www.undiplomatic.info
 www.undnach.de
 www.undpfs.com
 www.unendliche-begrenzung.de
+www.unentwearinz.de
 www.une.visualsaint.com
 www.unglaublichepreise.com
 www.ungloballogisitics.com
@@ -50826,6 +50854,7 @@ www.vmeetang.com
 www.vm-martinschulz.de
 www.vmove.ca
 www.vmp-marketing.de
+www.vm-schoenegaerten.de
 www.vms-website.de
 www.vndance.info
 www.vnhome.de
