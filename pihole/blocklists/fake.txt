@@ -21,7 +21,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 52823 Domains - 2021.04.22-21:51:38
+# 52826 Domains - 2021.04.22-22:13:17
 # ---------------------------------------------
 #
 007drones.de
@@ -5363,6 +5363,7 @@ dggmnt2013.de
 dgsys.de
 dhabiprevailbank.com
 dh-fraktur.de
+dhgate.com
 dh-immobilien.at
 dhk-transport.com
 dhm-schwimmen-leipzig.de
@@ -20788,6 +20789,7 @@ schaukelpreis.com
 schaumstoffwelt.de
 sche.de
 scheideanstalt-solidus.de
+schema.org
 schenkichdir.de
 schetz72-photography.de
 scheuregger.de
@@ -22356,6 +22358,7 @@ statebplc.com
 statebulldogs.com
 statepetdelivery.com
 statetrusts.us
+static.cloudflareinsights.com
 statuskelidmode.de
 status-vertriebs-gmbh-germany.de
 staubfee24.de
