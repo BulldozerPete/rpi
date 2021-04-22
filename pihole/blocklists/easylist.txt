@@ -24,7 +24,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 21371 Domains - 2021.04.22-10:11:52
+# 21418 Domains - 2021.04.22-10:25:15
 # ---------------------------------------------
 #
 006a039c957c142bb.com
@@ -1596,6 +1596,7 @@ analytics.dev.springboardvideo.com
 analytics.disneyinternational.com
 analytics.dvidshub.net
 analytics.ecosia.org
+analytics.edgesuite.net
 analytics.eip.telegraph.co.uk
 analytics.elx.cloud
 analyticsengine.s3.amazonaws.com
@@ -1744,6 +1745,7 @@ analytics.traderlink.com
 analytics.tribeca.vidavee.com
 analytics.trutv.com
 analytics.twentytwowords.com
+analytics.twitter.com
 analytics.ubs.com
 analytics.underarmour.com
 analytics.unibuddy.co
@@ -2469,6 +2471,7 @@ bce97f29c40fc40.com
 bcfabscdt.com
 bckfnohmg.com
 bcloudhost.com
+bc.marfeelcache.com
 bcnewltd.club
 bc.qunar.com
 bcsjcj.nasdaq.com
@@ -3392,6 +3395,7 @@ chanelventure.club
 changeablesizepractically.com
 changement.pro
 chango.com
+channelusa.samsung.com
 chantmarez.club
 chapsartore.com
 chaptersus.com
@@ -3658,6 +3662,7 @@ clickopop1000.com
 clickosmedia.com
 clickpapa.com
 clickperks.info
+click.redditmail.com
 clickredirection.com
 clicks.6thstreet.com
 clicks.dealer.com
@@ -4722,6 +4727,7 @@ d2uy8iq3fi50kh.cloudfront.net
 d2va1d0hpla18n.cloudfront.net
 d2vybwwevieya6j.monster
 d2wu036mkcz52n.cloudfront.net
+d2wy8f7a9ursnm.cloudfront.net
 d2x19ia47o8gwm.cloudfront.net
 d2ykons4g8jre6.cloudfront.net
 d2z51a9spn09cw.cloudfront.net
@@ -4990,6 +4996,7 @@ dc.audi.com
 dc.banggood.com
 dccfog.petco.com
 dccqzsmabz.com
+dccss.banggood.com
 dcdilhaybpzkvj.com
 dcfkalvbcs.com
 d.ci-ns.emailvision.net.daraz.com
@@ -5042,6 +5049,7 @@ decenthat.com
 decisionediv.site
 decisionmark.com
 decisionnews.com
+decknetwork.net
 deckthroughout.com
 deckulre.com
 decoctionembedded.com
@@ -6682,10 +6690,12 @@ event-api.reverb.com
 event-collector.udsrv.com
 event.dkb.de
 event.edb.gov.sg
+eventgateway.soundcloud.com
 event.getblue.io
 eventifiederik.pro
 event.jma.or.jp
 event-listener.air.tv
+eventlogger.soundcloud.com
 eventlog.inspsearchapi.com
 eventlog.jackpot.de
 event-reporting-dot-webylytics.appspot.com
@@ -6786,6 +6796,7 @@ exoprsdds.com
 exosrv.com
 expansionwrinkle.com
 expansity.club
+expbl2ro.xbox.com
 expdb2.msn.com
 expedientlonesome.com
 expenditurebaneopenly.com
@@ -7602,6 +7613,7 @@ gedmhqqipuz6wfon.pro
 geedoovu.net
 geffortyser.top
 gejute.com
+gekko.spiceworks.com
 gelittlement.club
 gellecondcle.top
 gemhamsore.com
@@ -7646,6 +7658,7 @@ geoip.lehighvalleylive.com
 geoip-lookup.vice.com
 geoip.masslive.com
 geoip.mlive.com
+geoip.nekudo.com
 geoip.nj.com
 geoip.nola.com
 geoip.oregonlive.com
@@ -7718,6 +7731,7 @@ giecsodzyl.com
 gievalonjing.club
 gift2pair.com
 gigbyefly.com
+g.ign.com
 gilzana.pw
 gingoblindri.club
 girlend.com
@@ -7740,6 +7754,7 @@ givingsol.com
 givirsou.net
 giwefepy.xyz
 giwzywnxnk.com
+gj.mmstat.com
 gjrswtzjn.com
 gjslebmbiawh.com
 gjw5qbyn93b8.com
@@ -7828,6 +7843,7 @@ gmufag.wday.ru
 gmufag.woman.ru
 gmyze.com
 gnamwmixa.com
+gnar.grammarly.com
 gnatgrocery.com
 gnativestreesaga.site
 gnatneatlyembodiment.com
@@ -9895,6 +9911,7 @@ iot.informaengage.com
 iouuorpkc.com
 ip2c.landscape.co.jp
 ipapi.tmbi.com
+ip.breitbart.com
 ipcheck.blogsys.jp
 ip.cliphunter.com
 ipfmbexfdzb.com
@@ -9961,6 +9978,7 @@ iutkryvnixptlg.com
 ivastoor.com
 ivfihumeajjmbc.com
 ivhqsuhrqvhlke.com
+i.viafoura.co
 ivitrine.buscape.com
 ivjkdyrjjgxhch.com
 ivjtgtjcizwh.com
@@ -10157,6 +10175,7 @@ jqk72ugyl2pz.com
 jqueryserve.org
 jraasj.kobo.com
 jrtswekysc.com
+js-agent.newrelic.com
 js-kods.club
 jsmpsi.com
 jstatic.org
@@ -11681,6 +11700,7 @@ metrics.accuweather.com
 metrics.acehardware.com
 metrics.adacreisen.de
 metrics.adelaidenow.com.au
+metrics.aem.playstation.com
 metrics.aetn.com
 metrics.aftonbladet.se
 metrics.aia.com
@@ -11722,6 +11742,7 @@ metrics.bloomberg.com
 metrics.bodyandsoul.com.au
 metrics.boostmobile.com
 metrics.bose.com
+metrics.brightcove.com
 metrics.brocade.com
 metrics.bt.com
 metrics.cairnspost.com.au
@@ -12727,6 +12748,7 @@ nignrecentry.club
 niholaev.com
 nikkiexxxads.com
 niledestratherg.club
+nil.naver.com
 niltibse.net
 nimelytranst.club
 nimmediu.info
@@ -12765,6 +12787,7 @@ nmanateex.top
 nmentsce.top
 nmentshad.info
 nmentsim.club
+nmetrics.samsung.com
 nmkehi.msccrociere.it
 nm.newegg.com
 nmo1.orpi.com
@@ -13166,6 +13189,7 @@ omnivis.overstock.com
 omns.americanexpress.com
 omns.crackle.com
 omns.murdoch.edu.au
+omn.sonypictures.com
 omoaxaus.net
 om.rogersmedia.com
 oms1.sportsnet.ca
@@ -13219,6 +13243,7 @@ onclicksuper.com
 onclicktraffic.com
 ondayswr.club
 onegalact.com
+oneid.mmstat.com
 onergong.com
 onesaimdew.com
 onesegreativec.site
@@ -13426,6 +13451,7 @@ owncutone.com
 owss.ihs.com
 owsvolksk.space
 owwjelpkhli.com
+o.xbox.com
 oxbskt.autotrader.com.au
 ox.gassi-tv.de
 oxifwsabgd.nzz.ch
@@ -13857,6 +13883,7 @@ pixel-static.spotify.com
 pixel.tree.com
 pixel.tuko.co.ke
 pixel.widgetly.com
+pixel.wp.com
 pixel.wp.pl
 pixel.yabidos.com
 pixel.yola.com
@@ -14407,6 +14434,7 @@ pvmkyvtt.com
 pv.pjtsu.com
 pvptwhhkfmog.com
 pvrnqpgvbucif.com
+pv.sohu.com
 pvstat.china.cn
 pvtag.yahoo.co.jp
 pv.udn.com
@@ -14432,6 +14460,7 @@ pxmyjxebxgv.com
 pxmzlk.redfin.com
 px.owneriq.net
 pxqxbkqcohsy.com
+px.spiceworks.com
 px.staticfiles.at
 pxt.daz3d.com
 px.wayfair.com
@@ -14618,6 +14647,7 @@ raisingnegligencemanages.com
 raivikod.net
 rakamu.com
 ramatering.club
+ramp.purch.com
 ranacrelegalize.com
 rancidloss.com
 randalieren6.live
@@ -14638,6 +14668,7 @@ ratappe.com
 rate2self.com
 ratesphospit.club
 ratkalol.com
+rat.rakuten.co.jp
 rauceesh.com
 raujebet.net
 rauntilperin.club
@@ -16384,6 +16415,7 @@ smetrics.unipolsai.it
 smetrics.upc.ch
 smetrics.ups.com
 smetrics.usbank.com
+smetrics.us.playstation.com
 smetrics.valumart.ca
 smetrics.vcm.com
 smetrics.vermontcountrystore.com
@@ -16768,6 +16800,7 @@ sp-mms.weather.com
 sp.montgomeryadvertiser.com
 sp.mycentraljersey.com
 sp.naplesnews.com
+sp.naver.com
 sp.newarkadvocate.com
 sp.newsleader.com
 sp.news-press.com
@@ -16960,6 +16993,7 @@ s.srvsynd.com
 sstatistikk.telenor.no
 sstat.jetsetter.com
 sstats2.gq.com
+sstats.adobe.com
 sstats.adultswim.com
 sstats.airfarewatchdog.com
 sstats.alfa.com
@@ -16990,6 +17024,7 @@ sstats.deloitte.com
 sstats.deluxe.com
 sstats.directgeneral.com
 sstats.ds-pharma.jp
+sstats.economist.com
 sstats.epicurious.com
 sstats.extendedstayhotels.com
 sstats.fairmont.com
@@ -17171,6 +17206,7 @@ stats2.wmagazine.com
 stats3.ferheng.co
 stats3.unrulymedia.com
 stats.4travel.jp
+stats.adobe.com
 stats.adultswim.com
 stats.agl.com.au
 stats.alleaktien.de
@@ -17419,6 +17455,7 @@ stats.pri.org
 stats.proff.no
 stats.propublica.org
 stats.pselookup.vrymel.com
+stats.pusher.com
 stat.sputnik.ru
 stats.qawl.app
 stats.qbitstore.nl
@@ -17707,6 +17744,7 @@ strongexplain.com
 strongholdtommycouncilman.com
 stroublederaa.club
 stroublederel.club
+sts.eccmp.com
 sts.papyrs.com
 stsunfulnoth.top
 st.tmgrup.com.tr
@@ -18162,6 +18200,7 @@ telemetry.api.wmcdp.io
 telemetry.art19.com
 telemetry.jivosite.com
 telemetry.reembed.com
+telemetry.soundcloud.com
 telemetry.tableausoftware.com
 telemetry.tradingview.com
 telemetry.xeraa.net
@@ -18488,6 +18527,7 @@ tongji.meizu.com
 toodlepork.com
 tool.acces-vod.com
 toolbarw-htgb-a.net.daraz.com
+tools.ranker.com
 tools.ricoh.co.uk
 toonget.net.daraz.com
 toonjoa.net.daraz.com
@@ -19324,6 +19364,7 @@ tr.orange-lease.fr
 trothko.com
 troublescompared.com
 trouvredawes.site
+trowel.twitch.tv
 tr.portail.afpa.fr
 tr.prevention.harmonie-mutuelle.fr
 tr.preventivo.risparmiazienda.it
@@ -19340,6 +19381,7 @@ tr.services.caradisiac.com
 tr.servicesclients.canalplus.fr
 tr.servicoaocliente.younited-credit.com
 tr.smtp1.email-mediapost.fr
+tr.snapchat.com
 tr.suedkurier.de
 tr.tdgx.espmp-cufr.net
 trtjigpsscmv9epe10.com
@@ -19458,6 +19500,7 @@ tvlubtrxcold.com
 t.voyages-sncf.com
 tvutso.menbur.com
 t.wayfair.ca
+t.wayfair.com
 t.wayfair.co.uk
 t.wayfair.de
 twch.20min.ch
@@ -19887,6 +19930,7 @@ versusberryoutdoor.com
 veryoneresp.club
 vessoupy.com
 vet0.carrefour-banque.fr
+veta.naver.com
 vetodelaycourageous.com
 vevatom.com
 vfbvcshnc.com
@@ -20144,6 +20188,7 @@ w3.vitrade.de
 w4.com
 w7.berlin.de
 w88.abc.com
+w88.espn.com
 w88.fxnetworks.com
 w88.go.com
 w88.m.espn.go.com
@@ -20193,6 +20238,7 @@ wapoawoo.net
 wa.proflowers.com
 wapsagnu.net
 wapsisod.net
+waptrick.com
 wa.quarks.de
 wardenchamberensue.com
 wareneingang.edeka.de
@@ -20259,6 +20305,7 @@ wcfelywclbql.com
 wclkmumbolsmqd.com
 wcmcs.net
 wcpkhkyuzp.com
+wcs.naver.com
 wcyrjlszoo.com
 wdbqsuukggoyg.com
 wdeliv.net
