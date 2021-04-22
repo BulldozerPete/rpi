@@ -5,7 +5,7 @@ https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
 ! https://blocklistproject.github.io/Lists/ransomware.txt
 ! https://blocklistproject.github.io/Lists/scam.txt
 ! https://blocklistproject.github.io/Lists/tracking.txt
-https://dbl.oisd.nl/basic/
+https://dbl.oisd.nl/
 & https://easylist.to/easylist/easylist.txt
 & https://easylist.to/easylist/easyprivacy.txt
 & https://easylist.to/easylistgermany/easylistgermany.txt
