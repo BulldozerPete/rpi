@@ -1,13 +1,10 @@
 # ---------------------------------------------
-# Zelo*s "anti Abzock" Pihole-Blockliste
+# Zelo*s "anti Abzock" Domain-Blockliste
 # ---------------------------------------------
 # Erstellt zur rein persönlichen, privaten
 # Nutzung.
 #
 # Fake-Shops, -Streaming, Abzocke und Co.
-#
-# Als Erweiterung zur Standard-Blockliste von
-# https://github.com/StevenBlack/hosts
 # ---------------------------------------------
 # Domains auf Basis von:
 #   https://www.verbraucherzentrale-niedersachsen.de/vorsicht-falle
@@ -15,6 +12,7 @@
 #   https://www.watchlist-internet.at
 #   https://www.trustedshops.de/aktuelle-warnungen/
 #   https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/fake.txt.blacklist.zelo
+#   ...
 #
 # Zusätzliche Berücksichtigung folgender
 #   Blacklists: https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/fake.txt.blacklist.urls 
@@ -23,7 +21,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 52815 Domains - 2021.04.22-11:48:54
+# 52815 Domains - 2021.04.22-14:17:02
 # ---------------------------------------------
 #
 007drones.de
