@@ -24,7 +24,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 21418 Domains - 2021.04.22-10:31:25
+# 21417 Domains - 2021.04.22-10:41:59
 # ---------------------------------------------
 #
 006a039c957c142bb.com
@@ -1745,7 +1745,6 @@ analytics.traderlink.com
 analytics.tribeca.vidavee.com
 analytics.trutv.com
 analytics.twentytwowords.com
-analytics.twitter.com
 analytics.ubs.com
 analytics.underarmour.com
 analytics.unibuddy.co

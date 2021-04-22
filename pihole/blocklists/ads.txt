@@ -29,7 +29,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 65027 Domains - 2021.04.22-10:31:07
+# 65025 Domains - 2021.04.22-10:41:42
 # ---------------------------------------------
 #
 001www.com
@@ -5134,7 +5134,6 @@ analytics.traderlink.com
 analytics.tribeca.vidavee.com
 analytics.trutv.com
 analytics.twentytwowords.com
-analytics.twitter.com
 analytics.ubs.com
 analytics.underarmour.com
 analytics.unibuddy.co
@@ -57855,7 +57854,6 @@ www.cstp.sn
 www.ctformation.fr
 www.ctl.partner-pay.net.daraz.com
 www.cuacongtudong.net
-www.cubescargoexpress.com
 www.cutlerycollection.net
 www-cvs.partner-pay.net.daraz.com
 www.cybereleague.com
