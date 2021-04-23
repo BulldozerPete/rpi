@@ -101,6 +101,7 @@
 1567000.fls.doubleclick.net
 15i0s10kub.kameleoon.eu
 15pl6kgch2.kameleoon.eu
+16042.pi.xplosion.de
 1704100.fls.doubleclick.net
 171.33.52.7pixel.moatads.com
 171.33.52.7px2.moatads.com
@@ -1288,6 +1289,7 @@ adstxt.adnxs.com
 ads.u.nuggad.net
 ads.us.criteo.com
 ads.va.us.criteo.com
+adsx.unityads.unity3d.com
 ads.yahoo.comadx.adnxs.comafs.moatads.com
 ads.yahoo.comadzerk-www.s3.amazonaws.comafs.moatads.com
 ads.yahoo.comafs.moatads.com
@@ -1311,6 +1313,7 @@ advertisers.l.doubleclick.net
 advertising.am5.vip.prod.criteo.com
 advertising.criteo.com
 advertising.par.vip.prod.criteo.com
+advertising.xplosion.de
 advevents20.adcolony.com
 adwords.appsflyer.com
 ad.wsod.comafs.moatads.com
@@ -1516,6 +1519,10 @@ audiences.criteo.com
 audience-verification.meetrics.com
 audit.ioam.de
 au.doubleclick.net
+auioptadmin.staging.unityads.unity3d.com
+auioptadmin.unityads.unity3d.com
+auiopt.staging.unityads.unity3d.com
+auiopt.unityads.unity3d.com
 aujourdhuijecode.criteo.net
 aurimaskerza.loggly.com
 a-usa.applovin.com
@@ -2174,6 +2181,7 @@ cdn1.smartadserver.com
 cdn2.smartadserver.com
 cdn.adnxs.com
 cdn.amplitude.com
+cdn.apac.xplosion.de
 cdnappicons.appsflyer.com
 cdnappiconstest.appsflyer.com
 cdnappicontest.appsflyer.com
@@ -2192,7 +2200,9 @@ cdn.oaseu1.adnxs.com
 cdn.oas-training7.adnxs.com
 cdnorig.smartadserver.com
 cdn.smartadserver.com
+cdn.unityads.unity3d.com
 cdn.west.sa.criteo.net
+cdn.xplosion.de
 cdoz0bechb.kameleoon.eu
 census-web.scorecardresearch.com
 census-web-stage.scorecardresearch.com
@@ -2214,6 +2224,7 @@ cheapflightsca.widget.criteo.com
 check.addefend.com
 checkip.dyndns.orgtrack2.trbo.com
 chhl6s396h.kameleoon.eu
+china-cdn.unityads.unity3d.com
 china.smartadserver.com
 china.supersonic.com
 chip.met.vgwort.de
@@ -2320,6 +2331,7 @@ config20.adtilt.com
 config3.ioam.de
 config.ioam.de
 config.nuggad.net
+config.unityads.unity3d.com
 confluence.moat.com
 confluence.plista.com
 connect.addefend.com
@@ -2377,10 +2389,12 @@ creative.adform.com
 creative.doubleclick.net
 creatives-cdn.appsflyer.com
 creatives.doubleclick.net
+creatives.xplosion.de
 criteo.com
 criteo.net
 crm.plista.com
 crossmedia.moat.com
+crtt-gateway.xplosion.de
 crystalcode.loggly.com
 cs.adscale.de
 c.scorecardresearch.com
@@ -2510,6 +2524,7 @@ dash.applovin.com
 dashboard.appsflyer.com
 dashboard.plista.com
 dashboardtest.appsflyer.com
+dashboard.unityads.unity3d.com
 data1.adalliance.io
 data.adalliance.io
 data.experience.appsflyer.com
@@ -2954,6 +2969,8 @@ eyepatch.zemanta.com
 eyeviewdigitalvideo848395.moatads.com
 ezbk28n6pi.kameleoon.eu
 fail-test.criteo.com
+fake-ads-backend.staging.unityads.unity3d.com
+fake-ads-backend.unityads.unity3d.com
 fams1-ib.adnxs.com
 farfetchca.widget.criteo.com
 farm.ap-s2.plista.com
@@ -3395,6 +3412,7 @@ gem.criteo.com
 gem.gbc.criteo.com
 gen1.loggly.com
 gen2.loggly.com
+geocdn.unityads.unity3d.com
 geoced.smartadserver.com
 geo.moatads.com
 geo.moatads.comgeo.moatads.com
@@ -4693,6 +4711,9 @@ httpams1-ib.adnxs.com
 http.app-measurement.com
 httpb.scorecardresearch.com
 httpfra1-ib.adnxs.com
+httpkafka-gke.staging.unityads.unity3d.com
+httpkafka-gke.unityads.unity3d.com
+httpkafka.unityads.unity3d.com
 httpnym1.ib.adnxs.com
 httppixel.moatads.com
 httpsams1-ib.adnxs.com
@@ -4743,6 +4764,7 @@ id.yieldlab.net
 ie-cr1-c.doubleclick.net
 ie-cr2-c.doubleclick.net
 ie-rtr1-c-vpn.doubleclick.net
+ie.unityads.unity3d.com
 ifeed.foodnetworkstore.comas.medscape.coma.analytics.yahoo.comapx.moatads.com
 iframe.moatads.com
 ih.adscale.de
@@ -4795,6 +4817,7 @@ info.plista.com
 info.sv.us.criteo.com
 info.us.criteo.com
 infra44.smartadserver.com
+ingress.unityads.unity3d.com
 init.itunes.apple.comiphonesubmissions.apple.comitunes.apple.comjs.moatads.com
 init.itunes.apple.comjs.moatads.com
 init-latency-test.supersonicads.com
@@ -4965,6 +4988,7 @@ kmy4p3d1n4.kameleoon.eu
 kofferarenade.widget.criteo.com
 koronaauto.loggly.com
 ko.support.appsflyer.com
+kpis.lns-test.xplosion.de
 kr.applovin.com
 kr.appsflyer.com
 krex0eiieb.kameleoon.eu
@@ -5177,6 +5201,7 @@ local-bid.applovin.com
 localhost.zemanta.com
 local-prod-bid.applovin.com
 local-stage-bid.applovin.com
+local.unityads.unity3d.com
 log-01.loggly.com
 log.clarity.ms
 logdog.loggly.com
@@ -5287,6 +5312,7 @@ mail.supersonicads.com
 mail.supersonic.com
 mail.tisoomi.com
 mail.vgwort.de
+mail.xplosion.de
 mail.yieldlab.net
 maintenance.criteo.com
 maker.loggly.com
@@ -5483,6 +5509,7 @@ mx-sv6.criteo.net
 mx.trbo.com
 mx-ty5.criteo.net
 mx-va1.criteo.net
+mx.xplosion.de
 myaccount.adform.com
 mycompany.loggly.com
 mydash.yieldlab.net
@@ -5828,6 +5855,7 @@ penncomputers.loggly.com
 pennwell.moat.com
 pertest-xcellerate.plista.com
 p-front1.triskel.criteo.com
+pge.unityads.unity3d.com
 pgg3qy.5209470m.applovin.com
 pgg4a0.emailer.appsflyer.com
 pgstarlinkgreece.moat.com
@@ -5839,6 +5867,7 @@ picsart.customlinks.appsflyer.com
 pie.adcolony.com
 pigeon.adform.com
 pilotpggermany.moat.com
+pimages.xplosion.de
 ping.chartbeat.netpixel.moatads.com
 pix2.as.criteo.net
 pix2.eu.criteo.net
@@ -6158,6 +6187,7 @@ reports.doubleclick.com
 reports.smartadserver.com
 reports.zemanta.com
 report-z.moatads.com
+repo.xplosion.de
 rerun.datalocker.appsflyer.com
 res1.applovin.com
 res2.applovin.com
@@ -6245,6 +6275,7 @@ rtb-trk.adcolony.com
 rtb.ty5.vip.prod.criteo.com
 rtb.va1.vip.prod.criteo.com
 rtb.va.us.criteo.com
+rtb.xplosion.de
 rtb.yieldlab.net
 rt-usa.applovin.com
 ru.appsflyer.com
@@ -6451,6 +6482,8 @@ sdygkxrktl.kameleoon.eu
 search.doubleclick.com
 search.doubleclick.net
 seb.scorecardresearch.com
+secondaryconversion-gke.staging.unityads.unity3d.com
+secondaryconversion-gke.unityads.unity3d.com
 secure.adnxs.com
 secure-ams1.adnxs.com
 secure.app-measurement.com
@@ -6512,6 +6545,7 @@ short.omnitagjs.com
 short-usa01.omnitagjs.com
 showroom.adform.com
 showroom.plista.com
+showroom.xplosion.de
 s.hstrck.com
 shyxqz75.loggly.com
 sh.zemanta.com
@@ -6530,6 +6564,7 @@ sip.criteo.com
 site.adform.com
 s-jsonp.moatads.com
 s-jsonp.moatads.coms-jsonp.moatads.com
+skadnw.postback.unityads.unity3d.com
 skadsdk.appsflyer.com
 skadsdkless.appsflyer.com
 skykick.loggly.com
@@ -6644,6 +6679,7 @@ ssl-weka.met.vgwort.de
 ssl-welt.met.vgwort.de
 sslwidget.criteo.com
 ssl-wolterskluwer.met.vgwort.de
+ssl.xplosion.de
 ssl-zeit.met.vgwort.de
 ss.moatads.com
 sso.adalliance.io
@@ -6701,6 +6737,7 @@ staging-init.supersonicads.com
 staging-jira.moat.com
 staging.liftoff.io
 staging-sspjs.supersonicads.com
+staging.unityads.unity3d.com
 starkellq493nsl.moatads.com
 static2cdn1.videe.tvnym2.ib.adnxs.com
 static.adform.com
@@ -6765,6 +6802,7 @@ statsgoogle.appsflyer.com
 stats.l.doubleclick.net
 stats.supersonicads.com
 stats.support.appsflyer.com
+stats.xplosion.de
 stats.zemanta.com
 status.addefend.com
 status.amplitude.com
@@ -6922,6 +6960,7 @@ thaivip2d.customlinks.appsflyer.com
 theglobeandmail.moat.com
 thehartford.moat.com
 thieme.met.vgwort.de
+thind.unityads.unity3d.com
 thngw1.doubleclick.net
 thngw2.doubleclick.net
 thngw.doubleclick.net
@@ -6972,6 +7011,7 @@ track4.trbo.com
 track5.trbo.com
 track.appsflyer.com
 tracking.adalliance.io
+tracking.adsx.unityads.unity3d.com
 tracking-asi01.omnitagjs.com
 tracking-fra01.omnitagjs.com
 tracking.fra01.omnitagjs.com
@@ -7085,6 +7125,7 @@ u.moatads.com
 unconference.adform.com
 undefined.fls.doubleclick.net
 unileverfr.moat.com
+unityads.unity3d.com
 university.smartadserver.com
 unlff7jz05.kameleoon.eu
 unruly.moat.com
@@ -7096,6 +7137,7 @@ upload.adnxs.com
 upload.app-measurement.com
 upload.docs.google.comus-ore-00001.s3.amazonaws.comus-u.openx.netv4.moatads.com
 upload.plista.com
+ups.xplosion.de
 upv4.moatads.com
 uqpbb8h1mb.kameleoon.eu
 urbanarade.widget.criteo.com
@@ -7244,6 +7286,7 @@ vodads.g.doubleclick.net
 vogel.met.vgwort.de
 vpaidwrapper.moat.com
 vpb0.moatads.com
+vpc.xplosion.de
 vpixel.moatads.com
 vpn2.adnxs.com
 vpn-am5.criteo.com
@@ -7337,6 +7380,7 @@ websdk-dev.appsflyer.com
 websdk-stage.appsflyer.com
 websdk-stg2.appsflyer.com
 websdk-stg.appsflyer.com
+webview.unityads.unity3d.com
 wecasa.customlinks.appsflyer.com
 weka.met.vgwort.de
 welcome.criteo.com
@@ -7806,11 +7850,13 @@ www.seb.scorecardresearch.com
 www.secure.amplitude.com
 www.secure-fra.adnxs.com
 www.sejs.moatads.com
+www.showroom.xplosion.de
 www.sin1-ib.adnxs.com
 www.s-jsonp.moatads.com
 www.smartadserver.com
 www.sn.moatads.com
 www.ssl.supersonicads.com
+www.ssl.xplosion.de
 www-stage.moat.com
 www-staging.loggly.com
 www.static.plista.com
@@ -7837,6 +7883,7 @@ www.tracking.omnitagjs.com
 www.tracking-usa02.omnitagjs.com
 www.trbo.com
 www.u.moatads.com
+www.unityads.unity3d.com
 www.upv4.moatads.com
 www.us-east-1.ecs.mb.moatads.com
 www.v3.moatads.com
@@ -7856,6 +7903,8 @@ www.whoisxmlapi.comafs.moatads.com
 www-wordpress-origin.plista.com
 www.wrike.comad.doubleclick.netafs.moatads.com
 www.www2.loggly.com
+www.xplosion.de
+www.xups.xplosion.de
 www.yahoo.comads-us.pictela.netafs.moatads.com
 www.yieldlab.net
 www.youtube.comxp.apple.comz.moatads.com
@@ -7869,6 +7918,7 @@ x2.moatads.com
 x2uh4q4yxf.kameleoon.eu
 x3u9my6md9.kameleoon.eu
 x7.adnxs.com
+xadc.xplosion.de
 xaiq6e7kih.kameleoon.eu
 xamfrm69x9.kameleoon.eu
 xbe1o7an75.kameleoon.eu
@@ -7883,9 +7933,12 @@ xn--b-mga.adnxs.com
 xng.trbo.com
 xn--v4-rp0a.moatads.com
 xn----zhcacijd9b3bc0gfihh.loggly.com
+xplosion.de
+xreco.xplosion.de
 xrxdiuijt3.kameleoon.eu
 xsolla.loggly.com
 xtxunjauh1.kameleoon.eu
+xups.xplosion.de
 xzuoglc9bs.kameleoon.eu
 y1xx8xq0l1.kameleoon.eu
 y4imtoug5j.kameleoon.eu
