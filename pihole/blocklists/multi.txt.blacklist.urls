@@ -13,6 +13,7 @@ https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt
 ! https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
+! https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 ! https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist
