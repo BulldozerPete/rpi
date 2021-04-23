@@ -252,6 +252,7 @@
 2visitor-usa02.omnitagjs.com
 2vpvitqpe9.kameleoon.eu
 2vwj3o45y6f.kameleoon.eu
+2www.tisoomi-adservice.com
 2xlhx58dx5.kameleoon.eu
 2x-sunset.adcolony.com
 2z.moatads.com
@@ -1192,6 +1193,7 @@ adcolony.com
 add.customlinks.appsflyer.com
 add.doubleclick.net
 ad.de.doubleclick.net
+addefend.com
 ad.dk.doubleclick.net
 ad.doubleclick.com
 ad.doubleclick.net
@@ -1282,6 +1284,7 @@ ads.smartadserver.com
 ads.supersonicads.com
 ads.sv.us.criteo.com
 adstxt.adnxs.com
+ads.u.nuggad.net
 ads.us.criteo.com
 ads.va.us.criteo.com
 ads.yahoo.comadx.adnxs.comafs.moatads.com
@@ -1296,6 +1299,7 @@ ad.turn.comafs.moatads.com
 ad.turn.comapx.moatads.com
 ad.uk.doubleclick.net
 ad.uk.mo.doubleclick.net
+ad.u.nuggad.net
 advancedigital.moat.com
 ad.ve.doubleclick.net
 advertiser.applovin.com
@@ -1401,6 +1405,7 @@ amsstage-rtbwin.applovin.com
 amsterdam.criteo.com
 ams-w.applovin.com
 amwayindia.loggly.com
+analyser.nuggad.net
 analytics.amplitude.com
 analytics.moat.com
 analytics.plista.com
@@ -1428,6 +1433,7 @@ api-02.nym1.adnxs.com
 api2.amplitude.com
 api2.appsflyer.com
 api.adcolony.com
+api.addefend.com
 api.adform.com
 api.adnxs.com
 api.am5.vip.prod.criteo.com
@@ -1444,6 +1450,7 @@ apigateway.am5.vip.prod.criteo.com
 api.growmobile.comapi.mixpanel.comapx.moatads.com
 api.lab.amplitude.com
 api.moat.com
+api.nuggad.net
 api.omnitagjs.com
 api.par.vip.prod.criteo.com
 api.plista.com
@@ -2201,6 +2208,7 @@ charger-v2.trbo.com
 chat.adform.com
 chcdn.applovin.com
 cheapflightsca.widget.criteo.com
+check.addefend.com
 checkip.dyndns.orgtrack2.trbo.com
 chhl6s396h.kameleoon.eu
 china.smartadserver.com
@@ -2209,6 +2217,7 @@ chip.met.vgwort.de
 chrisbriere.loggly.com
 christest.loggly.com
 christmas.adform.com
+ci.addefend.com
 cib.adnxs.com
 cikzrzzne9.kameleoon.eu
 cim-api-qa.app-measurement.com
@@ -2287,6 +2296,7 @@ com.meetrics.com
 community.appsflyer.com
 community.loggly.com
 composer.adcolony.com
+composer.addefend.com
 compx.moatads.com
 comsejs.moatads.com
 coms-jsonp.moatads.com
@@ -2306,8 +2316,10 @@ config1.ioam.de
 config20.adtilt.com
 config3.ioam.de
 config.ioam.de
+config.nuggad.net
 confluence.moat.com
 confluence.plista.com
+connect.addefend.com
 connect.appsflyer.com
 conradde.widget.criteo.com
 console-ib.adnxs.com
@@ -2652,6 +2664,7 @@ dev2.supersonicads.com
 dev3.supersonicads.com
 dev8.supersonicads.com
 dev.adcolony.com
+dev.addefend.com
 dev.amplitude.com
 dev-api.register.criteo.com
 dev.appsflyer.com
@@ -2750,6 +2763,7 @@ documentation.smartadserver.com
 documents.moat.com
 documents.supersonicads.com
 dod.appsflyer.com
+domains.addefend.com
 domer.customlinks.appsflyer.com
 dotmetrics.net
 doubleclick.com
@@ -2804,6 +2818,7 @@ ebs.da1.vip.prod.criteo.com
 ebs.va1.vip.prod.criteo.com
 ec1.moatads.com
 ec2.mb.moatads.com
+ec.nuggad.net
 ecodata.adnxs.com
 econa.met.vgwort.de
 ecs.mb.moatads.com
@@ -2931,6 +2946,7 @@ express.met.vgwort.de
 external-demand.plista.com
 extranet.criteo.com
 extranets.par.vip.prod.criteo.com
+eye.insights.addefend.com
 eyepatch.zemanta.com
 eyeviewdigitalvideo848395.moatads.com
 ezbk28n6pi.kameleoon.eu
@@ -3017,6 +3033,7 @@ foo.loggly.com
 forbes.moat.com
 forecastapi.smartadserver.com
 forecast.smartadserver.com
+forms.insights.addefend.com
 forum.loggly.com
 fo-ssp-asi01.omnitagjs.com
 fo-ssp-fra01.omnitagjs.com
@@ -3389,6 +3406,7 @@ gg6tq6v985.kameleoon.eu
 gi3b5mvu8h.kameleoon.eu
 ginalaurade.widget.criteo.com
 git.adalliance.io
+git.addefend.com
 gitlab.adnxs.com
 gitlab.app-measurement.com
 gitlab.appsflyer.com
@@ -3451,7 +3469,13 @@ gum.par.vip.prod.criteo.com
 gum.sv6.vip.prod.criteo.com
 gum.ty5.vip.prod.criteo.com
 gum.va1.vip.prod.criteo.com
+gw-ca.addefend.com
+gw-de.addefend.com
+gw-jp.addefend.com
+gw-nl.addefend.com
 gwrtdp-tn690bfadt.tclclouds.comz.moatads.com
+gw-uk.addefend.com
+gw-us.addefend.com
 gw-vln.net.adform.com
 gw-wenet.amplitude.com
 gz5r77adb2.kameleoon.eu
@@ -4632,6 +4656,9 @@ homairvac.widget.criteo.com
 home.adnxs.com
 home.app-measurement.com
 horoscope-wfx.customlinks.appsflyer.com
+host-94-198-59-129.nuggad.net
+host-94-198-59-131.nuggad.net
+host-94-198-59-142.nuggad.net
 host.liftoff.io
 hostmaster.app-measurement.com
 hostmaster.meetrics.com
@@ -4671,6 +4698,7 @@ httpv4.moatads.com
 huawei01.loggly.com
 huawei123.loggly.com
 huawei1.loggly.com
+hub.addefend.com
 hub.appsflyer.com
 huffpost.met.vgwort.de
 hukon606je.kameleoon.eu
@@ -4740,6 +4768,7 @@ imap.adscale.de
 imap.app-measurement.com
 img.adnxs.com
 img.applovin.com
+img.insights.addefend.com
 img.zemanta.com
 impression.appsflyer.com
 impressions-gc.appsflyer.com
@@ -4767,6 +4796,7 @@ init.itunes.apple.comjs.moatads.com
 init-latency-test.supersonicads.com
 init.supersonicads.com
 inmobi.moat.com
+insights.addefend.com
 insights.plista.com
 insights.yieldlab.net
 instagram.compool3.moatads.com
@@ -4841,6 +4871,7 @@ jenkins.amplitude.com
 jhazv3kqsj.kameleoon.eu
 jhkt7mga9k.kameleoon.eu
 jimajc05d0.kameleoon.eu
+jira.addefend.com
 jira-github.adform.com
 jira.moat.com
 jira.plista.com
@@ -4953,6 +4984,7 @@ lab.amplitude.com
 labs.criteo.com
 lafuma.widget.criteo.com
 lahd2.adnxs.com
+landings.insights.addefend.com
 landsendde.widget.criteo.com
 largebe.widget.criteo.com
 las1-ib.adnxs.com
@@ -5078,6 +5110,7 @@ lb.yieldlab.net
 ld1.criteo.com
 ld2.criteo.com
 ld2.widget.criteo.com
+ldap.addefend.com
 lean.clarity.ms
 learn.amplitude.com
 learn.appsflyer.com
@@ -5208,6 +5241,7 @@ mail10.trbo.com
 mail1.adform.com
 mail1.adnxs.com
 mail2.adnxs.com
+mail2.tisoomi.com
 mail2.trbo.com
 mail2.vgwort.de
 mail3.vgwort.de
@@ -5235,11 +5269,13 @@ mailing-images.trbo.com
 mail.met.vgwort.de
 mail.moatads.com
 mail.native.adalliance.io
+mail.nuggad.net
 mail.plista.com
 mailrelay.meetrics.de
 mailserver.app-measurement.com
 mail.supersonicads.com
 mail.supersonic.com
+mail.tisoomi.com
 mail.vgwort.de
 mail.yieldlab.net
 maintenance.criteo.com
@@ -5413,6 +5449,7 @@ mug.ty5.vip.prod.criteo.com
 mug.va1.vip.prod.criteo.com
 multissp-dev.yieldlab.net
 multissp.yieldlab.net
+munin.addefend.com
 murali2.loggly.com
 musicworldde.widget.criteo.com
 mvyfgd.customlinks.appsflyer.com
@@ -5529,6 +5566,7 @@ nordic.adform.com
 notification-itx5.smartadserver.com
 notification.smartadserver.com
 notify.dropbox.comnym1-ib.adnxs.com
+npm.addefend.com
 npm.moat.com
 nq7lqmzcr0.kameleoon.eu
 nrpc.olark.comnym1-ib.adnxs.com
@@ -5547,6 +5585,7 @@ ns1.adnxs.com
 ns1.criteo.com
 ns1.criteo.net
 ns1.meetrics.de
+ns1.nuggad.net
 ns1.zemanta.com
 ns21.criteo.com
 ns22.criteo.com
@@ -5560,10 +5599,12 @@ ns2.adnxs.com
 ns2.criteo.com
 ns2.doubleclick.com
 ns2.meetrics.de
+ns2.nuggad.net
 ns2.zemanta.com
 ns3.adnxs.com
 ns3.criteo.com
 ns3.meetrics.de
+ns3.nuggad.net
 ns4.adnxs.com
 ns4.criteo.com
 ns5.criteo.com
@@ -5579,6 +5620,7 @@ nt.ny.us.criteo.com
 nt.sv.us.criteo.com
 n-tv.met.vgwort.de
 nucode.loggly.com
+nuggad.net
 nuonbe.widget.criteo.com
 nuq-a.applovin.com
 nuq-d.applovin.com
@@ -5699,6 +5741,7 @@ o-ssp-usa01.omnitagjs.com
 o-ssp-usa02.omnitagjs.com
 o.staging.criteo.com
 ot3kl6hzog.kameleoon.eu
+otrs.addefend.com
 otv7gal6z6.kameleoon.eu
 o.update.ib.adnxs.com
 outcome6.supersonicads.com
@@ -5758,6 +5801,12 @@ paymentspring.loggly.com
 paypalssl.doubleclick.net
 paystack.loggly.com
 pbs.twimg.comsi.wsj.netv4.moatads.com
+pbtgs.u.nuggad.net
+pbtg.u.nuggad.net
+pbtgx-u-ds.nuggad.net
+pbtngs.u.nuggad.net
+pbtng.u.nuggad.net
+pbtngx-u-ds.nuggad.net
 pc.moatads.com
 pdk.theplatform.compixel.moatads.com
 pdn.applovin.com
@@ -5892,6 +5941,7 @@ popcap.loggly.com
 pop.criteo.net
 pop.moatads.com
 pop.trbo.com
+portal.addefend.com
 portal.adnxs.com
 portal.appsflyer.com
 portal.plista.com
@@ -6114,6 +6164,7 @@ retention.appsflyer.com
 reuters.moat.com
 reuveny.loggly.com
 revcontent.loggly.com
+revive.addefend.com
 revuze.loggly.com
 rfcsgjqx3e.kameleoon.eu
 rg443.loggly.com
@@ -6408,6 +6459,7 @@ server.ib.adnxs.com
 server.liftoff.io
 serverside.doubleclick.net
 server.zemanta.com
+service-desk.addefend.com
 service.smartadserver.com
 services.vgwort.de
 sess1.adnxs.com
@@ -6700,6 +6752,7 @@ stats.l.doubleclick.net
 stats.supersonicads.com
 stats.support.appsflyer.com
 stats.zemanta.com
+status.addefend.com
 status.amplitude.com
 status.appsflyer.com
 statuscake.zemanta.com
@@ -6759,6 +6812,7 @@ support.supersonicads.com
 sureshwipro.loggly.com
 survey.adalliance.io
 survey.g.doubleclick.net
+survey.nuggad.net
 suthida.loggly.com
 sv2s3c43je.kameleoon.eu
 sv.adcolony.com
@@ -6843,6 +6897,9 @@ test.moat.com
 testr1.zemanta.com
 test.scorecardresearch.com
 test-script.dotmetrics.net
+testsite01.addefend.com
+testsite02.addefend.com
+testsite03.addefend.com
 test-site.dotmetrics.net
 test.smartadserver.com
 test-usa01.omnitagjs.com
@@ -6860,6 +6917,10 @@ tilt.criteo.com
 tilt.da1.vip.prod.criteo.com
 tilt.va1.vip.prod.criteo.com
 tis3iawtxz.kameleoon.eu
+tisoomi-adservice.com
+tisoomi.com
+tisoomi-services.com
+tisoomitech.tstest.addefend.com
 tmk-akrma.smartadserver.com
 tmk-ecadn.smartadserver.com
 tmk-eltiempo.smartadserver.com
@@ -6921,7 +6982,9 @@ trustamerica.loggly.com
 trx.adscale.de
 try.applovin.com
 t.scorecardresearch.com
+tsdomains.addefend.com
 tshr20140816.loggly.com
+tsws.addefend.com
 ttcroc-parents.customlinks.appsflyer.com
 tubemogul.moat.com
 tu.moatads.com
@@ -7108,8 +7171,10 @@ vhapgs003.ioam.de
 vhj6frliva.kameleoon.eu
 viacom.adform.com
 viber-emea.adnxs.com
+vidapi.addefend.com
 vid.applovin.com
 video.adalliance.io
+videoapi.addefend.com
 videoapi.smartadserver.com
 videodiff-eqx.smartadserver.com
 videodiff-eu-secure.smartadserver.com
@@ -7124,6 +7189,7 @@ video.moatads.com
 video.moatads.comvideo.moatads.com
 video.omnitagjs.com
 video.plista.com
+videos.addefend.com
 videos.zemanta.com
 vido.moatads.com
 viewability-check.meetrics.com
@@ -7292,6 +7358,7 @@ wildcard.hk.cn.criteo.com
 wildcard.moatads.com
 wiley.met.vgwort.de
 windstr3am21.customlinks.appsflyer.com
+winniex-u-ds.nuggad.net
 wk96z0qdp2.kameleoon.eu
 wksoppmf8c.kameleoon.eu
 wolterskluwer.met.vgwort.de
@@ -7558,6 +7625,7 @@ www.adalliance.io
 www.adc3-assets.adcolony.com
 www.adc3-assets-enc-cdn.adcolony.com
 www.adcolony.com
+www.addefend.com
 www.adform.com
 www-admin.plista.com
 www.adnxs.com
@@ -7574,6 +7642,7 @@ www.alpha-assets.adcolony.com
 www.amplitude.com
 www.ams1-ib.adnxs.com
 www.ams1.ib.adnxs.com
+www.api.addefend.com
 www.api.amplitude.com
 www.api.omnitagjs.com
 www.applovin.com
@@ -7652,6 +7721,7 @@ www.jsonp.moatads.com
 www.kameleoon.eu
 www.kelloggsdisplay532610806396.moatads.com
 www.labs.criteo.com
+wwwlasagneandands.tstest.addefend.com
 www.lax1-ib.adnxs.com
 www.lb15.s400.meetrics.net
 www.lean.clarity.ms
@@ -7678,6 +7748,7 @@ www.moatads.com
 www.moat.com
 www.mxcdn.net
 www.netseer193804856615.moatads.com
+www.nuggad.net
 www.nym1.b.adnxs.com
 www.nym1.ib.adnxs.com
 www.omnitagjs.com
@@ -7736,6 +7807,12 @@ www.tag-dyn-usa02.omnitagjs.com
 www.tail.loggly.com
 www-test.plista.com
 www.test-site.dotmetrics.net
+www.tisoomi-adservice.com
+wwwtisoomi-adservice.tstest.addefend.com
+www.tisoomi.com
+www.tisoomi-services.com
+www.tisoomitech.tstest.addefend.com
+wwwtisoomitech.tstest.addefend.com
 www.tom.vgwort.de
 www.tracking.omnitagjs.com
 www.tracking-usa02.omnitagjs.com
@@ -7747,6 +7824,8 @@ www.v3.moatads.com
 www.v4.moatads.com
 www.vastx.moatads.com
 www.vgwort.de
+www.vidapi.addefend.com
+www.videoapi.addefend.com
 www.video.moatads.com
 www.visitor-fra01.omnitagjs.com
 www.visitor-fra02.omnitagjs.com
