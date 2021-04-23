@@ -1164,6 +1164,7 @@ activity.lucidpress.comafs.moatads.com
 ad2.doubleclick.net
 ad-ace.doubleclick.net
 ad.ae.doubleclick.net
+adalliance.io
 adam.meetrics.com
 adam-suite.meetrics.com
 ad-apac.doubleclick.net
@@ -1477,6 +1478,7 @@ ap-southeast-1.ecs.mb.moatads.com
 apx.moatads.com
 apx.moatads.comapx.moatads.com
 apxtxgbv4c.kameleoon.eu
+aqt.adalliance.io
 ar.adform.com
 arcospa.customlinks.appsflyer.com
 ar.scorecardresearch.com
@@ -2004,6 +2006,8 @@ blog.plista.com
 blog.smartadserver.com
 blog-staging.adcolony.com
 blog.zemanta.com
+bls.adalliance.io
+bls-stage.adalliance.io
 blue10.loggly.com
 blue-flow.adform.com
 bm.met.vgwort.de
@@ -2015,6 +2019,8 @@ bonaire.us.criteo.net
 bo-static.omnitagjs.com
 bounce.amplitude.com
 boursorama.smartadserver.com
+box.adalliance.io
+boxer.adalliance.io
 b.par.vip.prod.criteo.com
 bpce-hosting.kameleoon.eu
 bpdbcpzkr0.kameleoon.eu
@@ -2480,7 +2486,11 @@ dash.applovin.com
 dashboard.appsflyer.com
 dashboard.plista.com
 dashboardtest.appsflyer.com
+data1.adalliance.io
+data.adalliance.io
 data.experience.appsflyer.com
+datahub.adalliance.io
+dataops.adalliance.io
 data-preferences.adcolony.com
 data.trbo.com
 data-v2.trbo.com
@@ -2707,6 +2717,7 @@ dmp-api.adform.com
 dmp.doubleclick.net
 dmp-help.adform.com
 dmp-s2s.adform.com
+dmpstorage.adalliance.io
 dmx-emea.adnxs.com
 dna.adform.com
 dnb.doubleclick.net
@@ -2824,6 +2835,7 @@ em.moat.com
 enamorade.widget.criteo.com
 en.app-measurement.com
 end.scorecardresearch.com
+engagement.adalliance.io
 engineering.adform.com
 en.support.appsflyer.com
 enthusiastnetwork.moat.com
@@ -3362,6 +3374,7 @@ getyourguidede.widget.criteo.com
 gg6tq6v985.kameleoon.eu
 gi3b5mvu8h.kameleoon.eu
 ginalaurade.widget.criteo.com
+git.adalliance.io
 gitlab.adnxs.com
 gitlab.app-measurement.com
 gitlab.appsflyer.com
@@ -4552,7 +4565,9 @@ health.register.criteo.com
 hearstmagazines.moat.com
 hearstuk.moat.com
 heise.met.vgwort.de
+hello.adalliance.io
 hello.criteo.com
+help.adalliance.io
 help.adform.com
 help.amplitude.com
 help.app-measurement.com
@@ -4845,6 +4860,7 @@ js.moat.com
 json.moatads.com
 jsonp.moatads.com
 js.stats.g.doubleclick.net
+jupyter.adalliance.io
 jw3qfgksb9.kameleoon.eu
 jwlycebft2.kameleoon.eu
 jwn72npxh.kameleoon.eu
@@ -5166,6 +5182,7 @@ macdaddy.loggly.com
 m.adcolony.com
 m.adnxs.com
 m.adtilt.com
+mafo.adalliance.io
 ma.googleads.g.doubleclick.net
 mail01.trbo.com
 mail10.trbo.com
@@ -5177,6 +5194,7 @@ mail2.vgwort.de
 mail3.vgwort.de
 mail4.vgwort.de
 mail9.trbo.com
+mail.adalliance.io
 mail.adcolony.com
 mail.adform.com
 mail.adnxs.com
@@ -5195,6 +5213,7 @@ mail.index.appsflyer.com
 mailing-images.trbo.com
 mail.met.vgwort.de
 mail.moatads.com
+mail.native.adalliance.io
 mail.plista.com
 mailrelay.meetrics.de
 mailserver.app-measurement.com
@@ -5302,6 +5321,7 @@ mistergood.widget.criteo.com
 mixpanel.comapx.moatads.com
 mkhalid.loggly.com
 m.moat.com
+mms.adalliance.io
 mn.moatads.com
 moatads.com
 moat.com
@@ -5431,6 +5451,7 @@ nagios.criteo.com
 namespaces-haproxy-alb.appsflyer.com
 na.smartadserver.com
 nationalgeographic.moat.com
+native.adalliance.io
 nativeapi.supersonicads.com
 nat-pool-fr-2.criteo.com
 nat-pool-fr-3.criteo.com
@@ -5638,6 +5659,7 @@ ops-alpha.adcolony.com
 ops-dev.adcolony.com
 ops.moat.com
 ops-staging.adcolony.com
+optout.adalliance.io
 optout.ioam.de
 orgtrack2.trbo.com
 orgv4.moatads.com
@@ -5919,6 +5941,7 @@ promovac.widget.criteo.com
 prosstratus.loggly.com
 pro.staging1.moat.com
 pro.staging3.moat.com
+proxy.adalliance.io
 proxy-hetzner.plista.com
 prtg44.smartadserver.com
 ps.moatads.com
@@ -6084,6 +6107,7 @@ roblox.customlinks.appsflyer.com
 r.omnitagjs.com
 root.app-measurement.com
 root.omnitagjs.com
+rota.adalliance.io
 router1.meetrics.de
 router2.meetrics.de
 router3.meetrics.de
@@ -6487,6 +6511,7 @@ ssbsync.smartadserver.com
 ssbsync-us.smartadserver.com
 ssb-us.smartadserver.com
 ssl-abendblatt.met.vgwort.de
+ssl.adalliance.io
 ssl-beck.met.vgwort.de
 ssl-berliner-kurier.met.vgwort.de
 ssl-berliner-zeitung.met.vgwort.de
@@ -6526,6 +6551,7 @@ sslwidget.criteo.com
 ssl-wolterskluwer.met.vgwort.de
 ssl-zeit.met.vgwort.de
 ss.moatads.com
+sso.adalliance.io
 sso-jwk-http.criteo.net
 ssp-csync.smartadserver.com
 ssp-fra01.omnitagjs.com
@@ -6702,6 +6728,7 @@ support-retailmedia.criteo.com
 support.smartadserver.com
 support.supersonicads.com
 sureshwipro.loggly.com
+survey.adalliance.io
 survey.g.doubleclick.net
 suthida.loggly.com
 sv2s3c43je.kameleoon.eu
@@ -6834,6 +6861,7 @@ track3.trbo.com
 track4.trbo.com
 track5.trbo.com
 track.appsflyer.com
+tracking.adalliance.io
 tracking-asi01.omnitagjs.com
 tracking-fra01.omnitagjs.com
 tracking.fra01.omnitagjs.com
@@ -7048,6 +7076,7 @@ vhj6frliva.kameleoon.eu
 viacom.adform.com
 viber-emea.adnxs.com
 vid.applovin.com
+video.adalliance.io
 videoapi.smartadserver.com
 videodiff-eqx.smartadserver.com
 videodiff-eu-secure.smartadserver.com
@@ -7166,6 +7195,7 @@ wdcstage-msevent.applovin.com
 wdcstage-rtb.applovin.com
 wdcstage-rtbwin.applovin.com
 wdc-w.applovin.com
+weather.adalliance.io
 web.adnxs.com
 web.api.omnitagjs.com
 webdisk.adnxs.com
@@ -7232,6 +7262,7 @@ windstr3am21.customlinks.appsflyer.com
 wk96z0qdp2.kameleoon.eu
 wksoppmf8c.kameleoon.eu
 wolterskluwer.met.vgwort.de
+wom.adalliance.io
 wpad.ad.jhu.edus-jsonp.moatads.com
 wp.app-measurement.com
 wprp.zemanta.com
@@ -7490,6 +7521,7 @@ www6.smartadserver.com
 www7.smartadserver.com
 www8.smartadserver.com
 www9.smartadserver.com
+www.adalliance.io
 www.adc3-assets.adcolony.com
 www.adc3-assets-enc-cdn.adcolony.com
 www.adcolony.com
@@ -7779,6 +7811,7 @@ zet4088fgg.kameleoon.eu
 zgm0b94es5.kameleoon.eu
 zhvhm8ialc.kameleoon.eu
 ziffdavis697674298673.moatads.com
+zipservice.adalliance.io
 zjs.moatads.com
 zkcatwifn2.kameleoon.eu
 zlg32td80f.kameleoon.eu
