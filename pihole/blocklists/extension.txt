@@ -1,5 +1,5 @@
 # ---------------------------------------------
-# 7833 Domains - 2021.04.23-16:03:52
+# 7867 Domains - 2021.04.23-16:26:40
 # ---------------------------------------------
 #
 000000000.fls.doubleclick.net
@@ -1226,6 +1226,7 @@ adlermodede.widget.criteo.com
 ad.ma.doubleclick.net
 admeta-emea.adnxs.com
 admin2.appsflyer.com
+admin.adscale.de
 admin.adtilt.com
 admin-beta.yieldlab.net
 admin.dotmetrics.net
@@ -1263,6 +1264,7 @@ ad.sa.doubleclick.net
 ads.adtilt.com
 ads.as.criteo.com
 ads-bid.l.doubleclick.net
+adscale.de
 adscale-emea.adnxs.com
 ads.criteo.com
 ad.se.doubleclick.net
@@ -2123,6 +2125,7 @@ cas.ty5.vip.prod.criteo.com
 cas.us.criteo.com
 cas.va1.vip.prod.criteo.com
 cas.va.us.criteo.com
+cat.adscale.de
 cat.am5.vip.prod.criteo.com
 cat.criteo.com
 cat.da1.vip.prod.criteo.com
@@ -2151,6 +2154,7 @@ caw.ny.us.criteo.com
 caw.sv.us.criteo.com
 cba.gbc.criteo.com
 cba.gbc.criteo.net
+cb-poc.adscale.de
 cbsd.am5.vip.prod.criteo.com
 cbsd.da1.vip.prod.criteo.com
 cbsd.par.vip.prod.criteo.com
@@ -2329,6 +2333,7 @@ cornetto-valentine.adcolony.com
 corp-static.amplitude.com
 corsica.us.criteo.net
 cossette.moat.com
+cotads.adscale.de
 countergenerator.adcolony.com
 counts.yieldlab.net
 coy6at5zba.kameleoon.eu
@@ -2351,6 +2356,7 @@ cpcontacts.afmarketingdev.appsflyer.com
 cpcontacts.careers.appsflyer.com
 cpcontacts.content.appsflyer.com
 cpcontacts.index.appsflyer.com
+cpx.adscale.de
 crash.amplitude.com
 crcdn01.adnxs.com
 crcdn09.adnxs.com
@@ -2365,6 +2371,7 @@ criteo.net
 crm.plista.com
 crossmedia.moat.com
 crystalcode.loggly.com
+cs.adscale.de
 c.scorecardresearch.com
 csm.am5.vip.prod.criteo.net
 csm.as.criteo.net
@@ -2388,6 +2395,7 @@ csm.va1.vip.prod.criteo.net
 csm.va.us.criteo.net
 csp.criteo.com
 csp.va1.vip.prod.criteo.com
+cs-staging.adscale.de
 csync.smartadserver.com
 csync-tmk.smartadserver.com
 ctkqcpb29.kameleoon.eu
@@ -2472,6 +2480,7 @@ cuoieria.widget.criteo.com
 custom2.supersonicads.com
 customlinks.appsflyer.com
 custom.supersonicads.com
+cvs.adscale.de
 cy6kdcjc68.kameleoon.eu
 d2f8tie0ouoft.cloudfront.netvideo.moatads.com
 d2gr59futc.kameleoon.eu
@@ -2607,6 +2616,7 @@ dca-rtb.applovin.com
 dca-rtbprod.applovin.com
 dcastage-rtb.applovin.com
 dcdn.adnxs.com
+dch.adscale.de
 dcheck01.meetrics.net
 dc.js.stats.g.doubleclick.net
 dcodemo.adform.com
@@ -2676,6 +2686,7 @@ dfpdashboard.doubleclick.net
 dfp.doubleclick.net
 dfppsgi76.kameleoon.eu
 dgbspgoigi.kameleoon.eu
+dh.adscale.de
 di0gvfucqq.kameleoon.eu
 diff1.smartadserver.com
 diff2.smartadserver.com
@@ -2755,11 +2766,13 @@ download.scorecardresearch.com
 dp.g.doubleclick.net
 dpx.moatads.com
 dqcsh113a5.kameleoon.eu
+dr.adscale.de
 ds1h54b9h1.kameleoon.eu
 dsa.moatads.com
 dscale-emea.adnxs.com
 d.scorecardresearch.com
 dsengine.doubleclick.net
+dsh.adscale.de
 dsm.doubleclick.net
 dsum.casalemedia.comjsonp.moatads.com
 duanemorris.loggly.com
@@ -3296,6 +3309,7 @@ g2.doubleclick.net
 g3.doubleclick.net
 g3zryibnkb.kameleoon.eu
 g4b0e3gnr0.kameleoon.eu
+gaa.adscale.de
 gala.met.vgwort.de
 gallery.smartadserver.com
 gamesloadde.widget.criteo.com
@@ -4555,6 +4569,7 @@ havasemiratesusa.moat.com
 havaskiafr.moat.com
 hawebs.adform.com
 haymarketmediauk.moat.com
+hb.adscale.de
 hb-api-asi01.omnitagjs.com
 hb-api-fra01.omnitagjs.com
 hb-api-fra02.omnitagjs.com
@@ -4702,6 +4717,7 @@ ie-cr2-c.doubleclick.net
 ie-rtr1-c-vpn.doubleclick.net
 ifeed.foodnetworkstore.comas.medscape.coma.analytics.yahoo.comapx.moatads.com
 iframe.moatads.com
+ih.adscale.de
 ikg2j4vpnj.kameleoon.eu
 ikonbrisbane.moat.com
 ikonmelbourne.moat.com
@@ -4724,6 +4740,7 @@ images.sh.cn.criteo.net
 images.sv.us.criteo.net
 images.zemanta.com
 imap4.adnxs.com
+imap.adscale.de
 imap.app-measurement.com
 img.adnxs.com
 img.applovin.com
@@ -4855,6 +4872,7 @@ jp.doubleclick.net
 jpzd5dg6o0.kameleoon.eu
 jrt2f02q76.kameleoon.eu
 jrvt8dinyy.kameleoon.eu
+js.adscale.de
 js.dmtry.comjs.moatads.com
 js.dmtry.comlax1-ib.adnxs.com
 jsd.supersonicads.com
@@ -5129,6 +5147,7 @@ loggerhead.omnitagjs.com
 logging.adtilt.com
 loggly.com
 logicimmoloc.widget.criteo.com
+login.adscale.de
 login.adtilt.com
 logincrc.doubleclick.com
 login.doubleclick.com
@@ -5202,6 +5221,7 @@ mail.adalliance.io
 mail.adcolony.com
 mail.adform.com
 mail.adnxs.com
+mail.adscale.de
 mail.adtilt.com
 mail.afmarketingdev.appsflyer.com
 mail.applovin.com
@@ -5212,6 +5232,7 @@ mail.content.appsflyer.com
 mailcop.vgwort.de
 mail.criteo.com
 mail.criteo.net
+maildrop.adscale.de
 mailgw.trbo.com
 mail.index.appsflyer.com
 mailing-images.trbo.com
@@ -5349,6 +5370,7 @@ m.one.impn1-ib.adnxs.com
 monetization-support.applovin.com
 moneythunder.esplinks.appsflyer.com
 mongodb.adnxs.com
+monitor.adscale.de
 monitorsdk.appsflyer.com
 monitor.supersonicads.com
 mopo.met.vgwort.de
@@ -5462,6 +5484,7 @@ nat-pool-fr-3.criteo.com
 nat-pool-fr-4.criteo.com
 nat-pool-fr-5.criteo.com
 nat-pool-fr-6.criteo.com
+navision.adscale.de
 navyonline20.customlinks.appsflyer.com
 nbcuconsolidated.moat.com
 ncm-fw1-c-dev.doubleclick.net
@@ -5657,6 +5680,7 @@ on.loggly.com
 oo.moatads.com
 opbkjyccnh.kameleoon.eu
 openadid.adnxs.com
+opencms.adscale.de
 opera3213542.moatads.com
 ops.adcolony.com
 ops-alpha.adcolony.com
@@ -5969,7 +5993,9 @@ pvoy75875j.kameleoon.eu
 px2m.moatads.com
 px2.moatads.com
 px51gu3a09.kameleoon.eu
+px.adscale.de
 px.applovin.com
+pxc1.adscale.de
 px.moatads.com
 px.moatads.compx.moatads.com
 pxq2mehkzs.kameleoon.eu
@@ -6070,6 +6096,7 @@ report-ib.adnxs.com
 report-js.moatads.com
 report-mb.moatads.com
 reports.adform.com
+reports.adscale.de
 reports.appsflyer.com
 reports.doubleclick.com
 reports.smartadserver.com
@@ -6095,6 +6122,7 @@ revuze.loggly.com
 rfcsgjqx3e.kameleoon.eu
 rg443.loggly.com
 rgr9uui331.kameleoon.eu
+rh.adscale.de
 rich-media-dynamic-ads-api.l.doubleclick.net
 ris-gateway.supersonicads.com
 rm2.adtilt.com
@@ -6452,6 +6480,7 @@ smartcare.loggly.com
 smkisvusni.kameleoon.eu
 s.moatads.com
 smtp01.moat.com
+smtp.adscale.de
 smtp.adtilt.com
 smtp.app-measurement.com
 smtp-itx01.adform.com
@@ -6852,8 +6881,10 @@ tom-test.vgwort.de
 tom-uat.vgwort.de
 tom.vgwort.de
 t-online.met.vgwort.de
+toolbox.adscale.de
 tools.adcolony.com
 tools.adform.com
+tools.adscale.de
 tools-tracking.adform.com
 top.criteo.com
 top.moatads.com
@@ -6891,6 +6922,7 @@ trisolute.loggly.com
 tritondigital-emea.adnxs.com
 trovimap.loggly.com
 trustamerica.loggly.com
+trx.adscale.de
 try.applovin.com
 t.scorecardresearch.com
 tshr20140816.loggly.com
@@ -7075,6 +7107,7 @@ vgwwi-li02.vgwort.de
 vgwwi-ws01.vgwort.de
 vgwwi-ws02.vgwort.de
 vgwwi-ws03.vgwort.de
+vh.adscale.de
 vhapgs003.ioam.de
 vhj6frliva.kameleoon.eu
 viacom.adform.com
@@ -7532,6 +7565,7 @@ www.adcolony.com
 www.adform.com
 www-admin.plista.com
 www.adnxs.com
+www.adscale.de
 www.adshowroom.adcolony.com
 www.adtilt.com
 www.adyoulike.omnitagjs.com
