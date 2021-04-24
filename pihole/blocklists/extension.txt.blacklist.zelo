@@ -175,6 +175,8 @@
 190.41.54.45.rdns.adjust.com
 191.41.54.45.rdns.adjust.com
 192-136-94-77.ptr.zemanta.com
+192.168.ads.trafficjunky.net
+192.168.media.trafficjunky.net
 193-136-94-77.ptr.zemanta.com
 194-136-94-77.ptr.zemanta.com
 194.41.54.45.rdns.adjust.com
@@ -1373,6 +1375,7 @@ aapp.adjust.com
 a.applovin.com
 a.applvn.com
 aap-web-front.adform.com
+aa.trafficjunky.net
 aax-us-pdx.amazon-adsystem.comafs.moatads.com
 aba050e3e987a089c3e6f76920da3ca.ulink.adjust.com
 ab.adnxs.com
@@ -1518,6 +1521,7 @@ ads20.adcolony.com
 ads30.adcolony.com
 ads3.ioam.de
 ads4.ioam.de
+ads5.trafficjunky.net
 ads.adcolony.com
 ad.sa.doubleclick.net
 ads.adtilt.com
@@ -1546,6 +1550,7 @@ ads.scorecardresearch.com
 ads.smartadserver.com
 ads.supersonicads.com
 ads.sv.us.criteo.com
+ads.trafficjunky.net
 adstxt.adnxs.com
 ads.u.nuggad.net
 ads.us.criteo.com
@@ -1597,6 +1602,7 @@ ae9685871ddc28584c108b73c3ca5fdc.ulink.adjust.com
 aeqaq23kid.kameleoon.eu
 aeriesnet.marinschools.orgafs.moatads.com
 aero-log.adjust.com
+aet.trafficjunky.net
 aexp.demdex.netafs.moatads.com
 af-event-logger.appsflyer.com
 afmarketingdev.appsflyer.com
@@ -1684,6 +1690,7 @@ analyser.nuggad.net
 analytics.amplitude.com
 analytics.moat.com
 analytics.plista.com
+analytics-v2.trafficjunky.net
 androidads20.adcolony.com
 androidads20staging.adcolony.com
 androidads21.adcolony.com
@@ -1741,6 +1748,7 @@ api.ssp.omnitagjs.com
 api.supersonicads.com
 api.supersonic.com
 api-test.plista.com
+api.trafficjunky.net
 api.trbo.com
 api-v2.trbo.com
 api-v3.trbo.com
@@ -2274,6 +2282,7 @@ betamediavisor.doubleclick.net
 betareportcentral.doubleclick.com
 betareportcentral.doubleclick.net
 betatest.loggly.com
+beta.trafficjunky.net
 beta.trbo.com
 betclic.smartadserver.com
 b-eu.scorecardresearch.com
@@ -2488,6 +2497,9 @@ caw.jp.as.criteo.com
 caw.nl.eu.criteo.com
 caw.ny.us.criteo.com
 caw.sv.us.criteo.com
+cayenne.ord.trafficjunky.net
+cayman1.ord.trafficjunky.net
+cayman2.ord.trafficjunky.net
 cb64418101f59bd34cdd388388c5.ulink.adjust.com
 cb88ade12e0035bbc3f548547e544b6b.ulink.adjust.com
 cba.gbc.criteo.com
@@ -2503,8 +2515,12 @@ c.clarity.ms
 ccs-king.customlinks.appsflyer.com
 ccww6081pj.kameleoon.eu
 cd.ioam.de
+cdn10.trafficjunky.net
+cdn11.trafficjunky.net
+cdn1.media.trafficjunky.net
 cdn1.smartadserver.com
 cdn2.smartadserver.com
+cdn-a2.trafficjunky.net
 cdn.adjust.com
 cdn.adnxs.com
 cdn.amplitude.com
@@ -2765,9 +2781,11 @@ csm.va.us.criteo.net
 csp.criteo.com
 csp.va1.vip.prod.criteo.com
 cs-staging.adscale.de
+c-staging.trafficjunky.net
 csync.smartadserver.com
 csync-tmk.smartadserver.com
 ctkqcpb29.kameleoon.eu
+ctrack.trafficjunky.net
 cubec020.ioam.de
 cubec021.ioam.de
 cubec022.ioam.de
@@ -3024,7 +3042,18 @@ de.doubleclick.net
 def.gbc.criteo.com
 def-gw-one.meetrics.de
 de.ioam.de
+delivery11.trafficjunky.net
+delivery1.trafficjunky.net
+delivery2.trafficjunky.net
+delivery3.trafficjunky.net
+delivery4.trafficjunky.net
+delivery5.trafficjunky.net
+delivery6.trafficjunky.net
+delivery9.trafficjunky.net
+delivery.preprod.trafficjunky.net
+delivery.staging.trafficjunky.net
 delivery.supersonicads.com
+delivery.trafficjunky.net
 dellbe.widget.criteo.com
 dellone.loggly.com
 demo-1.adjust.com
@@ -3743,6 +3772,7 @@ ftp-as.criteo.com
 ftp.criteo.com
 ftp.moatads.com
 ftp.smartadserver.com
+ftp.trafficjunky.net
 ftp.us.adform.com
 ftp.vgwort.de
 fundamentalmedia.moat.com
@@ -3868,6 +3898,7 @@ glccoquo8i.kameleoon.eu
 global.appsflyer.com
 globalbluemarketingservices.moat.com
 gmbqdzikix.kameleoon.eu
+gml-grp.com
 gnx760sl3h.kameleoon.eu
 go.adform.com
 go.adjust.com
@@ -5143,6 +5174,8 @@ hr-script.dotmetrics.net
 h.scorecardresearch.com
 hs.moatads.com
 hstrck.com
+ht-cdn2.trafficjunky.net
+ht-cdn.trafficjunky.net
 html5toolkit.adform.com
 htpixel.moatads.com
 httpams1-ib.adnxs.com
@@ -5169,6 +5202,9 @@ hukon606je.kameleoon.eu
 hulc6ik6v1.kameleoon.eu
 hw2egabscz.kameleoon.eu
 hw-assets.applovin.com
+hw-cdn2.trafficjunky.net
+hw-cdn-ap.trafficjunky.net
+hw-cdn.trafficjunky.net
 hw-img.applovin.com
 hwoulvdbad.kameleoon.eu
 hw-pdn.applovin.com
@@ -5731,6 +5767,7 @@ lz4xcvpv66.kameleoon.eu
 m1bse5qis1.kameleoon.eu
 m1.ib.adnxs.com
 m2.doubleclick.net
+m2.trafficjunky.net
 m3.doubleclick.net
 m4.moatads.com
 m6rc0n8x7f.kameleoon.eu
@@ -5789,6 +5826,7 @@ mailserver.app-measurement.com
 mail.supersonicads.com
 mail.supersonic.com
 mail.tisoomi.com
+mail.trafficjunky.net
 mail.vgwort.de
 mail.xplosion.de
 mail.yieldlab.net
@@ -5821,6 +5859,7 @@ marketing.criteo.com
 marketing.par.vip.prod.criteo.com
 marketing.preprod.criteo.com
 marketplace.criteo.com
+marketplace.trafficjunky.net
 marktjagdde.widget.criteo.com
 marty.zemanta.com
 maskma.adjust.com
@@ -5861,6 +5900,7 @@ media.plista.com
 media.smartadserver.com
 media.supersonic.com
 mediation.nym1.adnxs.com
+media.trafficjunky.net
 mediavisor.doubleclick.com
 mediavisor.doubleclick.net
 medicaid.utah.govpixel.moatads.com
@@ -5913,6 +5953,7 @@ mobile.pipe.aria.microsoft.comapp.adjust.com
 mobile.smartadserver.com
 mobilespreeconf.adjust.com
 mobile.supersonicads.com
+mobile.trafficjunky.net
 mocktool.moat.com
 mockups.plista.com
 mohamedkhalid.loggly.com
@@ -5962,6 +6003,7 @@ ms-usa.applovin.com
 msvisitor.omnitagjs.com
 mt8vt3zzf4.kameleoon.eu
 mta-sts.alt2.aspmx.l.google.com.meetrics.com
+m.trafficjunky.net
 m.trbo.com
 mtylru0j26.kameleoon.eu
 mu5okw8mqc.kameleoon.eu
@@ -6588,6 +6630,7 @@ proxy-hetzner.plista.com
 prtg44.smartadserver.com
 ps.moatads.com
 pt.moatads.com
+pt.trafficjunky.net
 pubads.g.doubleclick.net
 pub-api.supersonicads.com
 pubicstaticvoidmain.adjust.com
@@ -7136,6 +7179,7 @@ smtp-itx1.adform.com
 smtp-jay01.adform.com
 smtp-jay1.adform.com
 smtp.moatads.com
+smtp.trafficjunky.net
 sn1-ib.adnxs.com
 snapav.loggly.com
 snapchat.customlinks.appsflyer.com
@@ -7146,6 +7190,7 @@ solusarc.loggly.com
 sonarqube.adform.com
 sonic-dev.supersonicads.com
 sonic-us.supersonicads.com
+source-media.trafficjunky.net
 sp.appsflyer.com
 spbdean.loggly.com
 spiegel.met.vgwort.de
@@ -7245,6 +7290,7 @@ ssp.zemanta.com
 ssssss1.customlinks.appsflyer.com
 ssssss.customlinks.appsflyer.com
 sss.z.moatads.com
+ss.trafficjunky.net
 s.supersonicads.com
 stage-a4.applovin.com
 stage-a.applovin.com
@@ -7342,6 +7388,7 @@ static-softlayer.plista.com
 static.supersonicads.com
 static.sv.us.criteo.net
 static-th.plista.com
+static.trafficjunky.net
 static.trbo.com
 static-tr.plista.com
 static-tw.plista.com
@@ -7356,8 +7403,10 @@ stats.g.doubleclick.net
 stats.g.doubleclick.nettiles.services.mozilla.comv4.moatads.com
 statsgoogle.appsflyer.com
 stats.l.doubleclick.net
+stats.ord.trafficjunky.net
 stats.supersonicads.com
 stats.support.appsflyer.com
+stats.trafficjunky.net
 stats.xplosion.de
 stats.zemanta.com
 status.addefend.com
@@ -7548,6 +7597,23 @@ tisoomi.com
 tisoomi-services.com
 tisoomitech.tstest.addefend.com
 tjadtrack.xyz
+tjdelivery11.trafficjunky.net
+tjdelivery12.trafficjunky.net
+tjdelivery13.trafficjunky.net
+tjdelivery14.trafficjunky.net
+tjdelivery15.trafficjunky.net
+tjdelivery16.trafficjunky.net
+tjdelivery17.trafficjunky.net
+tjdelivery18.trafficjunky.net
+tjdelivery19.trafficjunky.net
+tjdelivery20.trafficjunky.net
+tjdelivery21.trafficjunky.net
+tjdelivery22.trafficjunky.net
+tjdelivery23.trafficjunky.net
+tjdelivery24.trafficjunky.net
+tjdelivery25.trafficjunky.net
+tjdelivery50.trafficjunky.net
+tjec1.ord.trafficjunky.net
 tmk-akrma.smartadserver.com
 tmk-ecadn.smartadserver.com
 tmk-eltiempo.smartadserver.com
@@ -7589,6 +7655,7 @@ tracking-fra01.omnitagjs.com
 tracking.fra01.omnitagjs.com
 tracking-fra02.omnitagjs.com
 tracking.omnitagjs.com
+tracking.trafficjunky.net
 tracking-usa01.omnitagjs.com
 tracking-usa02.omnitagjs.com
 track.omnitagjs.com
@@ -7598,6 +7665,7 @@ track.trbo.com
 tracktrbo.com
 tr.adjust.com
 traffichaus.loggly.com
+trafficjunky.net
 traffic.zemanta.com
 training7.adnxs.com
 translate.googleapis.comvideo.moatads.com
@@ -7812,6 +7880,8 @@ vh.adscale.de
 vhapgs003.ioam.de
 vhj6frliva.kameleoon.eu
 viacom.adform.com
+viamichelin.ads.trafficjunky.net
+viamichelin.media.trafficjunky.net
 viber.adjust.com
 viber-emea.adnxs.com
 vidapi.addefend.com
@@ -7909,6 +7979,8 @@ vu.moatads.comvu.moatads.com
 vwj3o45y6f.kameleoon.eu
 vw.moatads.com
 vz-assets.applovin.com
+vz-cdn2.trafficjunky.net
+vz-cdn.trafficjunky.net
 vz-img.applovin.com
 vzuhe758ae.kameleoon.eu
 vz-vid.applovin.com
@@ -8800,6 +8872,7 @@ www.gem.gbc.criteo.com
 www.gen2.loggly.com
 www.geo.moatads.com
 www.get.appsflyer.com
+www.gml-grp.com
 www.googleads.g.doubleclick.net
 www-google-analytics.l.google.comnym1-ib.adnxs.com
 www.google.comaccounts.google.comapp.snapchat.combm.moatads.com
@@ -8923,6 +8996,7 @@ www.tjadtrack.xyz
 www.tom.vgwort.de
 www.tracking.omnitagjs.com
 www.tracking-usa02.omnitagjs.com
+www.trafficjunky.net
 www.trbo.com
 www.u.moatads.com
 www.unityads.unity3d.com
