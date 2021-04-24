@@ -18,7 +18,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 1445 Domains - 2021.04.24-19:42:07
+# 1446 Domains - 2021.04.24-22:47:25
 # ---------------------------------------------
 #
 184.48.190.35.bc.googleusercontent.com
@@ -88,6 +88,7 @@ ads.pinterest.com
 ads.pubmatic.com
 ads.reddit.com
 ads.rubiconproject.com
+ads.seppsmedia.com
 adstax-cdn.adrtx.net
 ads.tiktok.com
 ads.trafficjunky.net
