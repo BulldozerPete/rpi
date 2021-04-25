@@ -1412,7 +1412,6 @@ accounts-qa-1.adjust.com
 accounts-qa-2.adjust.com
 accuweather.moat.com
 acdb.adnxs.com
-acdn.adnxs.com
 a.comjs.moatads.com
 acroipm2.adobe.comapp.adjust.com
 activetrail.loggly.com
@@ -1649,7 +1648,6 @@ amica.met.vgwort.de
 a.moatads.com
 amouradistance.adjust.com
 amplify.amplitude.com
-amplitude.com
 ams10.ib.adnxs.com
 ams1-1b.adnxs.com
 ams11.ib.adnxs.com
@@ -1721,7 +1719,6 @@ api.adform.com
 api.adjust.com
 api.adnxs.com
 api.am5.vip.prod.criteo.com
-api.amplitude.com
 api.amplitude.comapi.amplitude.com
 api.api.omnitagjs.com
 api.applovin.com
@@ -1765,7 +1762,6 @@ app4.adjust.com
 app578.adjust.com
 app57.adjust.com
 app5.adjust.com
-app.adjust.com
 app.adjust.comapp.adjust.com
 app.adjust.comapp.adjust.comapp.adjust.comapp.adjust.com
 app.adjust.net.in
@@ -1778,7 +1774,6 @@ app.liftoff.io
 app.loggly.com
 applovin.com
 applvn.com
-app-measurement.com
 app.moatads.com
 app.scorecardresearch.com
 appsdev.appsflyer.com
@@ -2481,7 +2476,6 @@ cat.hk.as.criteo.com
 cat.hk.cn.criteo.com
 cat.hk.cn.criteo.net
 cat.jp.as.criteo.com
-cat.nl.eu.criteo.com
 cat.ny.us.criteo.com
 cat.par.vip.prod.criteo.com
 cat.sh.cn.criteo.com
@@ -2687,7 +2681,6 @@ config1.ioam.de
 config20.adtilt.com
 config3.ioam.de
 config.edge.skype.comapp.adjust.com
-config.ioam.de
 config.nuggad.net
 config.unityads.unity3d.com
 confluence.moat.com
@@ -3042,7 +3035,6 @@ dedicatedmedia28246080496.moatads.com
 de.doubleclick.net
 def.gbc.criteo.com
 def-gw-one.meetrics.de
-de.ioam.de
 delivery11.trafficjunky.net
 delivery1.trafficjunky.net
 delivery2.trafficjunky.net
@@ -3196,7 +3188,6 @@ domer.customlinks.appsflyer.com
 dotmetrics.net
 doubleclick-analytics.com
 doubleclick.com
-doubleclick.net
 dowjones.moat.com
 download.adjust.com
 download.adnxs.com
@@ -3806,7 +3797,7 @@ gamestop.loggly.com
 gan.doubleclick.net
 gannett.moat.com
 gate.trbo.com
-Gateway.smartadserver.com
+gateway.smartadserver.com
 gateway.supersonicads.com
 gbc0.da.us.criteo.com
 gbc0.hk.as.criteo.com
@@ -5664,7 +5655,6 @@ lga.adjust.com
 lgs-01.loggly.com
 lieferheldde.widget.criteo.com
 life.adform.com
-liftoff.io
 lihi.customlinks-stg.appsflyer.com
 line.adjust.com
 lineitems.storage.adform.com
@@ -5719,7 +5709,6 @@ loggerhead-fra01.omnitagjs.com
 loggerhead-fra02.omnitagjs.com
 loggerhead.omnitagjs.com
 logging.adtilt.com
-loggly.com
 logicimmoloc.widget.criteo.com
 login.adscale.de
 login.adtilt.com
@@ -5768,9 +5757,7 @@ lync.comz.moatads.com
 lz4xcvpv66.kameleoon.eu
 m1bse5qis1.kameleoon.eu
 m1.ib.adnxs.com
-m2.doubleclick.net
 m2.trafficjunky.net
-m3.doubleclick.net
 m4.moatads.com
 m6rc0n8x7f.kameleoon.eu
 m7ng7z5gag.kameleoon.eu
@@ -6367,9 +6354,8 @@ pab.adform.com
 p.adjust.com
 p.adnxs.com
 p.ads.smartadserver.com
-Pagead46.i.doubleclick.net
+pagead46.i.doubleclick.net
 pagead46.l.doubleclick.net
-pagead.l.doubleclick.net
 pahamify.customlinks.appsflyer.com
 paid.zemanta.com
 palettegear.loggly.com
@@ -6722,7 +6708,6 @@ rdi.criteo.com
 rdi.da1.vip.prod.criteo.com
 rdi.hk5.vip.prod.criteo.com
 rdi.jp.as.criteo.com
-rd.intl.doubleclick.net
 rdi.par.vip.prod.criteo.com
 rdi.ty5.vip.prod.criteo.com
 rdi.us.criteo.com
@@ -8786,7 +8771,7 @@ www3.doubleclick.net
 www3.smartadserver.com
 www4.smartadserver.com
 www5.smartadserver.com
-Www691.smartadserver.com
+www691.smartadserver.com
 www6.smartadserver.com
 www7.smartadserver.com
 www8.smartadserver.com
@@ -8853,7 +8838,6 @@ www.dedicatedmedia28246080496.moatads.com
 www.dotmetrics.net
 www.doubleclick-analytics.com
 www.doubleclick.com
-www.doubleclick.net
 www.dsa.moatads.com
 www.eacdn.com
 www.ec2.mb.moatads.com
