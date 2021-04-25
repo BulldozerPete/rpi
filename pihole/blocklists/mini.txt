@@ -18,7 +18,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 1444 Domains - 2021.04.24-23:17:06
+# 1533 Domains - 2021.04.25-03:47:10
 # ---------------------------------------------
 #
 184.48.190.35.bc.googleusercontent.com
@@ -39,6 +39,8 @@
 82o9v830.com
 84.249.186.35.bc.googleusercontent.com
 8468614.fls.doubleclick.net
+a1.adform.net
+aa.agkn.com
 a.adtng.com
 aax.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
@@ -67,7 +69,9 @@ acridtwist.com
 actuallysheep.com
 actuallysnake.com
 ad13.adfarm1.adition.com
+ad1.adfarm1.adition.com
 ad2.adfarm1.adition.com
+ad4m.at
 additionant.com
 ad.doubleclick.net
 ade.googlesyndication.com
@@ -76,6 +80,7 @@ ads2.contentabc.com
 ad.samsungadhub.com
 ad.samsungads.com
 adsdk.yandex.ru
+adserver.exoticads.com
 adserver.yahoo.com
 adservetx.media.net
 adservice.google.com
@@ -89,6 +94,7 @@ ads.pubmatic.com
 ads.reddit.com
 ads.rubiconproject.com
 ads.seppsmedia.com
+ads.stickyadstv.com
 adstax-cdn.adrtx.net
 ads.tiktok.com
 ads.trafficjunky.net
@@ -108,6 +114,7 @@ agreeabletouch.com
 aheadday.com
 a.hstrck.com
 ak0gsh40.com
+alb.reddit.com
 alertafterthought.com
 alikeaddition.com
 alikearm.com
@@ -143,6 +150,7 @@ an.yandex.ru
 apathetictheory.com
 api.ad.xiaomi.com
 api.mixpanel.com
+api.permutive.com
 api.theadex.com
 app.adjust.com
 app.adjust.net.in
@@ -162,8 +170,10 @@ arizonapuzzle.com
 aromamirror.com
 as.bild.de
 assoc-amazon.com
+as.techbook.de
 ata-ads.realmemobile.com
 a.teads.tv
+atonato.de
 attractiveafternoon.com
 attractivecap.com
 attr.appsflyer.com
@@ -213,6 +223,8 @@ bewilderedbattle.com
 bewilderedblade.com
 bhcumsc.com
 bidder.criteo.com
+bid.g.doubleclick.net
+bid.sxp.smartclip.net
 bigdata.ssp.samsung.com
 billowybead.com
 bitterbear.com
@@ -222,6 +234,7 @@ blushingbeast.com
 blushingboundary.com
 blushingwar.com
 bmedia.justservingfiles.net
+bngpt.com
 b.ns1p.net
 boilingbeetle.com
 boilingumbrella.com
@@ -250,6 +263,7 @@ browser.sentry-cdn.com
 bruisebaseball.com
 brushdaughter.com
 bs-meta.yandex.ru
+bs.showheroes.com
 bs.yandex.ru
 btez8.xyz
 bucketbean.com
@@ -291,24 +305,34 @@ catschickens.com
 cautiouscrate.com
 cautiouscredit.com
 c.bing.com
+cdn2.cam-content.com
 cdn2.teads.tv
 cdn.88-f.net
+cdn.adnxs.com
 cdn-assets-widget-production.imgix.net
 cdn-aws.platincasino.com
 cdn-a.yieldlove.com
+cdn.blueconic.net
 cdn.braze.eu
 cdn.c-i.as
 cdn.consentmanager.mgr.consensu.org
 cdn.cxense.com
+cdn.doubleverify.com
 cdn.fastclick.net
 cdn.krxd.net
 cdn.luckyorange.com
+cdn.mouseflow.com
 cdn.mxpnl.com
 cdn.onesignal.com
+cdn.onthe.io
+cdn.opencmp.net
+cdn-pci.optimizely.com
+cdn.permutive.com
 cdn.runative-syndicate.com
 cdn-settings.segment.com
 cdn.speedcurve.com
 cdn.taboola.com
+cdntrf.com
 cdn.viglink.com
 chairscrack.com
 channelcamp.com
@@ -333,6 +357,7 @@ cloisteredhydrant.com
 cloudsdestruction.com
 clusava.fra-01.braze.eu
 cms.analytics.yahoo.com
+cms.quantserve.com
 coatfood.com
 collector.githubapp.com
 colorfulafterthought.com
@@ -355,6 +380,7 @@ consciouschairs.com
 consciousdirt.com
 consentcdn.cookiebot.com
 consentmanager.mgr.consensu.org
+consent.trustarc.com
 consentv2.sport1.de
 consistpotato.com
 conversions.appsflyer.com
@@ -372,6 +398,7 @@ crabbychin.com
 crashlyticsreports-pa.googleapis.com
 crawlclocks.com
 crayoncompetition.com
+crcdn01.adnxs.com
 critictruck.com
 cs.luckyorange.net
 cubchannel.com
@@ -410,6 +437,7 @@ deafeningdock.com
 de.betano.com
 debonairdust.com
 debonairway.com
+de.chaturbate.com
 decidedrum.com
 decisivebase.com
 decisivedrawer.com
@@ -444,6 +472,7 @@ divergentoffer.com
 dk4ywix.com
 dmp.theadex.com
 d.nativendo.de
+dn.srv1272.com
 docksalmon.com
 dogsshoes.com
 dollardelta.com
@@ -462,6 +491,7 @@ dripappliance.com
 driverequest.com
 drivingdirt.com
 drydrum.com
+dsum-sec.casalemedia.com
 dualstack-logs.amap.com
 dustyrabbits.com
 dyn.emetriq.de
@@ -469,6 +499,7 @@ dzc-metrics.mzstatic.com
 earthquakeend.com
 earthquakescarf.com
 earthycopy.com
+eb2.3lift.com
 economicpizzas.com
 educatedeggnog.com
 efficaciouscactus.com
@@ -496,6 +527,7 @@ enviousthread.com
 erraticreaction.com
 es.advertising.yahoo.com
 etahub.com
+eu-aa.online-metrix.net
 eu-adsrv.rtbsuperhub.com
 eus.rubiconproject.com
 eu-tlp01.kameleoon.eu
@@ -538,10 +570,12 @@ fearfulfish.com
 feebleshock.com
 fifthborder.com
 finalizeforce.com
+firebaselogging.googleapis.com
 firebaselogging-pa.googleapis.com
 firebase-settings.crashlytics.com
 firstfrogs.com
 flakyfeast.com
+flash.doubleclick-analytics.com
 flimsycircle.com
 flimsythought.com
 flockflame.com
@@ -553,6 +587,7 @@ foregoingfowl.com
 forgetfulflowers.com
 fourarithmetic.com
 fourfork.com
+fra1-ib.adnxs.com
 fr.advertising.yahoo.com
 frailflock.com
 frailoffer.com
@@ -573,6 +608,7 @@ futuristicfold.com
 fuzzyflavor.com
 fuzzyweather.com
 fvl1f.pw
+fw.adsafeprotected.com
 g1.ads.oppomobile.com
 g.3gl.net
 ga87z2o.com
@@ -597,6 +633,7 @@ glossysense.com
 go.alxbgo.com
 godlygeese.com
 gondolagnome.com
+googleads4.g.doubleclick.net
 googleads.g.doubleclick.net
 google-analytics.com
 gorgeousground.com
@@ -647,18 +684,24 @@ hocgeese.com
 homelycrown.com
 honeybulb.com
 honeygoldfish.com
+h.online-metrix.net
 honorablehall.com
 honorableland.com
 horsenectar.com
 hosenews.com
 hotjar.com
+ht-cdn.trafficjunky.net
 htlb.casalemedia.com
 ht.redtube.com
+ht.tube8.com
+ht.xtube.com
+ht.youporn.com
 hubt.pornhub.com
 hubtraffic.com
 humdrumhat.com
 hurtteeth.com
 hw-cdn2.trafficjunky.net
+hw-cdn-ap.trafficjunky.net
 hw-cdn.trafficjunky.net
 hypnoticwound.com
 hystericalhelp.com
@@ -705,6 +748,7 @@ internalsink.com
 inventionpassenger.com
 investigatepin.com
 invitesugar.com
+iqdigitalmediamarketinggmbh.sc.omtrdc.net
 ir-de.amazon-adsystem.com
 irqs.ioam.de
 it.advertising.yahoo.com
@@ -716,6 +760,7 @@ jadeitite.com
 jamexistence.com
 joblessdrum.com
 js.adscale.de
+js-agent.newrelic.com
 js-sec.indexww.com
 justicejudo.com
 k54nw.pw
@@ -793,6 +838,7 @@ md-i-s.apptimize.com
 meatydime.com
 media.fastclick.net
 media.net
+media.trafficjunky.com
 media.trafficjunky.net
 medusasailor.com
 melodicminute.com
@@ -836,6 +882,7 @@ mowfruit.com
 ms.applovin.com
 ms.applvn.com
 muddledaftermath.com
+munchkin.marketo.net
 m.yap.yahoo.com
 mysteriousmonth.com
 necessarywax.com
@@ -858,6 +905,7 @@ n-tv.met.vgwort.de
 nullnorth.com
 nuttyorganization.com
 obscenesidewalk.com
+obs.cheqzone.com
 observantice.com
 odb.outbrain.com
 offerwall.yandex.net
@@ -890,6 +938,7 @@ parcelcreature.com
 parchedangle.com
 parsimoniouspolice.com
 partnerads.ysm.yahoo.com
+partner.googleadservices.com
 partplanes.com
 pastepot.com
 pastoralcorn.com
@@ -910,9 +959,11 @@ ping.chartbeat.net
 piquantpigs.com
 piquantstove.com
 pixel.adsafeprotected.com
+pixel.advertising.com
 pixel.facebook.com
 pixel.spotify.com
 pixel-static.spotify.com
+pixel.trackverify.com
 pizzasnut.com
 plainrequest.com
 plantdigestion.com
@@ -952,6 +1003,7 @@ propeller-tracking.com
 propertypotato.com
 proudprose.com
 psoageeb.com
+pubads.g.doubleclick.net
 puffyloss.com
 puffypull.com
 puffypurpose.com
@@ -963,6 +1015,7 @@ qs.ioam.de
 quacksquirrel.com
 quaintcan.com
 quarterbean.com
+quartermedia.de
 quicksandear.com
 quietknowledge.com
 quizzicalzephyr.com
@@ -1024,6 +1077,7 @@ rt.applovin.com
 rt.applvn.com
 rtax.criteo.com
 rtb.d.adup-tech.com
+rtb.mfadsrvr.com
 r.teads.tv
 ruddycast.com
 ruddywash.com
@@ -1075,6 +1129,7 @@ scientificshirt.com
 scientificsneeze.com
 scintillatingscissors.com
 scintillatingspace.com
+sc.lfeeder.com
 scratchsofa.com
 scrawnystart.com
 screechingfurniture.com
@@ -1105,6 +1160,7 @@ selectivesummer.com
 selfishsea.com
 separateshow.com
 separatesilver.com
+servedby.flashtalking.com
 sessions.bugsnag.com
 settings.luckyorange.net
 shaggytank.com
@@ -1130,6 +1186,7 @@ silentwrench.com
 siliconslow.com
 silkysquirrel.com
 sillyscrew.com
+simage2.pubmatic.com
 simplisticstem.com
 sincerebuffalo.com
 sinceresubstance.com
@@ -1148,9 +1205,11 @@ smetrics.samsung.com
 smilingwaves.com
 smoggysnakes.com
 smoggystation.com
+smpop.icfcdn.com
 snailsengine.com
 snakemineral.com
 snakesshop.com
+snap.licdn.com
 sneakystamp.com
 sneakystew.com
 snoresmile.com
@@ -1169,6 +1228,7 @@ soresneeze.com
 sorethunder.com
 sortsail.com
 sortsummer.com
+sourcepoint.mgr.consensu.org
 soycrockarab.com
 sp.analytics.yahoo.com
 sparklingnumber.com
@@ -1197,8 +1257,10 @@ squeakzinc.com
 squealingturn.com
 squirrelhands.com
 srtb.msn.com
+srv272b.com
 ssl.google-analytics.com
 ssl-rp-online.met.vgwort.de
+ssl-tagesspiegel.met.vgwort.de
 stakingscrew.com
 stakingslope.com
 staleseat.com
@@ -1221,8 +1283,11 @@ static.hotjar.com
 static.klaviyo.com
 static.media.net
 static.showheroes.com
+static.trafficjunky.com
+static.trafficjunky.net
 static-v2.trbo.com
 stats.datawrapper.de
+stats.g.doubleclick.net
 stats.wp.com
 statuesquebrush.com
 steadfastsound.com
@@ -1267,13 +1332,17 @@ superficialsquare.com
 supervisegoldfish.com
 supportmetrics.apple.com
 suspendseed.com
+s.vi-serve.com
 sweepsheep.com
 sweetslope.com
 swellstocking.com
 swimslope.com
 swordgoose.com
 symbolizebeast.com
+sync.search.spotxchange.com
+sync.teads.tv
 syndication.exdynsrv.com
+syndication.realsrv.com
 syndication.traffichaus.com
 synthesizespoon.com
 systemizecoat.com
@@ -1285,6 +1354,7 @@ tarttendency.com
 tastefulsongs.com
 tastelesstrees.com
 tawdryson.com
+taz.met.vgwort.de
 tdzvm.pw
 technical-service.net
 tedioustooth.com
@@ -1322,17 +1392,21 @@ tidytrail.com
 timeterritory.com
 timetwig.com
 t.ktxtr.com
+tlx.3lift.com
 t.nativendo.de
 toecircle.com
 toedrawer.com
 toothbrushnote.com
 toothpasterabbits.com
 topichawaii.com
+toplist.raidrush.ws
+top.nydus.org
 torpidtongue.com
 torpidtoothpaste.com
 toweringrun.com
 tpc.googlesyndication.com
 tracedesire.com
+track.adform.net
 track.express.de
 tracking.adalliance.io
 tracking.india.miui.com
@@ -1346,6 +1420,7 @@ track.ksta.de
 track.rundschau-online.de
 tracksrv.zdf.de
 traffic.emsservice.de
+trafficjunky.com
 tranquilside.com
 translateoatmeal.com
 trappush.com
@@ -1364,6 +1439,7 @@ truckstomatoes.com
 tsyndicate.com
 ttauri.techradar.com
 t.teads.tv
+tt.onthe.io
 tutorthing.com
 typicalairplane.com
 typicalteeth.com
@@ -1398,14 +1474,19 @@ ups.xplosion.de
 us.adserver.yahoo.com
 usedexample.com
 ush.adspecs.yahoo.com
+us-u.openx.net
 uttermosthobbies.com
 vanfireworks.com
+vast.guppy.site
 venusgloria.com
 verifyvegetable.com
 verseballs.com
+vg02.met.vgwort.de
+via.batch.com
 visit.webhosting.yahoo.com
 voicevegetable.com
 vq1qi.pw
+v.vfgte.com
 vz-cdn2.trafficjunky.net
 vz-cdn.trafficjunky.net
 w1.luckyorange.com
@@ -1429,6 +1510,7 @@ widgets.outbrain.com
 widgets.pinterest.com
 wigglygeese.com
 wigglyindustry.com
+wildblaster.net
 wildernesscamera.com
 wirecomic.com
 womanear.com
@@ -1441,17 +1523,23 @@ wreckvolcano.com
 writewealth.com
 wrongpotato.com
 wryfinger.com
+w.usabilla.com
 www4.smartadserver.com
 www6.smartadserver.com
+www.awin1.com
 www.big7.com
+www.cashdorado.de
 www.cdn4ads.com
 www.cdn.ad.xiaomi.com
+www.etahub.com
 www.google-analytics.com
 www.googletagmanager.com
 www.googletagservices.com
 www.htdvt.com
 www.maltaopenleague.com
 www.platincasino.com
+www.summerhamster.com
+www.vfthr.com
 www.xplosion.de
 xlog.tiktokv.com
 xovq5nemr.com
@@ -1460,6 +1548,7 @@ yieldlove-d.openx.net
 youngmarble.com
 youtube.cleverads.vn
 zbwp6ghm.com
+zdwidget3-bs.sphereup.com
 zealousfield.com
 zippywind.com
 zipservice.adalliance.io
