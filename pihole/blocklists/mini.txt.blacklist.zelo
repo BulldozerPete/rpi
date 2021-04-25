@@ -1,3 +1,7 @@
+0938d1bb884d9261b551b14cecf15380.safeframe.googlesyndication.com
+19001cf136f656cc547ab8cb7827c0d1.safeframe.googlesyndication.com
+25cc511ad0fd91614a19a47248f17037.safeframe.googlesyndication.com
+4da16dc32d5007fadf1aa8570db55f0c.safeframe.googlesyndication.com
 7ba3f64df98de730df38846b54ecfbdf7f61f80f.cws.conviva.com
 8468614.fls.doubleclick.net
 a1.adform.net
@@ -9,6 +13,7 @@ aax-us-east.amazon-adsystem.com
 a.bf-ad.net
 acdn.adnxs.com
 ad13.adfarm1.adition.com
+ad13da331acfd8c29763d91963411709.safeframe.googlesyndication.com
 ad1.adfarm1.adition.com
 ad2.adfarm1.adition.com
 ad4m.at
@@ -36,6 +41,7 @@ ads-twitter.com
 ads.yahoo.com
 ads.yap.yahoo.com
 ads.youtube.com
+adtm.chip.de
 adtools.facebook.com
 adx.adform.net
 ad.yieldlab.net
@@ -58,7 +64,9 @@ analytics.yahoo.com
 api.ad.xiaomi.com
 api.mixpanel.com
 api.permutive.com
+api.rlcdn.com
 api.theadex.com
+ap.lijit.com
 app.adjust.com
 app.adjust.net.in
 app.adjust.world
@@ -66,6 +74,8 @@ app.chat.xiaomi.net
 app-measurement.com
 appmetrica.yandex.com
 as.bild.de
+as.computerbild.de
+as-sec.casalemedia.com
 assoc-amazon.com
 as.techbook.de
 a.teads.tv
@@ -76,6 +86,7 @@ audit-tcfv2.quantcast.mgr.consensu.org
 axel-springer-d.openx.net
 az416426.vo.msecnd.net
 bat.bing.com
+beaconimages.netflix.net
 beacon.riskified.com
 bidder.criteo.com
 bid.g.doubleclick.net
@@ -101,6 +112,7 @@ cdn2.cam-content.com
 cdn2.teads.tv
 cdn.88-f.net
 cdn.adnxs.com
+cdn.adspirit.de
 cdn-assets-widget-production.imgix.net
 cdn-a.yieldlove.com
 cdn.blueconic.net
@@ -119,12 +131,14 @@ cdn.onthe.io
 cdn.opencmp.net
 cdn-pci.optimizely.com
 cdn.permutive.com
+cdn.pushwoosh.com
 cdn.runative-syndicate.com
 cdn-settings.segment.com
 cdn.speedcurve.com
 cdn.taboola.com
 cdntrf.com
 cdn.viglink.com
+cdn.xplosion.de
 cf.iadsdk.apple.com
 c.ktxtr.com
 click.oneplus.cn
@@ -137,6 +151,7 @@ config.88-f.net
 config.ioam.de
 config.samsungads.com
 con.mm.dm.de
+connect-metrics-collector.s-onetag.com
 consentcdn.cookiebot.com
 consentmanager.mgr.consensu.org
 consent.trustarc.com
@@ -147,6 +162,8 @@ cpxl.golem.de
 crashlyticsreports-pa.googleapis.com
 crcdn01.adnxs.com
 cs.luckyorange.net
+csm.fr.eu.criteo.net
+d1miwkthq39xj8.cloudfront.net
 d2v02itv0y9u9t.cloudfront.net
 d31bfnnwekbny6.cloudfront.net
 d3g5ovfngjw9bw.cloudfront.net
@@ -168,8 +185,10 @@ d.nativendo.de
 dn.srv1272.com
 dpm.demdex.net
 dsum-sec.casalemedia.com
+dt.adsafeprotected.com
 dualstack-logs.amap.com
 dyn.emetriq.de
+e179b2a537658c8a47390a35cc4ece9f.safeframe.googlesyndication.com
 eb2.3lift.com
 encrypted-tbn2.gstatic.com
 entitlements.jwplayer.com
@@ -184,6 +203,7 @@ eu-tlp04.kameleoon.eu
 eu-tlp05.kameleoon.eu
 eu-tlp06.kameleoon.eu
 eu-tlp07.kameleoon.eu
+eu-u.openx.net
 events.cid.samba.tv
 events.mapbox.com
 events.redditmedia.com
@@ -197,6 +217,7 @@ fra1-ib.adnxs.com
 freshmarketer.com
 fw.adsafeprotected.com
 g.3gl.net
+gala.met.vgwort.de
 gcdsdk.appsflyer.com
 get.s-onetag.com
 global.adserver.yahoo.com
@@ -207,6 +228,7 @@ googleads.g.doubleclick.net
 google-analytics.com
 greenplasticdua.com
 gum.criteo.com
+gw.geoedge.be
 hb.adscale.de
 hbopenbid.pubmatic.com
 h.online-metrix.net
@@ -231,6 +253,7 @@ image8.pubmatic.com
 images.intellitxt.com
 imagesrv.adition.com
 imgs.signifyd.com
+impression.appsflyer.com
 in.appcenter.ms
 inapps.appsflyer.com
 incoming.telemetry.mozilla.org
@@ -241,11 +264,14 @@ insights.samsung.com
 iqdigitalmediamarketinggmbh.sc.omtrdc.net
 ir-de.amazon-adsystem.com
 irqs.ioam.de
+i.sng.link
 j7q313hy22.kameleoon.eu
 js.adscale.de
 js-agent.newrelic.com
 js-sec.indexww.com
+js.smartredirect.de
 kinesis.us-east-1.amazonaws.com
+k.intellitxt.com
 kr.met.vgwort.de
 ksta.met.vgwort.de
 l9bjkkhaycw6f8f4.soundcloud.com
@@ -264,6 +290,7 @@ lowtyroguer.com
 mads.amazon-adsystem.com
 mads.amazon.com
 mafo.adalliance.io
+mail-ads.google.com
 marketingplatform.google.com
 mc.yandex.ru
 md-i-s.apptimize.com
@@ -290,6 +317,7 @@ mon-va.tiktokv.com
 mouseflow.com
 ms.applovin.com
 ms.applvn.com
+mug.criteo.com
 munchkin.marketo.net
 news.iadsdk.apple.com
 nmetrics.samsung.com
@@ -299,10 +327,13 @@ n-tv.met.vgwort.de
 obs.cheqzone.com
 odb.outbrain.com
 omniture.chip.de
+onetag-geo-grouping.s-onetag.com
+onetag-geo.s-onetag.com
 open.oneplus.net
 orbidder.otto.de
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
+pagead-googlehosted.l.google.com
 pagead.googlesyndication.com
 partner.googleadservices.com
 pdw-usr.userreport.com
@@ -314,8 +345,10 @@ pixel.spotify.com
 pixel-static.spotify.com
 pixel.trackverify.com
 platform-api.sharethis.com
+player-feedback-v1.glomex.com
 pp.lp4.io
 pre.ads.justpremium.com
+prebid.adnxs.com
 prebid.a-mo.net
 prebid-server.rubiconproject.com
 prg.smartadserver.com
@@ -365,6 +398,7 @@ sanalytics.rundschau-online.de
 sb.scorecardresearch.com
 scdn.cxense.com
 sc.lfeeder.com
+scomcluster.cxense.com
 script.crazyegg.com
 script.ioam.de
 scripts.webcontentassessor.com
@@ -381,8 +415,12 @@ servedby.flashtalking.com
 sessions.bugsnag.com
 settings.luckyorange.net
 sf16-muse-va.ibytedtos.com
+s.go-mpulse.net
+signal-beacon.s-onetag.com
+signal-metrics-collector-beta.s-onetag.com
 simage2.pubmatic.com
 skadsdk.appsflyer.com
+smetrics.faz.net
 smetrics.samsung.com
 smpop.icfcdn.com
 snap.licdn.com
@@ -391,6 +429,7 @@ soycrockarab.com
 spiegel.met.vgwort.de
 srtb.msn.com
 srv272b.com
+ssl-golem.met.vgwort.de
 ssl.google-analytics.com
 ssl-rp-online.met.vgwort.de
 ssl-tagesspiegel.met.vgwort.de
@@ -400,6 +439,7 @@ static.apester.com
 static.chartbeat.com
 static.cleverpush.com
 static.criteo.net
+static-de.plista.com
 static.doubleclick.net
 static.emsservice.de
 static.etracker.com
@@ -456,6 +496,7 @@ tr.snapchat.com
 tsyndicate.com
 t.teads.tv
 tt.onthe.io
+tz.met.vgwort.de
 u.heatmap.it
 unityads.unity3d.com
 uobsoe.com
@@ -466,6 +507,7 @@ upload.luckyorange.net
 ups.xplosion.de
 us-u.openx.net
 vast.guppy.site
+vg01.met.vgwort.de
 vg02.met.vgwort.de
 via.batch.com
 vortex.data.microsoft.com
@@ -476,6 +518,7 @@ vz-cdn.trafficjunky.net
 w1.luckyorange.com
 watson.telemetry.microsoft.com
 wa.wdr.de
+waz.met.vgwort.de
 widget.perfectmarket.com
 widgets.outbrain.com
 widgets.pinterest.com
@@ -486,10 +529,12 @@ www6.smartadserver.com
 www.asadcdn.com
 www.awin1.com
 www.big7.com
+www.bloggerei.de
 www.cashdorado.de
 www.cdn4ads.com
 www.cdn.ad.xiaomi.com
 www.etahub.com
+www.everestjs.net
 www.google-analytics.com
 www.googletagmanager.com
 www.googletagservices.com

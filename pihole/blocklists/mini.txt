@@ -18,18 +18,22 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 1533 Domains - 2021.04.25-03:47:10
+# 1576 Domains - 2021.04.25-16:55:41
 # ---------------------------------------------
 #
+0938d1bb884d9261b551b14cecf15380.safeframe.googlesyndication.com
 184.48.190.35.bc.googleusercontent.com
+19001cf136f656cc547ab8cb7827c0d1.safeframe.googlesyndication.com
 19534.redirect.appmetrica.yandex.com
 202.90.190.35.bc.googleusercontent.com
 246.39.190.35.bc.googleusercontent.com
+25cc511ad0fd91614a19a47248f17037.safeframe.googlesyndication.com
 2znp09oa.com
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 42.219.186.35.bc.googleusercontent.com
 49.74.190.35.bc.googleusercontent.com
+4da16dc32d5007fadf1aa8570db55f0c.safeframe.googlesyndication.com
 4jnzhl0d0.com
 4.redirect.appmetrica.yandex.com
 5mcwl.pw
@@ -69,6 +73,7 @@ acridtwist.com
 actuallysheep.com
 actuallysnake.com
 ad13.adfarm1.adition.com
+ad13da331acfd8c29763d91963411709.safeframe.googlesyndication.com
 ad1.adfarm1.adition.com
 ad2.adfarm1.adition.com
 ad4m.at
@@ -87,6 +92,7 @@ adservice.google.com
 adservice.google.de
 ads.facebook.com
 adsfs.oppomobile.com
+ads.golem.de
 ads.linkedin.com
 adspecs.yahoo.com
 ads.pinterest.com
@@ -102,6 +108,7 @@ ads-twitter.com
 ads.yahoo.com
 ads.yap.yahoo.com
 ads.youtube.com
+adtm.chip.de
 adtools.facebook.com
 advertisementafterthought.com
 advertising.yahoo.com
@@ -151,7 +158,9 @@ apathetictheory.com
 api.ad.xiaomi.com
 api.mixpanel.com
 api.permutive.com
+api.rlcdn.com
 api.theadex.com
+ap.lijit.com
 app.adjust.com
 app.adjust.net.in
 app.adjust.world
@@ -169,6 +178,8 @@ arithmeticadjustment.com
 arizonapuzzle.com
 aromamirror.com
 as.bild.de
+as.computerbild.de
+as-sec.casalemedia.com
 assoc-amazon.com
 as.techbook.de
 ata-ads.realmemobile.com
@@ -210,6 +221,7 @@ bawdybeast.com
 bawdypets.com
 bdapi.ads.oppomobile.com
 bdapi-in-ads.realmemobile.com
+beaconimages.netflix.net
 beacon.riskified.com
 beadbears.com
 beamincrease.com
@@ -309,6 +321,7 @@ cdn2.cam-content.com
 cdn2.teads.tv
 cdn.88-f.net
 cdn.adnxs.com
+cdn.adspirit.de
 cdn-assets-widget-production.imgix.net
 cdn-aws.platincasino.com
 cdn-a.yieldlove.com
@@ -328,12 +341,14 @@ cdn.onthe.io
 cdn.opencmp.net
 cdn-pci.optimizely.com
 cdn.permutive.com
+cdn.pushwoosh.com
 cdn.runative-syndicate.com
 cdn-settings.segment.com
 cdn.speedcurve.com
 cdn.taboola.com
 cdntrf.com
 cdn.viglink.com
+cdn.xplosion.de
 chairscrack.com
 channelcamp.com
 cheerfulrange.com
@@ -376,6 +391,7 @@ config.88-f.net
 config.ioam.de
 config.samsungads.com
 con.mm.dm.de
+connect-metrics-collector.s-onetag.com
 consciouschairs.com
 consciousdirt.com
 consentcdn.cookiebot.com
@@ -401,6 +417,7 @@ crayoncompetition.com
 crcdn01.adnxs.com
 critictruck.com
 cs.luckyorange.net
+csm.fr.eu.criteo.net
 cubchannel.com
 culturedcrayon.com
 cumbersomecake.com
@@ -411,6 +428,7 @@ curvycry.com
 cutecushion.com
 cutepopcorn.com
 cuteturkey.com
+d1miwkthq39xj8.cloudfront.net
 d2v02itv0y9u9t.cloudfront.net
 d31bfnnwekbny6.cloudfront.net
 d3g5ovfngjw9bw.cloudfront.net
@@ -492,10 +510,12 @@ driverequest.com
 drivingdirt.com
 drydrum.com
 dsum-sec.casalemedia.com
+dt.adsafeprotected.com
 dualstack-logs.amap.com
 dustyrabbits.com
 dyn.emetriq.de
 dzc-metrics.mzstatic.com
+e179b2a537658c8a47390a35cc4ece9f.safeframe.googlesyndication.com
 earthquakeend.com
 earthquakescarf.com
 earthycopy.com
@@ -537,6 +557,7 @@ eu-tlp04.kameleoon.eu
 eu-tlp05.kameleoon.eu
 eu-tlp06.kameleoon.eu
 eu-tlp07.kameleoon.eu
+eu-u.openx.net
 evaluateend.com
 evanescentedge.com
 events.cid.samba.tv
@@ -612,6 +633,7 @@ fw.adsafeprotected.com
 g1.ads.oppomobile.com
 g.3gl.net
 ga87z2o.com
+gala.met.vgwort.de
 gammamaximum.com
 ganon.yahoo.com
 gcdsdk.appsflyer.com
@@ -656,6 +678,7 @@ guitargrandmother.com
 gulliblecamp.com
 gullibleguitar.com
 gum.criteo.com
+gw.geoedge.be
 h78xb.pw
 habitualhumor.com
 haltingbadge.com
@@ -726,6 +749,7 @@ importlocate.com
 impossibleexpansion.com
 impossibleglue.com
 impossiblemove.com
+impression.appsflyer.com
 impulsehands.com
 impulsejewel.com
 in.advertising.yahoo.com
@@ -751,6 +775,7 @@ invitesugar.com
 iqdigitalmediamarketinggmbh.sc.omtrdc.net
 ir-de.amazon-adsystem.com
 irqs.ioam.de
+i.sng.link
 it.advertising.yahoo.com
 ivykiosk.com
 j7q313hy22.kameleoon.eu
@@ -762,9 +787,11 @@ joblessdrum.com
 js.adscale.de
 js-agent.newrelic.com
 js-sec.indexww.com
+js.smartredirect.de
 justicejudo.com
 k54nw.pw
 kinesis.us-east-1.amazonaws.com
+k.intellitxt.com
 kitesquirrel.com
 kittyaction.com
 knotkettle.com
@@ -818,6 +845,7 @@ mads.amazon.com
 mafo.adalliance.io
 magnificentmeasure.com
 magnificentmist.com
+mail-ads.google.com
 mailboxmeeting.com
 makeshiftmine.com
 maltaopenleague.com
@@ -882,6 +910,7 @@ mowfruit.com
 ms.applovin.com
 ms.applvn.com
 muddledaftermath.com
+mug.criteo.com
 munchkin.marketo.net
 m.yap.yahoo.com
 mysteriousmonth.com
@@ -913,6 +942,8 @@ omniscientfeeling.com
 omniscientspark.com
 omniture.chip.de
 onepush.query.yahoo.com
+onetag-geo-grouping.s-onetag.com
+onetag-geo.s-onetag.com
 open.oneplus.net
 operationkettle.com
 opinionsurprise.com
@@ -928,6 +959,7 @@ owlsr.us
 paddleangle.com
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
+pagead-googlehosted.l.google.com
 pagead.googlesyndication.com
 paintplantation.com
 paleleaf.com
@@ -969,6 +1001,7 @@ plainrequest.com
 plantdigestion.com
 platform-api.sharethis.com
 platincasino.com
+player-feedback-v1.glomex.com
 pleasantpump.com
 plotparent.com
 plotrabbit.com
@@ -980,6 +1013,7 @@ possibleboats.com
 powderprofit.com
 pp.lp4.io
 pre.ads.justpremium.com
+prebid.adnxs.com
 prebid.a-mo.net
 prebid-server.rubiconproject.com
 preciouseffect.com
@@ -992,7 +1026,6 @@ previouspotato.com
 prg.smartadserver.com
 pricklyplastic.com
 printerplasma.com
-privatestats.whatsapp.net
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 productivepear.com
 profiles.tagger.opecloud.com
@@ -1130,6 +1163,7 @@ scientificsneeze.com
 scintillatingscissors.com
 scintillatingspace.com
 sc.lfeeder.com
+scomcluster.cxense.com
 scratchsofa.com
 scrawnystart.com
 screechingfurniture.com
@@ -1163,6 +1197,7 @@ separatesilver.com
 servedby.flashtalking.com
 sessions.bugsnag.com
 settings.luckyorange.net
+s.go-mpulse.net
 shaggytank.com
 shakesea.com
 shakesuggestion.com
@@ -1181,6 +1216,8 @@ showsteel.com
 shutseashore.com
 shyseed.com
 sicksmash.com
+signal-beacon.s-onetag.com
+signal-metrics-collector-beta.s-onetag.com
 silentcredit.com
 silentwrench.com
 siliconslow.com
@@ -1201,6 +1238,7 @@ slipperysack.com
 sloppycalculator.com
 smallbeginner.com
 smashsurprise.com
+smetrics.faz.net
 smetrics.samsung.com
 smilingwaves.com
 smoggysnakes.com
@@ -1210,6 +1248,7 @@ snailsengine.com
 snakemineral.com
 snakesshop.com
 snap.licdn.com
+sneaklevel.com
 sneakystamp.com
 sneakystew.com
 snoresmile.com
@@ -1258,6 +1297,7 @@ squealingturn.com
 squirrelhands.com
 srtb.msn.com
 srv272b.com
+ssl-golem.met.vgwort.de
 ssl.google-analytics.com
 ssl-rp-online.met.vgwort.de
 ssl-tagesspiegel.met.vgwort.de
@@ -1276,6 +1316,7 @@ static.apester.com
 static.chartbeat.com
 static.cleverpush.com
 static.criteo.net
+static-de.plista.com
 static.doubleclick.net
 static.emsservice.de
 static.etracker.com
@@ -1405,7 +1446,6 @@ torpidtongue.com
 torpidtoothpaste.com
 toweringrun.com
 tpc.googlesyndication.com
-tracedesire.com
 track.adform.net
 track.express.de
 tracking.adalliance.io
@@ -1430,7 +1470,6 @@ tremendousplastic.com
 tremendoustime.com
 tremendoustreatment.com
 trickycelery.com
-tritetongue.com
 trk.pinterest.com
 trmads.eu
 troubledtail.com
@@ -1443,6 +1482,7 @@ tt.onthe.io
 tutorthing.com
 typicalairplane.com
 typicalteeth.com
+tz.met.vgwort.de
 tzwaw.pw
 ubiquitousyard.com
 u.heatmap.it
@@ -1481,6 +1521,7 @@ vast.guppy.site
 venusgloria.com
 verifyvegetable.com
 verseballs.com
+vg01.met.vgwort.de
 vg02.met.vgwort.de
 via.batch.com
 visit.webhosting.yahoo.com
@@ -1498,6 +1539,7 @@ warnwing.com
 waryfog.com
 wateryvan.com
 wa.wdr.de
+waz.met.vgwort.de
 wearywater.com
 wellgroomedbat.com
 wellmadefrog.com
@@ -1517,7 +1559,6 @@ womanear.com
 workableachiever.com
 workoperation.com
 worriednumber.com
-worrybutter.com
 wrapstretch.com
 wreckvolcano.com
 writewealth.com
@@ -1528,10 +1569,12 @@ www4.smartadserver.com
 www6.smartadserver.com
 www.awin1.com
 www.big7.com
+www.bloggerei.de
 www.cashdorado.de
 www.cdn4ads.com
 www.cdn.ad.xiaomi.com
 www.etahub.com
+www.everestjs.net
 www.google-analytics.com
 www.googletagmanager.com
 www.googletagservices.com
