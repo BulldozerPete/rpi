@@ -18,7 +18,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 1576 Domains - 2021.04.25-16:55:41
+# 1575 Domains - 2021.04.25-17:03:07
 # ---------------------------------------------
 #
 0938d1bb884d9261b551b14cecf15380.safeframe.googlesyndication.com
@@ -1411,7 +1411,6 @@ terribleturkey.com
 terrificgoose.com
 teschenite.com
 testedtouch.com
-test.quantcast.mgr.consensu.org
 te.technical-service.net
 texturetrick.com
 thickticket.com
