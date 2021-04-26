@@ -1,3 +1,25 @@
+# ---------------------------------------------
+# Zelo*s "EasyList" Domain-Blockliste
+# ---------------------------------------------
+# Erstellt zur rein persönlichen, privaten
+# Nutzung.
+#
+# EasyList (+Germany) & EasyList Privacy
+#
+# Blacklist-Quellen:
+# ******************
+# https://easylist.to/easylist/easylist.txt
+# https://easylist.to/easylist/easyprivacy.txt
+# https://easylist.to/easylistgermany/easylistgermany.txt
+#
+# + Erweitert um mögliche WWW-Domains.
+# ---------------------------------------------
+# Falsch positive/neue Domains melden unter:
+# https://github.com/Zelo72/rpi/issues/new
+# ---------------------------------------------
+# 31464 Domains - 2021.04.26-14:39:31
+# ---------------------------------------------
+#
 006a039c957c142bb.com
 00aaa2d81c1d174.com
 00ae8b5a9c1d597.com
@@ -5447,6 +5469,7 @@ dormyawape.com
 dorothydrawing.com
 dortoolr.com
 doshaido.com
+dosliggooor.com
 dostophog.com
 dosveggietotem.casa
 dotandad.com
@@ -9150,6 +9173,7 @@ kissstarringplight.com
 kistutch.net
 kitchen.juicer.cc
 kitrigthy.com
+kittenmilletfoggy.com
 kiuprocessary.club
 kiynew.com
 kj2hy.com
@@ -14603,6 +14627,7 @@ sibilantamusing.com
 sibilantcliffrecommendation.com
 sicaurtu.net
 sidebar.issuu.com
+sidebyz.com
 sidewaybeings.com
 siegemeg.com
 sielsmaats.com
@@ -22674,6 +22699,7 @@ www.dormyawape.com
 www.dorothydrawing.com
 www.dortoolr.com
 www.doshaido.com
+www.dosliggooor.com
 www.dostophog.com
 www.dosveggietotem.casa
 www.dotandad.com
@@ -25164,6 +25190,7 @@ www.kissioncault.club
 www.kissstarringplight.com
 www.kistutch.net
 www.kitrigthy.com
+www.kittenmilletfoggy.com
 www.kiuprocessary.club
 www.kiynew.com
 www.kj2hy.com
@@ -28549,6 +28576,7 @@ www.siamzone.com
 www.sibilantamusing.com
 www.sibilantcliffrecommendation.com
 www.sicaurtu.net
+www.sidebyz.com
 www.sidewaybeings.com
 www.siegemeg.com
 www.sielsmaats.com
