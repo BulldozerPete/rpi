@@ -18,7 +18,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 1550 Domains - 2021.04.26-22:43:00
+# 1565 Domains - 2021.04.26-23:18:53
 # ---------------------------------------------
 #
 184.48.190.35.bc.googleusercontent.com
@@ -82,6 +82,7 @@ adfox.yandex.ru
 adimg.uimserv.net
 ads.adaptv.advertising.com
 ads.adthrive.com
+ad.samsungadhub.com
 ad.samsungads.com
 ads-api.twitter.com
 ads.blogherads.com
@@ -169,6 +170,7 @@ api.b2c.com
 api.theadex.com
 a.postrelease.com
 appboy-images.com
+app.chat.xiaomi.net
 appmetrica.yandex.com
 aquaticowl.com
 ar1nvz5.com
@@ -306,6 +308,7 @@ callousbrake.com
 calmcactus.com
 calmcough.com
 calmfoot.com
+c.amazon-adsystem.com
 cannonjudo.com
 cannontwin.com
 capablecows.com
@@ -456,7 +459,10 @@ dashingsweater.com
 data.ads.oppomobile.com
 datadoghq.com
 data.logentries.com
+data.mistat.india.xiaomi.com
+data.mistat.intl.xiaomi.com
 data.mistat.rus.xiaomi.com
+data.mistat.xiaomi.com
 deadpantruck.com
 de.advertising.yahoo.com
 deafeningdock.com
@@ -522,6 +528,7 @@ dsum-sec.casalemedia.com
 dustyrabbits.com
 dv.chemie.de
 dyn.emetriq.de
+dzc-metrics.mzstatic.com
 e1cd4958785f7e0dcfaee56d57a7db4096b34051.cws.conviva.com
 earthquakeend.com
 earthquakescarf.com
@@ -653,6 +660,7 @@ giraffepiano.com
 gleamingtrade.com
 glisteningguide.com
 global.adserver.yahoo.com
+globalapi.ad.xiaomi.com
 gloriousbeef.com
 gloriouscracker.com
 glossysense.com
@@ -712,6 +720,7 @@ honorablehall.com
 honorableland.com
 horsenectar.com
 hosenews.com
+hotjar.com
 htlb.casalemedia.com
 ht.redtube.com
 ht.tube8.com
@@ -754,6 +763,7 @@ innocentinvention.com
 innocentwax.com
 inquisitiveinvention.com
 insights-collector.newrelic.com
+insights.samsung.com
 instrumentsponge.com
 intelligentscissors.com
 interestsmoke.com
@@ -866,6 +876,7 @@ metrics5.data.hicloud.com
 metrics.apple.com
 metrics.data.hicloud.com
 metrics-dra.dt.hicloud.com
+metrics.mzstatic.com
 metrics.n-tv.de
 metrika.yandex.ru
 metroaverage.com
@@ -889,6 +900,7 @@ mon-va.tiktokv.com
 motionlessbag.com
 motionlessbelief.com
 mountainouspear.com
+mouseflow.com
 movemeal.com
 mowfruit.com
 m.servedby-buysellads.com
@@ -901,6 +913,7 @@ neighborlywatch.com
 nervoussummer.com
 niftyhospital.com
 niftyjelly.com
+nmetrics.samsung.com
 noiselessplough.com
 nonchalantnerve.com
 nondescriptcrowd.com
@@ -921,6 +934,7 @@ ohcohz.stroeerdp.de
 omniscientfeeling.com
 omniscientspark.com
 onepush.query.yahoo.com
+open.oneplus.net
 operationkettle.com
 opinionsurprise.com
 oppositeoperation.com
@@ -1102,6 +1116,7 @@ s3.buysellads.com
 s400.mxcdn.net
 s79.mxcdn.net
 s7.addthis.com
+sa.api.intl.miui.com
 sablesmile.com
 sac.ayads.co
 sailsuit.com
