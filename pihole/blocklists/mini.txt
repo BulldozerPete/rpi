@@ -18,7 +18,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 1557 Domains - 2021.04.26-20:17:16
+# 1553 Domains - 2021.04.26-20:36:43
 # ---------------------------------------------
 #
 184.48.190.35.bc.googleusercontent.com
@@ -48,7 +48,6 @@ a1.adform.net
 a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
 a791773171.cdn.optimizely.com
 a.adtng.com
-aan.amazon.com
 aa.online-metrix.net
 aax.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
@@ -751,7 +750,6 @@ in.advertising.yahoo.com
 in.appcenter.ms
 infamousstream.com
 informengine.com
-informer.yandex.ru
 innocentinvention.com
 innocentwax.com
 inquisitiveinvention.com
@@ -782,7 +780,6 @@ js.agkn.com
 js.smartredirect.de
 justicejudo.com
 k54nw.pw
-kiks.yandex.ru
 kinesis.us-east-1.amazonaws.com
 kitesquirrel.com
 kittyaction.com
@@ -1165,7 +1162,6 @@ secure.adnxs.com
 secureads.g.doubleclick.net
 secure-eu.nmrodam.com
 secure.make6pain.com
-securemetrics.apple.com
 securepubads.g.doubleclick.net
 secure.quantserve.com
 seemlysociety.com
