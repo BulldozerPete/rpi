@@ -1,24 +1,3 @@
-# ---------------------------------------------
-# Zelo*s "Erweiterungs" Domain-Blockliste
-# ---------------------------------------------
-# Blockt folgende Domains inkl. aller Subdomains:
-#
-# adalliance.io adcolony.com addefend.com adform.com adjust.com
-# adjust.net.in adjust.world adnxs.com adscale.de adtilt.com
-# amplitude.com app-measurement.com applovin.com applvn.com
-# appsflyer.com clarity.ms criteo.com criteo.net dotmetrics.net
-# doubleclick.com doubleclick.net hstrck.com ioam.de kameleoon.eu
-# liftoff.io loggly.com meetrics.com meetrics.de meetrics.net
-# moat.com moatads.com mxcdn..net mxcdn.net nuggad.net
-# omnitagjs.com plista.com scorecardresearch.com smartadserver.com
-# supersonic.com supersonicads.com tisoomi-adservice.com
-# tisoomi-services.com tisoomi.com trbo.com unityads.unity3d.com
-# vgwort.de xplosion.de yieldlab.net zemanta.com ...
-#
-# ---------------------------------------------
-# 9122 Domains - 2021.04.26-19:39:41
-# ---------------------------------------------
-#
 000000000.fls.doubleclick.net
 000000.fls.doubleclick.net
 0.0.0.0app.adjust.com
