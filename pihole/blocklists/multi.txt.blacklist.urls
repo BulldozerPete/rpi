@@ -1,9 +1,6 @@
 ! https://adaway.org/hosts.txt
 https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
 https://dbl.oisd.nl/basic/
-& https://easylist.to/easylist/easylist.txt
-& https://easylist.to/easylist/easyprivacy.txt
-& https://easylist.to/easylistgermany/easylistgermany.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://justdomains.github.io/blocklists/lists/adguarddns-justdomains.txt
@@ -19,6 +16,7 @@ https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 ! https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts
+https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 ! https://urlhaus.abuse.ch/downloads/hostfile/
 https://v.firebog.net/hosts/Admiral.txt
 ! https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
