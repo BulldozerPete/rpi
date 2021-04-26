@@ -18,7 +18,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 32711 Domains - 2021.04.26-12:18:24
+# 32733 Domains - 2021.04.26-14:41:31
 # ---------------------------------------------
 #
 006a039c957c142bb.com
@@ -217,6 +217,7 @@
 2kl08cd74f.com
 2lwlh385os.com
 2mdn.info
+2mdn.net
 2mf9kkbhab31.com
 2oyb82awp8.monster
 2p9fyvx.com
@@ -852,6 +853,7 @@ aamt.nbcnews.com
 aamt.newsapp.telemundo.com
 aamt.today.com
 aanalytics.adelaide.edu.au
+aan.amazon.com
 aa.online-metrix.net
 aaqiycetqwx.com
 a.artistasdigitais.net
@@ -863,6 +865,7 @@ aaucna.casasbahia.com.br
 aax.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
 aax-eu-dub.amazon.com
+aax-us-iad.amazon.com
 ab4tn.com
 ab913aa797e78b3.com
 ab9dbc9a0cda.com
@@ -1691,6 +1694,7 @@ analytics.dev.springboardvideo.com
 analytics.disneyinternational.com
 analytics.dvidshub.net
 analytics.ecosia.org
+analytics.edgekey.net
 analytics.eip.telegraph.co.uk
 analytics.elx.cloud
 analyticsengine.s3.amazonaws.com
@@ -2851,6 +2855,7 @@ billingcisco-capwap-controller.net.daraz.com
 billionpops.com
 billowybead.com
 bilrtklg.com
+bi.medscape.com
 b.imwx.com
 binalbamp.com
 binarybusiness.de
@@ -4685,6 +4690,7 @@ ctl-ns2.viviotech.net.daraz.com
 ctm-media.com
 ct.needlive.com
 ctp1.bforbank.com
+ct.pinterest.com
 ctr-iwb.nmg.de
 ctrlaltdel99.com
 ctromgvroh.com
@@ -4866,6 +4872,7 @@ d1wjz6mrey9f5v.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
 d1ybdlg8aoufn.cloudfront.net
 d1yu67rmchodpo.cloudfront.net
+d1zgderxoe1a.cloudfront.net
 d20903hof2l33q.cloudfront.net
 d20kffh39acpue.cloudfront.net
 d213cc9tw38vai.cloudfront.net
@@ -5688,6 +5695,7 @@ djm080u34wfc5.cloudfront.net
 djmaza.in
 djr4k68f8n55o.cloudfront.net
 dj.renren.com
+djtflbt20bdde.cloudfront.net
 dj-updates.com
 djv99sxoqpv11.cloudfront.net
 djz9es32qen64.cloudfront.net
@@ -5856,6 +5864,7 @@ dormyawape.com
 dorothydrawing.com
 dortoolr.com
 doshaido.com
+dosliggooor.com
 dostophog.com
 dosveggietotem.casa
 dotandad.com
@@ -9185,6 +9194,7 @@ informatics.filamentcolors.xyz
 information.remploy.co.uk
 informengine.com
 informers.sinoptik.ua
+informer.yandex.ru
 infos.anz.com
 infos.anz.com.au
 infos.b2dreamlab.com
@@ -9759,6 +9769,7 @@ kigarettywurz.club
 kiki.rireetchansons.fr
 kikoucuy.net
 kiks.auto.ru
+kiks.yandex.ru
 killerjuke.xyz
 killerparadehay.com
 killingwirelesshumiliation.com
@@ -9783,6 +9794,7 @@ kistutch.net
 kitchen.juicer.cc
 kitesquirrel.com
 kitrigthy.com
+kittenmilletfoggy.com
 kittyaction.com
 kiuprocessary.club
 kiynew.com
@@ -10423,6 +10435,7 @@ log.plinga.de
 log.popin.cc
 log.prezi.com
 logql.yahoo.co.jp
+log.quora.com
 log.reformal.ru
 log.ren.tv
 logs1407.xiti.com
@@ -12765,6 +12778,7 @@ om-ssl.consorsbank.de
 oms.todaysparent.com
 oms.tsc.ca
 oms.wsj.com
+om.symantec.com
 omt.honda.com
 omtr2.partners.salesforce.com
 omt.shinobi.jp
@@ -15346,6 +15360,7 @@ securegate.xyz
 secure.info.domo.com
 secure.make6pain.com
 secure.merchantadvantage.com
+securemetrics.apple.com
 securemetrics.gap.com
 securemoney.ru
 secure.mycalcas.com
@@ -15570,6 +15585,7 @@ sibilantcliffrecommendation.com
 sicaurtu.net
 sicksmash.com
 sidebar.issuu.com
+sidebyz.com
 sidewaybeings.com
 siegemeg.com
 sielsmaats.com
@@ -16377,6 +16393,7 @@ solutions.peco-energy.com
 solutions.refinitiv.com
 solutions.snapfi.com
 soma9vols.com
+som.aeroplan.com
 som.athenahealth.com
 somberscarecrow.com
 sombersea.com
@@ -17925,6 +17942,7 @@ szprhglyodqj.com
 szpsngbow.com
 t0gkj99krb24.com
 t1.stadiumgoods.com
+t2.hulu.com
 t2.huluim.com
 t2.t2b.click
 t5lxz7dtq4iz.com
@@ -17940,6 +17958,7 @@ tacklesuggestindoors.com
 t.ac.pandora.com
 t.adlpo.com
 tadsitblimp.com
+tag.aticdn.net
 tag.aumago.com
 tag.boulanger.fr
 tag.bounceexchange.com
@@ -23933,6 +23952,7 @@ www.dormyawape.com
 www.dorothydrawing.com
 www.dortoolr.com
 www.doshaido.com
+www.dosliggooor.com
 www.dostophog.com
 www.dosveggietotem.casa
 www.dotandad.com
@@ -26429,6 +26449,7 @@ www.kissioncault.club
 www.kissstarringplight.com
 www.kistutch.net
 www.kitrigthy.com
+www.kittenmilletfoggy.com
 www.kiuprocessary.club
 www.kiynew.com
 www.kj2hy.com
@@ -29817,6 +29838,7 @@ www.siamzone.com
 www.sibilantamusing.com
 www.sibilantcliffrecommendation.com
 www.sicaurtu.net
+www.sidebyz.com
 www.sidewaybeings.com
 www.siegemeg.com
 www.sielsmaats.com
