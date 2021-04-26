@@ -38,6 +38,7 @@ ads.reddit.com
 ads.rubiconproject.com
 ads.servebom.com
 adstax-cdn.adrtx.net
+ads.themoneytizer.com
 ads.tiktok.com
 ads.trafficjunky.net
 ads-twitter.com
@@ -61,6 +62,7 @@ ams1-ib.adnxs.com
 analytics-api.samsunghealthcn.com
 analytics.facebook.com
 analytics.mobile.yandex.net
+analyticsnew.overwolf.com
 analytics.oneplus.cn
 analytics.pinterest.com
 analytics.pointdrive.linkedin.com
@@ -73,6 +75,7 @@ api.ad.xiaomi.com
 api.b2c.com
 api.theadex.com
 a.postrelease.com
+appboy-images.com
 appmetrica.yandex.com
 as.bild.de
 as.casalemedia.com
@@ -82,6 +85,7 @@ as.welt.de
 aswpsdkeu.com
 a.teads.tv
 atonato.de
+atrack.avplayer.com
 ats.rlcdn.com
 audev.zeit.de
 audit-tcfv2.quantcast.mgr.consensu.org
@@ -105,13 +109,16 @@ bls.adalliance.io
 browser.sentry-cdn.com
 bs.showheroes.com
 btloader.com
+buyer.dspx.tv
 c1.adform.net
 c2.taboola.com
 c.aaxads.com
 c.bing.com
 cd.adition.com
 cd.connatix.com
+cdn4.buysellads.net
 cdn.adaptv.advertising.com
+cdn.adpushup.com
 cdn.adsafeprotected.com
 cdn.adspirit.de
 cdn-a.yieldlove.com
@@ -129,6 +136,7 @@ cdn.onthe.io
 cdn.parsely.com
 cdn.permutive.com
 cdn.pushwoosh.com
+cdn-settings.segment.com
 cdn.snigelweb.com
 cdn.speedcurve.com
 cdn.taboola.com
@@ -137,9 +145,11 @@ cdn.userreport.com
 cdn.xplosion.de
 c.go-mpulse.net
 c.ktxtr.com
+clc.stackoverflow.com
 click.oneplus.cn
 click.oneplus.com
 cloudfront-labs.amazonaws.com
+clusava.fra-01.braze.eu
 cm.adsafety.net
 cm.g.doubleclick.net
 cm.mgid.com
@@ -154,6 +164,7 @@ confiant-integrations.global.ssl.fastly.net
 confiant.msn.com
 config.fp.measure.office.com
 config.samsungads.com
+consentcdn.cookiebot.com
 consentmanager.mgr.consensu.org
 contextual.media.net
 counter.yadro.ru
@@ -174,6 +185,8 @@ datadoghq.com
 data.logentries.com
 data.mistat.rus.xiaomi.com
 de-gmtdmp.mookie1.com
+delivery.adrecover.com
+dev.visualwebsiteoptimizer.com
 d.impactradius-event.com
 disney.demdex.net
 dmp.theadex.com
@@ -200,7 +213,9 @@ extmaps-api.yandex.net
 fast.a.klaviyo.com
 fastlane-adv.rubiconproject.com
 fastlane.rubiconproject.com
+fc.webmasterpro.de
 firebaselogging-pa.googleapis.com
+firebase-settings.crashlytics.com
 fo-api.omnitagjs.com
 fra1-ib.adnxs.com
 fra1-ib.adnxs-simple.com
@@ -261,6 +276,7 @@ mads.amazon-adsystem.com
 mafo.adalliance.io
 marketingplatform.google.com
 match.adsrvr.org
+md-i-s.apptimize.com
 media.fastclick.net
 media.net
 media.trafficjunky.com
@@ -279,7 +295,9 @@ middycdn-a.akamaihd.net
 ml314.com
 mms.cnn.com
 mon.tiktokv.com
+mon-va.byteoversea.com
 mon-va.tiktokv.com
+m.servedby-buysellads.com
 notify-bugs-fra1.rtl.de
 notify.bugsnag.com
 n-tv.met.vgwort.de
@@ -297,14 +315,20 @@ pdw-usr.userreport.com
 pixel.adsafeprotected.com
 pixel.facebook.com
 pixel.mathtag.com
+pixel.spotify.com
+pixel-static.spotify.com
 pixel.trackverify.com
 pix.telekom.de
+player.aniview.com
+player.avplayer.com
 player.daznservices.com
 player-feedback-v1.glomex.com
 powerad.ai
 pp.lp4.io
+prd-collector-anon.ex.co
 pre.ads.justpremium.com
 prebid.adnxs.com
+prebid.a-mo.net
 prebid-server.rubiconproject.com
 prg.smartadserver.com
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
@@ -347,6 +371,7 @@ scripts.webcontentassessor.com
 sc-static.net
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
+sdk.iad-01.braze.com
 sdk.iad-03.braze.com
 sdk.sharethrough.com
 search.spotxchange.com
@@ -369,12 +394,15 @@ sp.analytics.yahoo.com
 spiegel.met.vgwort.de
 src.ebay-us.com
 srtb.msn.com
+srv.buysellads.com
 ssl-focus.met.vgwort.de
 ssl.google-analytics.com
 ssl-idgmagazine.met.vgwort.de
+ssl-rp-online.met.vgwort.de
 ssl-t-online.met.vgwort.de
 ssl-vg03.met.vgwort.de
 stas.outbrain.com
+stat.adguard.com
 static.ads-twitter.com
 static.apester.com
 static.chartbeat.com
@@ -417,6 +445,7 @@ tracking.india.miui.com
 tracking.intl.miui.com
 tracking.m6r.eu
 tracking.miui.com
+tracking.overwolf.com
 tracking.rus.miui.com
 trackingshipment.apple.com
 track.ksta.de
