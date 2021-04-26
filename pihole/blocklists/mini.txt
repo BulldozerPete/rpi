@@ -9,16 +9,16 @@
 #
 # Blacklist-Quellen:
 # ******************
-# https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/mini.txt.blacklist.urls
+# https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/quellen/mini.txt.blacklist.urls
 #
 # Whitelist-Quellen:
 # ******************
-# https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/whitelist.urls
+# https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/quellen/whitelist.urls
 # ---------------------------------------------
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 1550 Domains - 2021.04.26-22:15:20
+# 1550 Domains - 2021.04.26-22:43:00
 # ---------------------------------------------
 #
 184.48.190.35.bc.googleusercontent.com
