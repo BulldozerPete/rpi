@@ -15,7 +15,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 65934 Domains - 2021.04.27-03:45:13
+# 65936 Domains - 2021.04.27-09:10:48
 # ---------------------------------------------
 #
 0024aaaa.com
@@ -12683,6 +12683,7 @@ externalmedia.ru
 external-promo-metrics.yandex.net
 extfiles.net
 ext.goguardian.com
+extmaps-api.yandex.net
 ext.movixhub.com
 extole.com
 extole.io
@@ -19350,6 +19351,7 @@ logscafef.channelvn.net
 logs.datadoghq.eu
 log.seekda.com
 logs.eresmas.com
+logservice1.hicloud.com
 logservice.hicloud.com
 logs.gaaana.com
 log.sggp.org.vn
