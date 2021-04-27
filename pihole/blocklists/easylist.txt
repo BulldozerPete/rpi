@@ -17,7 +17,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 31468 Domains - 2021.04.26-23:29:03
+# 31485 Domains - 2021.04.27-03:45:05
 # ---------------------------------------------
 #
 006a039c957c142bb.com
@@ -1112,6 +1112,7 @@ adhoc4.net
 adieusyaktop.com
 adifficiente.top
 adingo.jp.eimg.jp
+ad.intl.xiaomi.com
 adiquity.com
 a.disabledns.emailvision.net.daraz.com
 aditingunfav.club
@@ -1174,6 +1175,7 @@ adrenovate.com
 adrent.net
 adrevenuerescue.com
 adrunnr.com
+ad.samsungadhub.com
 adsbr.info
 adscarrot.com
 adsco.re
@@ -1250,6 +1252,7 @@ adwalte.info
 adwhirl.com
 ad.wsod.com
 adxadserv.com
+ad.xiaomi.com
 adxite.com
 adxnexus.com
 adxpansion.com
@@ -1545,6 +1548,7 @@ analytics.aimtell.com
 analytics.allovoisins.com
 analytics.amakings.com
 analytics.anvato.net
+analytics-api.samsunghealthcn.com
 analytics.apnewsregistry.com
 analytics.archive.org
 analytics.arunraghavan.net
@@ -1673,6 +1677,7 @@ analytics.photorank.me
 analytics.piksel.com
 analytics.plex.tv
 analytics.pnc.com
+analytics.pointdrive.linkedin.com
 analytics.posttv.com
 analytics.prezly.com
 analytics.prod.aws.ecnext.net
@@ -1690,6 +1695,7 @@ analytics.reyrey.net
 analytics-rhwg.rhcloud.com
 analytics.rogersmedia.com
 analytics.salesanalytics.io
+analytics.samsungknox.com
 analytics.sanoma.fi
 analytics.schoolwires.com
 analytics-script.ad-shield.io
@@ -2654,12 +2660,12 @@ bhwkju.vivo.com
 bicacxo5go.com
 biceunivers.fun
 bidder.mediams.mb.softbank.jp
-bid.g.doubleclick.net
 bid.glass
 bidiology.com
 bids.concert.io
 bidverdrd.com
 bigbootymania.com
+bigdata.ssp.samsung.com
 bihamcurchef.cam
 bihyteqy.xyz
 bikesseafoodchewing.com
@@ -3704,7 +3710,6 @@ cmbestsrv.com
 cmebevvtjdffc.com
 cmfads.com
 cmfflktyndtqnt.com
-cm.g.doubleclick.net
 c.mgid.com
 cmkotfol.com
 cmllk1.info
@@ -8658,6 +8663,7 @@ insights.ddiworld.com
 insights.frenchtogether.com
 insights.prophet.com
 insights.radiometer.com
+insights.samsung.com
 insights.sitesearch360.com
 insights.sport1.de
 insitez.blob.core.windows.net
@@ -9739,6 +9745,7 @@ log000.goo.ne.jp
 log1.17173.com
 log.51cto.com
 log.aimtell.com
+logbak.hicloud.com
 log.bitauto.com
 log.china.cn
 log.cizion.com
@@ -9797,6 +9804,7 @@ logs-api.shoprunner.com
 logsbin.dantri.com.vn
 logs.dashlane.com
 log.seekda.com
+logservice.hicloud.com
 logs.gaana.com
 logs.ggweb.nl
 logs.hotstar.com
@@ -10611,6 +10619,7 @@ metrics.diy.com
 metrics.doctoroz.com
 metrics.dollargeneral.com
 metrics.dominos.com
+metrics-dra.dt.hicloud.com
 metrics.drsfostersmith.com
 metrics.duluthtrading.com
 metrics.dunkindonuts.com
@@ -10658,6 +10667,7 @@ metrics.homes.com
 metrics.hoovers.com
 metrics.hrblock.com
 metrics.hyundaiusa.com
+metrics.icloud.com
 metrics.iconfitness.com
 metrics.ilovematlab.cn
 metrics.imvu.com
@@ -10704,6 +10714,7 @@ metrics.moneymart.ca
 metrics.motortrend.com
 metrics.myprime.com
 metrics.mysanantonio.com
+metrics.mzstatic.com
 metrics.nationwide.co.uk
 metrics.nba.com
 metrics.necn.com
@@ -10952,6 +10963,7 @@ missiondues.com
 missiontestamentinterfering.com
 misslk.com
 mistakemargarineprimrose.com
+mistat.xiaomi.com
 mistletoecaliberdecency.com
 mistressavouchdeity.com
 misxgkvnlf.com
@@ -13719,6 +13731,7 @@ requestion.club
 request.issuu.com
 requiresdetached.com
 requivalfun.club
+rereddit.com
 rereegny.net
 reroplittrewheck.pro
 res3.feedsportal.com
@@ -14147,6 +14160,7 @@ saa.metacritic.com
 saametrics.aktia.fi
 saa.metrolyrics.com
 saam.gumtree.com.au
+sa.api.intl.miui.com
 saa.popculture.com
 saa.rachaelrayshow.com
 saas-eue-1.com
@@ -16169,7 +16183,6 @@ stats.fortunabkk.com
 stats.frankfurterneuepresse.de
 stats.fs.com
 stats.fundimmo.com
-stats.g.doubleclick.net
 stats.geegain.com
 stats.getdoks.org
 stats.ghost.org
@@ -16465,6 +16478,7 @@ stat.wolterskluwer.pl
 stat.wolterskluwer.pt
 stat.ws.126.net
 stat.xhamsterpremium.com
+stat.xiaomi.com
 statystyki.panelek.com
 stat.zol.com.cn
 stawhoph.com
@@ -16657,6 +16671,7 @@ support.dns1.freshegg.net.daraz.com
 support.flex.com
 supportfreya.net.daraz.com
 supportiveimpassableevasion.com
+supportmetrics.apple.com
 support.r-dw-1.net.daraz.com
 supremish.club
 suptaibo.com
@@ -17708,6 +17723,7 @@ tracking.menamarketplace.com
 tracking.mhealthintelligence.com
 tracking.military.com
 tracking.mindshare.de
+tracking.miui.com
 trackingmms.accenture.com
 tracking.mobile.de
 tracking.monsido.com
@@ -28007,6 +28023,7 @@ www.requentlyfths.club
 www.requestion.club
 www.requiresdetached.com
 www.requivalfun.club
+www.rereddit.com
 www.rereegny.net
 www.reroplittrewheck.pro
 www.resalag.com
