@@ -18,7 +18,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 1593 Domains - 2021.04.27-03:47:45
+# 1587 Domains - 2021.04.27-09:13:39
 # ---------------------------------------------
 #
 184.48.190.35.bc.googleusercontent.com
@@ -66,7 +66,6 @@ absorbingprison.com
 abstractedamount.com
 absurdapple.com
 absurdwater.com
-acdn.adnxs.com
 acidpigs.com
 acousticairplane.com
 acousticsapparel.com
@@ -93,8 +92,6 @@ adsdk.yandex.ru
 adserver.71i.de
 adserver.yahoo.com
 adservetx.media.net
-adservice.google.com
-adservice.google.de
 adservice.google.ru
 ads.facebook.com
 adsfs.oppomobile.com
@@ -137,6 +134,7 @@ alertafterthought.com
 alikeaddition.com
 alikearm.com
 aliveachiever.com
+alleyarm.com
 alleyskin.com
 allowmailbox.com
 aloofmetal.com
@@ -175,6 +173,7 @@ api.theadex.com
 a.postrelease.com
 appboy-images.com
 app.chat.xiaomi.net
+applesarmy.com
 app-measurement.com
 appmetrica.yandex.com
 aquaticowl.com
@@ -678,7 +677,6 @@ glossysense.com
 godlygeese.com
 gondolagnome.com
 googleads.g.doubleclick.net
-google-analytics.com
 gorgeousground.com
 gracefulsock.com
 grade.market.yandex.ru
@@ -1107,7 +1105,6 @@ rhythmmoney.com
 richstring.com
 ringplayground.com
 ringsrecord.com
-riserange.com
 ritzykey.com
 robustbelieve.com
 rodeopolice.com
@@ -1304,7 +1301,6 @@ srtb.msn.com
 srv272b.com
 srv.buysellads.com
 ssl-focus.met.vgwort.de
-ssl.google-analytics.com
 ssl-idgmagazine.met.vgwort.de
 ssl-rp-online.met.vgwort.de
 ssl-t-online.met.vgwort.de
@@ -1417,7 +1413,6 @@ tendersugar.com
 tendertest.com
 terriblethumb.com
 terrificgoose.com
-teschenite.com
 testedtouch.com
 te.technical-service.net
 texturetrick.com
@@ -1581,7 +1576,6 @@ www.bizographics.com
 www.cashdorado.de
 www.cdn.ad.xiaomi.com
 www.dwin1.com
-www.google-analytics.com
 www.googleoptimize.com
 www.googletagmanager.com
 www.googletagservices.com
