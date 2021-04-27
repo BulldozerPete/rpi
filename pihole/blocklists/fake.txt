@@ -21,7 +21,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 53836 Domains - 2021.04.27-21:07:16
+# 53838 Domains - 2021.04.27-21:38:21
 # ---------------------------------------------
 #
 007drones.de
@@ -5650,6 +5650,7 @@ d-moerking.de
 dmr-gov.com
 dmr-gov-za.org
 dms-markt.de
+dms-medimax.com
 dmxinfo.de
 dna-manufaktur.de
 dnewssyi.com
@@ -32090,6 +32091,7 @@ www.d-moerking.de
 www.dmr-gov.com
 www.dmr-gov-za.org
 www.dms-markt.de
+www.dms-medimax.com
 www.dmxinfo.de
 www.dna-manufaktur.de
 www.dnewssyi.com
