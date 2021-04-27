@@ -15,7 +15,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 65910 Domains - 2021.04.26-23:35:21
+# 65934 Domains - 2021.04.27-03:45:13
 # ---------------------------------------------
 #
 0024aaaa.com
@@ -1662,7 +1662,6 @@ abstinencecalculation.com
 abstractedamount.com
 absurdapple.com
 absurdwater.com
-abtest.mistat.xiaomi.com
 abtest.swrve.com
 abtrcking.com
 abtshield.com
@@ -2245,6 +2244,7 @@ adinsight.eu
 adinte.jp
 adintend.com
 adinterax.com
+ad.intl.xiaomi.com
 adinvigorate.com
 adiode.com
 ad.iplayer.org
@@ -2757,6 +2757,7 @@ ads.dfiles.ru
 ads.dgabcsolutions.com.br
 adsdk.com
 adsdk.vrvm.com
+adsdk.yandex.ru
 ads.dogusdigital.com
 adsdot.ph
 adsee.jp
@@ -3414,6 +3415,7 @@ adx.edutimes.com.vn
 adxgeeks.com
 adx.golfnews.vn
 adx.hongtinnhanh.com
+ad.xiaomi.com
 adxion.com
 adxite.com
 adx.kul.vn
@@ -4207,6 +4209,7 @@ analytics.amakings.com
 analytics.anvato.net
 analytics.any.do
 analytics-api.a-f.io
+analytics-api.samsunghealthcn.com
 analytics-api.smzdm.com
 analytics.apnewsregistry.com
 analytics.archive.org
@@ -4264,6 +4267,7 @@ analyticsengine.s3.amazonaws.com
 analytics.erepublic.com
 analytics-events.inshorts.com
 analytics.explus.vn
+analytics.facebook.com
 analytics.fairfax.com.au
 analytics.favcy.com
 analytics.faw.sky.com
@@ -4335,8 +4339,10 @@ analytics.ovh.com
 analytics.paddle.com
 analytics.performable.com
 analytics.piksel.com
+analytics.pinterest.com
 analytics.plaid.com
 analytics.plex.tv
+analytics.pointdrive.linkedin.com
 analytics.posttv.com
 analytics.praetor.im
 analytics.prezly.com
@@ -4362,6 +4368,7 @@ analytics-rhwg.rhcloud.com
 analytics.rogersmedia.com
 analytics.rotapost.ru
 analytics.salesanalytics.io
+analytics.samsungknox.com
 analytics.sanoma.fi
 analytics.schoolwires.com
 analytics-script.ad-shield.io
@@ -4639,13 +4646,11 @@ api.557400.com
 api64.com
 api9.net
 api.adintext.net
-api.ad.intl.xiaomi.com
 api.ad-locus.com
 api.adnet.mob.com
 api.adnsafe.org
 apiads.gg.pl
 api.ads.watchabc.go.com
-api.ad.xiaomi.com
 apia.headlines.pw
 api.ampiri.com
 api-analytics-bootstrap.metaps.com
@@ -4731,6 +4736,7 @@ apparest.com
 appboycdn.com
 appboy-images.com
 appcast.io
+app.chat.xiaomi.net
 appclick.co
 appclick.net
 app.crossengage.io
@@ -6351,6 +6357,7 @@ bigcood.xyz
 bigcook.xyz
 bigcoon.xyz
 bigdata.riamedia.com.ua
+bigdata.ssp.samsung.com
 bigdate.biz
 bigfineads.com
 biggbossseason11.com
@@ -10256,12 +10263,12 @@ datadsk.com
 data-dynamic.net
 data.econa.com
 datafeedfile.com
+data.hicloud.com
 data.imakenews.com
 datamaster.com.cn
 datam.com
 datamind.ru
 data.minute.ly
-data.mistat.xiaomi.com
 data.neosmi.ru
 data.neuroxmedia.com
 datanoticias.prisasd.com
@@ -14472,7 +14479,6 @@ gloatdiagnosis.com
 globaladmedia.com
 globaladsales.com
 globaladv.net
-globalapi.ad.xiaomi.com
 globalinteractive.com
 global.px.quantserve.com
 globalsiteanalytics.com
@@ -16794,6 +16800,7 @@ insight.mintel.com
 insight.rapid7.com
 insights.algolia.io
 insights.plista.com
+insights.samsung.com
 insights.sitesearch360.com
 insight.ucweb.com
 insigit.com
@@ -19218,6 +19225,7 @@ logapi.tv.naver.com
 log.api.zaloapp.com
 log.apk.v-mate.mobi
 log.artipbox.net
+logbak.hicloud.com
 log.baodatviet.vn
 log.baodauthau.vn
 log.baomoi.com
@@ -19342,6 +19350,7 @@ logscafef.channelvn.net
 logs.datadoghq.eu
 log.seekda.com
 logs.eresmas.com
+logservice.hicloud.com
 logs.gaaana.com
 log.sggp.org.vn
 logs.giaoducthoidai.vn
@@ -20471,16 +20480,19 @@ metrics.coccoc.com
 metrics.ctvdigital.net
 metrics.dailymotion.com
 metricsdirect.com
+metrics-dra.dt.hicloud.com
 metrics.ee.co.uk
 metrics.extremetech.com
 metrics.foxnews.com
 metrics.getvitals.io
 metrics.happycolor.app
+metrics.icloud.com
 metrics.infranken.de
 metrics.io
 metrics-logger.spot.im
 metrics.macys.net
 metrics.makemytrip.com
+metrics.mzstatic.com
 metrics.news.com.au
 metrics.n-tv.de
 metrics.pacsun.com
@@ -20705,6 +20717,7 @@ missiontestamentinterfering.com
 misslk.com
 missrich.net
 mistakemargarineprimrose.com
+mistat.xiaomi.com
 mistletoecaliberdecency.com
 mistletoeethicleak.com
 mistressavouchdeity.com
@@ -23000,6 +23013,7 @@ openinternetexchange.net
 openlinks.ru
 openlog.in
 openmindedisabella.com
+open.oneplus.net
 openstat.net
 opentracker.net
 opentracking.ru
@@ -26378,6 +26392,7 @@ requestion.club
 requestmetrics.com
 requiresdetached.com
 requivalfun.club
+rereddit.com
 rereegny.net
 reroplittrewheck.pro
 res3.feedsportal.com
@@ -27169,6 +27184,7 @@ s9w.cc
 sa669.com
 saambaa.com
 sa.aol.com
+sa.api.intl.miui.com
 saastt.com
 sabavision.com
 sa.bbc.com
@@ -27259,6 +27275,7 @@ samiana.com
 sam.msn.com
 samplerpouch.com
 sam.setimedia.com
+samsungadhub.com
 samsungads.com
 samsungtvads.com
 samtrg.com
@@ -27500,8 +27517,6 @@ sdhfbvd.com
 sdhzstone.net
 sdjjr.com
 sdk.adtiming.com
-sdkconfig.ad.intl.xiaomi.com
-sdkconfig.ad.xiaomi.com
 sdkfjxjertertry.com
 sdk-log-inter.youdao.com
 sdklogs.avocarrot.com
@@ -27928,6 +27943,7 @@ share-server.com
 shareste.top
 sharethrough.com
 sharieta.com
+sharilon.site
 sharks.vn
 sharppatch.com
 sharpspring.com
@@ -29517,6 +29533,7 @@ stat.ws.126.net
 statwup.huya.com
 stat.www.fi
 stat.xhamsterpremium.com
+stat.xiaomi.com
 stat.youku.com
 statystyki.panelek.com
 staulrut.net
@@ -29866,6 +29883,7 @@ supplegrassgrapes.com
 supplyglossailment.com
 supply.upjers.com
 supportiveimpassableevasion.com
+supportmetrics.apple.com
 supportxmr.com
 supreme-hunter.com
 supremish.club
@@ -31610,6 +31628,7 @@ tracking.sembox.it
 tracking-server-prod-1.zenmxapps.com
 tracking.sezzle.com
 tracking.sharplink.us
+trackingshipment.apple.com
 tracking.shopback.com
 tracking.shoptogether.buy.com
 tracking.sim-technik.de
@@ -34325,6 +34344,7 @@ widgets.mobilelocalnews.com
 widgets.mozo.com.au
 widget.socialmart.ru
 widget.solarquotes.com.au
+widgets.pinterest.com
 widgets.planeta.ru
 widgets.privateproperty.com.ng
 widgets.progrids.com
@@ -56297,6 +56317,7 @@ www.requestion.club
 www.requestmetrics.com
 www.requiresdetached.com
 www.requivalfun.club
+www.rereddit.com
 www.rereegny.net
 www.reroplittrewheck.pro
 www.resadvantco.info
@@ -57064,6 +57085,7 @@ www.samegradually.com
 www.samestretch.com
 www.samiana.com
 www.samplerpouch.com
+www.samsungadhub.com
 www.samsungads.com
 www.samsungtvads.com
 www.samtrg.com
@@ -57618,6 +57640,7 @@ www.share-server.com
 www.shareste.top
 www.sharethrough.com
 www.sharieta.com
+www.sharilon.site
 www.sharks.vn
 www.sharppatch.com
 www.sharpspring.com
@@ -63229,6 +63252,7 @@ www.xunlaile.com
 www.xunzhuo123.com
 www.xuossk3tu6hb.com
 www.xuro006.com
+www.xuthid.com
 www.xuveiai.ru
 www.xuxiangkj.com
 www.xuyssur.cn
@@ -64770,6 +64794,7 @@ xunlaile.com
 xunzhuo123.com
 xuossk3tu6hb.com
 xuro006.com
+xuthid.com
 xuveiai.ru
 xuxiangkj.com
 xuyssur.cn
@@ -65544,7 +65569,6 @@ zesep.com
 zetamm.com
 zeti.com
 zetrade.net
-zeus.ad.intl.xiaomi.com
 zeustechnology.com
 zeuuwb.com
 zewkj.com
