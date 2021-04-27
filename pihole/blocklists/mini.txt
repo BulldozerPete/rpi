@@ -18,7 +18,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 1618 Domains - 2021.04.27-14:22:47
+# 1621 Domains - 2021.04.27-16:08:39
 # ---------------------------------------------
 #
 184.48.190.35.bc.googleusercontent.com
@@ -685,6 +685,7 @@ godlygeese.com
 gondolagnome.com
 googleads4.g.doubleclick.net
 googleads.g.doubleclick.net
+google-analytics.com
 gorgeousground.com
 gracefulsock.com
 grade.market.yandex.ru
@@ -1616,8 +1617,10 @@ www.lasagneandands.com
 www.maltaopenleague.com
 www.npttech.com
 www.platincasino.com
+www.precautionbuoy.com
 www.sffsdvc.com
 www.sponsorads.de
+www.statisgeek.com
 www.summerhamster.com
 www.tisoomi-adservice.com
 www.tisoomi-services.com
