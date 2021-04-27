@@ -18,7 +18,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 1621 Domains - 2021.04.27-21:09:22
+# 1618 Domains - 2021.04.27-22:36:38
 # ---------------------------------------------
 #
 184.48.190.35.bc.googleusercontent.com
@@ -758,7 +758,6 @@ ib.adnxs.com
 ice.360yield.com
 icebergindigo.com
 id5-sync.com
-i.kym-cdn.com
 illfatedsnail.com
 illustriousoatmeal.com
 image8.pubmatic.com
@@ -1277,7 +1276,6 @@ smoggystation.com
 snailsengine.com
 snakemineral.com
 snakesshop.com
-snap.licdn.com
 sneakystamp.com
 sneakystew.com
 snoresmile.com
@@ -1585,7 +1583,6 @@ whisperingcrib.com
 widget-mediator.zopim.com
 widgets.outbrain.com
 widgets.pinterest.com
-widgets.trustedshops.com
 widgets.zemanta.com
 wigglygeese.com
 wigglyindustry.com
