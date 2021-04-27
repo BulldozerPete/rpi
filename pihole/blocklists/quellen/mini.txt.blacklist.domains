@@ -15,7 +15,9 @@ aax-eu.amazon-adsystem.com
 a.bf-ad.net
 ad1.adfarm1.adition.com
 ad2.adfarm1.adition.com
+ad4m.at
 ad.71i.de
+ad.ad-srv.net
 ad.dazeadsrv1.media
 ade.googlesyndication.com
 adimg.uimserv.net
@@ -74,6 +76,8 @@ analytics.yahoo.com
 api.ad.xiaomi.com
 api.b2c.com
 api.mixpanel.com
+api.segment.io
+apis.quantcast.mgr.consensu.org
 api.theadex.com
 a.postrelease.com
 appboy-images.com
@@ -104,6 +108,7 @@ beacon.krxd.net
 beap-bc.yahoo.com
 beap.gemini.yahoo.com
 bidder.criteo.com
+biddr.brealtime.com
 bid.sxp.smartclip.net
 bigdata.ssp.samsung.com
 blogherads.com
@@ -136,6 +141,7 @@ cdn.fastclick.net
 cdn.krxd.net
 cdn.luckyorange.com
 cdn.marphezis.com
+cdn.mouseflow.com
 cdn.mxpnl.com
 cdn.onthe.io
 cdn.parsely.com
@@ -237,8 +243,10 @@ geo.ngtv.io
 geo.yahoo.com
 get.s-onetag.com
 global.adserver.yahoo.com
+googleads4.g.doubleclick.net
 googleads.g.doubleclick.net
 gum.criteo.com
+halc.iadvize.com
 hb.adscale.de
 hbopenbid.pubmatic.com
 hbx.media.net
@@ -257,10 +265,12 @@ id5-sync.com
 i.kym-cdn.com
 image8.pubmatic.com
 image.ard.de
+images.intellitxt.com
 imagesrv.adition.com
 in.appcenter.ms
 inapps.appsflyer.com
 insights-collector.newrelic.com
+insights.sitesearch360.com
 i.po.st
 iqdigitalmediamarketinggmbh.sc.omtrdc.net
 ir2.beap.gemini.yahoo.com
@@ -270,6 +280,11 @@ jill.fc.yahoo.com
 js.adscale.de
 js.adsrvr.org
 js.agkn.com
+js-cdn.dynatrace.com
+js.hsadspixel.net
+js.hs-analytics.net
+js.hs-banner.com
+js.hsleadflows.net
 js-sec.indexww.com
 js.smartredirect.de
 kinesis.us-east-1.amazonaws.com
@@ -285,6 +300,7 @@ logservice1.hicloud.com
 logservice.hicloud.com
 logx.optimizely.com
 mads.amazon-adsystem.com
+mads.amazon.com
 mafo.adalliance.io
 marketingplatform.google.com
 match.adsrvr.org
@@ -302,6 +318,7 @@ metrics5.data.hicloud.com
 metrics.apple.com
 metrics.data.hicloud.com
 metrics-dra.dt.hicloud.com
+metrics.ionos.de
 metrics.n-tv.de
 middycdn-a.akamaihd.net
 ml314.com
@@ -309,6 +326,7 @@ mms.cnn.com
 mon.tiktokv.com
 mon-va.byteoversea.com
 mon-va.tiktokv.com
+mpp.vindicosuite.com
 m.servedby-buysellads.com
 notify-bugs-fra1.rtl.de
 notify.bugsnag.com
@@ -326,10 +344,12 @@ p.cpx.to
 pdw-usr.userreport.com
 pixel.adsafeprotected.com
 pixel.facebook.com
+pixel.ionos.de
 pixel.mathtag.com
 pixel.spotify.com
 pixel-static.spotify.com
 pixel.trackverify.com
+pixel.wp.com
 pix.telekom.de
 player.aniview.com
 player.avplayer.com
@@ -381,6 +401,7 @@ sanalytics.ksta.de
 sb.scorecardresearch.com
 scdn.cxense.com
 sc.lfeeder.com
+script.crazyegg.com
 scripts.webcontentassessor.com
 sc-static.net
 sdkconfig.ad.intl.xiaomi.com
@@ -406,6 +427,7 @@ siteintercept.qualtrics.com
 skadsdk.appsflyer.com
 smetrics.faz.net
 smetrics.samsung.com
+snap.licdn.com
 sp.analytics.yahoo.com
 spiegel.met.vgwort.de
 src.ebay-us.com
@@ -432,6 +454,7 @@ static.media.net
 static.plista.com
 static.showheroes.com
 static.trafficjunky.com
+static.trbo.com
 static-v2.trbo.com
 stats.datawrapper.de
 stats.g.doubleclick.net
@@ -457,6 +480,7 @@ toplist.raidrush.ws
 top.nydus.org
 tpc.googlesyndication.com
 tps.doubleverify.com
+track2.trbo.com
 track.express.de
 tracking.adalliance.io
 tracking.india.miui.com
@@ -471,6 +495,7 @@ tracksrv.zdf.de
 tradecraft.s.llnwi.net
 traffic.emsservice.de
 trafficjunky.com
+trck.spoteffects.net
 trc.taboola.com
 trk.pinterest.com
 trk.vidible.tv
@@ -487,6 +512,7 @@ upload.luckyorange.net
 ups.xplosion.de
 vars.hotjar.com
 vast.guppy.site
+vg02.met.vgwort.de
 video.adaptv.advertising.com
 vidstat.taboola.com
 visitor.omnitagjs.com
@@ -511,6 +537,7 @@ www4.smartadserver.com
 www.bizographics.com
 www.cashdorado.de
 www.cdn.ad.xiaomi.com
+www.communicationads.net
 www.dwin1.com
 www.googleoptimize.com
 www.googletagmanager.com

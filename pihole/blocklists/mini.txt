@@ -18,7 +18,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 1587 Domains - 2021.04.27-09:13:39
+# 1618 Domains - 2021.04.27-14:22:47
 # ---------------------------------------------
 #
 184.48.190.35.bc.googleusercontent.com
@@ -75,7 +75,9 @@ actuallysheep.com
 actuallysnake.com
 ad1.adfarm1.adition.com
 ad2.adfarm1.adition.com
+ad4m.at
 ad.71i.de
+ad.ad-srv.net
 ad.dazeadsrv1.media
 additionant.com
 ade.googlesyndication.com
@@ -169,6 +171,8 @@ apathetictheory.com
 api.ad.xiaomi.com
 api.b2c.com
 api.mixpanel.com
+api.segment.io
+apis.quantcast.mgr.consensu.org
 api.theadex.com
 a.postrelease.com
 appboy-images.com
@@ -251,6 +255,7 @@ bewilderedbattle.com
 bewilderedblade.com
 bhcumsc.com
 bidder.criteo.com
+biddr.brealtime.com
 bid.sxp.smartclip.net
 bigdata.ssp.samsung.com
 billowybead.com
@@ -349,6 +354,7 @@ cdn.fastclick.net
 cdn.krxd.net
 cdn.luckyorange.com
 cdn.marphezis.com
+cdn.mouseflow.com
 cdn.mxpnl.com
 cdn.onthe.io
 cdn.parsely.com
@@ -548,6 +554,7 @@ edge-mcdn-beacon.secure.yahoo.com
 edge.quantserve.com
 educatedeggnog.com
 efficaciouscactus.com
+eggs.kinkoid.com
 ejyymghi.com
 elasticchange.com
 elderlyinsect.com
@@ -676,6 +683,7 @@ gloriouscracker.com
 glossysense.com
 godlygeese.com
 gondolagnome.com
+googleads4.g.doubleclick.net
 googleads.g.doubleclick.net
 gorgeousground.com
 gracefulsock.com
@@ -698,6 +706,7 @@ gullibleguitar.com
 gum.criteo.com
 h78xb.pw
 habitualhumor.com
+halc.iadvize.com
 haltingbadge.com
 haltinggold.com
 hammerhearing.com
@@ -753,6 +762,7 @@ illfatedsnail.com
 illustriousoatmeal.com
 image8.pubmatic.com
 image.ard.de
+images.intellitxt.com
 imagesrv.adition.com
 immensehoney.com
 imperfectinstrument.com
@@ -776,6 +786,7 @@ innocentwax.com
 inquisitiveinvention.com
 insights-collector.newrelic.com
 insights.samsung.com
+insights.sitesearch360.com
 instrumentsponge.com
 intelligentscissors.com
 interestsmoke.com
@@ -799,6 +810,11 @@ joblessdrum.com
 js.adscale.de
 js.adsrvr.org
 js.agkn.com
+js-cdn.dynatrace.com
+js.hsadspixel.net
+js.hs-analytics.net
+js.hs-banner.com
+js.hsleadflows.net
 js-sec.indexww.com
 js.smartredirect.de
 justicejudo.com
@@ -849,6 +865,7 @@ lumberamount.com
 lumpylumber.com
 maddeningpowder.com
 mads.amazon-adsystem.com
+mads.amazon.com
 mafo.adalliance.io
 magnificentmeasure.com
 magnificentmist.com
@@ -890,6 +907,7 @@ metrics5.data.hicloud.com
 metrics.apple.com
 metrics.data.hicloud.com
 metrics-dra.dt.hicloud.com
+metrics.ionos.de
 metrics.mzstatic.com
 metrics.n-tv.de
 metrika.yandex.ru
@@ -899,6 +917,7 @@ mightyspiders.com
 militaryverse.com
 mimosamajor.com
 mindlessmark.com
+mineralscreamrobes.com
 minormeeting.com
 miscreantmine.com
 miscreantmoon.com
@@ -917,6 +936,7 @@ mountainouspear.com
 mouseflow.com
 movemeal.com
 mowfruit.com
+mpp.vindicosuite.com
 m.servedby-buysellads.com
 muddledaftermath.com
 m.yap.yahoo.com
@@ -996,10 +1016,12 @@ piquantpigs.com
 piquantstove.com
 pixel.adsafeprotected.com
 pixel.facebook.com
+pixel.ionos.de
 pixel.mathtag.com
 pixel.spotify.com
 pixel-static.spotify.com
 pixel.trackverify.com
+pixel.wp.com
 pix.telekom.de
 pizzasnut.com
 plainrequest.com
@@ -1025,6 +1047,7 @@ pre.ads.justpremium.com
 prebid.adnxs.com
 prebid.a-mo.net
 prebid-server.rubiconproject.com
+precautionbuoy.com
 preciouseffect.com
 prefixpatriot.com
 prepareplanes.com
@@ -1171,6 +1194,7 @@ scratchsofa.com
 scrawnystart.com
 screechingfurniture.com
 screechingslip.com
+script.crazyegg.com
 scripts.webcontentassessor.com
 scrollservice.com
 scrubswim.com
@@ -1252,6 +1276,7 @@ smoggystation.com
 snailsengine.com
 snakemineral.com
 snakesshop.com
+snap.licdn.com
 sneakystamp.com
 sneakystew.com
 snoresmile.com
@@ -1330,7 +1355,9 @@ static.media.net
 static.plista.com
 static.showheroes.com
 static.trafficjunky.com
+static.trbo.com
 static-v2.trbo.com
+statisgeek.com
 stats.datawrapper.de
 stats.g.doubleclick.net
 stats.vliplatform.com
@@ -1450,6 +1477,7 @@ torpidtoothpaste.com
 toweringrun.com
 tpc.googlesyndication.com
 tps.doubleverify.com
+track2.trbo.com
 track.express.de
 tracking.adalliance.io
 tracking.india.miui.com
@@ -1467,6 +1495,7 @@ trafficjunky.com
 tranquilside.com
 translateoatmeal.com
 trappush.com
+trck.spoteffects.net
 trc.taboola.com
 tremendousplastic.com
 tremendoustime.com
@@ -1521,6 +1550,7 @@ vast.guppy.site
 venusgloria.com
 verifyvegetable.com
 verseballs.com
+vg02.met.vgwort.de
 video.adaptv.advertising.com
 vidstat.taboola.com
 visitor.omnitagjs.com
@@ -1575,6 +1605,7 @@ www4.smartadserver.com
 www.bizographics.com
 www.cashdorado.de
 www.cdn.ad.xiaomi.com
+www.communicationads.net
 www.dwin1.com
 www.googleoptimize.com
 www.googletagmanager.com
