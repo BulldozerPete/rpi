@@ -18,7 +18,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 1565 Domains - 2021.04.26-23:31:53
+# 1593 Domains - 2021.04.27-03:47:45
 # ---------------------------------------------
 #
 184.48.190.35.bc.googleusercontent.com
@@ -66,6 +66,7 @@ absorbingprison.com
 abstractedamount.com
 absurdapple.com
 absurdwater.com
+acdn.adnxs.com
 acidpigs.com
 acousticairplane.com
 acousticsapparel.com
@@ -76,10 +77,12 @@ actuallysnake.com
 ad1.adfarm1.adition.com
 ad2.adfarm1.adition.com
 ad.71i.de
+ad.dazeadsrv1.media
 additionant.com
 ade.googlesyndication.com
 adfox.yandex.ru
 adimg.uimserv.net
+ads2.contentabc.com
 ads.adaptv.advertising.com
 ads.adthrive.com
 ad.samsungadhub.com
@@ -167,10 +170,12 @@ an.yandex.ru
 apathetictheory.com
 api.ad.xiaomi.com
 api.b2c.com
+api.mixpanel.com
 api.theadex.com
 a.postrelease.com
 appboy-images.com
 app.chat.xiaomi.net
+app-measurement.com
 appmetrica.yandex.com
 aquaticowl.com
 ar1nvz5.com
@@ -257,6 +262,7 @@ bls.adalliance.io
 blushingbeast.com
 blushingboundary.com
 blushingwar.com
+bmedia.justservingfiles.net
 boilingbeetle.com
 boilingumbrella.com
 boneregret.com
@@ -344,6 +350,7 @@ cdn.fastclick.net
 cdn.krxd.net
 cdn.luckyorange.com
 cdn.marphezis.com
+cdn.mxpnl.com
 cdn.onthe.io
 cdn.parsely.com
 cdn.permutive.com
@@ -412,6 +419,7 @@ consentcdn.cookiebot.com
 consentmanager.mgr.consensu.org
 consistpotato.com
 contextual.media.net
+conversions.appsflyer.com
 coordinatedbedroom.com
 coordinatedcub.com
 copperchickens.com
@@ -425,6 +433,7 @@ cp.pushwoosh.com
 cpx.golem.de
 cpxl.golem.de
 crabbychin.com
+crashlyticsreports-pa.googleapis.com
 crawlclocks.com
 crayoncompetition.com
 critictruck.com
@@ -525,6 +534,7 @@ drydrum.com
 ds-aksb-a.akamaihd.net
 dsp.adfarm1.adition.com
 dsum-sec.casalemedia.com
+dualstack-logs.amap.com
 dustyrabbits.com
 dv.chemie.de
 dyn.emetriq.de
@@ -561,6 +571,7 @@ enviousshape.com
 enviousthread.com
 erraticreaction.com
 es.advertising.yahoo.com
+eu-adsrv.rtbsuperhub.com
 eus.rubiconproject.com
 eu-tlp04.kameleoon.eu
 eu-tlp06.kameleoon.eu
@@ -729,6 +740,8 @@ hubt.pornhub.com
 hubtraffic.com
 humdrumhat.com
 hurtteeth.com
+hw-cdn2.trafficjunky.net
+hw-cdn.trafficjunky.net
 hypnoticwound.com
 hystericalhelp.com
 i9w8p.pw
@@ -757,6 +770,7 @@ impulsehands.com
 impulsejewel.com
 in.advertising.yahoo.com
 in.appcenter.ms
+inapps.appsflyer.com
 infamousstream.com
 informengine.com
 innocentinvention.com
@@ -787,6 +801,7 @@ joblessdrum.com
 js.adscale.de
 js.adsrvr.org
 js.agkn.com
+js-sec.indexww.com
 js.smartredirect.de
 justicejudo.com
 k54nw.pw
@@ -822,6 +837,7 @@ log.fc.yahoo.com
 log.pinterest.com
 logs1407.xiti.com
 logs1413.xiti.com
+logs.amap.com
 logservice1.hicloud.com
 logservice.hicloud.com
 logx.optimizely.com
@@ -1041,6 +1057,7 @@ p.vtracy.de
 quacksquirrel.com
 quaintcan.com
 quarterbean.com
+quartermedia.de
 quicksandear.com
 quietknowledge.com
 quizzicalzephyr.com
@@ -1108,6 +1125,7 @@ rusticprice.com
 ruthlessdegree.com
 ruthlessmilk.com
 ruthlessrobin.com
+s0-2mdn-net.l.google.com
 s240.mxcdn.net
 s2.adform.net
 s2.go-mpulse.net
@@ -1187,6 +1205,7 @@ separatesilver.com
 service.idsync.analytics.yahoo.com
 services.vlitag.com
 sessions.bugsnag.com
+settings.crashlytics.com
 settings.luckyorange.net
 s.go-mpulse.net
 shaggytank.com
@@ -1220,6 +1239,7 @@ singroot.com
 siteintercept.qualtrics.com
 sixscissors.com
 sizesidewalk.com
+skadsdk.appsflyer.com
 slaysweater.com
 sleepcartoon.com
 slimyscarf.com
@@ -1281,6 +1301,7 @@ squealingturn.com
 squirrelhands.com
 src.ebay-us.com
 srtb.msn.com
+srv272b.com
 srv.buysellads.com
 ssl-focus.met.vgwort.de
 ssl.google-analytics.com
@@ -1305,6 +1326,7 @@ static.apester.com
 static.chartbeat.com
 static.cleverpush.com
 static.criteo.net
+static-de.plista.com
 static.doubleclick.net
 static.emsservice.de
 static.hotjar.com
@@ -1367,10 +1389,12 @@ swellstocking.com
 swimslope.com
 swordgoose.com
 symbolizebeast.com
+syndication.traffichaus.com
 synthesizespoon.com
 systemizecoat.com
 tag.bounceexchange.com
 tagm.tchibo.de
+tags.bkrtx.com
 tags.bluekai.com
 tags.expo9.exponential.com
 tag.userreport.com
@@ -1512,6 +1536,7 @@ voicevegetable.com
 vq1qi.pw
 vrt.outbrain.com
 v.vfghe.com
+vz-cdn2.trafficjunky.net
 w1.luckyorange.com
 waggishpig.com
 wakefulcook.com
@@ -1523,6 +1548,7 @@ wateryvan.com
 wa.wdr.de
 wa.web.de
 wearywater.com
+weather-analytics-events.apple.com
 web.vortex.data.msn.com
 wellgroomedbat.com
 wellmadefrog.com
@@ -1559,11 +1585,13 @@ www.google-analytics.com
 www.googleoptimize.com
 www.googletagmanager.com
 www.googletagservices.com
+www.hotjar.com
 www.htdvt.com
 www.lasagneandands.com
 www.maltaopenleague.com
 www.npttech.com
 www.platincasino.com
+www.sffsdvc.com
 www.sponsorads.de
 www.summerhamster.com
 www.tisoomi-adservice.com
