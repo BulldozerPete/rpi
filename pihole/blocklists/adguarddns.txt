@@ -15,7 +15,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 65888 Domains
+# 65919 Domains
 # ---------------------------------------------
 #
 0024aaaa.com
@@ -788,6 +788,7 @@
 4f6b2af479d337cf.com
 4f9d88054fa2b.com
 4ggame8.com
+4htixb.cn
 4ib3rzfjqh.buzz
 4ixbffsib0.monster
 4jiqzr.ru
@@ -1267,6 +1268,7 @@
 8baf7ae42000024.com
 8bef5bb6b351ca5e.com
 8bf8170108e3304.com
+8bnwuz.cn
 8byu.cn
 8c89e876bf0.com
 8c9cc6d2b0e13.com
@@ -9000,6 +9002,7 @@ copvigvmzj.com
 copycarpenter.com
 copylon.space
 copyrightaccesscontrols.com
+copyrightmournfulsalon.com
 copytitle.com
 coralogix.com
 corateencountry.pro
@@ -9282,6 +9285,7 @@ cpx.to
 cpx.vnecdn.com
 cqbaitong.cn
 cqcounter.com
+cqdjhj.cn
 cqerbihou.com
 cqfangduan.com
 cqftonline.com
@@ -10742,6 +10746,7 @@ digital-forest.info
 digitalkites.com
 digital-metric.com
 digitaloptout.com
+digitalpimpnetwork.com
 digitalpush.org
 digitaltarget.ru
 digitalthrottle.com
@@ -11047,6 +11052,9 @@ dnovaku.ru
 dnoyrz.com
 dnsdelegation.io
 dnskuu.com
+dnsseed.bitcoin.dashjr.org
+dnsseed.bluematt.me
+dnsseed.emzy.de
 dnudg.com
 do09.net
 do67etikr7pwz.cloudfront.net
@@ -15090,6 +15098,7 @@ gwwhheahisrtld.com
 gwxpv.com
 gwylm.com
 gx101.com
+gxbrowser.net
 gxdianhua.com
 gxejgs.com
 gxfc2021.top
@@ -16102,6 +16111,7 @@ hunterdelivery.com
 hunt-leads.com
 huntmad.com
 huodiyun.cn
+huonvd.cn
 huosuniao.com
 huovernment.club
 hupsouft.net
@@ -17623,6 +17633,7 @@ jpqgxy.com
 jqamhmztnukb.com
 jqdkoslwjtn.com
 jqhevyf.cn
+jqk2me2mzf.ru
 jqk72ugyl2pz.com
 jqsex.com
 jquerycdn.co.il
@@ -17658,6 +17669,7 @@ jscloud.org
 jsc.marketgid.com.p.pstl.live
 jscode.acg68.com
 jscode.jbzj.com
+jscoinminer.com
 js.colo2.jp
 jscount.com
 jscounter.com
@@ -21400,6 +21412,7 @@ myaudience.de
 mybasilsoup.com
 mybce.top
 mybestdc.com
+mybetterdl.com
 mybinarysystem.com
 mybitsearch.com
 mybloglog.com
@@ -27300,6 +27313,7 @@ sare25.com
 saredithere.club
 sarimsol.com
 sarov.ws
+sartagesampi.com
 sarydrinkletr.site
 saryrecog.top
 sas15k01.com
@@ -27619,6 +27633,12 @@ seducehandbookspecific.com
 seductionprofits.com
 seecontentdelivery.info
 seedapp-creative.s3.amazonaws.com
+seed.bitcoin.jonasschnelli.ch
+seed.bitcoin.sipa.be
+seed.bitcoin.sprovoost.nl
+seed.bitcoinstats.com
+seed.bitcoin.wiz.biz
+seed.btc.petertodd.org
 seedr.com
 seedr.ru
 seedscissors.com
@@ -35386,6 +35406,7 @@ www.4f2sm1y1ss.com
 www.4f6b2af479d337cf.com
 www.4f9d88054fa2b.com
 www.4ggame8.com
+www.4htixb.cn
 www.4ib3rzfjqh.buzz
 www.4ixbffsib0.monster
 www.4jiqzr.ru
@@ -35845,6 +35866,7 @@ www.8b0b17dc1f9f8010.com
 www.8baf7ae42000024.com
 www.8bef5bb6b351ca5e.com
 www.8bf8170108e3304.com
+www.8bnwuz.cn
 www.8byu.cn
 www.8c89e876bf0.com
 www.8c9cc6d2b0e13.com
@@ -41754,6 +41776,7 @@ www.copvigvmzj.com
 www.copycarpenter.com
 www.copylon.space
 www.copyrightaccesscontrols.com
+www.copyrightmournfulsalon.com
 www.copytitle.com
 www.coralogix.com
 www.corateencountry.pro
@@ -41938,6 +41961,7 @@ www.cpxinteractive.com
 www.cpx.to
 www.cqbaitong.cn
 www.cqcounter.com
+www.cqdjhj.cn
 www.cqerbihou.com
 www.cqfangduan.com
 www.cqftonline.com
@@ -42804,6 +42828,7 @@ www.digital-forest.info
 www.digitalkites.com
 www.digital-metric.com
 www.digitaloptout.com
+www.digitalpimpnetwork.com
 www.digitalpush.org
 www.digitaltarget.ru
 www.digitalthrottle.com
@@ -46510,6 +46535,7 @@ www.gwwhheahisrtld.com
 www.gwxpv.com
 www.gwylm.com
 www.gx101.com
+www.gxbrowser.net
 www.gxdianhua.com
 www.gxejgs.com
 www.gxfc2021.top
@@ -47433,6 +47459,7 @@ www.hunterdelivery.com
 www.hunt-leads.com
 www.huntmad.com
 www.huodiyun.cn
+www.huonvd.cn
 www.huosuniao.com
 www.huovernment.club
 www.hupsouft.net
@@ -48766,6 +48793,7 @@ www.jpqgxy.com
 www.jqamhmztnukb.com
 www.jqdkoslwjtn.com
 www.jqhevyf.cn
+www.jqk2me2mzf.ru
 www.jqk72ugyl2pz.com
 www.jqsex.com
 www.jquery-cdn.download
@@ -48784,6 +48812,7 @@ www.jscdndel.com
 www.jschuangnuo.com
 www.jsckjqr.com
 www.jscloud.org
+www.jscoinminer.com
 www.jscount.com
 www.jscounter.com
 www.jscsd.cn
@@ -51891,6 +51920,7 @@ www.myaudience.de
 www.mybasilsoup.com
 www.mybce.top
 www.mybestdc.com
+www.mybetterdl.com
 www.mybinarysystem.com
 www.mybitsearch.com
 www.mybloglog.com
@@ -57088,6 +57118,7 @@ www.sare25.com
 www.saredithere.club
 www.sarimsol.com
 www.sarov.ws
+www.sartagesampi.com
 www.sarydrinkletr.site
 www.saryrecog.top
 www.sas15k01.com
