@@ -16,7 +16,7 @@
 # vgwort.de xplosion.de yieldlab.net zemanta.com ...
 #
 # ---------------------------------------------
-# 9118 Domains
+# 9132 Domains
 # ---------------------------------------------
 #
 000000000.fls.doubleclick.net
@@ -2648,6 +2648,7 @@ cloudfront.loggly.com
 cloudfront.loggly.comcloudfront.loggly.com
 cloudgz-ecs.gravityzone.bitdefender.comapp.adjust.com
 cm.g.doubleclick.net
+cmkfotografie.de
 cm.moatads.com
 cmp.adform.com
 cname.adjust.com
@@ -2735,17 +2736,20 @@ cpanel.adnxs.com
 cpanel.afmarketingdev.appsflyer.com
 cpanel.app-measurement.com
 cpanel.careers.appsflyer.com
+cpanel.cmkfotografie.de
 cpanel.content.appsflyer.com
 cpanel.index.appsflyer.com
 cpa-paas.adcolony.com
 cpa-paas.adtilt.com
 cpcalendars.afmarketingdev.appsflyer.com
 cpcalendars.careers.appsflyer.com
+cpcalendars.cmkfotografie.de
 cpcalendars.content.appsflyer.com
 cpcalendars.index.appsflyer.com
 cpcit.loggly.com
 cpcontacts.afmarketingdev.appsflyer.com
 cpcontacts.careers.appsflyer.com
+cpcontacts.cmkfotografie.de
 cpcontacts.content.appsflyer.com
 cpcontacts.index.appsflyer.com
 cpx.adscale.de
@@ -5812,6 +5816,7 @@ mail.app-measurement.com
 mail.appsflyer.com
 mail.authentic-connect.frapp.adjust.com
 mail.careers.appsflyer.com
+mail.cmkfotografie.de
 mail.content.appsflyer.com
 mailcop.vgwort.de
 mail.criteo.com
@@ -6484,6 +6489,8 @@ platform-api.supersonic.com
 platform.bing.comziffdavis697674298673.moatads.com
 platform.supersonicads.com
 platform.supersonic.com
+platincasino2.cmkfotografie.de
+platincasino.cmkfotografie.de
 play.googleapis.compx.moatads.com
 play.google.coms.moatads.com
 playworks.supersonic.com
@@ -7171,6 +7178,7 @@ smartbo202b.smartadserver.com
 smartcare.loggly.com
 smkisvusni.kameleoon.eu
 s.moatads.com
+smpc.cf
 smtp01.moat.com
 smtp.adscale.de
 smtp.adtilt.com
@@ -8031,11 +8039,13 @@ webdisk.adjust.com
 webdisk.adnxs.com
 webdisk.afmarketingdev.appsflyer.com
 webdisk.careers.appsflyer.com
+webdisk.cmkfotografie.de
 webdisk.content.appsflyer.com
 webdisk.index.appsflyer.com
 webmail.adtilt.com
 webmail.afmarketingdev.appsflyer.com
 webmail.careers.appsflyer.com
+webmail.cmkfotografie.de
 webmail.content.appsflyer.com
 webmail.index.appsflyer.com
 webmail.vgwort.de
@@ -8832,6 +8842,7 @@ www.careers.criteo.com
 www.c-evt.moatads.com
 www.chef.iowww.googleadservices.com4.sophosxl.netafs.moatads.com
 www.clarity.ms
+www.cmkfotografie.de
 www.cm.moatads.com
 www.confluence.plista.com
 www.content.appsflyer.com
@@ -8937,6 +8948,8 @@ www.pixel2.moatads.com
 www.pixel.criteo.net
 www.pixel.moatads.com
 www.pixels.omnitagjs.com
+www.platincasino2.cmkfotografie.de
+www.platincasino.cmkfotografie.de
 www.plista.com
 www.pool1.moatads.com
 www.pool2.moatads.com
@@ -8970,6 +8983,7 @@ www.showroom.xplosion.de
 www.sin1-ib.adnxs.com
 www.s-jsonp.moatads.com
 www.smartadserver.com
+www.smpc.cf
 www.sn.moatads.com
 www.ssl.supersonicads.com
 www.ssl.xplosion.de

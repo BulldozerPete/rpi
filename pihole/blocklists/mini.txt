@@ -18,7 +18,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 1142 Domains
+# 1156 Domains
 # ---------------------------------------------
 #
 184.48.190.35.bc.googleusercontent.com
@@ -264,6 +264,7 @@ click.sender.yandex.ru
 cloisteredcord.com
 cloisteredhydrant.com
 cloudsdestruction.com
+cmkfotografie.de
 cms.analytics.yahoo.com
 coatfood.com
 colorfulafterthought.com
@@ -289,6 +290,9 @@ copyrightaccesscontrols.com
 copytitle.com
 correctchaos.com
 cosmosjackson.com
+cpanel.cmkfotografie.de
+cpcalendars.cmkfotografie.de
+cpcontacts.cmkfotografie.de
 crabbychin.com
 crawlclocks.com
 crayoncompetition.com
@@ -616,6 +620,7 @@ mads.amazon-adsystem.com
 magnificentmeasure.com
 magnificentmist.com
 mailboxmeeting.com
+mail.cmkfotografie.de
 makeshiftmine.com
 maltaopenleague.com
 maniacalappliance.com
@@ -736,6 +741,8 @@ pixel.facebook.com
 pizzasnut.com
 plainrequest.com
 plantdigestion.com
+platincasino2.cmkfotografie.de
+platincasino.cmkfotografie.de
 platincasino.com
 pleasantpump.com
 plotparent.com
@@ -916,6 +923,7 @@ smetrics.samsung.com
 smilingwaves.com
 smoggysnakes.com
 smoggystation.com
+smpc.cf
 snailsengine.com
 snakemineral.com
 snakesshop.com
@@ -1130,6 +1138,8 @@ warnwing.com
 waryfog.com
 wateryvan.com
 wearywater.com
+webdisk.cmkfotografie.de
+webmail.cmkfotografie.de
 wellgroomedbat.com
 wellmadefrog.com
 whirlwealth.com
@@ -1151,9 +1161,13 @@ writewealth.com
 wrongpotato.com
 wryfinger.com
 www.cdn.ad.xiaomi.com
+www.cmkfotografie.de
 www.maltaopenleague.com
+www.platincasino2.cmkfotografie.de
+www.platincasino.cmkfotografie.de
 www.platincasino.com
 www.precautionbuoy.com
+www.smpc.cf
 www.statisgeek.com
 xovq5nemr.com
 yandexadexchange.net
