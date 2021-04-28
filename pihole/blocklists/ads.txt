@@ -17,7 +17,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 111657 Domains
+# 111670 Domains
 # ---------------------------------------------
 #
 000free.us
@@ -23802,6 +23802,9 @@ d.ns.hwcdn.emailvision.net.daraz.com
 d.ns.internal.emailvision.net.daraz.com
 dnskuu.com
 d.ns.region-emailvision.net.daraz.com
+dnsseed.bitcoin.dashjr.org
+dnsseed.bluematt.me
+dnsseed.emzy.de
 d.ns.testemailvision.net.daraz.com
 d.ns.train.emailvision.net.daraz.com
 dns.whatleaks.com
@@ -31534,6 +31537,7 @@ gwyancancook.net.daraz.com
 gwylm.com
 gx101.com
 gxb.mmstat.com
+gxbrowser.net
 gxdianhua.com
 gxejgs.com
 gxfc2021.top
@@ -54728,6 +54732,7 @@ sarimsol.com
 sarl-entrain.fr
 sarngq.dsklad.ru
 sarov.ws
+sartagesampi.com
 sarydrinkletr.site
 saryrecog.top
 sas15k01.com
@@ -55619,6 +55624,12 @@ seductiveamateurs.com
 see-back.com
 seecontentdelivery.info
 seedapp-creative.s3.amazonaws.com
+seed.bitcoin.jonasschnelli.ch
+seed.bitcoin.sipa.be
+seed.bitcoin.sprovoost.nl
+seed.bitcoinstats.com
+seed.bitcoin.wiz.biz
+seed.btc.petertodd.org
 seed.by
 seeder.igetget.com
 seedr.com
@@ -86848,6 +86859,7 @@ www.gwwhheahisrtld.com
 www.gwxpv.com
 www.gwylm.com
 www.gx101.com
+www.gxbrowser.net
 www.gxdianhua.com
 www.gxejgs.com
 www.gxfc2021.top
@@ -100390,6 +100402,7 @@ www.saredithere.club
 www.sarimsol.com
 www.sarl-entrain.fr
 www.sarov.ws
+www.sartagesampi.com
 www.sarydrinkletr.site
 www.saryrecog.top
 www.sas15k01.com
