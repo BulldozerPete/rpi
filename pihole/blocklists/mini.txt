@@ -18,7 +18,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 1618 Domains - 2021.04.27-22:36:38
+# 1646 Domains - 2021.04.28-03:48:20
 # ---------------------------------------------
 #
 184.48.190.35.bc.googleusercontent.com
@@ -44,6 +44,7 @@
 8636744.fls.doubleclick.net
 9120855.fls.doubleclick.net
 a125375509.cdn.optimizely.com
+a17853600003.cdn.optimizely.com
 a1.adform.net
 a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
 a791773171.cdn.optimizely.com
@@ -66,6 +67,7 @@ absorbingprison.com
 abstractedamount.com
 absurdapple.com
 absurdwater.com
+acdn.adnxs.com
 acidpigs.com
 acousticairplane.com
 acousticsapparel.com
@@ -92,6 +94,7 @@ ads-api.twitter.com
 ads.blogherads.com
 adsdk.yandex.ru
 adserver.71i.de
+adserver.exoticads.com
 adserver.yahoo.com
 adservetx.media.net
 adservice.google.ru
@@ -107,6 +110,7 @@ ads.rubiconproject.com
 ads.seppsmedia.com
 ads.servebom.com
 adstax-cdn.adrtx.net
+adstax-match.adrtx.net
 ads.themoneytizer.com
 ads.tiktok.com
 ads.trafficjunky.net
@@ -150,6 +154,7 @@ amplify.outbrain.com
 ams1-ib.adnxs.com
 amusementmorning.com
 analytics-api.samsunghealthcn.com
+analytics.audionow.de
 analytics.facebook.com
 analytics.mobile.yandex.net
 analyticsnew.overwolf.com
@@ -218,6 +223,7 @@ axel-springer-d.openx.net
 axiomaticalley.com
 b1-eudc1.zemanta.com
 b1t-eudc1.zemanta.com
+b51.s240.meetrics.net
 backstory.ebay.de
 bagbeam.com
 balancemailbox.com
@@ -340,6 +346,7 @@ cd.connatix.com
 cdn4.buysellads.net
 cdn.adaptv.advertising.com
 cdn.adpushup.com
+cdn.adrtx.net
 cdn.adsafeprotected.com
 cdn.adspirit.de
 cdn-aws.platincasino.com
@@ -351,6 +358,7 @@ cdn.cmp.advertising.com
 cdn.consentmanager.mgr.consensu.org
 cdn.cxense.com
 cdn.fastclick.net
+cdn.insurads.com
 cdn.krxd.net
 cdn.luckyorange.com
 cdn.marphezis.com
@@ -367,6 +375,7 @@ cdn.taboola.com
 cdntrf.com
 cdn.userreport.com
 cdn.xplosion.de
+certify-js.alexametrics.com
 c.go-mpulse.net
 chairscrack.com
 channelcamp.com
@@ -417,6 +426,7 @@ conditioncrush.com
 confiant-integrations.global.ssl.fastly.net
 confiant.msn.com
 config.fp.measure.office.com
+config.ioam.de
 config.samsungads.com
 consciouschairs.com
 consciousdirt.com
@@ -505,6 +515,7 @@ detailedkitten.com
 detectdinner.com
 detectdiscovery.com
 dev.visualwebsiteoptimizer.com
+dialacrum.iad-03.braze.com
 d.impactradius-event.com
 diplomahawaii.com
 discreetfield.com
@@ -579,6 +590,7 @@ erraticreaction.com
 es.advertising.yahoo.com
 eu-adsrv.rtbsuperhub.com
 eus.rubiconproject.com
+eu-tlp02.kameleoon.eu
 eu-tlp04.kameleoon.eu
 eu-tlp06.kameleoon.eu
 eu-tlp07.kameleoon.eu
@@ -740,6 +752,7 @@ honorableland.com
 horsenectar.com
 hosenews.com
 hotjar.com
+ht-cdn.trafficjunky.net
 htlb.casalemedia.com
 ht.redtube.com
 ht.tube8.com
@@ -762,6 +775,7 @@ illfatedsnail.com
 illustriousoatmeal.com
 image8.pubmatic.com
 image.ard.de
+image.ccg.nintendo.net
 images.intellitxt.com
 imagesrv.adition.com
 immensehoney.com
@@ -779,6 +793,7 @@ impulsejewel.com
 in.advertising.yahoo.com
 in.appcenter.ms
 inapps.appsflyer.com
+incoming.telemetry.mozilla.org
 infamousstream.com
 informengine.com
 innocentinvention.com
@@ -809,6 +824,7 @@ jill.fc.yahoo.com
 joblessdrum.com
 js.adscale.de
 js.adsrvr.org
+js-agent.newrelic.com
 js.agkn.com
 js-cdn.dynatrace.com
 js.hsadspixel.net
@@ -820,6 +836,7 @@ js.smartredirect.de
 justicejudo.com
 k54nw.pw
 kinesis.us-east-1.amazonaws.com
+k.intellitxt.com
 kitesquirrel.com
 kittyaction.com
 knotkettle.com
@@ -846,9 +863,11 @@ lightning.cnn.com
 livelumber.com
 lizardslaugh.com
 lmyd3iz3qn.kameleoon.eu
+loadus.exelator.com
 logbak.hicloud.com
 log.fc.yahoo.com
 log.pinterest.com
+logs1204.xiti.com
 logs1407.xiti.com
 logs1413.xiti.com
 logs.amap.com
@@ -984,6 +1003,7 @@ owlsr.us
 paddleangle.com
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
+pagead46.l.doubleclick.net
 pagead.googlesyndication.com
 paintplantation.com
 paleleaf.com
@@ -1012,6 +1032,7 @@ petiteumbrella.com
 photographpan.com
 pietexture.com
 pigspie.com
+ping.chartbeat.net
 piquantpigs.com
 piquantstove.com
 pixel.adsafeprotected.com
@@ -1075,6 +1096,7 @@ puffypurpose.com
 purchasesuggestion.com
 puzzlingproperty.com
 p.vtracy.de
+px.ads.linkedin.com
 quacksquirrel.com
 quaintcan.com
 quarterbean.com
@@ -1325,6 +1347,7 @@ srtb.msn.com
 srv272b.com
 srv.buysellads.com
 ssl-focus.met.vgwort.de
+ssl.google-analytics.com
 ssl-idgmagazine.met.vgwort.de
 ssl-rp-online.met.vgwort.de
 ssl-t-online.met.vgwort.de
@@ -1550,6 +1573,7 @@ venusgloria.com
 verifyvegetable.com
 verseballs.com
 vg02.met.vgwort.de
+vg05.met.vgwort.de
 video.adaptv.advertising.com
 vidstat.taboola.com
 visitor.omnitagjs.com
@@ -1561,6 +1585,7 @@ vq1qi.pw
 vrt.outbrain.com
 v.vfghe.com
 vz-cdn2.trafficjunky.net
+vz-cdn.trafficjunky.net
 w1.luckyorange.com
 waggishpig.com
 wakefulcook.com
@@ -1597,6 +1622,7 @@ wreckvolcano.com
 writewealth.com
 wrongpotato.com
 wryfinger.com
+w.sharethis.com
 wt.vhb.de
 w.usabilla.com
 www4.smartadserver.com
@@ -1605,6 +1631,7 @@ www.cashdorado.de
 www.cdn.ad.xiaomi.com
 www.communicationads.net
 www.dwin1.com
+www.google-analytics.com
 www.googleoptimize.com
 www.googletagmanager.com
 www.googletagservices.com
@@ -1623,6 +1650,7 @@ www.tisoomi-adservice.com
 www.tisoomi-services.com
 www.ugdturner.com
 www.usemaxserver.de
+www.vfthr.com
 www.zergnet.com
 xovq5nemr.com
 yandexadexchange.net

@@ -21,7 +21,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 53891 Domains - 2021.04.27-22:34:00
+# 53913 Domains - 2021.04.28-03:46:13
 # ---------------------------------------------
 #
 007drones.de
@@ -367,6 +367,7 @@ adfingest.es
 adfly360.com
 adidas2018.com
 adidasbotas.com
+adidas.com
 adidascontinental.de
 adidascool.com
 adidas-deutschland.com
@@ -2914,6 +2915,7 @@ bobflix.de
 bobmobile.de
 boboflix.com
 boboplay.de
+bobrtc.tel
 bobs-bau.de
 bobs-elektro.net
 bobspluskaufen.de
@@ -5396,6 +5398,7 @@ dggmnt2013.de
 dgsys.de
 dhabiprevailbank.com
 dh-fraktur.de
+dhgate.com
 dh-immobilien.at
 dhk-transport.com
 dhm-schwimmen-leipzig.de
@@ -11901,6 +11904,7 @@ installateur-notdienst-wien.co.at
 installateurzentrale.at
 instametall.de
 instantcargoservice.com
+instantcheckmate.com
 instantglobalshipping.com
 instanthaushalt.de
 instantsafedelivery.online
@@ -12317,6 +12321,8 @@ jirapronpalahong.com
 jja-cine.fr
 jjbuying.com
 jjctrans.com
+jjshouse.com
+jjshouse.de
 jkarnil.com
 jkbikesout.cc
 jk-elektroanlagen.de
@@ -16868,6 +16874,7 @@ nalyamg.com
 namastenova.ca
 name.laf-shop.com
 namen-los.at
+namesilo.com
 namgyal-rinpoche-gruppe-deutschland.de
 namicloth.com
 namolie.de
@@ -17353,6 +17360,7 @@ nolla-f.shop
 nolliter.com
 nomio-media.com
 nomi-physio.de
+nomorobo.com
 nonaflix.de
 nonaplay.de
 nonasy.net
@@ -20460,6 +20468,7 @@ rotesblut.de
 rotflix.de
 rothandyhulle.com
 rothause.de
+rotita.com
 rotkatoutlet.com
 rottclimb.de
 rottiepupsforsale.com
@@ -21352,6 +21361,7 @@ shebeautys.com
 shedroffassociates.com
 sheheaven.com
 sheicloth.com
+shein.com
 sheinse.com
 sheinyci.com
 sheistyle.com
@@ -23558,6 +23568,7 @@ textart-online.de
 textglueck.at
 textilesdenkmal.de
 textil-little-elephant.de
+textnow.com
 textspeier.de
 text-vorlagen-ideen.com
 tezz-trans.com
@@ -26927,6 +26938,7 @@ www.adfingest.es
 www.adfly360.com
 www.adidas2018.com
 www.adidasbotas.com
+www.adidas.com
 www.adidascontinental.de
 www.adidascool.com
 www.adidas-deutschland.com
@@ -29436,6 +29448,7 @@ www.bobflix.de
 www.bobmobile.de
 www.boboflix.com
 www.boboplay.de
+www.bobrtc.tel
 www.bobs-bau.de
 www.bobs-elektro.net
 www.bobspluskaufen.de
@@ -31865,6 +31878,7 @@ www.dggmnt2013.de
 www.dgsys.de
 www.dhabiprevailbank.com
 www.dh-fraktur.de
+www.dhgate.com
 www.dh-immobilien.at
 www.dhk-transport.com
 www.dhm-schwimmen-leipzig.de
@@ -38312,6 +38326,7 @@ www.installateurnotdienste.at
 www.installateurzentrale.at
 www.instametall.de
 www.instantcargoservice.com
+www.instantcheckmate.com
 www.instantglobalshipping.com
 www.instanthaushalt.de
 www.instantsafedelivery.online
@@ -38725,6 +38740,8 @@ www.jirapronpalahong.com
 www.jja-cine.fr
 www.jjbuying.com
 www.jjctrans.com
+www.jjshouse.com
+www.jjshouse.de
 www.jkarnil.com
 www.jkbikesout.cc
 www.jk-elektroanlagen.de
@@ -43225,6 +43242,7 @@ www.nalyamg.com
 www.namastenova.ca
 www.name.laf-shop.com
 www.namen-los.at
+www.namesilo.com
 www.namgyal-rinpoche-gruppe-deutschland.de
 www.namicloth.com
 www.namolie.de
@@ -43704,6 +43722,7 @@ www.nolla-f.shop
 www.nolliter.com
 www.nomio-media.com
 www.nomi-physio.de
+www.nomorobo.com
 www.nonaflix.de
 www.nonaplay.de
 www.nonasy.net
@@ -46762,6 +46781,7 @@ www.rotesblut.de
 www.rotflix.de
 www.rothandyhulle.com
 www.rothause.de
+www.rotita.com
 www.rotkatoutlet.com
 www.rottclimb.de
 www.rottiepupsforsale.com
@@ -47642,6 +47662,7 @@ www.shebeautys.com
 www.shedroffassociates.com
 www.sheheaven.com
 www.sheicloth.com
+www.shein.com
 www.sheinse.com
 www.sheinyci.com
 www.sheistyle.com
@@ -49815,6 +49836,7 @@ www.textart-online.de
 www.textglueck.at
 www.textilesdenkmal.de
 www.textil-little-elephant.de
+www.textnow.com
 www.textspeier.de
 www.text-vorlagen-ideen.com
 www.tezz-trans.com
