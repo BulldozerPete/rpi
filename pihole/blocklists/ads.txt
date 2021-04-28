@@ -17,7 +17,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 111683 Domains - 2021.04.28-03:48:05
+# 111634 Domains - 2021.04.28-09:23:54
 # ---------------------------------------------
 #
 000free.us
@@ -3702,7 +3702,6 @@ adbrix.io
 adbrix-trk-was-prod.ap-northeast-1.elasticbeanstalk.com
 adbrn.com
 adbroker.de
-adbroker.mp.dse.microsoft.com
 adbro.me
 adbrook.com
 adbro.rtbid.me
@@ -5415,7 +5414,6 @@ ads.bidstreamserver.com
 ads.bigchurch.com
 ads.bigfoot.com
 ads.biggerboat.com
-ads.bingads.microsoft.com
 ads.bing.com
 adsbingo.com
 ads.bitesms.com
@@ -7328,7 +7326,6 @@ adverticum.com
 adverticum.net
 adverticus.de
 adverti.io
-advertise.bingads.microsoft.com
 advertise.com
 advertisegame.com
 advertiseireland.com
@@ -7357,7 +7354,6 @@ advertising.amazon.co.jp
 advertising.amazon.co.uk
 advertising.aol.com
 advertising-api.gumgum.com
-advertising.apple.com
 advertisingbanners.com
 advertisingbay.com
 advertising.bbcworldwide.com
@@ -7368,7 +7364,6 @@ advertising.hiasys.com
 advertising.illinimedia.com
 advertisingiq.com
 advertising.jp.msn.com
-advertising.microsoft.com
 advertising.online-media24.de
 advertising.paltalk.com
 advertisingsex.com
@@ -10199,7 +10194,6 @@ api.batterylab.duapps.com
 api.beaconsinspace.com
 api.beaconstreetservices.com
 api.bee7.com
-api.bingads.microsoft.com
 api.bitmango.com
 api.bitp.it
 api.bizographics.com
@@ -10991,7 +10985,6 @@ appsha2.space
 apps.haraads.com
 appshelf.ttpsdk.info
 app.shoptarget.com.br
-apps.iad.apple.com
 app.simpli.fi
 app-sj01.marketo.com
 app-sj02.marketo.com
@@ -12867,7 +12860,6 @@ banners.iop.org
 banners.ipotd.com
 banners.iq.pl
 banners.isoftmarketing.com
-banners.itunes.apple.com
 banners.jewishfriendfinder.com
 banners.kinoafisha.info
 banners.ksl.com
@@ -13342,7 +13334,6 @@ beacon.livefyre.com
 beacon.lycos.com
 beacon.lynx.cognitivlabs.com
 beacon.my.salesforce.com
-beacon.netflix.com
 beacon-nf.rubiconproject.com
 beacon-nf.rubiconproject.net.akadns.net
 beacon.nrholding.net
@@ -14067,7 +14058,6 @@ bindinginflict.com
 bindmillionairenaturalists.com
 binetsrealing.club
 bing0.ru
-bingads.microsoft.com
 bingo4affiliates.com
 bingooverdosegroom.com
 bingp.ru
@@ -14417,7 +14407,6 @@ bluemaulpuffs.com
 bluemountain1.com
 bluepages.smaato.net
 blueparrot.media
-blueprints.iad.apple.com
 bluescreenalert.com
 blueseed.tv
 blueserving.com
@@ -14649,8 +14638,6 @@ bookforall1.bookforall.ru
 bookingfreeze.com
 book-keeping.showheroes.com
 bookpdf.services
-books-analytics-events.apple.com
-books-analytics-events.news.apple-dns.net
 booksearch.com
 boom66.com
 boomads.com
@@ -16244,7 +16231,6 @@ c.cpa5.ru
 c.cpa6.ru
 ccpa.psg.nexstardigital.net
 c.cpl2.ru
-ccportal.iad.apple.com
 ccqgkbnbpdrxf.com
 c.cqpsf.cn
 ccrbudgetca.112.2o7.net
@@ -18631,7 +18617,6 @@ cmt.setrowid.com
 cm.t.tailtarget.com
 cm-udmp.gridsumdissector.com
 cmvrclicks000.com
-cmws.iad.apple.com
 c.my.msn.com
 cn-3drp.com
 cn.adserver.yahoo.com
@@ -20622,7 +20607,6 @@ cshkgktv.com
 cs.hot.net.il
 csht.ru
 cshwhy.cn
-cs.iadsdk.apple.com
 csiasvapqrccq.com
 c.sibnet.ru
 csi.kochava.com
@@ -23445,8 +23429,6 @@ display.admicro.vn
 displayads-formats.googleusercontent.com
 displayadsmedia.com
 display.apester.com
-display-apps-ui.iad.apple.com
-display-apps-ui-soak.iad.apple.com
 display.bfmio.com
 displaycontentnetwork.com
 displaycontentprofit.com
@@ -28691,7 +28673,6 @@ foxtv.us.intellitxt.com
 foxypp.com
 foyilhardburly.com
 fp3.ads.stickyadstv.com.akadns.net
-fp.advertising.microsoft.com
 fpa-events.arstechnica.com
 fpb1.apple886.com
 fpb1.tabuzhe.com
@@ -33465,12 +33446,10 @@ iad7.ipromote.com
 iad8.ipromote.com
 iad.anm.co.uk
 iad.appboy.com
-iad.apple.com
 iadasa.qwapi.com
 iad.conversantmedia.com
 iadctest.qwapi.com
 iad.eclick.vn
-iadfeed.iad.apple.com
 iadfeed.qwapi.com
 iad.g.163.com
 iad.legacy.dotomi.weighted.com.akadns.net
@@ -33490,7 +33469,6 @@ iad-usadmm-ds.dotomi.com
 iadvert.net
 iad.w-htgb-a.net.daraz.com
 i.adwise.bg
-iadworkbench-soak.iad.apple.com
 ia.ekstrabladet.dk
 iafjzbzqdgxq.com
 iaflstore.jp
@@ -35406,7 +35384,6 @@ ireklama.cz
 iridiumsergeiprogenitor.info
 ir-ing-district.clicktale.net
 iris101.co.uk
-iris.iad.apple.com
 irjfsrocuzwkpf.com
 irkerecue.com
 irkfunkyformer.com
@@ -40910,7 +40887,6 @@ mbhjaeg.info
 mbholicymi.club
 mbid.io
 mbid.marfeelrev.com
-m.bingads.microsoft.com
 mb.interfax.ru
 mbjb1.girl13.com
 mbjtimes.com
@@ -41748,7 +41724,6 @@ metrics.apartments.com
 metrics.api.drift.com
 metrics-api.librato.com
 metrics.api.yle.fi
-metrics.apple.com
 metrics.argos.co.uk
 metrics.ariba.com
 metrics.asos.com
@@ -44991,7 +44966,6 @@ nmrodam.com
 nmsacramento.112.2o7.net
 nmtoronto.112.2o7.net
 nmtouzi.com
-nmtracking.netflix.com
 nmtricity.112.2o7.net
 nmwalbwu.com
 nmyork.112.2o7.net
@@ -45126,7 +45100,6 @@ notchcollectormuffin.com
 notebook.stats.vng.com.vn
 notenpartner.de
 notepad2.com
-notes-analytics-events.apple.com
 notesbook.in
 notestscredi.club
 notheredef.fun
@@ -45770,7 +45743,6 @@ oc734yaw3w.rest
 o.carmax.com
 ocatdog.live
 ocatdog.today
-oca.telemetry.microsoft.com
 occupangno.club
 occupantrookpurely.com
 occursexpertloving.com
@@ -49894,7 +49866,6 @@ presentation-ams1.turn.com
 presentation-hkg1.turn.com
 presentation-sjc2.turn.com
 presentationsportsman.com
-presentationtracking.netflix.com
 presentlyarch.com
 presentsh.club
 presetrabbits.com
@@ -52826,7 +52797,6 @@ reports.pagesuite-professional.co.uk
 report-static.bapi.adsafeprotected.com
 report.statistics.aatkit.com
 reports.ubimo.com
-reports.wes.df.telemetry.microsoft.com
 reports.youbora.com
 report-uri.io
 report.vnay.vn
@@ -52970,7 +52940,6 @@ response.miracle-recreation.com
 response.pure360.com
 responservbzh.icu
 responserver.com
-responses.df.telemetry.microsoft.com
 response.splunk.com
 responsetap.com
 responsibilityimplied.com
@@ -56043,7 +56012,6 @@ services.scanscout.com
 services.serving-sys.com
 service-stat.tbn.ru
 services.vlitag.com
-services.wes.df.telemetry.microsoft.com
 services.wetek.com
 services.xg4ken.com
 services.x-traceur.com
@@ -56604,7 +56572,6 @@ sibautomation.com
 sibernetix.fr
 sibilantamusing.com
 sibilantcliffrecommendation.com
-si.bingads.microsoft.com
 siblesectiveal.club
 sibulla.com
 sic.33across.com
@@ -58982,8 +58949,6 @@ sqdtcdjhfbztfz.com
 sqext.com
 sqhneencmysrk.com
 s.qhupdate.com
-sqm.df.telemetry.microsoft.com
-sqm.telemetry.microsoft.com
 sqnwmwnwok.com
 sqpgncbm.com
 sq.requestads.com
@@ -60317,7 +60282,6 @@ stats.fairmont.com
 stats.farbenmeer.de
 stats.fastcompany.com
 stats.fd.nl
-statsfe2.ws.microsoft.com
 stats.fidelity-media.com
 stats.filmfed.com
 stats.findvax.us
@@ -60850,7 +60814,6 @@ stg-authorization.playbuzz.com
 stg-catalyst.breaktime.com.tw
 stg-cdn.ad1x.com
 stg-cf.im-apps.net
-stg-cmws.iad.apple.com
 stg-data.ads.heytapmobi.com
 stg-data-collector.playbuzz.com
 stg-data-f.ads.heytapmobi.com
@@ -60963,8 +60926,6 @@ stockbook-ads.firebaseapp.com
 stockbook-ads.firebaseio.com
 stocker.bonnint.net
 stockingsneeze.com
-stocks-analytics-events.apple.com
-stocks-analytics-events.news.apple-dns.net
 stocksbsc.com
 stoffickiesolding.site
 stogerde.com
@@ -61142,7 +61103,6 @@ strucewe.info
 structurerod.com
 struq.com
 sts2.qadynamics.marketo.com
-sts.advertising.microsoft.com
 st.sageanalyst.net
 sts.batmobi.net
 stsdk.vivo.com.cn
@@ -61153,7 +61113,6 @@ st.smartredirect.de
 stsodds.sts.pl
 sts.papyrs.com
 sts.qadynamics.marketo.com
-sts.si.advertising.microsoft.com
 st-ssp.anthill.vn
 stsunfulnoth.top
 stsywl.com
@@ -61303,7 +61262,6 @@ sugoicounter.com
 sugs.m.sm.cn
 suhunsoo.uk
 suhusushi.com
-su.iadsdk.apple.com
 suitarserviku.site
 suite6ixty6ix.com
 suite-analytics.socialbakers.com
@@ -61473,7 +61431,6 @@ supportfreya.net.daraz.com
 support-ip.com
 supportit.online
 supportiveimpassableevasion.com
-supportmetrics.apple.com
 support.r-dw-1.net.daraz.com
 support.sweepstakes.com
 supportxmr.com
@@ -62444,7 +62401,6 @@ targeting.voxus.tv
 targeting.washpost.nile.works
 targetix.net
 targetman.ru
-target.microsoft.com
 target.mirtesen.ru
 target.mixi.media
 target.nejm.org
@@ -64939,7 +64895,6 @@ tracking-server-prod-1.zenmxapps.com
 tracking.service.cz.nl
 tracking.sezzle.com
 tracking.sharplink.us
-trackingshipment.apple.com
 tracking.shl.com
 tracking.shopback.com
 tracking.shopstyle.com
@@ -67663,7 +67618,6 @@ utexas.actonservice.com
 utfusckgnj.com
 utherverse.com
 uthorner.info
-ut.iadsdk.apple.com
 utilieur.com
 utilitiespridesweat.com
 utility.baidu.com
@@ -69683,7 +69637,6 @@ wearelovelive.com
 wearemiq.com
 wearywater.com
 w.eastus.trafficmanager.inmobi.com
-weather-analytics-events.apple.com
 weather.api.useinsider.com
 weatherbug.adsbynimbus.com
 weatherbugbrowserbar.mywebsearch.com
@@ -70088,7 +70041,6 @@ werinussa.net
 werpig.com
 wervp.com
 wesbgz.travel.co.jp
-wes.df.telemetry.microsoft.com
 wesell.co.il
 wessexgrange.plus.com
 west.adadvisor.net
@@ -88195,7 +88147,6 @@ www.iabtechlab.com
 www.iadnet.com
 www.iad.partner-pay.net.daraz.com
 wwwiad.partner-pay.net.daraz.com
-www.iadsdk.apple.com
 www.iadvert.net
 www.iafjzbzqdgxq.com
 www.iaflstore.jp

@@ -18,7 +18,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 1646 Domains - 2021.04.28-03:48:20
+# 1638 Domains - 2021.04.28-09:25:55
 # ---------------------------------------------
 #
 184.48.190.35.bc.googleusercontent.com
@@ -276,8 +276,6 @@ bmedia.justservingfiles.net
 boilingbeetle.com
 boilingumbrella.com
 boneregret.com
-books-analytics-events.apple.com
-books-analytics-events.news.apple-dns.net
 boredborder.com
 boredcrown.com
 boringberry.com
@@ -923,7 +921,6 @@ metrics2.data.hicloud.com
 metrics3.data.hicloud.com
 metrics4.data.hicloud.com
 metrics5.data.hicloud.com
-metrics.apple.com
 metrics.data.hicloud.com
 metrics-dra.dt.hicloud.com
 metrics.ionos.de
@@ -1395,8 +1392,6 @@ stickssheep.com
 stickysheet.com
 stiffstem.com
 stockingsneeze.com
-stocks-analytics-events.apple.com
-stocks-analytics-events.news.apple-dns.net
 storescissors.com
 storeslope.com
 storesurprise.com
@@ -1426,7 +1421,6 @@ summerhamster.com
 summerobject.com
 superficialsquare.com
 supervisegoldfish.com
-supportmetrics.apple.com
 suspendseed.com
 sweepsheep.com
 sweetslope.com
@@ -1508,7 +1502,6 @@ tracking.m6r.eu
 tracking.miui.com
 tracking.overwolf.com
 tracking.rus.miui.com
-trackingshipment.apple.com
 track.ksta.de
 tracksrv.zdf.de
 tradecraft.s.llnwi.net
@@ -1597,7 +1590,6 @@ wateryvan.com
 wa.wdr.de
 wa.web.de
 wearywater.com
-weather-analytics-events.apple.com
 web.vortex.data.msn.com
 wellgroomedbat.com
 wellmadefrog.com
