@@ -18,7 +18,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 1156 Domains
+# 1160 Domains
 # ---------------------------------------------
 #
 184.48.190.35.bc.googleusercontent.com
@@ -346,6 +346,7 @@ detailedgovernment.com
 detailedkitten.com
 detectdinner.com
 detectdiscovery.com
+dhl-bestatigung.com
 diplomahawaii.com
 discreetfield.com
 dispensablestranger.com
@@ -635,6 +636,7 @@ materialisticfan.com
 materialisticmark.com
 materialmoon.com
 mc.yandex.ru
+me2.kr
 meatydime.com
 media.fastclick.net
 media.net
@@ -1162,7 +1164,9 @@ wrongpotato.com
 wryfinger.com
 www.cdn.ad.xiaomi.com
 www.cmkfotografie.de
+www.dhl-bestatigung.com
 www.maltaopenleague.com
+www.me2.kr
 www.platincasino2.cmkfotografie.de
 www.platincasino.cmkfotografie.de
 www.platincasino.com
