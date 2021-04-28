@@ -18,7 +18,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 1638 Domains - 2021.04.28-09:25:55
+# 1653 Domains - 2021.04.28-09:37:04
 # ---------------------------------------------
 #
 184.48.190.35.bc.googleusercontent.com
@@ -52,6 +52,7 @@ a.adtng.com
 aa.online-metrix.net
 aax.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
+aax-us-east.amazon-adsystem.com
 abackchain.com
 abandonedaction.com
 a.bf-ad.net
@@ -168,6 +169,7 @@ analytics.tiktok.com
 analytics.tiktok.comet
 analytics.webpushr.com
 analytics.yahoo.com
+a.nel.cloudflare.com
 annoyedfifth.com
 annoyingacoustics.com
 anxiousapples.com
@@ -180,6 +182,7 @@ api.segment.io
 apis.quantcast.mgr.consensu.org
 api.theadex.com
 a.postrelease.com
+app-analytics-v2.snapchat.com
 appboy-images.com
 app.chat.xiaomi.net
 applesarmy.com
@@ -301,6 +304,7 @@ bs.yandex.ru
 btez8.xyz
 btloader.com
 bucketbean.com
+bugsnag-session.monitor.core.app.alexa.a2z.com
 bulbbait.com
 burgerbrush.com
 burnbubble.com
@@ -342,6 +346,7 @@ c.bing.com
 cd.adition.com
 cd.connatix.com
 cdn4.buysellads.net
+cdn.88-f.net
 cdn.adaptv.advertising.com
 cdn.adpushup.com
 cdn.adrtx.net
@@ -423,6 +428,7 @@ concheck.adsafety.net
 conditioncrush.com
 confiant-integrations.global.ssl.fastly.net
 confiant.msn.com
+config.88-f.net
 config.fp.measure.office.com
 config.ioam.de
 config.samsungads.com
@@ -485,6 +491,7 @@ data.mistat.india.xiaomi.com
 data.mistat.intl.xiaomi.com
 data.mistat.rus.xiaomi.com
 data.mistat.xiaomi.com
+dc.services.visualstudio.com
 deadpantruck.com
 de.advertising.yahoo.com
 deafeningdock.com
@@ -629,6 +636,7 @@ fearfulfish.com
 feebleshock.com
 fifthborder.com
 finalizeforce.com
+firebaselogging.googleapis.com
 firebaselogging-pa.googleapis.com
 firebase-settings.crashlytics.com
 firstfrogs.com
@@ -769,6 +777,7 @@ ib.adnxs.com
 ice.360yield.com
 icebergindigo.com
 id5-sync.com
+id.google.com
 illfatedsnail.com
 illustriousoatmeal.com
 image8.pubmatic.com
@@ -833,6 +842,7 @@ js-sec.indexww.com
 js.smartredirect.de
 justicejudo.com
 k54nw.pw
+kinesis.eu-west-1.amazonaws.com
 kinesis.us-east-1.amazonaws.com
 k.intellitxt.com
 kitesquirrel.com
@@ -862,6 +872,7 @@ livelumber.com
 lizardslaugh.com
 lmyd3iz3qn.kameleoon.eu
 loadus.exelator.com
+log16-normal-c-useast1a.tiktokv.com
 logbak.hicloud.com
 log.fc.yahoo.com
 log.pinterest.com
@@ -924,7 +935,6 @@ metrics5.data.hicloud.com
 metrics.data.hicloud.com
 metrics-dra.dt.hicloud.com
 metrics.ionos.de
-metrics.mzstatic.com
 metrics.n-tv.de
 metrika.yandex.ru
 metroaverage.com
@@ -971,6 +981,7 @@ nondescriptsmile.com
 nondescriptstocking.com
 nostalgicknot.com
 nothingmethod.com
+notifications-pa.googleapis.com
 notify-bugs-fra1.rtl.de
 notify.bugsnag.com
 n-tv.met.vgwort.de
@@ -1030,6 +1041,7 @@ photographpan.com
 pietexture.com
 pigspie.com
 ping.chartbeat.net
+pipe.skype.com
 piquantpigs.com
 piquantstove.com
 pixel.adsafeprotected.com
@@ -1091,6 +1103,7 @@ puffyloss.com
 puffypull.com
 puffypurpose.com
 purchasesuggestion.com
+push.services.mozilla.com
 puzzlingproperty.com
 p.vtracy.de
 px.ads.linkedin.com
@@ -1292,6 +1305,7 @@ smetrics.samsung.com
 smilingwaves.com
 smoggysnakes.com
 smoggystation.com
+smoot-feedback.v.aaplimg.com
 snailsengine.com
 snakemineral.com
 snakesshop.com
@@ -1597,6 +1611,7 @@ whirlwealth.com
 whiskyqueue.com
 whisperingbadge.com
 whisperingcrib.com
+whoami.akamai.net
 widget-mediator.zopim.com
 widgets.outbrain.com
 widgets.pinterest.com
