@@ -17,7 +17,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 133425 Domains
+# 133458 Domains
 # ---------------------------------------------
 #
 000free.us
@@ -7424,6 +7424,7 @@ advertising.amazon.co.jp
 advertising.amazon.co.uk
 advertising.aol.com
 advertising-api.gumgum.com
+advertising.apple.com
 advertisingbanners.com
 advertisingbay.com
 advertising.bbcworldwide.com
@@ -11283,6 +11284,7 @@ appsha2.space
 apps.haraads.com
 appshelf.ttpsdk.info
 app.shoptarget.com.br
+apps.iad.apple.com
 app.simpli.fi
 app-sj01.marketo.com
 app-sj02.marketo.com
@@ -13356,6 +13358,7 @@ banners.iop.org
 banners.ipotd.com
 banners.iq.pl
 banners.isoftmarketing.com
+banners.itunes.apple.com
 banners.jewishfriendfinder.com
 banners.kinoafisha.info
 banners.ksl.com
@@ -15122,6 +15125,7 @@ bluemaulpuffs.com
 bluemountain1.com
 bluepages.smaato.net
 blueparrot.media
+blueprints.iad.apple.com
 bluescreenalert.com
 blueseed.tv
 blueserving.com
@@ -15407,6 +15411,8 @@ bookforall1.bookforall.ru
 bookingfreeze.com
 book-keeping.showheroes.com
 bookpdf.services
+books-analytics-events.apple.com
+books-analytics-events.news.apple-dns.net
 booksearch.com
 boom66.com
 boomads.com
@@ -16676,6 +16682,7 @@ cahdfzg.cn
 cahepysgenpb.com
 cahf4eed.mooo.com
 cahvxjmcl.com
+ca.iadsdk.apple.com
 caichenguang.cn
 caiji.wiki
 caikouli.com
@@ -17242,6 +17249,7 @@ c.cpa6.ru
 ccpa.psg.nexstardigital.net
 c.cpl2.ru
 ccpnzfts.com
+ccportal.iad.apple.com
 ccqgkbnbpdrxf.com
 c.cqpsf.cn
 ccrbudgetca.112.2o7.net
@@ -18251,6 +18259,7 @@ cfhijdsb.cn
 cfhjqg.sonyunara.jp
 cfhkiriics.com
 cfhrk.com
+cf.iadsdk.apple.com
 cfimage.moengage.com
 cf.im-apps.net
 c.fi.msn.com
@@ -19807,6 +19816,7 @@ cm.t.tailtarget.com
 cm-udmp.gridsumdissector.com
 cmvrclicks000.com
 cmwsdhdyregbyn.bid
+cmws.iad.apple.com
 cmyjgtiihmit.bid
 c.my.msn.com
 cmyzmrgrtyrkt.com
@@ -21913,6 +21923,7 @@ cs.hot.net.il
 csht.ru
 cshwhy.cn
 cshzkkihjnweb.com
+cs.iadsdk.apple.com
 csiasvapqrccq.com
 c.sibnet.ru
 csi.kochava.com
@@ -25039,6 +25050,8 @@ display.admicro.vn
 displayads-formats.googleusercontent.com
 displayadsmedia.com
 display.apester.com
+display-apps-ui.iad.apple.com
+display-apps-ui-soak.iad.apple.com
 display.bfmio.com
 displaycontentnetwork.com
 displaycontentprofit.com
@@ -37261,10 +37274,12 @@ iad7.ipromote.com
 iad8.ipromote.com
 iad.anm.co.uk
 iad.appboy.com
+iad.apple.com
 iadasa.qwapi.com
 iad.conversantmedia.com
 iadctest.qwapi.com
 iad.eclick.vn
+iadfeed.iad.apple.com
 iadfeed.qwapi.com
 iadfjbrttvgn.com
 iad.g.163.com
@@ -37276,6 +37291,7 @@ iadmsoak.qwapi.com
 iadnet.com
 i.adnium.com
 i.adsame.com
+iadsdk.apple.com
 iadsdk.qwapi.com
 iads.iltrovatore.it
 iadsoak.qwapi.com
@@ -37285,6 +37301,7 @@ iad-usadmm-ds.dotomi.com
 iadvert.net
 iad.w-htgb-a.net.daraz.com
 i.adwise.bg
+iadworkbench-soak.iad.apple.com
 ia.ekstrabladet.dk
 iafjzbzqdgxq.com
 iaflstore.jp
@@ -39520,6 +39537,7 @@ irfiysdcrnleu.com
 iridiumsergeiprogenitor.info
 ir-ing-district.clicktale.net
 iris101.co.uk
+iris.iad.apple.com
 irjfsrocuzwkpf.com
 irkerecue.com
 irkfunkyformer.com
@@ -47642,6 +47660,7 @@ metrics.apartments.com
 metrics.api.drift.com
 metrics-api.librato.com
 metrics.api.yle.fi
+metrics.apple.com
 metrics.argos.co.uk
 metrics.ariba.com
 metrics.asos.com
@@ -47789,6 +47808,7 @@ metrics.homes.com
 metrics.hoovers.com
 metrics.hrblock.com
 metrics.hyundaiusa.com
+metrics.icloud.com
 metrics.iconfitness.com
 metrics.ikea.com
 metrics.ilovematlab.cn
@@ -47847,6 +47867,7 @@ metrics.moneymart.ca
 metrics.motortrend.com
 metrics.myprime.com
 metrics.mysanantonio.com
+metrics.mzstatic.com
 metrics.nationwide.co.uk
 metrics.natmags.co.uk
 metrics.nba.com
@@ -50977,6 +50998,7 @@ news-gamma.com
 news-glance.com
 news.govorjat.ru
 news-headlines.co
+news.iadsdk.apple.com
 newsinform.net
 newsinteractive.112.2o7.net
 news.jiukang.org
@@ -51671,6 +51693,7 @@ notchcollectormuffin.com
 notebook.stats.vng.com.vn
 notenpartner.de
 notepad2.com
+notes-analytics-events.apple.com
 notesbook.in
 notestscredi.club
 notheredef.fun
@@ -69778,6 +69801,7 @@ stg-authorization.playbuzz.com
 stg-catalyst.breaktime.com.tw
 stg-cdn.ad1x.com
 stg-cf.im-apps.net
+stg-cmws.iad.apple.com
 stg-data.ads.heytapmobi.com
 stg-data-collector.playbuzz.com
 stg-data-f.ads.heytapmobi.com
@@ -69896,6 +69920,8 @@ stockbook-ads.firebaseapp.com
 stockbook-ads.firebaseio.com
 stocker.bonnint.net
 stockingsneeze.com
+stocks-analytics-events.apple.com
+stocks-analytics-events.news.apple-dns.net
 stocksbsc.com
 stoffickiesolding.site
 stogerde.com
@@ -70246,6 +70272,7 @@ sugqlryshxarn.com
 sugs.m.sm.cn
 suhunsoo.uk
 suhusushi.com
+su.iadsdk.apple.com
 suitarserviku.site
 suite6ixty6ix.com
 suite-analytics.socialbakers.com
@@ -70420,6 +70447,7 @@ supportfreya.net.daraz.com
 support-ip.com
 supportit.online
 supportiveimpassableevasion.com
+supportmetrics.apple.com
 support.r-dw-1.net.daraz.com
 support.sweepstakes.com
 supportxmr.com
@@ -74292,6 +74320,7 @@ tracking-server-prod-1.zenmxapps.com
 tracking.service.cz.nl
 tracking.sezzle.com
 tracking.sharplink.us
+trackingshipment.apple.com
 tracking.shl.com
 tracking.shopback.com
 tracking.shopstyle.com
@@ -75107,6 +75136,7 @@ tr-gmtdmp.mookie1.com
 trgtcdn.com
 trhccn.cn
 triadmedianetwork.com
+tr.iadsdk.apple.com
 trial-lib-ht-1.net.daraz.com
 trial-ns1.twtelecom.net.daraz.com
 trialpay.com
@@ -77477,6 +77507,7 @@ utfusckgnj.com
 utherverse.com
 uthifuehb.com
 uthorner.info
+ut.iadsdk.apple.com
 utiiamqdsku.com
 utilieur.com
 utilitiespridesweat.com
@@ -79781,6 +79812,7 @@ wearelovelive.com
 wearemiq.com
 wearywater.com
 w.eastus.trafficmanager.inmobi.com
+weather-analytics-events.apple.com
 weather.api.useinsider.com
 weatherbug.adsbynimbus.com
 weatherbugbrowserbar.mywebsearch.com
@@ -102226,6 +102258,7 @@ www.iadfjbrttvgn.com
 www.iadnet.com
 www.iad.partner-pay.net.daraz.com
 wwwiad.partner-pay.net.daraz.com
+www.iadsdk.apple.com
 www.iadvert.net
 www.iafjzbzqdgxq.com
 www.iaflstore.jp
