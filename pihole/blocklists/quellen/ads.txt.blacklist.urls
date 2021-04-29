@@ -3,6 +3,7 @@ https://dbl.oisd.nl/basic/
 ! https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 ! https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
+! https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 https://v.firebog.net/hosts/Admiral.txt

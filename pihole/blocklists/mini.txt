@@ -18,7 +18,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 1160 Domains
+# 1262 Domains
 # ---------------------------------------------
 #
 184.48.190.35.bc.googleusercontent.com
@@ -37,7 +37,9 @@
 6ldu6qa.com
 82o9v830.com
 84.249.186.35.bc.googleusercontent.com
+a.adtng.com
 aax.amazon-adsystem.com
+aax-eu.amazon-adsystem.com
 abackchain.com
 abandonedaction.com
 aboardamusement.com
@@ -52,6 +54,7 @@ absorbingprison.com
 abstractedamount.com
 absurdapple.com
 absurdwater.com
+acdn.adnxs.com
 acidpigs.com
 acousticairplane.com
 acousticsapparel.com
@@ -60,7 +63,9 @@ acridtwist.com
 actuallysheep.com
 actuallysnake.com
 additionant.com
+ade.googlesyndication.com
 adfox.yandex.ru
+ads2.contentabc.com
 ad.samsungadhub.com
 ad.samsungads.com
 adsdk.yandex.ru
@@ -74,7 +79,9 @@ adspecs.yahoo.com
 ads.pinterest.com
 ads.reddit.com
 ads.seppsmedia.com
+adstax-cdn.adrtx.net
 ads.tiktok.com
+ads.trafficjunky.net
 ads-twitter.com
 ads.yahoo.com
 ads.yap.yahoo.com
@@ -83,11 +90,14 @@ adtools.facebook.com
 advertisementafterthought.com
 advertising.yahoo.com
 adx.ads.oppomobile.com
+ad.yieldlab.net
 afraidlanguage.com
 agreeablestew.com
 agreeabletouch.com
 aheadday.com
+a.hstrck.com
 ak0gsh40.com
+alb.reddit.com
 alertafterthought.com
 alikeaddition.com
 alikearm.com
@@ -105,6 +115,7 @@ a.mouseflow.com
 amusementmorning.com
 analytics-api.samsunghealthcn.com
 analytics.facebook.com
+analytics-ingress-global.bitmovin.com
 analytics.mobile.yandex.net
 analytics.oneplus.cn
 analytics.pinterest.com
@@ -119,8 +130,10 @@ anxiousapples.com
 an.yandex.ru
 apathetictheory.com
 api.ad.xiaomi.com
+api.amplitude.com
 app.chat.xiaomi.net
 applesarmy.com
+app-measurement.com
 appmetrica.yandex.com
 aquaticowl.com
 ar1nvz5.com
@@ -146,6 +159,7 @@ awarealley.com
 awsync.yandex.ru
 awzbijw.com
 axiomaticalley.com
+az416426.vo.msecnd.net
 bagbeam.com
 balancemailbox.com
 balloonbit.com
@@ -175,13 +189,16 @@ bestboundary.com
 bewilderedbattle.com
 bewilderedblade.com
 bhcumsc.com
+bidder.criteo.com
 bigdata.ssp.samsung.com
 billowybead.com
 bitterbear.com
 blotburn.com
+bls.adalliance.io
 blushingbeast.com
 blushingboundary.com
 blushingwar.com
+bmedia.justservingfiles.net
 boilingbeetle.com
 boilingumbrella.com
 boneregret.com
@@ -201,6 +218,7 @@ broadboundary.com
 broadcastbed.com
 broaddoor.com
 brothersbucket.com
+browser.events.data.msn.com
 browser.sentry-cdn.com
 bruisebaseball.com
 brushdaughter.com
@@ -216,6 +234,8 @@ businessbells.com
 bustlinganimal.com
 butterbulb.com
 butterburst.com
+buyer.dspx.tv
+c.aaxads.com
 calculatingcircle.com
 calculatingtoothbrush.com
 calculatorcamera.com
@@ -241,9 +261,12 @@ catalogdiscovery.com
 catschickens.com
 cautiouscrate.com
 cautiouscredit.com
+c.bing.com
 cdn-aws.platincasino.com
 cdn.fastclick.net
 cdn.luckyorange.com
+cdn.mxpnl.com
+cdn-settings.segment.com
 chairscrack.com
 channelcamp.com
 cheerfulrange.com
@@ -267,6 +290,7 @@ cloudsdestruction.com
 cmkfotografie.de
 cms.analytics.yahoo.com
 coatfood.com
+collector.githubapp.com
 colorfulafterthought.com
 colossalchance.com
 combclover.com
@@ -282,6 +306,7 @@ config.samsungads.com
 consciouschairs.com
 consciousdirt.com
 consistpotato.com
+conversions.appsflyer.com
 coordinatedbedroom.com
 coordinatedcub.com
 copperchickens.com
@@ -313,6 +338,7 @@ damdoor.com
 dampdock.com
 dancemistake.com
 dapperfloor.com
+dart.l.doubleclick.net
 dashingdirt.com
 dashingdrop.com
 dashingsweater.com
@@ -374,6 +400,7 @@ driverequest.com
 drivingdirt.com
 drydrum.com
 dustyrabbits.com
+dyn.emetriq.de
 dzc-metrics.mzstatic.com
 earthquakeend.com
 earthquakescarf.com
@@ -404,8 +431,10 @@ enviousshape.com
 enviousthread.com
 erraticreaction.com
 es.advertising.yahoo.com
+eu-adsrv.rtbsuperhub.com
 evaluateend.com
 evanescentedge.com
+events.cid.samba.tv
 events.redditmedia.com
 exclusivebrass.com
 experienceeggs.com
@@ -426,6 +455,7 @@ farethief.com
 farmergoldfish.com
 farshake.com
 fascinatedfeather.com
+fastlane.rubiconproject.com
 fatcoil.com
 faultycanvas.com
 faultyfowl.com
@@ -434,6 +464,8 @@ fearfulfish.com
 feebleshock.com
 fifthborder.com
 finalizeforce.com
+firebaselogging-pa.googleapis.com
+firebase-settings.crashlytics.com
 firstfrogs.com
 flakyfeast.com
 flimsycircle.com
@@ -474,6 +506,7 @@ ganon.yahoo.com
 gemini.yahoo.com
 geo.query.yahoo.com
 geo.yahoo.com
+get.s-onetag.com
 giddycoat.com
 giftedglue.com
 giftedthumb.com
@@ -487,6 +520,7 @@ gloriouscracker.com
 glossysense.com
 godlygeese.com
 gondolagnome.com
+googleads.g.doubleclick.net
 google-analytics.com
 gorgeousground.com
 gracefulsock.com
@@ -518,6 +552,7 @@ happenhistory.com
 harborcub.com
 hardtofindmilk.com
 hatefulrequest.com
+hbopenbid.pubmatic.com
 headyhook.com
 heavenlybike.com
 heavyplayground.com
@@ -537,14 +572,21 @@ honorableland.com
 horsenectar.com
 hosenews.com
 hotjar.com
+ht-cdn.trafficjunky.net
 humdrumhat.com
 hurtteeth.com
+hw-cdn2.trafficjunky.net
+hw-cdn-ap.trafficjunky.net
+hw-cdn.trafficjunky.net
 hypnoticwound.com
 hystericalhelp.com
 i9w8p.pw
+ib.adnxs.com
+ice.360yield.com
 icebergindigo.com
 illfatedsnail.com
 illustriousoatmeal.com
+image8.pubmatic.com
 immensehoney.com
 imperfectinstrument.com
 importedincrease.com
@@ -558,6 +600,9 @@ impossiblemove.com
 impulsehands.com
 impulsejewel.com
 in.advertising.yahoo.com
+in.appcenter.ms
+inapps.appsflyer.com
+incoming.telemetry.mozilla.org
 infamousstream.com
 informengine.com
 innocentinvention.com
@@ -573,13 +618,16 @@ investigatepin.com
 invitesugar.com
 it.advertising.yahoo.com
 ivykiosk.com
+j7q313hy22.kameleoon.eu
 j93557g.com
 jadedjoke.com
 jadeitite.com
 jamexistence.com
 joblessdrum.com
+js-agent.newrelic.com
 justicejudo.com
 k54nw.pw
+kinesis.us-east-1.amazonaws.com
 kitesquirrel.com
 kittyaction.com
 knotkettle.com
@@ -600,12 +648,15 @@ learnedmarket.com
 leftliquid.com
 lettucelimit.com
 levelbehavior.com
+licensing.bitmovin.com
 lightcushion.com
 livelumber.com
 lizardslaugh.com
 logbak.hicloud.com
+log.core.cloud.vewd.com
 log.fc.yahoo.com
 log.pinterest.com
+logs1407.xiti.com
 logservice1.hicloud.com
 logservice.hicloud.com
 longinglettuce.com
@@ -618,6 +669,8 @@ lumberamount.com
 lumpylumber.com
 maddeningpowder.com
 mads.amazon-adsystem.com
+mads-eu.amazon.com
+mafo.adalliance.io
 magnificentmeasure.com
 magnificentmist.com
 mailboxmeeting.com
@@ -640,7 +693,9 @@ me2.kr
 meatydime.com
 media.fastclick.net
 media.net
+media.trafficjunky.net
 medusasailor.com
+me.ioam.de
 melodicminute.com
 memorizeneck.com
 memorycobweb.com
@@ -653,6 +708,7 @@ metrics4.data.hicloud.com
 metrics5.data.hicloud.com
 metrics.data.hicloud.com
 metrics-dra.dt.hicloud.com
+metrics.n-tv.de
 metrika.yandex.ru
 metroaverage.com
 mightyspiders.com
@@ -667,6 +723,8 @@ mixedreading.com
 mobile.yandexadexchange.net
 modifyeyes.com
 moldyicicle.com
+mon.tiktokv.com
+mon-va.tiktokv.com
 motionlessbag.com
 motionlessbelief.com
 mountainouspear.com
@@ -691,6 +749,7 @@ nondescriptstocking.com
 nostalgicknot.com
 nothingmethod.com
 notify.bugsnag.com
+n-tv.met.vgwort.de
 nullnorth.com
 nuttyorganization.com
 obscenesidewalk.com
@@ -706,6 +765,7 @@ oppositeoperation.com
 optimallimit.com
 opus.analytics.yahoo.com
 orangeoperation.com
+orbidder.otto.de
 ovalweek.com
 overconfidentfood.com
 overratedchalk.com
@@ -713,6 +773,7 @@ owlsr.us
 paddleangle.com
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
+pagead46.l.doubleclick.net
 paintplantation.com
 paleleaf.com
 pamelarandom.com
@@ -740,6 +801,8 @@ pigspie.com
 piquantpigs.com
 piquantstove.com
 pixel.facebook.com
+pixel.spotify.com
+pixel-static.spotify.com
 pizzasnut.com
 plainrequest.com
 plantdigestion.com
@@ -755,6 +818,8 @@ politegoldfish.com
 possessivebucket.com
 possibleboats.com
 powderprofit.com
+pre.ads.justpremium.com
+prebid.a-mo.net
 precautionbuoy.com
 preciouseffect.com
 prefixpatriot.com
@@ -765,7 +830,9 @@ previousplayground.com
 previouspotato.com
 pricklyplastic.com
 printerplasma.com
+privatestats.whatsapp.net
 productivepear.com
+profiles.tagger.opecloud.com
 profitrumour.com
 profusesupport.com
 promopassage.com
@@ -776,6 +843,7 @@ puffypull.com
 puffypurpose.com
 purchasesuggestion.com
 puzzlingproperty.com
+p.vtracy.de
 quacksquirrel.com
 quaintcan.com
 quarterbean.com
@@ -838,6 +906,8 @@ rusticprice.com
 ruthlessdegree.com
 ruthlessmilk.com
 ruthlessrobin.com
+s240.mxcdn.net
+s385.mxcdn.net
 sa.api.intl.miui.com
 sablesmile.com
 sailsuit.com
@@ -850,6 +920,7 @@ satisfyingshow.com
 savoryorange.com
 savorystructure.com
 saysidewalk.com
+sb.scorecardresearch.com
 scarcesign.com
 scarcestream.com
 scarecrowslip.com
@@ -871,12 +942,17 @@ scrollservice.com
 scrubswim.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
+sdk.iad-03.braze.com
 sea.advertising.yahoo.com
 seatsmoke.com
 secretivecub.com
 secretspiders.com
 secretturtle.com
+secure.adnxs.com
 secureads.g.doubleclick.net
+secure-eu.nmrodam.com
+securepubads.g.doubleclick.net
+secure.quantserve.com
 seemlysociety.com
 selectionship.com
 selectivesummer.com
@@ -972,6 +1048,9 @@ squashfriction.com
 squeakzinc.com
 squealingturn.com
 squirrelhands.com
+srtb.msn.com
+srv272b.com
+ssl.google-analytics.com
 stakingscrew.com
 stakingslope.com
 staleseat.com
@@ -983,9 +1062,15 @@ standtrouble.com
 startup.mobile.yandex.net
 statementsweater.com
 static.ads-twitter.com
+static.chartbeat.com
+static.criteo.net
+static.emsservice.de
 static.hotjar.com
 static.media.net
+static.trafficjunky.com
 statisgeek.com
+stats.appsflyer.com
+stats.datawrapper.de
 stats.wp.com
 statuesquebrush.com
 steadfastsound.com
@@ -1033,6 +1118,7 @@ swellstocking.com
 swimslope.com
 swordgoose.com
 symbolizebeast.com
+syndication.traffichaus.com
 synthesizespoon.com
 systemizecoat.com
 talentedsteel.com
@@ -1042,6 +1128,7 @@ tastefulsongs.com
 tastelesstrees.com
 tawdryson.com
 tdzvm.pw
+technical-service.net
 tedioustooth.com
 teenytinycellar.com
 teenytinytongue.com
@@ -1053,6 +1140,7 @@ tendertest.com
 terriblethumb.com
 terrificgoose.com
 testedtouch.com
+te.technical-service.net
 texturetrick.com
 thickticket.com
 thicktrucks.com
@@ -1080,11 +1168,14 @@ topichawaii.com
 torpidtongue.com
 torpidtoothpaste.com
 toweringrun.com
+tracking.adalliance.io
 tracking.india.miui.com
 tracking.intl.miui.com
 tracking.miui.com
 tracking.rus.miui.com
 track.ksta.de
+tracksrv.zdf.de
+traffic.emsservice.de
 tranquilside.com
 translateoatmeal.com
 trappush.com
@@ -1119,7 +1210,10 @@ unusedquestion.com
 unusedstone.com
 unusualtitle.com
 unwrittenspot.com
+upload2.fp.measure.office.com
+upload.fp.measure.office.com
 upload.luckyorange.net
+ups.xplosion.de
 us.adserver.yahoo.com
 usedexample.com
 ush.adspecs.yahoo.com
@@ -1131,6 +1225,7 @@ verseballs.com
 visit.webhosting.yahoo.com
 voicevegetable.com
 vq1qi.pw
+vz-cdn2.trafficjunky.net
 w1.luckyorange.com
 waggishpig.com
 wakefulcook.com
@@ -1148,7 +1243,9 @@ whirlwealth.com
 whiskyqueue.com
 whisperingbadge.com
 whisperingcrib.com
+widgets.outbrain.com
 widgets.pinterest.com
+widgets.trustedshops.com
 wigglygeese.com
 wigglyindustry.com
 wildernesscamera.com
@@ -1165,6 +1262,9 @@ wryfinger.com
 www.cdn.ad.xiaomi.com
 www.cmkfotografie.de
 www.dhl-bestatigung.com
+www.google-analytics.com
+www.googletagmanager.com
+www.googletagservices.com
 www.maltaopenleague.com
 www.me2.kr
 www.platincasino2.cmkfotografie.de
@@ -1173,6 +1273,7 @@ www.platincasino.com
 www.precautionbuoy.com
 www.smpc.cf
 www.statisgeek.com
+www.vfthr.com
 xovq5nemr.com
 yandexadexchange.net
 youngmarble.com
@@ -1180,4 +1281,5 @@ youtube.cleverads.vn
 zbwp6ghm.com
 zealousfield.com
 zippywind.com
+zipservice.adalliance.io
 zlp6s.pw
