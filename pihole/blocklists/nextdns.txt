@@ -1,0 +1,22 @@
+# ---------------------------------------------
+# Zelo*s "NextDNS" Domain-Blockliste
+# ---------------------------------------------
+# Erstellt zur rein persönlichen, privaten
+# Nutzung.
+#
+# NextDNS empfohlen + Affiliate & Tracking
+# ohne Whitelisting
+#
+# Blacklist-Quellen:
+# ******************
+# https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
+# https://github.com/nextdns/metadata/blob/master/privacy/affiliate-tracking-domains
+#
+# + Erweitert um mögliche WWW-Domains.
+# ---------------------------------------------
+# Falsch positive/neue Domains melden unter:
+# https://github.com/Zelo72/rpi/issues/new
+# ---------------------------------------------
+#  Domains
+# ---------------------------------------------
+#
