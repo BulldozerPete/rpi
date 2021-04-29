@@ -17,7 +17,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 133487 Domains
+# 133489 Domains
 # ---------------------------------------------
 #
 000free.us
@@ -4841,6 +4841,7 @@ adnxs1.com
 adnxs.com
 adnxs.net
 adnxs.revsci.net
+adnxs-simple.com
 adnz.co
 ad.nz.doubleclick.net
 adn.zone-telechargement.com
@@ -84417,6 +84418,7 @@ www.adnuntius.com
 www.adnxs1.com
 www.adnxs.com
 www.adnxs.net
+www.adnxs-simple.com
 www.adnz.co
 www.adobee.com
 www.adobestats.com
