@@ -4,7 +4,11 @@
 # Erstellt zur rein persönlichen, privaten
 # Nutzung.
 #
-# AdGuard DNS Filterlist
+# AdGuard DNS Filterliste
+#
+# AdGuard Base filter, Social media filter, 
+# Tracking Protection filter, Mobile Ads filter,
+# EasyList and EasyPrivacy
 #
 # Blacklist-Quellen:
 # ******************
