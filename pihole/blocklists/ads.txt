@@ -17,7 +17,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 133458 Domains
+# 133487 Domains
 # ---------------------------------------------
 #
 000free.us
@@ -8997,6 +8997,7 @@ alphagodaddy.com
 alpha.leanplum.com
 alpha.onfluencer.net
 alpha.playbuzz.com
+alpha.telemetry.microsoft.com
 alphonso.tv
 alpixtrack.com
 alruqbfjg.com
@@ -11359,6 +11360,7 @@ app.trackonomics.net
 apptrk.a4.tl
 appular.com
 app.uniconsent.com
+app.updates.digicert.com
 appvast.adsafeprotected.com
 appwall.tv2phone.cn
 app.webpushr.com
@@ -11810,6 +11812,7 @@ asia-stsdk.vivoglobal.com
 asidecasev.com
 asiinbyu.com
 asilslmkcanfm.com
+asimov-win.settings.data.microsoft.com.akadns.net
 as.inbox.com
 asing.ru
 asingsprxxebsx.com
@@ -16595,6 +16598,7 @@ cache.am
 cachebanners.toteme.com
 cache.betweendigital.com
 cache.celtra.com
+cache.datamart.windows.com
 cache-dev.addthis.com
 cache.fm
 cache-ha.pushwoosh.com
@@ -18214,6 +18218,8 @@ cettenus.com
 cettiarl.com
 c-eu.adsymptotic.com
 ceugjbwb.com
+ceuswatcab01.blob.core.windows.net
+ceuswatcab02.blob.core.windows.net
 c-eus.w.inmobi.com
 c-evt.moatads.com
 cevwkduhwbuc.com
@@ -19745,7 +19751,6 @@ cm.netseer.com
 cmnhwzdsvr.com
 c.mobilens.emailvision.net.daraz.com
 cmoneba.ru
-cmon.loc.gov
 cm.optaim.com
 cmp.advertising.com
 cmp.channelpartner.de
@@ -20989,6 +20994,7 @@ corpore.ru
 corp.sonobi.com
 corp.specificmedia.com
 corp-spring.net.daraz.com
+corp.sts.microsoft.com
 corpvpn.specificmedia.com
 correctchaos.com
 corrosif.science
@@ -23396,7 +23402,6 @@ daohvygdwvj.bid
 da.oipzyrzffum.ovh
 daokejs.com
 daopz.top
-dap.digitalgov.gov
 dapperdiscussion.com
 dapperfloor.com
 dapper.net
@@ -23758,6 +23763,9 @@ db2.twik.io
 db3aqu.atdmt.com
 db4.net-filter.com
 db52cc91beabf7e8.com
+db5-eap.settings-win.data.microsoft.com.akadns.net
+db5.settings-win.data.microsoft.com.akadns.net
+db5.vortex.data.microsoft.com.akadns.net
 db64500e2426cf.com
 dbaof.com
 dbaord-frontend.dev.yieldlove.com
@@ -26919,6 +26927,8 @@ eatp.evztib.xyz
 eatsidebicep.com
 eatxurmf.com
 eatyfailiffacc.club
+eaus2watcab01.blob.core.windows.net
+eaus2watcab02.blob.core.windows.net
 ea.venta-unica.com
 ea.vente-unique.be
 ea.vente-unique.ch
@@ -29027,6 +29037,7 @@ eu-track.inside-graph.com
 eutsbhvtao.com
 euuikdao.com
 eu-u.openx.net
+eu.vortex-win.data.microsoft.com
 euw.adserver.snapads.com
 euwdirect.adsrvr.org
 eu-west-1.dc.ads.linkedin.com
@@ -30247,7 +30258,9 @@ feedads.feedblitz.com
 feedads.g.doubleclick.net
 feedback.promotionalads.yahoo.co.jp
 feedbackresearch.com
+feedback.search.microsoft.com
 feedback.vegasgoldenknights.com
+feedback.windows.com
 feed.baidu.com
 feedcat.net
 feedgist.com
@@ -32882,6 +32895,7 @@ georiot.com
 geo.rlcdn.com
 geo-service.aicactus.io
 geoservice.curse.com
+geo.settings-win.data.microsoft.com.akadns.net
 geo.startappservice.com
 geosvc.globalmailer.com
 geotargetly-1a441.appspot.com
@@ -32893,6 +32907,7 @@ geotraff.com
 geo-us.snigelweb.com
 geovisite.com
 geovisite.ovh
+geo.vortex.data.microsoft.com.akadns.net
 geo-weather.adsafety.net
 geoworker.ayads.co
 geo.xcel.io
@@ -34526,7 +34541,6 @@ grykuutktgaun.com
 gryshathepe.pro
 gs.adspeed.net
 gsasd.info
-gsasolutionssecure.gsa.gov
 gscarcinoh.club
 gscontxt.net
 gscounters.gigya.com
@@ -36779,6 +36793,7 @@ hubahczah.com
 hubapi.com
 hub.appsflyer.com
 hub.automatad.com
+hubblecontent.osi.office.net
 hubble.netease.com
 hub.com.pl
 hub.fghtem.com
@@ -37146,6 +37161,7 @@ i16-tb.sgsnssdk.com.edgekey.net
 i1.cnt.my
 i1img.com
 i1media.no
+i1.services.social.microsoft.com
 i1.teaser-goods.ru
 i2.2leep.com
 i22lo.com
@@ -47696,7 +47712,6 @@ metrics-broker.prod.p.tf1.fr
 metrics.bt.com
 metrics.cairnspost.com.au
 metrics.caixabank.es
-metrics.cancer.gov
 metrics.capitalone.com
 metrics.caranddriver.com
 metrics.carbonite.com
@@ -49596,6 +49611,7 @@ mslimitages.site
 mslinks-downloads.com
 msmaijsxlo.com
 ms.markosaric.com
+msmetrics-test.ws.sonos.com
 msmetrics.ws.sonos.com
 ms-mvp.org
 msmyjmkshh.bid
@@ -57581,6 +57597,7 @@ prod-m-node-2111.ssp.advertising.com
 prod-m-node-2112.nexage.com
 prod-m-node-3111.ssp.advertising.com
 prod-ms.applovin.com
+prod.nexusrules.live.com.akadns.net
 prod.one.lt
 prodownload.newbetakey.com
 prod-pdx-beacon-1406086907.us-west-2.elb.amazonaws.com
@@ -60644,6 +60661,7 @@ redir.goraps.com
 redir.jads.co
 redir.juicyads.com
 redir-lib-oa-1.net.daraz.com
+redir.metaservices.microsoft.com
 redir.net.daraz.com
 redir.uprimp.com
 redistats.com
@@ -64026,6 +64044,7 @@ se.adserver.yahoo.com
 sea.effectivemeasure.net
 seafox26.com
 seahorseinfo.agilent.com
+seal.digicert.com
 seal.globalsign.com
 seal.godaddy.com
 sealine-pfuoxcbgd.netdna-ssl.com
@@ -64796,6 +64815,7 @@ setting.adzcore.com
 setting.rayjump.com
 settings.crashlytics.com
 settings.luckyorange.net
+settings-sandbox.data.microsoft.com
 setupad.com
 setupad-d.openx.net
 setup.advancedcleaner.com
@@ -66781,8 +66801,6 @@ smoke.gaug.es
 smokerdecoy.com
 smokersopinionpoll.com
 smokesolutionindia.com
-smon.congress.gov
-smon.loc.gov
 smonstr.ru
 smoothlyconsulatecrossroad.com
 s.mopub.com
@@ -67856,6 +67874,8 @@ spylees.com
 spylog.com
 spylog.ru
 spymac.us.intellitxt.com
+spynet2.microsoft.com
+spynetalt.microsoft.com
 spyoff.com
 sp.yorkdispatch.com
 spy.staticstuff.net
@@ -69220,7 +69240,6 @@ stats.datahjaelp.net
 stats.datawrapper.de
 stats-dc1.frz.io
 stats.de
-stats.defense.gov
 stats.depends-on-the-definition.com
 stats.deva.guru
 stats-dev.brid.tv
@@ -70708,7 +70727,6 @@ swebanalytics.eniro.se
 swebanalytics.gulesider.no
 swebanalytics.krak.dk
 swebanalytics.pgatour.com
-swebmetrics.ok.gov
 swebmetrics.zebra.com
 swebreports.nature.org
 swebstats.americanbar.org
@@ -71958,6 +71976,7 @@ telemetry.dropbox.com
 telemetry.gfe.nvidia.com
 telemetry.jivosite.com
 telemetry.malwarebytes.com
+telemetry.microsoft.com
 telemetry.nvidia.com
 telemetry.reembed.com
 telemetry.sdk.eastus-ssp.appgwv2.inmobi.com
@@ -71968,6 +71987,7 @@ telemetry.swe.quicinc.com
 telemetry.swiftkey.com
 telemetry.tableausoftware.com
 telemetry.tradingview.com
+telemetry.urs.microsoft.com
 telemetry.v.dropbox.com
 telemetryverification.net
 telemetry.xeraa.net
@@ -72001,7 +72021,6 @@ temphilltop.com
 temphilltop.net
 templates.buscape.com
 tempobanners.com
-tempo.inc.com
 temporarilybrancheshideous.com
 temposnitehah.work
 temptation.ad.nl
@@ -77456,6 +77475,7 @@ u.superadbox.com
 usurv.com
 usvgzajftrzkr.com
 us-vid-events.taboola.com
+us.vortex-win.data.microsoft.com
 usw1.smartadserver.com
 usw-ca2.adsrvr.org
 uswdirect.adsrvr.org
@@ -77671,6 +77691,7 @@ v0.anthill.vn
 v0.extreme-dm.com
 v0hs81ev3vepjr.ru
 v0-vcdn.anthill.vn
+v10-win.vortex.data.microsoft.com.akadns.net
 v11media.com
 v12group.com
 v16.56.com
@@ -79008,7 +79029,12 @@ voradu.com
 voredi.com
 vorinteon.ru
 voronezh136.ru
+vortex.data.microsoft.com
+vortex.data.microsoft.com.akadns.net
 vortex.hulu.com
+vortex-sandbox.data.microsoft.com
+vortex-win.data.microsoft.com
+vortex-win-sandbox.data.microsoft.com
 vospendence.club
 vote.admicro.vn
 voterialijikol.site
@@ -79672,6 +79698,7 @@ wa-track.com
 watrz.com
 wats.gogoinflight.com
 watson.live.com
+watson.microsoft.com
 wattpad.adsbynimbus.com
 waubasou.com
 waucyeeziiiyul.com
@@ -80248,6 +80275,8 @@ westwarese.club
 wetrack.it
 wetr.sportscheck.com
 wetter.pushwoosh.com
+weus2watcab01.blob.core.windows.net
+weus2watcab02.blob.core.windows.net
 weuztuwxue.com
 wevjjiolpse.mobi
 wew.dushiwenxue.net
