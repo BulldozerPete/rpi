@@ -21,7 +21,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 53915 Domains
+# 53917 Domains
 # ---------------------------------------------
 #
 007drones.de
@@ -11537,6 +11537,7 @@ hygienisch-frisch.de
 hymoro.com
 hyped.swiss
 hypeelektro.de
+hyperanzeigen.at
 hyper-elektronik.com
 hyper-markt.com
 hyper-media.store
@@ -37967,6 +37968,7 @@ www.hygienisch-frisch.de
 www.hymoro.com
 www.hyped.swiss
 www.hypeelektro.de
+www.hyperanzeigen.at
 www.hyper-elektronik.com
 www.hyper-markt.com
 www.hyper-media.store
