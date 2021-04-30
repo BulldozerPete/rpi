@@ -1,7 +1,8 @@
+
 (\.|^)adcolony\.com$
-(\.|^)adtilt\.com$
 (\.|^)adform\.com$
 (\.|^)adnxs\.com$
+(\.|^)adtilt\.com$
 (\.|^)amazon-adsystem\.com$
 (\.|^)amplitude\.com$
 (\.|^)app-measurement\.com$
@@ -12,6 +13,7 @@
 (\.|^)criteo\.com$
 (\.|^)criteo\.net$
 (\.|^)dotmetrics\.net$
+(\.|^)doubleclick\.com$
 (\.|^)doubleclick\.net$
 (\.|^)google-analytics\.com$
 (\.|^)googleadservices\.com$
@@ -32,3 +34,9 @@
 (\.|^)vgwort\.de$
 (\.|^)yieldlab\.net$
 (\.|^)zemanta\.com$
+(^|\.)2o7\.net$
+(^|\.)a.akamaihd\.net$
+(^|\.)akamaitechnologies\.com$
+(^|\.)dscq.akamai\.net$
+(^|\.)ivwbox\.de$
+hbbtv(^|\.).de$
