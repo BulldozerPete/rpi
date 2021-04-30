@@ -6,7 +6,7 @@
 # "RegEx-Umwandlung in Domainliste"
 #
 # Blockt Domains inkl. zugehöriger Subdomains
-# aus regex_ads und regex_tracking:
+# aus regex_ads und regex_tracking und Weitere.
 # 
 # https://github.com/Zelo72/rpi/blob/master/pihole/regex/regex_ads.txt
 # https://github.com/Zelo72/rpi/blob/master/pihole/regex/regex_tracking.txt
