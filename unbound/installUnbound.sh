@@ -19,7 +19,7 @@ fi
 echo "*** Unbound installieren"
 echo ""
 apt-get update
-apt-get install unbound dnsutils -y
+apt-get install unbound dnsutils ntp ntpdate -y
 echo ""
 echo ""
 
@@ -38,7 +38,9 @@ if [ "$respntp" != "${respntp#[Jj]}" ]; then
     wget -O /etc/systemd/timesyncd.conf https://raw.githubusercontent.com/Zelo72/rpi/master/unbound/timesyncd.conf
     timedatectl set-ntp true
     timedatectl set-timezone 'Europe/Berlin'
-    hwclock -w
+    service ntp stop
+    ntpdate -q pool.ntp.org
+    service ntp start
 fi
 echo ""
 echo ""
