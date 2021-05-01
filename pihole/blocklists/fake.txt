@@ -16,7 +16,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 13503 Domains
+# 13505 Domains
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -1395,6 +1395,7 @@ dexia-hyp.de
 dezuu.at
 dfdslogistics.tk
 dgsys.de
+dhgate.com
 dh-immobilien.at
 dhk-transport.com
 di22.fr
@@ -8022,6 +8023,7 @@ www.dexia-hyp.de
 www.dezuu.at
 www.dfdslogistics.tk
 www.dgsys.de
+www.dhgate.com
 www.dh-immobilien.at
 www.dhk-transport.com
 www.di22.fr
