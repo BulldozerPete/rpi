@@ -2,7 +2,7 @@
 #         Global settings        #
 ##################################
 listen_addresses = ['127.0.0.1:53533', '[::1]:53533']
-server_names = ['cloudflare', 'cloudflare-ipv6', 'quad9-dnscrypt-ip4-filter-pri', 'quad9-doh-ip4-filter-pri', 'quad9-doh-ip6-filter-pri']
+server_names = ['quad9-dnscrypt-ip4-filter-pri', 'quad9-doh-ip4-filter-pri', 'quad9-doh-ip6-filter-pri']
 fallback_resolvers = ['8.8.8.8:53', '8.8.4.4:53']
 netprobe_address = '9.9.9.9:53'
 
@@ -25,12 +25,7 @@ log_files_max_backups = 1
 ###########################
 #        DNS cache        #
 ###########################
-cache = true
-cache_size = 10000
-cache_min_ttl = 0
-#cache_max_ttl = 86400
-cache_neg_min_ttl = 60
-cache_neg_max_ttl = 600
+cache = false
 
 ###############################
 #        Query logging        #
