@@ -11,12 +11,7 @@
 #   https://www.verbraucherzentrale-niedersachsen.de/themen/internet-telefon/unserioese-streaming-anbieter
 #   https://www.watchlist-internet.at
 #   https://www.trustedshops.de/aktuelle-warnungen/
-#   https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/quellen/fake.txt.blacklist.domains
 #   ...
-#
-# Zusätzliche Berücksichtigung folgender
-#   Blacklists: https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/quellen/fake.txt.blacklist.urls 
-#   Whitelists: https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/quellen/whitelist.urls
 # ---------------------------------------------
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
