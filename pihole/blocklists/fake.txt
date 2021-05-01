@@ -16,7 +16,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 25285 Domains
+# 25319 Domains
 # ---------------------------------------------
 #
 007drones.de
@@ -281,6 +281,7 @@ airpodsmarkt.de
 airsoft-herne.de
 airspacemanagement.net.au
 airstepschuhe.de
+airycloth.com
 airyclub.com
 airydress.com
 aiygo.de
@@ -828,6 +829,7 @@ bafastream.de
 baflix.de
 bafoeg2go.de
 bagaflix.de
+bags2020a.com
 bags-edhardy.org
 bagsev.de
 bags-hut.com
@@ -1064,6 +1066,7 @@ berninger-shop.de
 bernsteinzimmermythos.de
 bernwald-shop.de
 beroplay.de
+berrylook.com
 berryshop.store
 berta-arreda.ch
 berufskraftfahrer-europa.de
@@ -1274,6 +1277,7 @@ blairead.com
 blakker.eu
 blankwhere1.xyz
 blanzbom.com
+blaroken.com
 blattgold-blumenwerkstatt.de
 blaue-dragoner.de
 blauer-engel-malzhaus.de
@@ -2134,6 +2138,7 @@ cosmopolitan-re.com
 cosmorent.at
 cothnonline.com
 cotonetlin.de
+cotosen.com
 cotton-bootsstore.com
 coturshop.com
 cougar.de.wundertesting.com
@@ -3179,6 +3184,7 @@ emmaschultzkitten.com
 emmas-f.shop
 emma-sitte.de
 emmerthal-tierarzt.de
+emmiol.com
 emotorraeder.at
 empire-schonheitszentrum.at
 empirescooters.com
@@ -3237,6 +3243,7 @@ erektslim.com
 eremea.de
 ergopolsterpro.com
 ergo-solar.de
+ericdress.com
 erleben-hund.de
 erlebnishof-hasen.de
 erlebniswandern-schottland.de
@@ -4478,6 +4485,7 @@ grafik-studio.at
 grafpilati.at
 grakawelt.org
 gramater-jugend.at
+grandado.com
 granddeals22.de
 grand-elec.store
 grandeurlux.com
@@ -4765,6 +4773,7 @@ hauswelten-nord.de
 haut-und-haar-by-heidi.de
 haveok.com
 hawahon.de
+hawalili.com
 hayukcomy.com
 hbb31.com
 hbs-pur.de
@@ -5328,6 +5337,7 @@ inundumkoelnherum.de
 invest-urban-concept.com
 invivo-bochum.de
 invocation.at
+ioffer.com
 iojjdrvcshop.online
 ios-world.de
 ipairs.de
@@ -7101,6 +7111,7 @@ meinearbeitsschuhe.com
 meine-ernaehrungsumstellung.de
 meinelektro.com
 meine-mitte.at
+meinenamenskette.com
 meine-neue-brille.de
 meinetiermarken.at
 meinetoysland.com
@@ -7408,6 +7419,7 @@ mode-top.de
 modezirkus.eu
 modflix.de
 modiana.de
+modlily.com
 modoflix.de
 modplay.de
 moebel-designer.at
@@ -7873,6 +7885,7 @@ newbalanceoutletdeutschland.com
 newbalanceoutletuk.com
 newbalancesneakers.de.com
 new-chakra.com
+newchic.com
 newclothes4u.com
 newcoffee-gmbh.de
 newcollegebeat.com
@@ -7982,6 +7995,7 @@ nonesbuys.com
 noobwatch03.io
 nooknookrecords.com
 nootica.de
+noracora.com
 noras-fotowelt.de
 norbb.com
 norbertfey.de
@@ -9484,6 +9498,7 @@ rotesblut.de
 rotflix.de
 rothandyhulle.com
 rothause.de
+rotita.com
 rotkatoutlet.com
 rottclimb.de
 rotursmarket.com
@@ -11812,6 +11827,7 @@ vezzono.eu
 vfl-kassel-98er-jahrgang.de
 vgofrero.com
 vhelicon.com
+viagogo.com
 viagogo.de
 viagrafuerfrauen.com
 vibeioshop.com
@@ -12043,6 +12059,7 @@ wayahuala.com
 wayfale.com
 wayoinkonline.com
 wayplay.de
+wayrates.com
 wbrezende.com
 wculturiza.com
 wdeeplab.com
@@ -12676,6 +12693,7 @@ www.airpodsdirekt.de
 www.airpodsmarkt.de
 www.airsoft-herne.de
 www.airstepschuhe.de
+www.airycloth.com
 www.airyclub.com
 www.airydress.com
 www.aiygo.de
@@ -13216,6 +13234,7 @@ www.bafastream.de
 www.baflix.de
 www.bafoeg2go.de
 www.bagaflix.de
+www.bags2020a.com
 www.bags-edhardy.org
 www.bagsev.de
 www.bags-hut.com
@@ -13447,6 +13466,7 @@ www.berninger-shop.de
 www.bernsteinzimmermythos.de
 www.bernwald-shop.de
 www.beroplay.de
+www.berrylook.com
 www.berryshop.store
 www.berta-arreda.ch
 www.berufskraftfahrer-europa.de
@@ -13652,6 +13672,7 @@ www.blairead.com
 www.blakker.eu
 www.blankwhere1.xyz
 www.blanzbom.com
+www.blaroken.com
 www.blattgold-blumenwerkstatt.de
 www.blaue-dragoner.de
 www.blauer-engel-malzhaus.de
@@ -14504,6 +14525,7 @@ www.cosmopolitan-re.com
 www.cosmorent.at
 www.cothnonline.com
 www.cotonetlin.de
+www.cotosen.com
 www.cotton-bootsstore.com
 www.coturshop.com
 www.cougar.de.wundertesting.com
@@ -15529,6 +15551,7 @@ www.emmaschultzkitten.com
 www.emmas-f.shop
 www.emma-sitte.de
 www.emmerthal-tierarzt.de
+www.emmiol.com
 www.emotorraeder.at
 www.empire-schonheitszentrum.at
 www.empirescooters.com
@@ -15587,6 +15610,7 @@ www.erektslim.com
 www.eremea.de
 www.ergopolsterpro.com
 www.ergo-solar.de
+www.ericdress.com
 www.erleben-hund.de
 www.erlebnishof-hasen.de
 www.erlebniswandern-schottland.de
@@ -16817,6 +16841,7 @@ www.grafik-studio.at
 www.grafpilati.at
 www.grakawelt.org
 www.gramater-jugend.at
+www.grandado.com
 www.granddeals22.de
 www.grand-elec.store
 www.grandeurlux.com
@@ -17098,6 +17123,7 @@ www.hauswelten-nord.de
 www.haut-und-haar-by-heidi.de
 www.haveok.com
 www.hawahon.de
+www.hawalili.com
 www.hayukcomy.com
 www.hbb31.com
 www.hbs-pur.de
@@ -17658,6 +17684,7 @@ www.inundumkoelnherum.de
 www.invest-urban-concept.com
 www.invivo-bochum.de
 www.invocation.at
+www.ioffer.com
 www.iojjdrvcshop.online
 www.ios-world.de
 www.ipairs.de
@@ -19419,6 +19446,7 @@ www.meinearbeitsschuhe.com
 www.meine-ernaehrungsumstellung.de
 www.meinelektro.com
 www.meine-mitte.at
+www.meinenamenskette.com
 www.meine-neue-brille.de
 www.meinetiermarken.at
 www.meinetoysland.com
@@ -19722,6 +19750,7 @@ www.mode-top.de
 www.modezirkus.eu
 www.modflix.de
 www.modiana.de
+www.modlily.com
 www.modoflix.de
 www.modplay.de
 www.moebel-designer.at
@@ -20185,6 +20214,7 @@ www.neva-sharm.ru
 www.newbalanceoutletdeutschland.com
 www.newbalanceoutletuk.com
 www.new-chakra.com
+www.newchic.com
 www.newclothes4u.com
 www.newcoffee-gmbh.de
 www.newcollegebeat.com
@@ -20293,6 +20323,7 @@ www.nonesbuys.com
 www.noobwatch03.io
 www.nooknookrecords.com
 www.nootica.de
+www.noracora.com
 www.noras-fotowelt.de
 www.norbb.com
 www.norbertfey.de
@@ -21779,6 +21810,7 @@ www.rotesblut.de
 www.rotflix.de
 www.rothandyhulle.com
 www.rothause.de
+www.rotita.com
 www.rotkatoutlet.com
 www.rottclimb.de
 www.rotursmarket.com
@@ -24088,6 +24120,7 @@ www.vezzono.eu
 www.vfl-kassel-98er-jahrgang.de
 www.vgofrero.com
 www.vhelicon.com
+www.viagogo.com
 www.viagogo.de
 www.viagrafuerfrauen.com
 www.vibeioshop.com
@@ -24317,6 +24350,7 @@ www.wayahuala.com
 www.wayfale.com
 www.wayoinkonline.com
 www.wayplay.de
+www.wayrates.com
 www.wbrezende.com
 www.wculturiza.com
 www.wdeeplab.com
