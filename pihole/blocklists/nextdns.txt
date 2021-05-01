@@ -29,7 +29,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 101944 Domains
+# 101932 Domains
 # ---------------------------------------------
 #
 0.0.0.0.beeglivesex.com
@@ -13045,7 +13045,6 @@ banners.iop.org
 banners.ipotd.com
 banners.iq.pl
 banners.isoftmarketing.com
-banners.itunes.apple.com
 banners.japantoday.com
 banners.jewishfriendfinder.com
 banners.kfmb.com
@@ -15614,7 +15613,6 @@ c.af.moshimo.com
 ca-gmtdmp.mookie1.com
 c.agrant.cn
 c.agrantsem.com
-ca.iadsdk.apple.com
 caing.adsame.com
 cairn-westie.com.pl
 caixin.adsame.com
@@ -17074,7 +17072,6 @@ cfg.datafastguru.info
 cfg.flurry.com
 cfg-md.gridsumdissector.com
 cfg-vd.gridsumdissector.com
-cf.iadsdk.apple.com
 cfimage.moengage.com
 c.fi.msn.com
 cf.k053f0.cn
@@ -32806,7 +32803,6 @@ iadnet.com
 i.adnium.com
 i.adresult-sp.jp
 i.adsame.com
-iadsdk.apple.com
 iad-usadmm.dotomi.com
 iad-usadmm-ds.dotomi.com
 i.ad-v.jp
@@ -42566,7 +42562,6 @@ metrics.apartmentfinder.com
 metrics.apartments.com
 metrics.api.drift.com
 metrics-api.librato.com
-metrics.apple.com
 metrics.argos.co.uk
 metrics.ariba.com
 metrics.armstrongceilings.com
@@ -42784,7 +42779,6 @@ metrics.hpe.com
 metrics.hrblock.com
 metrics.htc.com
 metrics.hyundaiusa.com
-metrics.icloud.com
 metrics.iconfitness.com
 metrics-ieeexplore.ieee.org
 metrics.ikea.com
@@ -46626,7 +46620,6 @@ news.health-beauty.press
 news.hkrevolt.com
 news.hkrevolution.club
 news.hm.map.tanequ.cn
-news.iadsdk.apple.com
 news.idahobusinessreview.com
 news-img.51y5.net
 newsinteractive.112.2o7.net
@@ -58380,7 +58373,6 @@ secure-media.msg.dotomi.com
 secure.mediav.com
 secure.medleyads.com
 secure.merchantadvantage.com
-securemetrics.apple.com
 securemetrics.apple.com.cn
 securemetrics.bananarepublic.co.uk
 securemetrics.bananarepublic.eu
@@ -64474,7 +64466,6 @@ sugh8yami.com
 sugoicounter.com
 suhprdfb.bid
 suhunsoo.uk
-su.iadsdk.apple.com
 suicide-vintage.blogspot.com
 suite15.emarsys.net
 suite-analytics.socialbakers.com
@@ -68496,7 +68487,6 @@ tr.gestion.banque-casino.fr
 tr.gestion.cetelem.fr
 tr.gestion.cofinoga.fr
 tr-gmtdmp.mookie1.com
-tr.iadsdk.apple.com
 trial.alcohol-soft.com
 trialb.ns.emailvision.net.daraz.com
 trial-ns1.twtelecom.net.daraz.com
@@ -70146,7 +70136,6 @@ utenti.lycos.it
 utexas.actonservice.com
 utf1.liehuo.net
 ut.gtags.net
-ut.iadsdk.apple.com
 utility.baidu.com
 util.nphoto.net
 utils.media-general.com
@@ -84268,7 +84257,6 @@ www.i2i.jp
 www.i2iserv.com
 www.i4track.net
 www.iadnet.com
-www.iadsdk.apple.com
 www.iaflstore.jp
 www.iagbr.com
 www.iam313.com
