@@ -20,4 +20,4 @@
 
 ---
 
-***Die Blocklisten im Domain-Format lassen sich - neben PiHole - auch mit Blokada, Diversion, PersonalDNSfilter, pfBlockerNG und PersonalBlocklist nutzen.***
+*Die Blocklisten im Domain-Format lassen sich - neben PiHole - auch mit Blokada, Diversion, PersonalDNSfilter, pfBlockerNG und PersonalBlocklist nutzen.*
