@@ -6,14 +6,18 @@
 
 ---
 
-[**EasyList**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt) - EasyList (+Germany) & EasyList Privacy + Erweiterung um mögliche WWW-Domains. ***(in Multi enthalten)***
+[**EasyList**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt) - EasyList (+Germany) & EasyList Privacy + Erweiterung um mögliche WWW-Domains. ***(in Multi enthalten)*** - Quelle: [EasyList](https://easylist.to/)
 
-[**AdguardDNS**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt) - AdGuard DNS Filterliste (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) + Erweiterung um mögliche WWW-Domains. ***(in Multi enthalten)***
+[**AdguardDNS**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt) - AdGuard DNS Filterliste (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) + Erweiterung um mögliche WWW-Domains. ***(in Multi enthalten)*** - Quelle: [AdguardDNS](https://github.com/AdguardTeam)
 
-[**NextDNS**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nextdns.txt) - NextDNS empfohlen + Affiliate & Tracking + Erweiterung um mögliche WWW-Domains (Eine umfassende Blockliste zum Blockieren von Anzeigen & Trackern in allen Ländern. Dies ist die empfohlene Starterblockliste von NextDNS. ***(in Multi enthalten)***
+[**NextDNS**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nextdns.txt) - NextDNS empfohlen + Affiliate & Tracking + Erweiterung um mögliche WWW-Domains (Eine umfassende Blockliste zum Blockieren von Anzeigen & Trackern in allen Ländern. Dies ist die empfohlene Starterblockliste von NextDNS. ***(in Multi enthalten)*** - Quelle: [NextDNS](https://github.com/nextdns)
 
 ---
 
 ***Die Blocklisten wurden zur rein persönlichen, privaten Nutzung estellt. Die Multi- und Fake-Blockliste wurde aus [vorhandenen Quellen](https://github.com/Zelo72/rpi/tree/master/pihole/blocklists/quellen) und eigenen [Blacklists](https://github.com/Zelo72/rpi/tree/master/pihole/blocklists/quellen) unter Berücksichtigung von Whitelisten und Alexa-Toplisten (DE:Top 100 - Welt:Top 100) zusammen gestellt.***
 
 **Die Blocklisten werden täglich um 03:45 Uhr aktualisiert.**
+
+---
+
+***Die Blocklisten im Domain-Format lassen sich - neben PiHole - auch mit Blokada, Diversion, PersonalDNSfilter, pfBlockerNG und PersonalBlocklist nutzen.***
