@@ -14,7 +14,7 @@
 
 ---
 
-***Die Blocklisten wurden zur rein persönlichen, privaten Nutzung estellt. Die Multi- und Fake-Blockliste wurde aus [vorhandenen Quellen](https://github.com/Zelo72/rpi/tree/master/pihole/blocklists/quellen) und eigenen [Blacklists](https://github.com/Zelo72/rpi/tree/master/pihole/blocklists/quellen) unter Berücksichtigung von Whitelisten und Alexa-Toplisten (DE:Top 100 - Welt:Top 100) zusammen gestellt.***
+***Die Blocklisten wurden zur rein persönlichen, privaten Nutzung estellt. Die Multi- und Fake-Blockliste wurde aus [vorhandenen Quellen](https://github.com/Zelo72/rpi/tree/master/pihole/blocklists/quellen) und eigenen [Blacklisten](https://github.com/Zelo72/rpi/tree/master/pihole/blocklists/quellen) unter Berücksichtigung von Whitelisten und Alexa-Toplisten (DE:Top 100 - Welt:Top 100) zusammen gestellt.***
 
 **Die Blocklisten werden täglich um 03:45 Uhr aktualisiert.**
 
