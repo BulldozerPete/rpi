@@ -27,7 +27,6 @@ https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 ! https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
-https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/extension.beta
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/fake.txt
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nextdns.txt
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/windows10-office365_telemetrie.txt
