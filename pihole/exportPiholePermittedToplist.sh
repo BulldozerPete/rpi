@@ -14,6 +14,6 @@ exportFile=$1/TopDomainsPermitted.txt
 
 echo "Exportiere aufgerufene Domains ..."
 
-sqlite3 /etc/pihole/pihole-FTL.db "SELECT domain, count(domain) FROM queries WHERE status IN(2,3) GROUP BY domain ORDER BY count(domain) DESC;" >"$exportFile"
+sqlite3 /etc/pihole/pihole-FTL.db "SELECT domain, count(domain) FROM queries WHERE type IN (1,2) AND status IN(2,3) GROUP BY domain ORDER BY count(domain) DESC;" >"$exportFile"
 
 echo "Export nach $exportFile abgeschlossen"
