@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos
 https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows
 https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
-! https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts
+! https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 ! https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
