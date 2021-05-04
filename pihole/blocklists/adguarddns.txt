@@ -19,7 +19,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 65849 Domains
+# 65869 Domains
 # ---------------------------------------------
 #
 0024aaaa.com
@@ -150,6 +150,7 @@
 104610.com
 105app.com
 1.07swz.com
+1080872514.rsc.cdn77.org
 10b883b3d61d.com
 10cd.ru
 10clicks.com
@@ -2527,6 +2528,7 @@ adoric.com
 adoric-om.com
 adorika.com
 adorika.net
+adorion.net
 adornmadeup.com
 adosia.com
 adotic.com
@@ -2900,6 +2902,7 @@ adsloom.com
 adslop.com
 adslot.com
 adslot.uc.cn
+adsluna.com
 adslvr.com
 ad.smaad.jp
 adsmarket.com
@@ -2977,6 +2980,7 @@ adsplay.xyz
 adsplus.vn
 ad-sponsor.com
 adspop.me
+adspot.tfgapps.com
 adspredictiv.com
 ads.prisacom.com
 adspro.it
@@ -4374,6 +4378,7 @@ analytics.rotapost.ru
 analytics.salesanalytics.io
 analytics.samsungknox.com
 analytics.sanoma.fi
+analytics.scalemonk.com
 analytics.schoolwires.com
 analytics-script.ad-shield.io
 analytics-scripts.cablelabs.com
@@ -4751,6 +4756,7 @@ appealthroughout.com
 appearancefingerprintabet.com
 appelamule.com
 appendad.com
+appendixwarmingauthors.com
 app.gelirartisi.com
 appgift.sinaapp.com
 appgiftwall.oss-us-west-1.aliyuncs.com
@@ -7348,6 +7354,7 @@ cadsoks.com
 cadsokz.com
 cadspms.com
 cadspmz.com
+cads.scalemonk.com
 cafe58cc6d0ac.com
 cafe-latte.myshoplus.com
 cafe-log.myshoplus.com
@@ -11299,6 +11306,7 @@ dryzapsol.com
 ds02gfqy6io6i.cloudfront.net
 ds88pc0kw6cvc.cloudfront.net
 ds-aksb-a.akamaihd.net
+dsb.yahoo.co.jp
 dsdsc.win
 dsdsde.xyz
 dsdsds8848.xyz
@@ -12228,6 +12236,7 @@ eqoivockikaue.com
 e.qq.com
 eqtaxag.ru
 equivalentliked.com
+er.5ykj.com
 eradek.ru
 erandex.com
 erate.co.il
@@ -20152,6 +20161,7 @@ mdcytqwnbr.com
 mddwabpvzcr.com
 mdehyvckjaou.com
 mdeih.com
+mdgzg.com
 mdialog.com
 mdlsite.com
 mdn2015x1.com
@@ -22118,6 +22128,7 @@ nkredir.com
 nkscdn.com
 nktcw.cn
 nktorpmpbhvb.com
+nkyouvery.fun
 nkyyls.cn
 nkzjc.cn
 nkzker.cn
@@ -30462,6 +30473,7 @@ technical-service.net
 technoratimedia.com
 tecnikalsense.com
 tec-tec-boom.com
+tecuil.com
 tedathedo.club
 ted.dailymail.co.uk
 teddeparati.top
@@ -36829,6 +36841,7 @@ www.adoric.com
 www.adoric-om.com
 www.adorika.com
 www.adorika.net
+www.adorion.net
 www.adornmadeup.com
 www.adosia.com
 www.adotic.com
@@ -37059,6 +37072,7 @@ www.adsliv.ru
 www.adsloom.com
 www.adslop.com
 www.adslot.com
+www.adsluna.com
 www.adslvr.com
 www.adsmarket.com
 www.adsmeda.com
@@ -38291,6 +38305,7 @@ www.appealthroughout.com
 www.appearancefingerprintabet.com
 www.appelamule.com
 www.appendad.com
+www.appendixwarmingauthors.com
 www.appier.net
 www.appintop.com
 www.appius-dae.com
@@ -50841,6 +50856,7 @@ www.mdcytqwnbr.com
 www.mddwabpvzcr.com
 www.mdehyvckjaou.com
 www.mdeih.com
+www.mdgzg.com
 www.mdialog.com
 www.mdlsite.com
 www.mdn2015x1.com
@@ -52534,6 +52550,7 @@ www.nkredir.com
 www.nkscdn.com
 www.nktcw.cn
 www.nktorpmpbhvb.com
+www.nkyouvery.fun
 www.nkyyls.cn
 www.nkzjc.cn
 www.nkzker.cn
@@ -59438,6 +59455,7 @@ www.technical-service.net
 www.technoratimedia.com
 www.tecnikalsense.com
 www.tec-tec-boom.com
+www.tecuil.com
 www.tedathedo.club
 www.teddeparati.top
 www.tedioustooth.com
@@ -64247,6 +64265,7 @@ www.zyzjpx.cn
 www.zz2017.ru
 www.zzbaowen.com
 www.zzcgw.cn
+www.zzchuy.cn
 www.zzdb5p4upiug.com
 www.zzhengre.com
 www.zzhszj.com
@@ -65854,6 +65873,7 @@ zyzjpx.cn
 zz2017.ru
 zzbaowen.com
 zzcgw.cn
+zzchuy.cn
 zzdb5p4upiug.com
 zzhengre.com
 zzhszj.com

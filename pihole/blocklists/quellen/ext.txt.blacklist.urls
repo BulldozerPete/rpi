@@ -12,3 +12,4 @@ https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nextdns.txt
 https://v.firebog.net/hosts/Prigent-Ads.txt
 https://v.firebog.net/hosts/Shalla-mal.txt
+! https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
