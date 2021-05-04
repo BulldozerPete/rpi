@@ -1,0 +1,5 @@
+https://gitlab.com/my-privacy-dns/matrix/matrix/-/raw/master/source/tracking/domains.list
+! https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+! https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
+! https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/gambling/hosts
+https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nextdns.txt
