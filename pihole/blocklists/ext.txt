@@ -19,7 +19,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 62448 Domains
+# 62435 Domains
 # ---------------------------------------------
 #
 00003.0-51.openvpn.www.eth.bw.com
@@ -5083,7 +5083,6 @@ api.hailstorm360.com
 api.hdyfhpoi.com
 api.herbsters.com
 api.hfyhjg.cn
-api.ibeat-analytics.com
 api.iimedia.cn
 api.ijunhai.com
 api.instagram.com
@@ -5755,7 +5754,6 @@ attiva.exodus.esurv.it
 atti.velti.com
 attmailonlineverificationlogindomainsignipag.weebly.com
 attmailupdating.weebly.com
-atto.scroller.com
 att.stargame.com
 atttechcare.000webhostapp.com
 atua.zzz.com.ua
@@ -9797,7 +9795,6 @@ catoma.ddns.mobi
 catomama.no-ip.org
 catorcednsremc.duckdns.org
 catpqvrauv.duckdns.org
-ca-tracking.nextdoor.com
 catshat.no-ip.biz
 cattree.1x.biz
 caucasia.duckdns.org
@@ -18781,7 +18778,6 @@ ftp.remeberdata.iownyour.org
 ftp-reroute.no-ip.info
 ftp.rethem.almostmy.com
 ftp.robbedbypaypal.com
-ftp.scroller.com
 ftp.sdmsg.onmypc.org
 ftp.senseye.ikwb.com
 ftp.senseye.mrbonus.com
@@ -33216,7 +33212,6 @@ mscipbinjs.duckdns.org
 ms.cnczjy.com
 msconfigserver.zapto.org
 ms.continuedsys.cn
-m.scroller.com
 m.sdaih.com
 msdev.no-ip.org
 msdkcoll.emarbox.com
@@ -36622,7 +36617,6 @@ oldrunes.dnsrd.com
 oldschool80.no-ip.biz
 oldschool.bounceme.net
 oldschoolrscache.no-ip.biz
-old.scroller.com
 oldserver.servepics.com
 oldspice747.no-ip.biz
 old.webapps-paypal.com
@@ -43412,7 +43406,6 @@ scripts.general-aerospace.de
 scripts.tv2a.dk
 scrivener148.refurbishedlaserscanners.com
 s.cr-nielsen.com
-scroller.com
 scropion20078.no-ip.biz
 scr-out.ddns.net
 scrub.duckdns.org
@@ -54183,7 +54176,6 @@ ww12.onetad.com
 ww13.onetad.com
 ww13.smartadserver.com
 ww1.n3xt-pool.net
-ww1.scroller.com
 ww202.keyyou.net
 ww202.onetad.com
 ww234.smartadserver.com
@@ -54209,7 +54201,6 @@ ww363.onetad.com
 ww366.onetad.com
 ww42.200gigs.com
 ww42.dedicatedpool.com
-ww4.scroller.com
 ww55.smartadserver.com
 ww6.000webhostapp.com
 ww78.onetad.com
@@ -54220,7 +54211,6 @@ w.waacorp.com
 wwbsimefqe.duckdns.org
 wwcotufwdv.duckdns.org
 wwdhtglevb.duckdns.org
-wwe.scroller.com
 wwew.no-ip.biz
 wwexpdoqez.duckdns.org
 wwfuhhhhii.duckdns.org
@@ -57902,7 +57892,6 @@ www.scpanews.com
 www.scrantonreporter.com
 www.scrapetv.com
 www.scrappleface.com
-www.scroller.com
 www.sctennnews.com
 www.sctexasnews.com
 www.scvanews.com
@@ -60913,7 +60902,6 @@ yobetit.com
 yocantseeme.zapto.org
 yochswqbdr.duckdns.org
 yocnwusxvg.duckdns.org
-yocto.scroller.com
 yodaserver.no-ip.info
 yodastyle.duckdns.org
 yofaljuhsm.duckdns.org
@@ -61680,7 +61668,6 @@ zeplin.atwebpages.com
 zepper.no-ip.org
 zeppfeed.com
 zepto998.zapto.org
-zepto.scroller.com
 zer0cool.no-ip.biz
 zer0cool.zapto.org
 zer0deal.no-ip.org
