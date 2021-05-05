@@ -27,3 +27,7 @@
 ---
 
 *Die Blocklisten im Domain-Format lassen sich - neben PiHole - auch mit Blokada, Diversion, PersonalDNSfilter, pfBlockerNG und PersonalBlocklist nutzen.*
+
+---
+
+![grafik](https://user-images.githubusercontent.com/62211544/117188555-76f3d100-addd-11eb-8eb8-1688bd9d444a.png)
