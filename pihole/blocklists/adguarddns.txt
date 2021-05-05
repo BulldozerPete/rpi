@@ -19,7 +19,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 65869 Domains
+# 65880 Domains
 # ---------------------------------------------
 #
 0024aaaa.com
@@ -3315,6 +3315,7 @@ adviator.com
 ad-vice.biz
 advideo.ru
 advideum.com
+ad.vidver.to
 advinci.club
 advinci.co
 advinci.life
@@ -5079,7 +5080,6 @@ asrety.com
 assandart.site
 assembledscout.com
 assetize.com
-assets.netizen.co
 assets.newsmaxwidget.com
 assets.sheetmusicplus.com
 assigned.cn
@@ -7215,6 +7215,7 @@ bvahezakk.com
 bvcpedy6dyjgkkl.ru
 bveyge.com
 bvl5bziz9d.ru
+bvnjgjfh.com
 bvr.ast.snva.jp
 bvr.snva.jp
 bw95vpjda.ru
@@ -12185,6 +12186,7 @@ environymsc.info
 envyemerged.com
 enyayinxiang.com
 eo62cocntx.com
+eoemyywmjx.com
 eolcdn.com
 eondunpea.com
 eonsmedia.com
@@ -19236,6 +19238,7 @@ log2.spotify.com
 log4x.nixcdn.com
 log.adap.tv
 logaholic.com
+log.ajunews.com
 log.aliyuncs.com
 loganaut.com
 log.anninhthudo.vn
@@ -21814,6 +21817,7 @@ netflopin.com
 netgraviton.net
 nethatriheg.ru
 netinsight.co.kr
+netizen.co
 netliker.com
 netloader.cc
 netminers.dk
@@ -22579,6 +22583,7 @@ obaukads.com
 obb.domohoziaka.ru
 obeip.com
 obeus.com
+obeysatman.com
 obhodsb.com
 obigre.ru
 obitel.org
@@ -22978,6 +22983,7 @@ onscroll.com
 onsertilyas.club
 onshowit.com
 onsidentss.top
+onsideratio.fun
 onsnv.com
 onsolrockon.com
 onsoutsider.top
@@ -40341,6 +40347,7 @@ www.bvahezakk.com
 www.bvcpedy6dyjgkkl.ru
 www.bveyge.com
 www.bvl5bziz9d.ru
+www.bvnjgjfh.com
 www.bw95vpjda.ru
 www.bwads24.com
 www.bwbw2kje848hsmla.ru
@@ -44000,6 +44007,7 @@ www.environymsc.info
 www.envyemerged.com
 www.enyayinxiang.com
 www.eo62cocntx.com
+www.eoemyywmjx.com
 www.eolcdn.com
 www.eondunpea.com
 www.eonsmedia.com
@@ -52270,6 +52278,7 @@ www.netflame.cc
 www.netflopin.com
 www.netgraviton.net
 www.nethatriheg.ru
+www.netizen.co
 www.net.kg
 www.netliker.com
 www.netloader.cc
@@ -52958,6 +52967,7 @@ www.obaizahshita.info
 www.obaukads.com
 www.obeip.com
 www.obeus.com
+www.obeysatman.com
 www.obhodsb.com
 www.obigre.ru
 www.obitel.org
@@ -53326,6 +53336,7 @@ www.onscroll.com
 www.onsertilyas.club
 www.onshowit.com
 www.onsidentss.top
+www.onsideratio.fun
 www.onsnv.com
 www.onsolrockon.com
 www.onsoutsider.top
