@@ -17,7 +17,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 31303 Domains
+# 31304 Domains
 # ---------------------------------------------
 #
 006a039c957c142bb.com
@@ -1727,6 +1727,7 @@ analytics.stg.springboardvideo.com
 analytics.strangeloopnetworks.com
 analytics.styria.hr
 analytics.supplyframe.com
+analytics.synedat.com
 analytics.tbs.com
 analytics.tcm.com
 analytics.teamcoco.com
