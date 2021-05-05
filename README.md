@@ -26,7 +26,7 @@
 
 ---
 
-*Die Blocklisten im Domain-Format lassen sich - neben PiHole - auch mit Blokada, Diversion, PersonalDNSfilter, pfBlockerNG und PersonalBlocklist nutzen.* - ![grafik](https://user-images.githubusercontent.com/62211544/117189136-22048a80-adde-11eb-933d-6e4159fc47d9.png)![grafik](https://user-images.githubusercontent.com/62211544/117189274-4a8c8480-adde-11eb-9d58-b035a211dbdc.png)![grafik](https://user-images.githubusercontent.com/62211544/117189305-55dfb000-adde-11eb-978d-de741fc269a6.png)![grafik](https://user-images.githubusercontent.com/62211544/117189369-6b54da00-adde-11eb-97bd-7ef01a33b12a.png)![grafik](https://user-images.githubusercontent.com/62211544/117189399-7445ab80-adde-11eb-8ab5-d7aeb652269e.png)![grafik](https://user-images.githubusercontent.com/62211544/117189443-7f004080-adde-11eb-99f3-a73c943bf5e1.png)
+*Die Blocklisten im Domain-Format lassen sich - neben PiHole - auch mit Blokada, Diversion, PersonalDNSfilter, pfBlockerNG und PersonalBlocklist nutzen.* ![grafik](https://user-images.githubusercontent.com/62211544/117189136-22048a80-adde-11eb-933d-6e4159fc47d9.png)![grafik](https://user-images.githubusercontent.com/62211544/117189274-4a8c8480-adde-11eb-9d58-b035a211dbdc.png)![grafik](https://user-images.githubusercontent.com/62211544/117189305-55dfb000-adde-11eb-978d-de741fc269a6.png)![grafik](https://user-images.githubusercontent.com/62211544/117189369-6b54da00-adde-11eb-97bd-7ef01a33b12a.png)![grafik](https://user-images.githubusercontent.com/62211544/117189399-7445ab80-adde-11eb-8ab5-d7aeb652269e.png)![grafik](https://user-images.githubusercontent.com/62211544/117189443-7f004080-adde-11eb-99f3-a73c943bf5e1.png)
 
 ---
 
