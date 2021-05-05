@@ -16,7 +16,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 13533 Domains
+# 13547 Domains
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -1189,6 +1189,7 @@ cougar.de.wundertesting.com
 countryattire.at
 countrymusicsa.com.au
 courier-go.com
+coverlastic.com
 cozyp.at
 cozyplaner.com
 cpgtstream4.com
@@ -1773,6 +1774,7 @@ ems-at-abe.de
 emt-markt.de
 en-com.at
 endlich-bauherr.de
+enence.com
 energie-for-life.at
 energiekick.at
 energie-zum-leben.at
@@ -2309,6 +2311,7 @@ gesundheitsaarland.de
 getdiscountmonclers.com
 getdrunk.at
 getevelynbag.com
+getryoko.com
 getzor.com
 geuer-elektronline.com
 gew-coesfeld.de
@@ -2798,6 +2801,7 @@ hunterstiefel.at
 hurladesignn.com
 huthcommunication.de
 huthcommunicationgmbh.de
+huusk.com
 hygienisch-frisch.de
 hyperanzeigen.at
 hypersoftsneakers.com
@@ -3483,6 +3487,7 @@ line-express-group.com
 linennew.com
 linenpieces.com
 linflix.de
+lingoget.com
 linh-nguyen.de
 linsflix.de
 linuxtexte.de
@@ -4158,6 +4163,7 @@ msp24.at
 mspafilter.ch
 ms-shipping.net
 mtseurologistics.com
+muama.com
 mudanzas-al-extranjero.es
 muehlbach-dampfer.de
 muellerscafe.de
@@ -5579,6 +5585,7 @@ stellplatz-sachsen.de
 stephan-westerhoff.de
 stepwin.de
 sterbrucke.de
+sterilize-x.com
 sternen-boezberg.ch
 sternenfenster.de
 sternenschreiter.de
@@ -7844,6 +7851,7 @@ www.cotonetlin.de
 www.cotosen.com
 www.countryattire.at
 www.courier-go.com
+www.coverlastic.com
 www.cozyp.at
 www.cozyplaner.com
 www.cpgtstream4.com
@@ -8410,6 +8418,7 @@ www.ems-at-abe.de
 www.emt-markt.de
 www.en-com.at
 www.endlich-bauherr.de
+www.enence.com
 www.energie-for-life.at
 www.energiekick.at
 www.energie-zum-leben.at
@@ -8936,6 +8945,7 @@ www.gesundheitsaarland.de
 www.getdiscountmonclers.com
 www.getdrunk.at
 www.getevelynbag.com
+www.getryoko.com
 www.getzor.com
 www.geuer-elektronline.com
 www.gew-coesfeld.de
@@ -9417,6 +9427,7 @@ www.hunterstiefel.at
 www.hurladesignn.com
 www.huthcommunication.de
 www.huthcommunicationgmbh.de
+www.huusk.com
 www.hygienisch-frisch.de
 www.hyperanzeigen.at
 www.hypersoftsneakers.com
@@ -10092,6 +10103,7 @@ www.line-express-group.com
 www.linennew.com
 www.linenpieces.com
 www.linflix.de
+www.lingoget.com
 www.linh-nguyen.de
 www.linsflix.de
 www.linuxtexte.de
@@ -10740,6 +10752,7 @@ www.msp24.at
 www.mspafilter.ch
 www.ms-shipping.net
 www.mtseurologistics.com
+www.muama.com
 www.mudanzas-al-extranjero.es
 www.muehlbach-dampfer.de
 www.muellerscafe.de
@@ -12125,6 +12138,7 @@ www.stellplatz-sachsen.de
 www.stephan-westerhoff.de
 www.stepwin.de
 www.sterbrucke.de
+www.sterilize-x.com
 www.sternen-boezberg.ch
 www.sternenfenster.de
 www.sternenschreiter.de
