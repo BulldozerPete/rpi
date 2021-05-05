@@ -6,7 +6,7 @@
 
 ---
 
-[**Erweiterung**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/ext.txt) - Erweiterung zu Zelo's "persönlichen" Domain-Blockliste: ***Erweiterung zur Multi- und Fake-Liste. Blockt zusätzliche Werbung, Tracking, Phishing, Malware, Coins und sonstigen "Mist" aus dem Netz***. Diese Liste enthält keine Domains aus der Multi- oder Fake-Liste. Sie sollte nur als Zusatz zu den zwei o.g. Listen verwendet werden. ***(Optinal)*** *- ca. 1.250.000 Domains*
+[**Erweiterung**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/ext.txt) - Erweiterung zu Zelo's "persönlicher" Domain-Blockliste: ***Erweiterung zur Multi- und Fake-Liste. Blockt zusätzliche Werbung, Tracking, Phishing, Malware, Coins und sonstigen "Mist" aus dem Netz***. Diese Liste enthält keine Domains aus der Multi- oder Fake-Liste. Sie sollte nur als Zusatz zu den zwei o.g. Listen verwendet werden. ***(Optinal)*** *- ca. 1.250.000 Domains*
 
 ---
 
