@@ -18,6 +18,7 @@ https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 ! https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
+https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/prigentads.txt
 ! https://someonewhocares.org/hosts/
 ! https://urlhaus.abuse.ch/downloads/hostfile/
 https://v.firebog.net/hosts/Admiral.txt
