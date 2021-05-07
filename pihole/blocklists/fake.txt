@@ -16,7 +16,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 13547 Domains
+# 13571 Domains
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -714,6 +714,7 @@ bogoflix.com
 bogoflix.de
 bogoplay.de
 bogostream.de
+boguso.de
 bokuflix.de
 bolada.de
 boldmatters.de
@@ -2252,12 +2253,15 @@ gammy-world.de
 gamoflix.de
 ganzheit-kosmetik.de
 garantiert-apotheke.com
+gardenmoebel.de
 gardhou.com
 garmineoutlet.com
 garminproductstore4us.com
 garminworldmaps.com
 garnettli.com
 garoflix.de
+gartenbau-schuetz.de
+gartencenter-horstmann.de
 garten-events.de
 gartenfreunde-murrhardt.de
 garten-genial.de
@@ -2403,6 +2407,7 @@ gold-erwerben.com
 goldflix.de
 gold-handel24.com
 goldhandel-depot.de
+goldhandel-imperium.de
 goldhandel-preissieger.de
 goldhandel-seit1986.de
 goldhandel-team.de
@@ -2485,7 +2490,10 @@ green-real-estates.com
 gregor-friedl.at
 gretabrumme.de
 greve-trailercenter.de
+grillario.de
+grillen-mit-willen.de
 grillflix.de
+grill-place.de
 grinsebuch.de
 grossartigemusik.de
 gross-wuppertal.de
@@ -4709,6 +4717,7 @@ playoza.de
 playpas.de
 playrapid.de
 playred.de
+playre.de
 playrest.de
 playrex.de
 playron.de
@@ -5524,6 +5533,7 @@ spielkonsole-land.com
 spieloase-muri.ch
 spielsmarkt.com
 spielsworld-de.com
+spielwaren-guenstig4you.de
 spielwerk-essen.de
 spielzeuge24.shop
 spielzu.com
@@ -5560,6 +5570,7 @@ srffrankfurt.de
 sroyiglobal.com
 ss888.shop
 ssrlogistics.com
+staachen.de
 stahlsucht.de
 stammeskleidung.de
 stanclara.com
@@ -5797,6 +5808,7 @@ teamwork-dogs.de
 tech4mation.at
 tech-angebot-shop.com
 techech.de
+techfisch-elektro.com
 tech-fox.de
 tech-land.de
 techmeta.store
@@ -7399,6 +7411,7 @@ www.bogoflix.com
 www.bogoflix.de
 www.bogoplay.de
 www.bogostream.de
+www.boguso.de
 www.bokuflix.de
 www.bolada.de
 www.boldmatters.de
@@ -8887,12 +8900,15 @@ www.gammy-world.de
 www.gamoflix.de
 www.ganzheit-kosmetik.de
 www.garantiert-apotheke.com
+www.gardenmoebel.de
 www.gardhou.com
 www.garmineoutlet.com
 www.garminproductstore4us.com
 www.garminworldmaps.com
 www.garnettli.com
 www.garoflix.de
+www.gartenbau-schuetz.de
+www.gartencenter-horstmann.de
 www.garten-events.de
 www.gartenfreunde-murrhardt.de
 www.garten-genial.de
@@ -9034,6 +9050,7 @@ www.gold-erwerben.com
 www.goldflix.de
 www.gold-handel24.com
 www.goldhandel-depot.de
+www.goldhandel-imperium.de
 www.goldhandel-preissieger.de
 www.goldhandel-seit1986.de
 www.goldhandel-team.de
@@ -9116,7 +9133,10 @@ www.green-real-estates.com
 www.gregor-friedl.at
 www.gretabrumme.de
 www.greve-trailercenter.de
+www.grillario.de
+www.grillen-mit-willen.de
 www.grillflix.de
+www.grill-place.de
 www.grinsebuch.de
 www.grossartigemusik.de
 www.gross-wuppertal.de
@@ -11283,6 +11303,7 @@ www.playoza.de
 www.playpas.de
 www.playrapid.de
 www.playred.de
+www.playre.de
 www.playrest.de
 www.playrex.de
 www.playron.de
@@ -12077,6 +12098,7 @@ www.spielkonsole-land.com
 www.spieloase-muri.ch
 www.spielsmarkt.com
 www.spielsworld-de.com
+www.spielwaren-guenstig4you.de
 www.spielwerk-essen.de
 www.spielzeuge24.shop
 www.spielzu.com
@@ -12113,6 +12135,7 @@ www.srffrankfurt.de
 www.sroyiglobal.com
 www.ss888.shop
 www.ssrlogistics.com
+www.staachen.de
 www.stahlsucht.de
 www.stammeskleidung.de
 www.stanclara.com
@@ -12347,6 +12370,7 @@ www.teamwork-dogs.de
 www.tech4mation.at
 www.tech-angebot-shop.com
 www.techech.de
+www.techfisch-elektro.com
 www.tech-fox.de
 www.tech-land.de
 www.techmeta.store
