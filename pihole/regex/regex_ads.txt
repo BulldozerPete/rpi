@@ -1,8 +1,10 @@
-
+(\.|^)2o7\.net$
+(\.|^)a.akamaihd\.net$
 (\.|^)adcolony\.com$
 (\.|^)adform\.com$
 (\.|^)adnxs\.com$
 (\.|^)adtilt\.com$
+(\.|^)akamaitechnologies\.com$
 (\.|^)amazon-adsystem\.com$
 (\.|^)amplitude\.com$
 (\.|^)app-measurement\.com$
@@ -15,12 +17,14 @@
 (\.|^)dotmetrics\.net$
 (\.|^)doubleclick\.com$
 (\.|^)doubleclick\.net$
+(\.|^)dscq.akamai\.net$
 (\.|^)google-analytics\.com$
 (\.|^)googleadservices\.com$
 (\.|^)googlesyndication\.com$
 (\.|^)googletagmanager\.com$
 (\.|^)gstatic\.com$
 (\.|^)ioam\.de$
+(\.|^)ivwbox\.de$
 (\.|^)liftoff\.io$
 (\.|^)meetrics\.com$
 (\.|^)meetrics\.de$
@@ -34,9 +38,4 @@
 (\.|^)vgwort\.de$
 (\.|^)yieldlab\.net$
 (\.|^)zemanta\.com$
-(^|\.)2o7\.net$
-(^|\.)a.akamaihd\.net$
-(^|\.)akamaitechnologies\.com$
-(^|\.)dscq.akamai\.net$
-(^|\.)ivwbox\.de$
 hbbtv(^|\.).de$
