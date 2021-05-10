@@ -16,7 +16,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 13665 Domains
+# 13667 Domains
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -303,6 +303,7 @@ apps-simply.de
 appstogo.de
 app-tastico.com
 app-testina.com
+app-testion.com
 apricot-pudel.at
 aqdixj.com
 aquaclean-das-original.de
@@ -7060,6 +7061,7 @@ www.apps-simply.de
 www.appstogo.de
 www.app-tastico.com
 www.app-testina.com
+www.app-testion.com
 www.apricot-pudel.at
 www.aqdixj.com
 www.aquaclean-das-original.de
