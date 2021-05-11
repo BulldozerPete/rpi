@@ -16,7 +16,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 13669 Domains
+# 13671 Domains
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -5596,6 +5596,7 @@ sportalo24.de
 sport-amount.de
 sport-bleher.de
 sport-fritz.de
+sport-handel24.de
 sporthaus-laubi.de
 sporthotel-schwerin.de
 sport-modul.de
@@ -12208,6 +12209,7 @@ www.sportalo24.de
 www.sport-amount.de
 www.sport-bleher.de
 www.sport-fritz.de
+www.sport-handel24.de
 www.sporthaus-laubi.de
 www.sporthotel-schwerin.de
 www.sport-modul.de
