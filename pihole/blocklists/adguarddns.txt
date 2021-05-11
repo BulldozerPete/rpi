@@ -19,7 +19,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 66387 Domains
+# 66391 Domains
 # ---------------------------------------------
 #
 0024aaaa.com
@@ -3137,6 +3137,7 @@ adtech.com
 adtech.de
 adtech-digital.ru
 adtechjp.com
+adtector.com
 adtegrity.net
 adtelligence.de
 adtelligent.com
@@ -4316,6 +4317,7 @@ analytics.ecosia.org
 analytics.edgekey.net
 analytics.edgesuite.net
 analytics-egain.com
+analytics.eggoffer.com
 analytics.electro-com.ru
 analytics-engine.net
 analyticsengine.s3.amazonaws.com
@@ -4395,6 +4397,7 @@ analytics.orenshmu.com
 analytics.ostr.io
 analytics.ovh.com
 analytics.paddle.com
+analytics.pagefly.io
 analytics.performable.com
 analytics.piksel.com
 analytics.pinterest.com
@@ -7682,7 +7685,6 @@ cbmiocw.com
 cbn.tbn.ru
 cbpsdvozwsbf.com
 cbtrk.net
-cbvjddh.23txt.com
 cbxe1r.cn
 c.bxjpl.cn
 cbyckdf.cn
@@ -9948,6 +9950,7 @@ d1t9uctetvi0tu.cloudfront.net
 d1tracker.ru
 d1uanozc5el74n.cloudfront.net
 d1ukp4rdr0i4nl.cloudfront.net
+d1upt0rqzff34l.cloudfront.net
 d1uw69x4c2zrim.cloudfront.net
 d1uy7uzra011au.cloudfront.net
 d1v99qnc7usc0g.cloudfront.net
@@ -26013,6 +26016,7 @@ quangcao.thanhnien.vn
 quangcao.tuoitre.vn
 quanjiapp.cn
 quansj.cn
+quanta.la
 quanta-wave.com
 quantcount.com
 quant.jp
@@ -30219,7 +30223,6 @@ sunnysales.biz
 suntcontent.se
 sun.win
 suocloud.com
-suolaka.23txt.com
 suoooi.cn
 suozmtcc.com
 suparewards.com
@@ -33710,7 +33713,6 @@ vgkknrbzwfau.com
 vgo.vegaoo.de
 vgw35hwr4w6x.com
 vhajaja.pro
-vhh.23txt.com
 vhiaxerjzbqi.com
 vhktunniggbd.com
 vhldwuv6om.com
@@ -37677,6 +37679,7 @@ www.adtech.com
 www.adtech.de
 www.adtech-digital.ru
 www.adtechjp.com
+www.adtector.com
 www.adtegrity.net
 www.adtelligence.de
 www.adtelligent.com
@@ -56188,6 +56191,7 @@ www.quan7.cc
 www.quandangdang.net
 www.quanjiapp.cn
 www.quansj.cn
+www.quanta.la
 www.quanta-wave.com
 www.quantcount.com
 www.quant.jp

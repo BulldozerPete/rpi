@@ -17,7 +17,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 49930 Domains
+# 49937 Domains
 # ---------------------------------------------
 #
 006a039c957c142bb.com
@@ -2232,6 +2232,7 @@ adtear.com
 adtecc.com
 adtech.de
 adtechus.com
+adtector.com
 adtegrity.net
 adtelligence.de
 adtelligent.com
@@ -3041,6 +3042,7 @@ analytics.ecosia.org
 analytics.edgekey.net
 analytics.edgesuite.net
 analytics-egain.com
+analytics.eggoffer.com
 analytics.eip.telegraph.co.uk
 analytics.elx.cloud
 analyticsengine.s3.amazonaws.com
@@ -3131,6 +3133,7 @@ analytics.orenshmu.com
 analytics.ostr.io
 analytics.ovh.com
 analytics.paddle.com
+analytics.pagefly.io
 analytics.performable.com
 analytics.pgatour.com
 analytics.photorank.me
@@ -7239,6 +7242,7 @@ d1rsh847opos9y.cloudfront.net
 d1t9uctetvi0tu.cloudfront.net
 d1uanozc5el74n.cloudfront.net
 d1ukp4rdr0i4nl.cloudfront.net
+d1upt0rqzff34l.cloudfront.net
 d1v99qnc7usc0g.cloudfront.net
 d1w24oanovvxvg.cloudfront.net
 d1wi563t0137vz.cloudfront.net
@@ -21123,6 +21127,7 @@ qualityassura.biz
 quality-channel.de
 qualityofeve.biz
 qualitypageviews.com
+quanta.la
 quanta-wave.com
 quantcount.com
 quant.jp
@@ -30990,6 +30995,7 @@ www.adtear.com
 www.adtecc.com
 www.adtech.de
 www.adtechus.com
+www.adtector.com
 www.adtegrity.net
 www.adtelligence.de
 www.adtelligent.com
@@ -43662,6 +43668,7 @@ www.qualityassura.biz
 www.quality-channel.de
 www.qualityofeve.biz
 www.qualitypageviews.com
+www.quanta.la
 www.quanta-wave.com
 www.quantcount.com
 www.quant.jp
