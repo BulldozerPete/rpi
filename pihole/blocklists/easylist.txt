@@ -17,7 +17,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 49937 Domains
+# 49938 Domains
 # ---------------------------------------------
 #
 006a039c957c142bb.com
@@ -12759,6 +12759,7 @@ imonitor.dhgate.com
 imonomy.com
 imounsos.com
 im.ov.yahoo.co.jp
+imp.accesstra.de
 impact-ad.jp
 impactaffirm.com
 impactradius.com
