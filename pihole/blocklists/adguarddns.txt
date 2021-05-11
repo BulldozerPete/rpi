@@ -19,7 +19,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 66385 Domains
+# 66387 Domains
 # ---------------------------------------------
 #
 0024aaaa.com
@@ -10452,6 +10452,8 @@ datamaster.com.cn
 datam.com
 datamind.ru
 data.minute.ly
+data.mistat.india.xiaomi.com
+data.mistat.rus.xiaomi.com
 data.mistat.xiaomi.com
 data.neosmi.ru
 data.neuroxmedia.com
