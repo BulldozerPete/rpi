@@ -2,8 +2,8 @@
 (\.|^)adcolony\.com$
 (\.|^)adform\.com$
 (\.|^)adnxs\.com$
+(\.|^)adnxs-simple\.com$
 (\.|^)adtilt\.com$
-(\.|^)amazon-adsystem\.com$
 (\.|^)amplitude\.com$
 (\.|^)app-measurement\.com$
 (\.|^)applovin\.com$
@@ -15,11 +15,6 @@
 (\.|^)dotmetrics\.net$
 (\.|^)doubleclick\.com$
 (\.|^)doubleclick\.net$
-(\.|^)google-analytics\.com$
-(\.|^)googleadservices\.com$
-(\.|^)googlesyndication\.com$
-(\.|^)googletagmanager\.com$
-(\.|^)gstatic\.com$
 (\.|^)ioam\.de$
 (\.|^)ivwbox\.de$
 (\.|^)liftoff\.io$
