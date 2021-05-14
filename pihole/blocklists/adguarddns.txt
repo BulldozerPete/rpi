@@ -19,7 +19,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 66434 Domains
+# 66454 Domains
 # ---------------------------------------------
 #
 0024aaaa.com
@@ -7691,6 +7691,7 @@ cc.calltracking.ru
 cccccd.com
 cccpmo.com
 ccd8450321.com
+ccdnqxu.com
 cc-dt.com
 ccexperimentsstatic.oracleoutsourcing.com
 ccgateway.net
@@ -10686,6 +10687,7 @@ delivery49.com
 delivery51.com
 delivery.adten.eu
 delivery-cdn-cf.adswizz.com
+delivery.contextads.live
 delivery-dev.thebloggernetwork.com
 delivery.fabrouter.com
 deliverymodo.com
@@ -11167,6 +11169,7 @@ dlxrlc2ni2.com
 dlyads.com
 dlyamedikov.ru
 dlycritishmalco.club
+dlyukun.cn
 dlyzcopkko.com
 dlzjdesign.com
 dlzm790g.com
@@ -15523,6 +15526,7 @@ hardydisplayedprawn.com
 haremwhipshook.com
 hariqavi.com
 harmlesstacticalhonorable.com
+harmoniousstrandbulk.com
 harolmo.ru
 harponnerons.xyz
 harrenmedianetwork.com
@@ -16392,6 +16396,7 @@ hxtrack.com
 hxtwl.cn
 hxwgfumgg.com
 hxyifu.com
+hxyssd.cn
 hxyx360.com
 hybrid.ai
 hybrid-prd.ad-prd.s.joyn.de
@@ -18264,6 +18269,7 @@ keeicgjfnjws.com
 keepinfit.net
 keeporhard.com
 keeptaza.com
+keeyekey.xyz
 kegsandremembrance.com
 kehalim.com
 keilb.xyz
@@ -18828,6 +18834,7 @@ lantata.com
 lantocha.ru
 lant.pro
 lantuyj.com
+lanzuankeji.cn
 laobei.top
 laojiayoufang.com
 laolinow.com
@@ -33845,6 +33852,7 @@ vidsorg.com
 vidtok.ru
 vidustal.com
 vidverto.io
+vidyceky.com
 vidyp.com
 viebitgreasy.email
 vietalle.com
@@ -41182,6 +41190,7 @@ www.ccc1063d848b.com
 www.cccccd.com
 www.cccpmo.com
 www.ccd8450321.com
+www.ccdnqxu.com
 www.cc-dt.com
 www.ccgateway.net
 www.cchfjz.com
@@ -43556,6 +43565,7 @@ www.dlxrlc2ni2.com
 www.dlyads.com
 www.dlyamedikov.ru
 www.dlycritishmalco.club
+www.dlyukun.cn
 www.dlyzcopkko.com
 www.dlzjdesign.com
 www.dlzm790g.com
@@ -47241,6 +47251,7 @@ www.hardydisplayedprawn.com
 www.haremwhipshook.com
 www.hariqavi.com
 www.harmlesstacticalhonorable.com
+www.harmoniousstrandbulk.com
 www.harolmo.ru
 www.harponnerons.xyz
 www.harrenmedianetwork.com
@@ -48025,6 +48036,7 @@ www.hxtrack.com
 www.hxtwl.cn
 www.hxwgfumgg.com
 www.hxyifu.com
+www.hxyssd.cn
 www.hxyx360.com
 www.hybrid.ai
 www.hycfxdc.com
@@ -49621,6 +49633,7 @@ www.keeicgjfnjws.com
 www.keepinfit.net
 www.keeporhard.com
 www.keeptaza.com
+www.keeyekey.xyz
 www.kegsandremembrance.com
 www.kehalim.com
 www.keilb.xyz
@@ -50158,6 +50171,7 @@ www.lantata.com
 www.lantocha.ru
 www.lant.pro
 www.lantuyj.com
+www.lanzuankeji.cn
 www.laobei.top
 www.laojiayoufang.com
 www.laolinow.com
@@ -62185,6 +62199,7 @@ www.vidsorg.com
 www.vidtok.ru
 www.vidustal.com
 www.vidverto.io
+www.vidyceky.com
 www.vidyp.com
 www.viebitgreasy.email
 www.vietalle.com
@@ -63402,6 +63417,7 @@ www.wxhiojortldjyegtkx.bid
 www.wxiansen.cn
 www.wxktv.cn
 www.wxs666.cn
+www.wxskqy.cn
 www.wxspfkln.com
 www.wxxfqc.com
 www.wxyn0o3xmora.com
@@ -64583,6 +64599,7 @@ www.zhuanzhuzibu.com
 www.zhuba8.com
 www.zhudiaosz.com
 www.zhufushuo.com
+www.zhuhaiqilu.cn
 www.zhujiafangchan.cn
 www.zhulik2ne1voruy1d.com
 www.zhuwawa.net
@@ -64868,6 +64885,7 @@ wxiansen.cn
 w.xiaopiaoyou.com
 wxktv.cn
 wxs666.cn
+wxskqy.cn
 wxspfkln.com
 wxxfqc.com
 wxyn0o3xmora.com
@@ -66015,6 +66033,7 @@ zbqmsc.com
 zbsybh.cn
 zbwp6ghm.com
 zcand.com
+z.cdn.adpool.bet
 zcjrjnxgukfcy.com
 zclick.pro
 zcl-js.com
@@ -66160,6 +66179,7 @@ zhuanzhuzibu.com
 zhuba8.com
 zhudiaosz.com
 zhufushuo.com
+zhuhaiqilu.cn
 zhujiafangchan.cn
 zhulik2ne1voruy1d.com
 zhuwawa.net
