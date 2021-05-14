@@ -19,7 +19,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 66454 Domains
+# 66458 Domains
 # ---------------------------------------------
 #
 0024aaaa.com
@@ -3426,6 +3426,7 @@ adwires.com
 adwiretracker.fwix.com
 adwods.com
 adwolf.ru
+ad.woman.mynavi.jp
 adword.ge
 adworkmedia.com
 adworkmedia.net
@@ -30624,6 +30625,7 @@ tag.rmp.rakuten.com
 tags2.adshell.net
 tagsadvancenative-glb8iionio2cozc.netdna-ssl.com
 tags.bluekai.com
+tags.catapultx.com
 tags.cdn.circlesix.co
 tags.clickagy.com
 tags.creativille.co.uk
@@ -33378,6 +33380,7 @@ userreporting.cloud.unity3d.com
 users.51.la
 users-api.com
 usersegment.wpdigital.net
+user-stats.rbl.ms
 userstats.shopee.vn
 usertrack.appcpi.net
 userzoom.com
@@ -34287,6 +34290,7 @@ w18.9939.com
 w1jesu6.package12.com
 w388.com
 w3989.com
+w3c.5txs.com
 w3counter.com
 w3exit.com
 w3hoster.de
