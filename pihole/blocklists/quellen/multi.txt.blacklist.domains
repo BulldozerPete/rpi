@@ -1153,6 +1153,7 @@ accuradiom4a32.accuradio1.netdna-cdn.com
 acdb.adnxs.com
 acdn.adnxs.com
 acdn.adnxs-simple.com
+ace.cdp.df-srv.de
 achobem.private1401831281.netdna-cdn.com
 ac.teads.tv
 actions-am.taboola.com
@@ -1211,11 +1212,14 @@ ad.ee.doubleclick.net
 ad.eg.doubleclick.net
 ad-emea.doubleclick.net
 ad.es.doubleclick.net
+a-dev.df-srv.de
+a-dev.traefik.df-srv.de
 adex.dotmetrics.net
 ad.fi.doubleclick.net
 adform.com
 adfraud-prevention.meetrics.com
 ad.fr.doubleclick.net
+a.df-srv.de
 ad-g.doubleclick.net
 ad.gr.doubleclick.net
 ad.hk.doubleclick.net
@@ -1230,11 +1234,14 @@ adlermodede.widget.criteo.com
 ad.ma.doubleclick.net
 admeta-emea.adnxs.com
 admin2.appsflyer.com
+admin2.df-srv.de
 admin.360yield.com
 admin.adscale.de
 admin.adtilt.com
 admin-beta.yieldlab.net
 admin.cxense.com
+admin-dev.df-srv.de
+admin.df-srv.de
 admin.dotmetrics.net
 admin.plista.com
 admin.rubiconproject.com
@@ -1298,11 +1305,13 @@ ad.se.doubleclick.net
 adserver.acceptance.justpremium.com
 adserver.adtech.deih.adscale.de
 adserver.cxad.cxense.com
+adserver-dev.traefik.df-srv.de
 adserverhub.pubmatic.com
 adserver.justpremium.com
 adserver.sandbox.cxad.cxense.com
 adservers.selfserve.rubiconproject.com
 adserver.stage.justpremium.com
+adserver.traefik.df-srv.de
 adsever.cxad.cxense.com
 ad.sg.doubleclick.net
 ads.hk.as.criteo.com
@@ -1648,9 +1657,14 @@ api.bidder9.mookie1.com
 ap-ice.360yield.com
 api.clarity.ms
 api.criteo.com
+api-data.df-srv.de
+api-data.traefik.df-srv.de
 api.demobox.teads.tv
 api-demo.teads.tv
+api-dev.df-srv.de
 api.dev.dmp.emetriq.de
+api-dev.traefik.df-srv.de
+api.df-srv.de
 api.dmp.emetriq.de
 api.dotmetrics.net
 api-fra02.omnitagjs.com
@@ -1673,16 +1687,19 @@ api-s2s-apac.taboola.com
 api-s2s-emea.taboola.com
 api-s2s.taboola.com
 api.scorecardresearch.com
+api-segments.df-srv.de
 api.selfserve.rubiconproject.com
 api-sim.outbrain.com
 api.ssp.omnitagjs.com
 api.stage.justpremium.com
+api-statistics.df-srv.de
 api.supersonicads.com
 api.supersonic.com
 api.taboola.com
 api.teads.tv
 api-test.plista.com
 api.theadex.com
+api.traefik.df-srv.de
 api-waf.outbrain.com
 api.watercooler.taboola.com
 api.weather.comapps.itunes.combs.serving-sys.comcdn.taboola.comcdn2.teads.tv
@@ -1756,6 +1773,7 @@ ascii-services.criteo.com
 a.scorecardresearch.com
 as.criteo.com
 as.criteo.net
+asc-wai-mbild.df-srv.de
 ash-gw.cxense.com
 ash-lb1.cxense.com
 ash-lb2.cxense.com
@@ -1890,6 +1908,7 @@ atkins.frontend.ams2.m6r.eu
 atlantafalcons.invisionpowerser1.netdna-cdn.com
 atlanticge2010.112.2o7.net
 atlasv2.loggly.com
+a.traefik.df-srv.de
 atresmedia.demdex.net
 atrilli.atrilli1.netdna-cdn.com
 att.com.102.112.2o7.net
@@ -2667,6 +2686,7 @@ bild.ivwbox.de
 billetreduc.widget.criteo.com
 billiardsgamescollection.m7shshco1.netdna-cdn.com
 billing.taboola.com
+bind.df-srv.de
 bing.clarity.ms
 biotecnika.biotecnikainfola1.netdna-cdn.com
 bipushreport.outbrain.com
@@ -2676,6 +2696,7 @@ bizlooker.appsflyer.com
 blah.012.2o7.net
 blbku3esh.kameleoon.eu
 blinker.ivwbox.de
+blitz.df-srv.de
 blob.omnitagjs.com
 blobs.omnitagjs.com
 block-api.rubiconproject.com
@@ -2980,6 +3001,7 @@ ccunl.ca.102.112.2o7.net
 ccww6081pj.kameleoon.eu
 cdc.demdex.net
 cden.teads.tv
+c.df-srv.de
 cd.ioam.de
 cdiscount.demdex.net
 cdn1.big1.netdna-cdn.com
@@ -3016,6 +3038,7 @@ cdn.colocationameric1.netdna-cdn.com
 cdn.coralseait.netdna-cdn.com
 cdncss.cfauthorityinc1.netdna-cdn.com
 cdn-c.yieldlove.com
+cdn.df-srv.de
 cdn-dopdf.softland1.netdna-cdn.com
 cdn.emetriq.de
 cdneval.adnxs.com
@@ -3064,6 +3087,7 @@ cdn.xplosion.de
 cdn-xxx.yieldlove.com
 cdn-yjp.taboola.com
 cdoz0bechb.kameleoon.eu
+cdp.df-srv.de
 cds-eu-1.taboola.com
 cds.taboola.com
 cds-us-east-1.taboola.com
@@ -3294,8 +3318,10 @@ conexus.ca.102.112.2o7.net
 config1.ioam.de
 config20.adtilt.com
 config3.ioam.de
+confluence.df-srv.de
 confluence.outbrain.com
 confluence.plista.com
+confluence.traefik.df-srv.de
 connect-api-demo.rubiconproject.com
 connect-api.rubiconproject.com
 connect.appsflyer.com
@@ -3307,6 +3333,8 @@ conradde.widget.criteo.com
 console-ib.adnxs.com
 console.teads.tv
 consors.ivwbox.de
+consul.df-srv.de
+consul-legacy.df-srv.de
 consult.taboola.com
 consumentenbond.nl.102.112.2o7.net
 content.appsflyer.com
@@ -3413,7 +3441,9 @@ crocmedia.demdex.net
 crocsaustralia.com.au.102.112.2o7.net
 crocs.ca.102.112.2o7.net
 crocs.com.sg.102.112.2o7.net
+crowd.df-srv.de
 crowd.rubiconproject.com
+crowd.traefik.df-srv.de
 crown.outbrain.com
 crtt-gateway.xplosion.de
 crusher.bidder.ams2.m6r.eu
@@ -3724,6 +3754,7 @@ dco-useast.quantserve.com
 dcoya.loggly.com
 d.criteo.com
 dcs-beta.demdex.net
+d.df-srv.de
 de1000.cxense.com
 de1001.cxense.com
 de1002.cxense.com
@@ -4328,6 +4359,13 @@ dev.web-content.insights.emetriq.de
 dev-www.applovin.com
 dev-www.taboola.com
 dev.zemanta.com
+df01.df-srv.de
+df02.df-srv.de
+df03.df-srv.de
+df04.df-srv.de
+df05.df-srv.de
+df06.df-srv.de
+df09.df-srv.de
 dfatest.012.2o7.net
 dfcuproductionenvironment01.112.2o7.net
 dfe.gbc.criteo.com
@@ -4336,6 +4374,7 @@ dfpdashboard.doubleclick.net
 dfp.doubleclick.net
 dfp-gateway.s-onetag.com
 dfppsgi76.kameleoon.eu
+df-srv.de
 dga.org.102.112.2o7.net
 dgbspgoigi.kameleoon.eu
 d-gmtdmp.mookie1.com
@@ -4790,6 +4829,7 @@ events.amplitude.com
 events.appsflyer.com
 event.scorecardresearch.com
 events.criteo.com
+events.df-srv.de
 events-jp.pubmatic.com
 events.liftoff.io
 events-logger.appsflyer.com
@@ -5568,6 +5608,7 @@ gcd-s2s.appsflyer.com
 gcdsdk.appsflyer.com
 gc.gbc.criteo.com
 gd1.mookie1.com
+g.df-srv.de
 gdo91ndvyg.kameleoon.eu
 g.doubleclick.net
 gdpr.appsflyer.com
@@ -5589,6 +5630,7 @@ gemoneysusmb2.112.2o7.net
 gen1.loggly.com
 gen2.loggly.com
 geoced.smartadserver.com
+geo.df-srv.de
 geo-location-dev.s-onetag.com
 geo-location.s-onetag.com
 geoproxy.criteo.net
@@ -5727,9 +5769,12 @@ grafana.plista.com
 grafana.pubmatic.com
 grainger.demdex.net
 grandandtoy.com.102.112.2o7.net
+graph.df-srv.de
 graphicera.demdex.net
+graphite.df-srv.de
 graphite.m6r.eu
 graphseobourse.graphseo1.netdna-cdn.com
+graph.traefik.df-srv.de
 grat-war.customlinks.appsflyer.com
 graylog.plista.com
 greendot.com.102.112.2o7.net
@@ -6893,6 +6938,7 @@ haya.loveclientsinc1.netdna-cdn.com
 hazonl.ivwbox.de
 hb22000c.pubmatic.com
 hb22000.pubmatic.com
+hb2.df-srv.de
 hb.360yield.com
 hb.adscale.de
 hb-api-asi01.omnitagjs.com
@@ -6903,6 +6949,7 @@ hb-api-usa01.omnitagjs.com
 hb-api-usa02.omnitagjs.com
 hbazaar.ivwbox.de
 hbbtv.theadex.com
+hb.df-srv.de
 hbobidssltest-va.pubmatic.com
 hbolag.demdex.net
 hbopenbid22000c.pubmatic.com
@@ -6938,10 +6985,13 @@ hbopenbid-sg.pubmatic.com
 hbopenbid-sv3c.pubmatic.com
 hbopenbid-sv3.pubmatic.com
 hb.pubmatic.com
+hb.traefik.df-srv.de
+hbx.df-srv.de
 hcfcardriverstg2.112.2o7.net
 hciggwlqpb.kameleoon.eu
 hcrj76rkjd.kameleoon.eu
 hdfcbank.demdex.net
+h.df-srv.de
 hd.gbc.criteo.com
 hdmaza.hdmaza1.netdna-cdn.com
 he4kxs3u3k.kameleoon.eu
@@ -7055,6 +7105,7 @@ horoscope-wfx.customlinks.appsflyer.com
 horst.integration.dc19.m6r.eu
 host.liftoff.io
 hostmaster.app-measurement.com
+hostmaster.df-srv.de
 hostmaster.meetrics.com
 hotels.tuntravel1.netdna-cdn.com
 hottopic.demdex.net
@@ -7092,6 +7143,7 @@ httpams1-ib.adnxs.com
 http.app-measurement.com
 httpb.scorecardresearch.com
 httpfra1-ib.adnxs.com
+httph.df-srv.de
 httpnym1.ib.adnxs.com
 httpsams1-ib.adnxs.com
 hu.ads.justpremium.com
@@ -7452,12 +7504,14 @@ jambade.widget.criteo.com
 japanese.taboola.com
 jap.taboola.com
 ja.support.appsflyer.com
+java.cdp.df-srv.de
 jcb.demdex.net
 jcorp.games1.112.2o7.net
 je2fb1vywh.kameleoon.eu
 jeelnar.loveclientsinc1.netdna-cdn.com
 jen01.zemanta.com
 jenkins.amplitude.com
+jenkins.df-srv.de
 jennycraig.com.102.112.2o7.net
 jetblueairways.demdex.net
 jetbluecom2.112.2o7.net
@@ -7466,12 +7520,14 @@ jhazv3kqsj.kameleoon.eu
 jhkt7mga9k.kameleoon.eu
 jimajc05d0.kameleoon.eu
 jira.cxense.com
+jira.df-srv.de
 jira-github.adform.com
 jira.outbrain.com
 jira.plista.com
 jira.rubiconproject.com
 jira.taboola.com
 jiratest.pubmatic.com
+jira.traefik.df-srv.de
 jira.vgwort.de
 jki4xcn9hv.kameleoon.eu
 jksi0gqd9g.kameleoon.eu
@@ -7700,6 +7756,7 @@ kes.gbc.criteo.com
 kesh111.loggly.com
 kia.cxense.com
 kibana.appsflyer.com
+kibana.d.df-srv.de
 kibanainfra.appsflyer.com
 kibana-infra-aws.appsflyer.com
 kibanaraw.appsflyer.com
@@ -7750,6 +7807,8 @@ k.teads.tv
 kubcache-europec.pubmatic.com
 kubcache-europe.pubmatic.com
 kubernetes.app-measurement.com
+kue.df-srv.de
+kue.traefik.df-srv.de
 kugpe4yrji.kameleoon.eu
 kumaweg.ivwbox.de
 kunstint.ivwbox.de
@@ -8165,6 +8224,7 @@ mailcop.vgwort.de
 mail.criteo.com
 mail.criteo.net
 mail.cxense.com
+mail.df-srv.de
 maildrop.adscale.de
 mail.index.appsflyer.com
 mail.ivwbox.de
@@ -8349,6 +8409,7 @@ mclient2.ivwbox.de
 mclient.ivwbox.de
 mclientssl2.ivwbox.de
 mcxcontrol.mcxcontrol1.netdna-cdn.com
+m.df-srv.de
 m.doubleclick.com
 m.doubleclick.net
 mdr.ivwbox.de
@@ -8470,6 +8531,7 @@ monet.recommender.dc19.m6r.eu
 moneythunder.esplinks.appsflyer.com
 mongodb.adnxs.com
 monitor.adscale.de
+monitor.cdp.df-srv.de
 monitor.cxense.com
 monitoring.m6r.eu
 monitoring.teads.tv
@@ -8669,6 +8731,8 @@ nat-pool-fr-3.criteo.com
 nat-pool-fr-4.criteo.com
 nat-pool-fr-5.criteo.com
 nat-pool-fr-6.criteo.com
+natsseed.df-srv.de
+natsstream.df-srv.de
 naturkos.ivwbox.de
 navision.adscale.de
 navyonline20.customlinks.appsflyer.com
@@ -9564,6 +9628,8 @@ portal.appsflyer.com
 portal.plista.com
 portal-softlayer.plista.com
 portcullis.rubiconproject.com
+port.df-srv.de
+port.traefik.df-srv.de
 positivo.smartadserver.com
 post.ads.smartadserver.com
 postback.supersonicads.com
@@ -9649,6 +9715,7 @@ privacy.am5.vip.prod.criteo.com
 privacyapp.applovin.com
 privacy.as.criteo.com
 privacy.da1.vip.prod.criteo.com
+privacy.df-srv.de
 privacy.hk5.vip.prod.criteo.com
 privacy-policy.teads.tv
 privacy.sv6.vip.prod.criteo.com
@@ -9819,6 +9886,7 @@ px.applovin.com
 pxc1.adscale.de
 pxq2mehkzs.kameleoon.eu
 px.quantserve.com
+py.cdp.df-srv.de
 p.yieldlab.net
 pyoochhcue.kameleoon.eu
 pyostilch5.kameleoon.eu
@@ -9902,6 +9970,8 @@ rbs.demdex.net
 r.criteo.com
 rcsmediagroupspa.demdex.net
 rdccobrand.widget.criteo.com
+r-dev.traefik.df-srv.de
+r.df-srv.de
 rdg-rdb.adnxs.com
 rd-home.retrodatallp1.netdna-cdn.com
 rdi.am5.vip.prod.criteo.com
@@ -9932,6 +10002,7 @@ recs.cxense.com
 redash.outbrain.com
 redash-zemanta.meta.outbrain.com
 redash-zemanta.outbrain.com
+red.df-srv.de
 redhat.demdex.net
 rediff.scorecardresearch.com
 rediff-w3.scorecardresearch.com
@@ -9946,6 +10017,7 @@ register.appsflyer.com
 registercom.demdex.net
 register.criteo.com
 registration.criteo.com
+registry.df-srv.de
 registry.mookie1.com
 reisende.ivwbox.de
 reisepla.ivwbox.de
@@ -9962,11 +10034,14 @@ rententi.ivwbox.de
 replay.outbrain.com
 repo.360yield.com
 report-adyoulike.api.omnitagjs.com
+report.cdp.df-srv.de
 reportcentral.doubleclick.com
 reportcentral.doubleclick.net
+report.df-srv.de
 report-ib.adnxs.com
 reporting-dashboard.rubiconproject.com
 reporting.m6r.eu
+reportings.df-srv.de
 report.ivwbox.de
 report-ox-d.justpremium.com
 reports.360yield.com
@@ -10039,6 +10114,7 @@ roblox.customlinks.appsflyer.com
 rockant.ivwbox.de
 rockhard.ivwbox.de
 rockwell.demdex.net
+ro.df-srv.de
 rogers.demdex.net
 rogersdigitalmedia.demdex.net
 ro.gmads.mookie1.com
@@ -10049,6 +10125,7 @@ root.app-measurement.com
 root.omnitagjs.com
 rose.pubmatic.com
 rota.adalliance.io
+ro.traefik.df-srv.de
 rouletteonline.cdnserver1.netdna-cdn.com
 router1.meetrics.de
 router2.meetrics.de
@@ -10113,6 +10190,7 @@ rtb.yieldlab.net
 r.teads.tv
 rth.remotetraveler1.netdna-cdn.com
 rtl.ivwbox.de
+r.traefik.df-srv.de
 rt-usa.applovin.com
 ru.ads.justpremium.com
 ru.appsflyer.com
@@ -10314,6 +10392,7 @@ script4.ioam.de
 script-dev.ioam.de
 script.dotmetrics.net
 scripts.ioam.de
+scrollya.df-srv.de
 sc.scorecardresearch.com
 sdeklerk.loggly.com
 sdk.adform.com
@@ -10361,6 +10440,8 @@ selfserve.rubiconproject.com
 selfservice.plista.com
 sellers.teads.tv
 sensisaustralia.demdex.net
+sentry.df-srv.de
+sentry.traefik.df-srv.de
 sephora.demdex.net
 se-portal.rubiconproject.com
 serve.quantserve.com
@@ -10599,6 +10680,9 @@ software.darwenmarketingi1.netdna-cdn.com
 solarwindsworldwidellc.demdex.net
 solevaka.atypicainc1.netdna-cdn.com
 solidarios.lanacion1.netdna-cdn.com
+solr-dev.traefik.df-srv.de
+solr.df-srv.de
+solr.traefik.df-srv.de
 solsticesupply.accelerator1.netdna-cdn.com
 solusarc.loggly.com
 sonarqube.adform.com
@@ -10776,6 +10860,8 @@ ssl-wolterskluwer.met.vgwort.de
 ssl.xplosion.de
 ssl-zeit.met.vgwort.de
 sso.adalliance.io
+sso.cdp.df-srv.de
+sso.df-srv.de
 sso-jwk-http.criteo.net
 ssp-csync.smartadserver.com
 ssp-fra01.omnitagjs.com
@@ -10924,10 +11010,13 @@ static.va1.vip.prod.criteo.net
 static-website.teads.tv
 static.zemanta.com
 static.zlxtlcrogeoc0.netdna-cdn.com
+statistics.df-srv.de
 stat.meetrics.de
+stats2.df-srv.de
 stats.appsflyer.com
 stats.aws.rubiconproject.com
 stats-collector.cxense.com
+stats.df-srv.de
 stats.g.doubleclick.net
 statsgoogle.appsflyer.com
 stats.justpremium.com
@@ -11070,6 +11159,7 @@ sv.us.criteo.net
 swa.demdex.net
 swag.taboola.com
 swalife.com.102.112.2o7.net
+swarm.traefik.df-srv.de
 swdevopsit.loggly.com
 swen.customlinks.appsflyer.com
 swipestox.loggly.com
@@ -11429,6 +11519,7 @@ traderonline.com.102.112.2o7.net
 tradingacademy.com.102.112.2o7.net
 tradoria.demdex.net
 tr.ads.justpremium.com
+traefik.df-srv.de
 traffic.emsservice.de
 traffichaus.loggly.com
 traffic.outbrain.com
@@ -12111,6 +12202,7 @@ websdk-stg2.appsflyer.com
 websdk-stg.appsflyer.com
 website.audioaffair1.netdna-cdn.com
 website.coworkingoffices1.netdna-cdn.com
+website.df-srv.de
 website-pull-zone.timetohire1.netdna-cdn.com
 wecasa.customlinks.appsflyer.com
 wedding.druid.ams2.m6r.eu
@@ -12491,6 +12583,7 @@ www.adc3-assets.adcolony.com
 www.adc3-assets-enc-cdn.adcolony.com
 www.adcolony.com
 www.adform.com
+www.a.df-srv.de
 www-admin.plista.com
 www.adrtx.net
 www.adscale.de
@@ -12538,11 +12631,13 @@ www.crowd.rubiconproject.com
 www.cs.rubiconproject.com
 www.cxad.cxense.com
 www-dailyrecord-co-uk.api.omnitagjs.com
+www.d.df-srv.de
 www.de.adcolony.com
 www.developer.pubmatic.com
 www.developers.taboola.com
 www.dev.rubiconproject.com
 www-dev.taboola.com
+www.df-srv.de
 www.dmp.theadex.com
 www.dotmetrics.net
 www.doubleclick.com
@@ -12572,6 +12667,7 @@ www.g.scorecardresearch.com
 www.hb-api-fra02.omnitagjs.com
 www.hb-api.omnitagjs.com
 www.hb-api-usa02.omnitagjs.com
+www.h.df-srv.de
 www.helpdesk.liftoff.io
 www.helpme.rubiconproject.com
 www.help.taboola.com
@@ -12631,6 +12727,7 @@ www.postlog.supersonic.com
 www.prefs.zemanta.com
 www.pubmatic.com
 www.quantserve.com
+www.r.df-srv.de
 www.referral.supersonic.com
 www.register.criteo.com
 www.research.criteo.com
@@ -12798,6 +12895,7 @@ yj-api.taboola.com
 yjp.adnxs.com
 ylhth8d19h.kameleoon.eu
 ylpp2oie0h.kameleoon.eu
+yl.rtb.df-srv.de
 ym1-ib.adnxs.com
 ym1.ib.adnxs.com
 ymcdn.yallamotorcom1.netdna-cdn.com
