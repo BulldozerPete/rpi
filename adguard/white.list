@@ -115,6 +115,7 @@ adservice.google.com
 adservice.google.de
 clickserve.dartsearch.net
 pixel.everesttech.net
+promo.mobile.de
 
 # SAT1/Pro7 Video (Cookies)
 aggregator.service.usercentrics.eu
@@ -129,6 +130,7 @@ hw-cdn2.adtng.com
 redefine.hit.stat24.com
 s2.static.cfgr3.com
 vz-cdn2.adtng.com
+uim.tifbs.net
 
 # T-Online
 stats.t-online.de
@@ -163,7 +165,7 @@ s0.2mdn.net
 statics.streamable.com
 uapi.adrise.tv
 
-# FALSCH POSITIV
+# Falsch Positiv
 7zap.com
 ietf.org
 miner-control.de
