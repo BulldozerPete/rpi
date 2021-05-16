@@ -432,7 +432,12 @@
 20123.mc.tritondigital.com
 2016520020.log.optimizely.com
 2016.appsflyer.com
+2016.chartbeat.com
+2017.chartbeat.com
+2018.chartbeat.com
+2019.chartbeat.com
 2019.provisioning.service.newrelic.com
+2020.chartbeat.com
 202-136-94-77.ptr.zemanta.com
 2021portugal.piwik.pro
 20253.mc.tritondigital.com
@@ -483,6 +488,7 @@
 213-136-94-77.ptr.zemanta.com
 213336710.log.optimizely.com
 2134601630.log.optimizely.com
+2136746.segment.com
 21393.mc.tritondigital.com
 2139682020.log.optimizely.com
 214-136-94-77.ptr.zemanta.com
@@ -1677,6 +1683,7 @@
 7089f9df924026ca3f7891c47208e86fd14bbcdefe7c3c62d244b070.trk.sensic.net
 70ab15448bae85cf7cef238a550cc8c176ef044bf2cc778f4df64f11.trk.sensic.net
 70cfe90637830446915cd4ef68e4b4131af299a569c12778ea77f9a0.trk.sensic.net
+71020.segment.com
 7103274300.log.optimizely.com
 71467320.log.optimizely.com
 714931130.log.optimizely.com
@@ -2296,8 +2303,10 @@ acca.demdex.net
 accelerate.criteo.com
 accenture.saas.appdynamics.com
 accenture-stage.saas.appdynamics.com
+access-fargate.segment.com
 accesshealth.qualtrics.com
 accessrequest.taboola.com
+access.segment.com
 access.taboola.com
 accessusa.d1.sc.omtrdc.net
 account.am5.vip.prod.criteo.com
@@ -2362,6 +2371,7 @@ adalliance-cognos.guj.de
 adalliance-cognos-test.guj.de
 adalliance.io
 adam.meetrics.com
+adam.staging.chartbeat.com
 adam-suite.meetrics.com
 ad-apac.doubleclick.net
 ad.ar.doubleclick.net
@@ -2459,6 +2469,7 @@ admin.dotmetrics.net
 admin.m-pathy.com
 admin.plista.com
 admin.rubiconproject.com
+admin.segment.com
 admin-staging.supersonic.com
 admin.supersonic.com
 admin.tritondigital.com
@@ -2525,6 +2536,7 @@ ads.adcolony.com
 ad.sa.doubleclick.net
 ads.adtilt.com
 ad-s-ams.justpremium.com
+adsapi.chartbeat.com
 ads.as.criteo.com
 adsatelitte.guj.de
 adsatellite.guj.de
@@ -2718,11 +2730,15 @@ airbnbta1.co1.qualtrics.com
 aircanada.demdex.net
 airc.solution.weborama.fr
 aireuropa.solution.weborama.fr
+airflow.biztech.segment.com
+airflow-v2.biztech.segment.com
 ai.rubiconproject.com
 aitym7lovd.kameleoon.eu
 aiv.au1.qualtrics.com
 ajc-d.openx.net
 ajitgoel.loggly.com
+ajs.cd.segment.com
+ajs-testing.segment.com
 akamai.cdneval.adnxs.com
 akamai.cdneval.adnxs-simple.com
 akamaisan.qualtrics.com
@@ -3001,6 +3017,7 @@ angelini.piwik.pro
 angieslist.com.102.112.2o7.net
 anhi.org.102.112.2o7.net
 animeconsortiumjapan.hb.omtrdc.net
+ani.staging.chartbeat.com
 ankerkraut.cleverpush.com
 anna.customlinks-stg.appsflyer.com
 annalect.loggly.com
@@ -3096,7 +3113,9 @@ api-01.nym1.adnxs.com
 api-02.nym1.adnxs.com
 api2.amplitude.com
 api2.appsflyer.com
+api2.chartbeat.com
 api2.outbrain.com
+api2.segment.io
 api2-test.outbrain.com
 api.adcolony.com
 api.adform.com
@@ -3114,7 +3133,9 @@ api.bidder10.mookie1.com
 api.bidder7.mookie1.com
 api.bidder9.mookie1.com
 api.bunchbox.co
+api.cd.segment.com
 ap-ice.360yield.com
+api.chartbeat.com
 api.clarity.ms
 api.criteo.com
 api-data.df-srv.de
@@ -3199,6 +3220,7 @@ app01.cleverpush.com
 app02.cleverpush.com
 app16.ads.justpremium.com
 app.bunchbox.co
+app-canary.segment.com
 app-cdn.optimizely.com
 appchoices.rubiconproject.com
 app.cleverpush.com
@@ -3214,9 +3236,12 @@ app.liftoff.io
 app.loggly.com
 applovin.com
 applvn.com
+app-production.segment.com
+app-qa.segment.com
 appsbeta.pubmatic.com
 app.scorecardresearch.com
 appsdev.appsflyer.com
+app.segment.com
 app.sentry.io
 apps-eqx.smartadserver.com
 app-smoothcode-test.wisepops.com
@@ -3262,6 +3287,7 @@ ardsport.ivwbox.de
 ardw.ivwbox.de
 argenta.demdex.net
 ar-gmtdmp.mookie1.com
+argus.segment.com
 ariba.demdex.net
 ariba-top100.112.2o7.net
 ar-ice.360yield.com
@@ -3269,6 +3295,7 @@ ari.piwik.pro
 arizonaexeced360.qualtrics.com
 arkena.hb.omtrdc.net
 ar.labs.teads.tv
+armada.biztech.segment.com
 armadagroup.saas.appdynamics.com
 armanimoda.solution.weborama.fr
 armh.piwik.pro
@@ -3474,7 +3501,12 @@ atlanticamedica.solution.weborama.fr
 atlanticge2010.112.2o7.net
 atlanticmedia-d.openx.net
 atlantic.solution.weborama.fr
+atlantis-personas.segment.com
+atlantis.segment.com
 atlasco.piwik.pro
+atlas.segment.com
+atlassian-ihu9wbfxmn.xid.segment.com
+atlassian.xid.segment.com
 atlasv2.loggly.com
 atlas-verlag.guj.de
 atlasworld.co1.qualtrics.com
@@ -3593,6 +3625,7 @@ auth.teads.tv
 auth-testing.m6r.eu
 auth.xiti.com
 autoanything.com.102.112.2o7.net
+autoapi.chartbeat.com
 autobild.cleverpush.com
 autoconfig.adnxs.com
 autodeskfeedback.az1.qualtrics.com
@@ -4259,6 +4292,8 @@ baselstadt.piwik.pro
 base.technik.zd.guj.de
 base.theadex.com
 bastion.meetrics.de
+bastion.segment.com
+bastion-v2.segment.com
 bat.bing.combat.r.msn.comcbsinteractive.hb.omtrdc.net
 batch.theadex.com
 baulinks.ivwbox.de
@@ -4541,6 +4576,7 @@ bild.digidip.net
 bild.ivwbox.de
 bildshop.cleverpush.com
 billetreduc.widget.criteo.com
+billing-dashboard.segment.com
 billing.taboola.com
 bind.df-srv.de
 b.indexww.com
@@ -4560,6 +4596,7 @@ bjpenn-d.openx.net
 blackangus.piwik.pro
 black.demo.dmp.piwik.pro
 blackhole.iocnt.net
+blackhole-webhook.segment.com
 blackorange.cleverpush.com
 blackrock360.qualtrics.com
 black.soju.openx.net
@@ -4585,6 +4622,7 @@ blog.amplitude.com
 blog.appdynamics.com
 blog.applovin.com
 blog-assets.newrelic.com
+blog.chartbeat.com
 blog.criteo.com
 blog.cxense.com
 blogde.taboola.com
@@ -4674,6 +4712,7 @@ bot.outbrain.com
 bot.stage.justpremium.com
 bot-stg.outbrain.com
 bounce.amplitude.com
+bounce.go.segment.com
 boursorama.smartadserver.com
 boutyspa.solution.weborama.fr
 box.adalliance.io
@@ -4708,6 +4747,7 @@ branding.taboola.com
 brandmuscle.piwik.pro
 brand.optimizely.com
 brand-safety.meetrics.com
+brand.segment.com
 brandsolutions.adform.com
 brandstore.appdynamics.com
 brangista.demdex.net
@@ -4888,6 +4928,7 @@ caldera-vi.guj.de
 calendar.appdynamics.com
 calendar.applovin.com
 calendar.appsflyer.com
+calendar.chartbeat.com
 calendar.smartadserver.com
 calendar.taboola.com
 calgary.xiti.com
@@ -4898,6 +4939,7 @@ callawaygolfcom2.112.2o7.net
 cal.newrelic.com
 calpolyocob.co1.qualtrics.com
 calpoly.sjc1.qualtrics.com
+calvin.segment.com
 cambridge.eu.qualtrics.com
 cambridgesurvey.co1.qualtrics.com
 camelcamelcamel.piwik.pro
@@ -4916,6 +4958,7 @@ canadianimperialbankofcommerce.demdex.net
 canadiantirecorporationlimited2.demdex.net
 canaljv2.solution.weborama.fr
 canal-plus.com.102.112.2o7.net
+canary.segment.com
 canary-us.ads.justpremium.com
 canary-us-pre.ads.justpremium.com
 candabe.widget.criteo.com
@@ -5038,6 +5081,7 @@ cba.gbc.criteo.com
 cba.gbc.criteo.net
 cbcca.demdex.net
 cbcca.hb.omtrdc.net
+cb.chartbeat.com
 cbc.mc.tritondigital.com
 cbcnewmedia.d1.sc.omtrdc.net
 cbcnewtriangle411.112.2o7.net
@@ -5135,6 +5179,7 @@ cdn-dashboards-dev.exactag.com
 cdn-dev.optimizely.com
 cdn.df-srv.de
 cdn-edgecast.optimizely.com
+cdn.edgefn.segment.com
 cdn.emetriq.de
 cdneval.adnxs.com
 cdn.exactag.com
@@ -5165,6 +5210,8 @@ cdn-quisma.exactag.com
 cdn.rubiconproject.com
 cdn-san2.optimizely.com
 cdn-san.optimizely.com
+cdn-settings.segment.com
+cdn-slow.segment.com
 cdn.smartadserver.com
 cdn-s-optional.optimizely.com
 cdn-source-01.m-pathy.com
@@ -5206,6 +5253,7 @@ centene.az1.qualtrics.com
 centraalbeheerachmeanl1.solution.weborama.fr
 centrallecheraasturiana.solution.weborama.fr
 centricabritishgas.demdex.net
+centrifuge-destinations.segment.com
 centrify.ca1.qualtrics.com
 century21.solution.weborama.fr
 centurylink-adc3-assets.adcolony.com
@@ -5280,6 +5328,7 @@ charlottenburg.druid.ams2.m6r.eu
 charlotterusse.d1.sc.omtrdc.net
 charlottesweb.demdex.net
 chartbeat.net
+chartcorp.staging.chartbeat.com
 chartdata.service.newrelic.com
 chart-embed.service.newrelic.com
 chartsde.ivwbox.de
@@ -5353,6 +5402,7 @@ ci2.pubmatic.com
 ciao.ivwbox.de
 cib.adnxs.com
 cibgecd.solution.weborama.fr
+cid.segment.com
 ciena.co1.qualtrics.com
 ciena.demdex.net
 cigna.co1.qualtrics.com
@@ -5369,6 +5419,8 @@ cinema.cleverpush.com
 cinna.solution.weborama.fr
 cipreporting.loggly.com
 ci.pubmatic.com
+circle-build.segment.com
+circleci-debouncer.segment.com
 cisco1.saas.appdynamics.com
 cisco.co1.qualtrics.com
 cisco.demdex.net
@@ -5376,6 +5428,7 @@ ciscojasper.hb.omtrdc.net
 ciscospark-mm-prod.saas.appdynamics.com
 ciscoux2.sjc1.qualtrics.com
 ciscowebex.demdex.net
+ci.segment.com
 citi1.qualtrics.com
 citi.demdex.net
 citiphkr.demdex.net
@@ -5562,6 +5615,7 @@ co.ads.justpremium.com
 coastersworld.loggly.com
 coatue.loggly.com
 cobrowser.piwik.pro
+cob.segment.com
 cocacola2.solution.weborama.fr
 cocacola360.qualtrics.com
 cocacola.solution.weborama.fr
@@ -5819,6 +5873,7 @@ community.newrelic.com
 community.optimizely.com
 community.piwik.pro
 community.pubmatic.com
+community.segment.com
 community.sentry.io
 community-staging.appdynamics.com
 community-staging.optimizely.com
@@ -5831,6 +5886,7 @@ comping.chartbeat.net
 compixel.everesttech.net
 complex-media-d.openx.net
 composer.adcolony.com
+composer.segment.com
 comprandomeuape.digidip.net
 compraxisvita.cleverpush.com
 compta.xiti.com
@@ -5891,6 +5947,8 @@ consolidation2.solution.weborama.fr
 consors.ivwbox.de
 consul.df-srv.de
 consul-legacy.df-srv.de
+consul.segment.com
+consulting-com-29ra7tkzev.xid.segment.com
 consultinglhd.sjc1.qualtrics.com
 consult.taboola.com
 consumed-d.openx.net
@@ -5901,6 +5959,8 @@ containers-demoaccess.tag.piwik.pro
 containers.piwik.pro
 containers.tag.piwik.pro
 cont.bf-tools.net
+contempo-django.staging.chartbeat.com
+contempo.staging.chartbeat.com
 content.appsflyer.com
 content.crosssell.info
 content.cxense.com
@@ -6027,6 +6087,7 @@ cpa.adtilt.com
 cpanel.adnxs.com
 cpanel.afmarketingdev.appsflyer.com
 cpanel.app-measurement.com
+cpanel.biztech.segment.com
 cpanel.careers.appsflyer.com
 cpanel.content.appsflyer.com
 cpanel.index.appsflyer.com
@@ -6187,6 +6248,7 @@ cthulhu.srv.piwik.pro
 c.tifbs.net
 ct-k8sva.pubmatic.com
 ctkqcpb29.kameleoon.eu
+ctlstore.segment.com
 ctxport.guj.de
 cua.com.102.112.2o7.net
 cubeat001.iocnt.net
@@ -6300,6 +6362,7 @@ cursotecnicobrasil.digidip.net
 curtin.au1.qualtrics.com
 custom2.supersonicads.com
 customer-centricity.guj.de
+customer-dashboard.segment.com
 customerexperience.co1.qualtrics.com
 customreportssales.piwik.pro
 custom.supersonicads.com
@@ -6399,6 +6462,7 @@ dart-ad.l.doubleclick.net
 darth.guj.de
 daserste.ivwbox.de
 das-fanmagazin.digidip.net
+dashapi.chartbeat.com
 dash.applovin.com
 dash-bid-d.openx.net
 dashboard.appsflyer.com
@@ -6422,6 +6486,7 @@ data.bunchbox.co
 data-ce566684bc.iocnt.net
 datacent.ivwbox.de
 data.co1.qualtrics.com
+datacouncil.segment.com
 data-dictionary.service.newrelic.com
 datadog.a.sentry.io
 data.experience.appsflyer.com
@@ -6440,6 +6505,7 @@ dau6u6x3w6.kameleoon.eu
 dauphinem1.qualtrics.com
 da.us.criteo.com
 da.us.criteo.net
+dave.staging.chartbeat.com
 davidodenthal.piwik.pro
 davin.loggly.com
 davivienda.solution.weborama.fr
@@ -7082,6 +7148,7 @@ de-aurora-dc.piwik.pro
 debian.matomo.org
 de.blog.newrelic.com
 de.blog.teads.tv
+debug-api.segment.com
 de-ccm.digidip.net
 de-central-1.piwik.pro
 decius.guj.de
@@ -7191,7 +7258,9 @@ demo.outbrain.com
 demo.piwik.pro
 demo-rc.appdynamics.com
 demo-script.dotmetrics.net
+demo.segment.com
 demo.smartadserver.com
+demos.segment.com
 demo-stage.cleverpush.com
 demostatic.par.vip.prod.criteo.com
 demo.supersonicads.com
@@ -7222,6 +7291,7 @@ dentsu1.demdex.net
 denzel.containers.piwik.pro
 denzel.piwik.pro
 depersgroepnl1.solution.weborama.fr
+deploys.segment.com
 depoisdosquinze.digidip.net
 dericon.loggly.com
 derstandardat.cleverpush.com
@@ -7255,6 +7325,7 @@ dev.appsflyer.com
 dev.aws.xiti.com
 devccfraacs01.guj.de
 dev-cdn-dam.guj.de
+dev.chartbeat.com
 dev.ci.guj.de
 dev.ciweb.guj.de
 devcms.guj.de
@@ -7280,6 +7351,7 @@ developers.amplitude.com
 developers.appsflyer.com
 developers.cleverpush.com
 developers.criteo.com
+developer.segment.com
 developers.matomo.org
 developers.optimizely.com
 developers.piwik.pro
@@ -7510,6 +7582,7 @@ disney-prod.saas.appdynamics.com
 disneystreaming.iad1.qualtrics.com
 disneyvacations.com.102.112.2o7.net
 dis.ny.us.criteo.com
+dispatch.segment.com
 displayf-tm.everesttech.net
 display-logix.containers.piwik.pro
 display-tm.everesttech.net
@@ -7615,6 +7688,7 @@ docs.applovin.com
 docs.appsflyer.com
 docs.a.sentry.io
 docs.bunchbox.co
+docs.chartbeat.com
 docs.chartbeat.net
 docsclients.xiti.com
 docscorporate.xiti.com
@@ -7630,6 +7704,7 @@ docs.outbrain.com
 docs.piwik.pro
 docs-preview.newrelic.com
 docs-ra.newrelic.com
+docs.segment.com
 docs.sentry.io
 docs-staging.newrelic.com
 docs.supersonic.com
@@ -7647,6 +7722,7 @@ dod.appsflyer.com
 doktorde.ivwbox.de
 dokurier.ivwbox.de
 dollarshaveclub.demdex.net
+dolores.staging.chartbeat.com
 domain-conditions.20.service.newrelic.com
 domainvalidate.vanitydomains.qualtrics.com
 domea.containers.piwik.pro
@@ -7951,6 +8027,7 @@ elasticsearch.webstage.svc.guj.de
 elc1.solution.weborama.fr
 elc.solution.weborama.fr
 eleconomista.d1.sc.omtrdc.net
+election.chartbeat.com
 electro.demdex.net
 electrolux.eu.qualtrics.com
 electroworld.se.d1.sc.omtrdc.net
@@ -7970,6 +8047,7 @@ elle.cleverpush.com
 elle-fr.digidip.net
 elle.ivwbox.de
 el.matomo.org
+eloise.staging.chartbeat.com
 elpasottuhsc.co1.qualtrics.com
 elsevier.demdex.net
 elsmarth.ivwbox.de
@@ -7989,10 +8067,13 @@ email.alerts.newrelic.com
 email.applovin.com
 email.appsflyer.com
 email.careers.appsflyer.com
+email.chartbeat.com
+email.e.segment.com
 email.guj.de
 email.optimizely.com
 email.piwik.pro
 email.rubiconproject.com
+email.segment.com
 emails.outbrain.com
 emailstats.appsflyer.com
 email.taboola.com
@@ -8055,6 +8136,7 @@ eng.appdynamics.com
 engelmannsoftware.cleverpush.com
 engg.appdynamics.com
 engineering.adform.com
+engineering.chartbeat.com
 engineering.outbrain.com
 enhance-d.openx.net
 enifamiglia.solution.weborama.fr
@@ -8069,6 +8151,7 @@ entegra.ca.102.112.2o7.net
 entercom.mc.tritondigital.com
 enterpriseenrollment.outbrain.com
 enterpriseenrollment.rubiconproject.com
+enterpriseenrollment.segment.com
 enterpriseregistration.outbrain.com
 enteturismomalta.solution.weborama.fr
 entity-search.service.newrelic.com
@@ -8127,6 +8210,7 @@ es-ccm.digidip.net
 es-config.sensic.net
 es.cxense.com
 es-dealconquest.digidip.net
+e.segment.com
 es.eltint.guj.de
 esexpo1.doubleclick.net
 esexpo2.doubleclick.net
@@ -8150,6 +8234,7 @@ es.labs.teads.tv
 eslanzadera2.solution.weborama.fr
 eslanzadera.solution.weborama.fr
 esleague.ivwbox.de
+es-logs.segment.com
 esmastercard.solution.weborama.fr
 es.matomo.org
 esmedialand.solution.weborama.fr
@@ -8280,7 +8365,9 @@ events.liftoff.io
 events-logger.appsflyer.com
 events.mobile.optimizely.com
 events.pubmatic.com
+events.segment.com
 events.taboola.com
+event-tester.segment.com
 event-tool.guj.de
 everest.ca.d1.sc.omtrdc.net
 everestcollege.ca.d1.sc.omtrdc.net
@@ -8328,6 +8415,7 @@ execnet.guj.de
 executech.loggly.com
 exelate.teads.tv
 exetercles.eu.qualtrics.com
+exhibitor.segment.com
 exito.co1.qualtrics.com
 expedia.demdex.net
 expel.loggly.com
@@ -8369,10 +8457,12 @@ fabius2-vi.guj.de
 fabius-vi.guj.de
 fabolous.guj.de
 fabolous-outgoing.guj.de
+facade.segment.com
 fac.co1.qualtrics.com
 facebook.co1.qualtrics.com
 facebookhr.co1.qualtrics.com
 facebookhr.qualtrics.com
+facebook-lead-ads-receiver.segment.com
 fac.outbrain.com
 factpdf.xiti.com
 fadserver.cxad.cxense.com
@@ -8402,6 +8492,7 @@ fandango.hb.omtrdc.net
 fandangollc.demdex.net
 fanpiece-d.openx.net
 fanzero.ivwbox.de
+faq.chartbeat.com
 faraday.guj.de
 farfetchca.widget.criteo.com
 farm.ap-s2.plista.com
@@ -8435,6 +8526,7 @@ farm-th.plista.com
 farm-tr.plista.com
 farm-tw.plista.com
 farm-uk.plista.com
+farzad.staging.chartbeat.com
 fast.127.demdex.net
 fast.1800contactsv15.demdex.net
 fast.19618.demdex.net
@@ -8635,6 +8727,7 @@ feedad-d.openx.net
 feedads.g.doubleclick.net
 feedback.adform.com
 feedback.appsflyer.com
+feedback.chartbeat.com
 feed.outbrain.com
 feeds-10.rubiconproject.com
 feeds.rubiconproject.com
@@ -8708,9 +8801,12 @@ fjc.co1.qualtrics.com
 fjc.piwik.pro
 fkqadvertising.d1.sc.omtrdc.net
 fk-web.cxense.com
+flagon-external.segment.com
+flagon.segment.com
 flapi1.rubiconproject.com
 flapi2.rubiconproject.com
 flash.quantserve.com
+flatiron-school-x7unvviph2.xid.segment.com
 flax1-ib.adnxs.com
 flax1.ib.adnxs.com
 flayer8.customlinks.appsflyer.com
@@ -8841,11 +8937,15 @@ fotocommunity.digidip.net
 fotoliade.widget.criteo.com
 foundationmedicalstaffing.com.102.112.2o7.net
 fourm-d.openx.net
+foxdcg-v5dvg7zihe.xid.segment.com
 fox-d.justpremium.com
 foxentertainment.hb.omtrdc.net
+foxlatam-kjlft4ujey.xid.segment.com
 foxnews.demdex.net
 foxnews.hb.omtrdc.net
 foxnewsnetwork.mc.tritondigital.com
+foxpass.corp.segment.com
+foxpass.segment.com
 foxsports.hb.omtrdc.net
 fox-uk.demo.justpremium.com
 fozzie-vi.guj.de
@@ -9292,6 +9392,7 @@ gatehousemedia-d.openx.net
 gatekeeper.outbrain.com
 gate.trbo.com
 gate.urban-media.com
+gateway-api.segment.com
 gateway.epermission.guj.de
 gateway.mailout.guj.de
 gatewaymedia-d.openx.net
@@ -9362,6 +9463,7 @@ g.df-srv.de
 gdo91ndvyg.kameleoon.eu
 g.doubleclick.net
 gdpr.appsflyer.com
+gdpr-controller.my.segment.com
 gdprdata.api.optimizely.com
 gdpr-requests.utils.appdynamics.com
 ge412mzc26.kameleoon.eu
@@ -9499,6 +9601,7 @@ global.px.quantserve.com
 global.qc.rtb.quantserve.com
 globaltmi360.qualtrics.com
 glossary.matomo.org
+glossier-bmkewiklyu.xid.segment.com
 glpfactory.weborama.fr
 glucerna.ca.102.112.2o7.net
 glucerna.com.102.112.2o7.net
@@ -9566,6 +9669,7 @@ gomcdermottworld.d1.sc.omtrdc.net
 gomi.guj.de
 goo-de.sensic.net
 goodlifefitness.demdex.net
+goodnews.segment.com
 goodwork.customlinks.appsflyer.com
 goodworldwide-d.openx.net
 goog.applovin.com
@@ -9579,6 +9683,7 @@ google-cdn.liftoff.io
 google.com.meetrics.com
 google.qualtrics.com
 gooya-d.openx.net
+gopages.segment.com
 go-pardot.adcolony.com
 go.par.vip.prod.criteo.net
 go.pubmatic.com
@@ -9656,6 +9761,7 @@ grafana-opentsdb.dz.optimizely.com
 grafana.outbrain.com
 grafana.plista.com
 grafana.pubmatic.com
+grafana.segment.com
 grahammedia-d.openx.net
 grainger.demdex.net
 grandandtoy.com.102.112.2o7.net
@@ -9666,6 +9772,7 @@ graph.df-srv.de
 graphicera.demdex.net
 graphite.df-srv.de
 graphite.m6r.eu
+graph.segment.com
 graph.service.newrelic.com
 graph.traefik.df-srv.de
 gratefulventures2-d.openx.net
@@ -9701,6 +9808,8 @@ groupm.theadex.com
 groupninemedia-d.openx.net
 groups.a.sentry.io
 grow.amplitude.com
+grow.segment.com
+growth.segment.com
 growth-support.applovin.com
 grpc.newrelic.com
 grpconverter.teads.tv
@@ -9714,6 +9823,7 @@ gs-chip.digidip.net
 gscontxt.net
 g.scorecardresearch.com
 gsea.ivwbox.de
+g.segment.com
 gs-focus.digidip.net
 gsiccbmocaprdi2.112.2o7.net
 gsiccbmousprdi2.112.2o7.net
@@ -10371,6 +10481,7 @@ h992.meetrics.de
 hachdev.loggly.com
 hachfusion.loggly.com
 hackathon.pubmatic.com
+hacks.chartbeat.com
 hadrian-vi.guj.de
 h.adscale.de
 haggler-a9010-us-e-ec2.liftoff.io
@@ -10912,6 +11023,7 @@ harvard.az1.qualtrics.com
 harvardbusinessschool.demdex.net
 hasbro.com.102.112.2o7.net
 hasepost.cleverpush.com
+hashicorp-fhh9vebjrx.xid.segment.com
 ha-sonderthemen.transmatico.com
 hatcher-dmz-vi.guj.de
 hatena-d.openx.net
@@ -11039,6 +11151,7 @@ help.amplitude.com
 help.appdynamics.com
 help.app-measurement.com
 help.appsflyer.com
+help.chartbeat.com
 helpcrc.doubleclick.com
 help.cxense.com
 helpdesk.liftoff.io
@@ -11052,6 +11165,7 @@ help.optimizely.com
 help.outbrain.com
 help.piwik.pro
 helpsbc.smartadserver.com
+help.segment.com
 help.sentry.io
 help.smartadserver.com
 helpster.met.vgwort.de
@@ -11168,12 +11282,14 @@ homburg1.cleverpush.com
 home.adnxs.com
 homeadvisor.saas.appdynamics.com
 home.app-measurement.com
+home.biztech.segment.com
 homeday.cleverpush.com
 homedepot.az1.qualtrics.com
 homedepotca.demdex.net
 homedepot.demdex.net
 homer.frontend.ams2.m6r.eu
 homeroomab.demdex.net
+home.segment.com
 home.stage.justpremium.com
 home.urban-media.com
 hondaaustralia.demdex.net
@@ -11283,6 +11399,7 @@ hubert-online.ch.102.112.2o7.net
 hubert-versand.de.102.112.2o7.net
 hubie2.guj.de
 hubie.guj.de
+hud2.staging.chartbeat.com
 hudsonbaycompany.demdex.net
 hudson.newrelic.com
 hue.m6r.eu
@@ -11330,6 +11447,7 @@ ibeu2.mookie1.com
 ibeu.mookie1.com
 ib.fra1.adnxs.com
 ib.lax1.adnxs.com
+ibm-analytics-ghqv9xfler.xid.segment.com
 ib.mookie1.com
 ibmtriggers.wfxtriggers.com
 ib.nym2.adnxs.com
@@ -11396,6 +11514,7 @@ idstat.taboola.com
 id-survey-dibayar.cleverpush.com
 idsync.frontend-preprod.weborama.fr
 idsync.frontend.weborama.fr
+idsync.segment.com
 idsync.weborama.fr
 id-xlwin.cleverpush.com
 id.yieldlab.net
@@ -11508,6 +11627,7 @@ imagesync-sg.pubmatic.com
 imagesync-vac.pubmatic.com
 imagesync-va.pubmatic.com
 images.zemanta.com
+imagetesting.chartbeat.com
 image.urban-media.com
 imap4.adnxs.com
 imap.adscale.de
@@ -11574,6 +11694,7 @@ in.ads.justpremium.com
 inaporc.solution.weborama.fr
 inapps.appsflyer.com
 inbound.adnxs.com
+inbound.segment.com
 inc.co1.qualtrics.com
 inclusioninc360.qualtrics.com
 incoming.telemetry.mozilla.orgkh.google.comlax1-ib.adnxs.com
@@ -11721,6 +11842,7 @@ int.aktion.guj.de
 int-api.register.criteo.com
 int.appdynamics.com
 integ.aws.xiti.com
+integral-n6u9eavw38.xid.segment.com
 integrate.criteo.com
 integration-asa-api.aws.rubiconproject.com
 integration.newrelic.com
@@ -11784,6 +11906,7 @@ investors.applovin.com
 investorshub-d.openx.net
 investors.pubmatic.com
 investorverlagde.cleverpush.com
+invisionapp-vaq807hcqi.xid.segment.com
 involved-d.openx.net
 in.weborama.fr
 iocnt.net
@@ -12074,6 +12197,7 @@ jumper-classic-vi.guj.de
 jumper-ng-vi.guj.de
 junemedia-d.openx.net
 junkeemedia.demdex.net
+juno.segment.com
 junxure.saas.appdynamics.com
 junxuretest.saas.appdynamics.com
 jupitershopchannelcoltd.d1.sc.omtrdc.net
@@ -12372,6 +12496,7 @@ klrgzgb0w3.kameleoon.eu
 kma.demdex.net
 kmy4p3d1n4.kameleoon.eu
 knipex.containers.piwik.pro
+knobs.segment.com
 knuddels.ivwbox.de
 kobeshimbun-usd-d.openx.net
 kobo.ca1.qualtrics.com
@@ -12426,6 +12551,10 @@ k-tinga2.zd.guj.de
 ktxtr.com
 kubcache-europec.pubmatic.com
 kubcache-europe.pubmatic.com
+kubeapply.ap1.segment.com
+kubeapply.au1.segment.com
+kubeapply.eu1.segment.com
+kubeapply.eu2.segment.com
 kube.cleverpush.com
 kubernetes.app-measurement.com
 kubotasystems-trial.saas.appdynamics.com
@@ -12707,6 +12836,8 @@ lcsc.co1.qualtrics.com
 ld1.criteo.com
 ld2.criteo.com
 ld2.widget.criteo.com
+ldap.corp.segment.com
+ldap.segment.com
 ldaps.taboola.com
 ldap.taboola.com
 ldcu.ca.102.112.2o7.net
@@ -12715,6 +12846,7 @@ ldprodif.guj.de
 ldsbc.co1.qualtrics.com
 lds.hb.omtrdc.net
 ldtestif.guj.de
+leaderboard.segment.com
 leadersnet.cleverpush.com
 lean.clarity.ms
 learautodiscover.service.newrelic.com
@@ -12745,6 +12877,7 @@ learn-new.optimizely.com
 learn.newrelic.com
 learn.optimizely.com
 learn-ra.newrelic.com
+learn.segment.com
 learn.sentry.io
 learn.service.newrelic.com
 learn-staging2.appdynamics.com
@@ -12872,6 +13005,7 @@ linkpulse-test.plista.com
 linkpulse-us.plista.com
 linkpulse-us-test.plista.com
 links.applovin.com
+link.segment.com
 linkshare.com.102.112.2o7.net
 linternaute.digidip.net
 linternautefr.digidip.net
@@ -13057,6 +13191,7 @@ logc89.xiti.com
 logc8.xiti.com
 logc991.xiti.com
 logc9.xiti.com
+log.chartbeat.com
 log.clarity.ms
 log.client.optimizely.com
 logdev.xiti.com
@@ -13316,6 +13451,7 @@ lpage.piwik.pro
 lp.appsflyer.com
 lp-bap.uimserv.net
 lp-bs.uimserv.net
+lp.chartbeat.com
 lp.cleverpush.com
 lpga.d1.sc.omtrdc.net
 lpo.optimizely.com
@@ -13421,6 +13557,7 @@ m95j99q8og.kameleoon.eu
 ma.ads.justpremium.com
 maafcampagne2.solution.weborama.fr
 maastrichtuniversity.eu.qualtrics.com
+mab.chartbeat.com
 mabping.chartbeat.net
 macdaddy.loggly.com
 mackenzie.saas.appdynamics.com
@@ -13440,12 +13577,14 @@ madvertise-d.openx.net
 maennersache.cleverpush.com
 maerkischeoderzeitung.cleverpush.com
 mafo.adalliance.io
+maf-sandbox-70ch5bkawf.xid.segment.com
 magath.guj.de
 magazine-api.taboola.com
 magento1.wisepops.com
 magento2.wisepops.com
 maggie.frontend.ams2.m6r.eu
 magimania.digidip.net
+maglev.segment.com
 magnaeum.saas.appdynamics.com
 magnaprod.saas.appdynamics.com
 magnesiumoel.cleverpush.com
@@ -13492,6 +13631,7 @@ mail.appsflyer.com
 mail.a.sentry.io
 mailatl.tritondigital.com
 mail.careers.appsflyer.com
+mail.chartbeat.com
 mail.cleverpush.com
 mail-client-pptp.guj.de
 mail.content.appsflyer.com
@@ -13596,6 +13736,7 @@ mandarinorientalmanagementusa.demdex.net
 mandatumlife.d1.sc.omtrdc.net
 mandm.mc.tritondigital.com
 manntv.cleverpush.com
+manny.staging.chartbeat.com
 manolo.digidip.net
 manpower1.solution.weborama.fr
 mantanweb-d.openx.net
@@ -13675,6 +13816,7 @@ mastercontrolmcusglobal1.112.2o7.net
 masterdata.adform.com
 masterpixellist-tp00.everesttech.net
 master.saas.appdynamics.com
+master.staging.chartbeat.com
 masterworks.piwik.pro
 mastodon-a-01.hadoop.ams2.m6r.eu
 mastodon-a-02.hadoop.ams2.m6r.eu
@@ -13795,6 +13937,7 @@ mcdp-nldc1.outbrain.com
 mcdp-nydc1.outbrain.com
 mcdp.outbrain.com
 mcdp-sadc1.outbrain.com
+m.chartbeat.com
 m.choicerewards.ca.102.112.2o7.net
 mckinsey1.co1.qualtrics.com
 mclient2.ivwbox.de
@@ -13920,6 +14063,8 @@ messergroup.piwik.pro
 messiah.qualtrics.com
 me.taboola.com
 metacafe-d.openx.net
+metadata.segment.com
+metamapper.biztech.segment.com
 meta.openx.net
 metaways1.guj.de
 metaways2.guj.de
@@ -14351,6 +14496,7 @@ mylittlepony.customlinks.appsflyer.com
 myntra.d1.sc.omtrdc.net
 myntra.demdex.net
 myob.co.nz.102.112.2o7.net
+myob-cwllwgul22.xid.segment.com
 myob.demdex.net
 my.outbrain.com
 mypg.cleverpush.com
@@ -14402,6 +14548,7 @@ na-east-creative-manager.tritondigital.com
 na-east-ondemand-impression.tritondigital.com
 nafsa.d1.sc.omtrdc.net
 na-gateway.supersonicads.com
+nagios.chartbeat.com
 nagios.chartbeat.net
 nagios.criteo.com
 nagios.m6r.eu
@@ -14472,6 +14619,7 @@ nbcuni.demdex.net
 nbe-api.optimizely.com
 nbsbm2506.demdex.net
 nbugini-1.demdex.net
+ncc.staging.chartbeat.com
 nclafrd.eu.qualtrics.com
 ncm-fw1-c-dev.doubleclick.net
 ncm-gw2-p-vpn.doubleclick.net
@@ -14504,6 +14652,7 @@ nero.guj.de
 nerva-vi.guj.de
 nervora-d.openx.net
 nessus.prod.optimizely.com
+nessus.segment.com
 nestleusa.co1.qualtrics.com
 netadbemdigitalmediarebootprod2.112.2o7.net
 net-admin1.guj.de
@@ -14561,6 +14710,7 @@ news.app-measurement.com
 newsclic.ivwbox.de
 newscorpau.demdex.net
 newscorpau.hb.omtrdc.net
+newscorpaus-ldoiutcc0h.xid.segment.com
 news.criteo.com
 news.cxad.cxense.com
 newsde.cleverpush.com
@@ -14701,6 +14851,7 @@ niagara.guj.de
 niagara.xiti.com
 nib.saas.appdynamics.com
 nice.cleverpush.com
+nick.staging.chartbeat.com
 nicolascousin.loggly.com
 nieren.containers.piwik.pro
 nieren.piwik.pro
@@ -14788,6 +14939,7 @@ northropgrumman360.qualtrics.com
 northstartravelmedia.d1.sc.omtrdc.net
 notesofberlin.digidip.net
 notification-itx5.smartadserver.com
+notifications.chartbeat.com
 notification.smartadserver.com
 notify.dropbox.comnym1-ib.adnxs.com
 notifying-eu1-failover.ams2.m6r.eu
@@ -14884,6 +15036,7 @@ ns.ivwbox.de
 nsnl1.solution.weborama.fr
 nsobmgmt.outbrain.com
 nso-radar.guj.de
+nsq.segment.com
 nstennis.ivwbox.de
 ns.urban-media.com
 nt.criteo.com
@@ -15013,6 +15166,7 @@ o198669.ingest.sentry.io
 o1.email.applovin.com
 o1.email.optimizely.com
 o1.email.rubiconproject.com
+o1.email.segment.com
 o1gbw4vvne.kameleoon.eu
 o1.my.sentry.io
 o1.ptr2314.outbrain.com
@@ -15164,10 +15318,12 @@ oa.saas.appdynamics.com
 oas-c17.adnxs.com
 oas-c18.adnxs.com
 oas-eu1.adnxs.com
+oauth.segment.com
 oazmp55xc9.kameleoon.eu
 oba.uimserv.net
 obelix.zd.guj.de
 obica.solution.weborama.fr
+objects.segment.com
 observer2.ps.guj.de
 observermedia-d.openx.net
 observer.ps.guj.de
@@ -15223,6 +15379,7 @@ office.zemanta.com
 offresasaisir.digidip.net
 ogaabkhpoash.everesttech.net
 ogate.guj.de
+og-images.segment.com
 ogs-01.loggly.com
 ogs1407.xiti.com
 ohsu.ca1.qualtrics.com
@@ -15330,6 +15487,7 @@ openid.guj.de
 openmondo.piwik.pro
 openrtb.everesttech.net
 openrtb-trans-va5.everesttech.net
+open.segment.com
 open.sentry.io
 opensmile-d.openx.net
 opensource.newrelic.com
@@ -15409,6 +15567,7 @@ origin-mc9v2ab8rxrcctl3utckd3bk.applovin.com
 origin-stage-app.scorecardresearch.com
 origin-t7tlfvg4ax8edkr6r4muvojo.applovin.com
 origin-ui.pubmatic.com
+orion.segment.com
 orp.plista.com
 ortb.yieldlab.net
 or-usa02.omnitagjs.com
@@ -15482,6 +15641,7 @@ owenscorning.d1.sc.omtrdc.net
 ow-gateway.supersonicads.com
 ow-k8s-ty6.pubmatic.com
 ow-lhrc.pubmatic.com
+ownership.segment.com
 ow-sgc.pubmatic.com
 ow-sg.pubmatic.com
 ow-vac.pubmatic.com
@@ -15650,6 +15810,7 @@ p.ads.smartadserver.com
 pagead46.i.doubleclick.net
 pageone-d.openx.net
 pageonli-relay.iocnt.net
+pages.chartbeat.com
 pages.qualtrics.com
 pages.taboola.com
 pagoda.com.102.112.2o7.net
@@ -15739,6 +15900,7 @@ par.service.criteo.net
 particle.appdynamics.com
 partnerad.l.doubleclick.net
 partner-admin-console.newrelic.com
+partner.chartbeat.com
 partnerenvone.d1.sc.omtrdc.net
 partnerhub.appdynamics.com
 partnerrudishumpert.sbx1.2o7.net
@@ -15750,6 +15912,7 @@ partnerships.adcolony.com
 partnerships.amplitude.com
 partners.piwik.pro
 partners.qualtrics.com
+partners.segment.com
 partners-staging.supersonic.com
 partners.supersonic.com
 partners.wfxtriggers.com
@@ -15874,6 +16037,7 @@ permission-proxy-gmxnet.uimserv.net
 permission-proxy-webde.uimserv.net
 permobads22000.pubmatic.com
 perscdn.taboola.com
+persist.biztech.segment.com
 persoenlich.cleverpush.com
 personalization.cxense.com
 pertest-xcellerate.plista.com
@@ -16429,6 +16593,7 @@ plasticsnewseurope.com.102.112.2o7.net
 plataforma.cxad.cxense.com
 platform-api.newrelic.com
 platform-api-reporting.supersonic.com
+platform-api.segment.com
 platform-api.supersonic.com
 platform-beta.rubiconproject.com
 platform-dev.rubiconproject.com
@@ -16439,6 +16604,7 @@ platform-static.rubiconproject.com
 platform.supersonicads.com
 platform.supersonic.com
 platform.yieldlove.com
+playbook.segment.com
 playboy.cleverpush.com
 playbuzzltd-d.openx.net
 player.staging.tritondigital.com
@@ -16530,6 +16696,7 @@ pocketpc.digidip.net
 pocone.app.guj.de
 pocone.guj.de
 poc-web-1.sensic.net
+podcastfeeds.segment.com
 pods.saas.appdynamics.com
 pointloma.co1.qualtrics.com
 polaris.cxsearch.cxense.com
@@ -16606,6 +16773,7 @@ postmedia.demdex.net
 postmedia-d.openx.net
 postmedia.hb.omtrdc.net
 post.test.guj.de
+post.update.chartbeat.com
 post.update.criteo.com
 post.update.ib.adnxs.com
 post.update.indexww.com
@@ -16626,6 +16794,7 @@ ppms.piwik.pro
 ppp16.adnxs.com
 pp.piwik.pro
 ppptmstr01.digidip.net
+pprof.segment.com
 ppsk12.co1.qualtrics.com
 pptm-dev01.piwik.pro
 pptm-dev02.piwik.pro
@@ -16701,6 +16870,7 @@ premium.mookie1.com
 premium.weborama.fr
 prenatalvipclub.solution.weborama.fr
 preprod.aws.xiti.com
+preprod.chartbeat.com
 preprod.criteo.com
 preprod.criteo.net
 preprod.tritondigital.com
@@ -16723,6 +16893,7 @@ preview.justpremium.com
 preview-nfs.guj.de
 preview-par.criteo.com
 preview.quantserve.com
+preview.segment.com
 preview.smartadserver.com
 preview-sv6.criteo.com
 preview.ty5.vip.prod.criteo.com
@@ -16794,8 +16965,11 @@ prod-ssp-platform.supersonic.com
 productanalyticsplaybook.amplitude.com
 production.api.adnxs.com
 production.cleverpush.com
+production.segment.com
 prod.website.piwik.pro
 pro.eu-west-1.piwik.pro
+profiles-api.segment.com
+profiles.segment.com
 profile.uimserv.net
 proflowers1.112.2o7.net
 progrexion.saas.appdynamics.com
@@ -16880,6 +17054,8 @@ publisher.yieldlove.com
 publishing.piwik.pro
 publista-d.openx.net
 publitas.loggly.com
+publixmanager.segment.com
+publix.segment.com
 publyltd-d.openx.net
 pubmatic.com
 pubqa.guj.de
@@ -16978,6 +17154,7 @@ pushschokoladenmanufaktur.cleverpush.com
 pushtillon.cleverpush.com
 putoholicari.digidip.net
 putoholicarirtl.digidip.net
+puzzles.segment.com
 pvc.taboola.com
 pvoy75875j.kameleoon.eu
 pv-tm.everesttech.net
@@ -17000,6 +17177,7 @@ py.cdp.df-srv.de
 p.yieldlab.net
 pyoochhcue.kameleoon.eu
 pyostilch5.kameleoon.eu
+pypi.biztech.segment.com
 pythagore.demdex.net
 pythagore.xiti.com
 pyver.containers.piwik.pro
@@ -17065,6 +17243,7 @@ qualtricssalesops.ca1.qualtrics.com
 qualtricsus2.co1.qualtrics.com
 quantserve.com
 quarantine51.qualtrics.com
+quasar.segment.com
 queensu.ca1.qualtrics.com
 querying.optimizely.com
 query.optimizely.com
@@ -17092,6 +17271,7 @@ qxm.co1.qualtrics.com
 qz7p2l5d8c.kameleoon.eu
 qzogkk55hj.kameleoon.eu
 r0ljlru609.kameleoon.eu
+r1122226.segment.com
 r1-euc1.zemanta.com
 r1.meetrics.de
 r1-usc1.zemanta.com
@@ -17172,6 +17352,7 @@ rat.sv.us.criteo.com
 rat.ty5.vip.prod.criteo.com
 rat.va1.vip.prod.criteo.com
 rat.va.us.criteo.com
+raul.staging.chartbeat.com
 r-aus1.contentsquare.net
 ravishlydotcom.piwik.pro
 rawdata.appsflyer.com
@@ -17374,7 +17555,10 @@ repaire.digidip.net
 reparalia.solution.weborama.fr
 reper-dev.dz.optimizely.com
 reper.dz.optimizely.com
+replay-check.segment.com
 replay.outbrain.com
+replay.segment.com
+replays.segment.com
 repo.360yield.com
 repo-new.os.guj.de
 repo.newrelic.com
@@ -17428,6 +17612,7 @@ res.gbc.criteo.com
 resmed.saas.appdynamics.com
 resolutionmedia.solution.weborama.fr
 resources.adtilt.com
+resources.chartbeat.com
 resources.newrelic.com
 resources.rubiconproject.com
 resources-staging.rubiconproject.com
@@ -17438,6 +17623,7 @@ retailmedia.criteo.com
 retailmedia-static.criteo.com
 retailmenot.digidip.net
 retention.appsflyer.com
+retool.segment.com
 retromotiondev.cleverpush.com
 reuters.gscontxt.net
 reuters-uk.gscontxt.net
@@ -17529,6 +17715,7 @@ rohstoffaktientipps.cleverpush.com
 r-old.uimserv.net
 rolexrankingslivev2.112.2o7.net
 r.omnitagjs.com
+ron.staging.chartbeat.com
 roomandboard.hb.omtrdc.net
 roomidocrm.guj.de
 root.app-measurement.com
@@ -17711,6 +17898,7 @@ runnersworld.cleverpush.com
 runspot4.tritondigital.com
 rutebanken.piwik.pro
 rutgers.ca1.qualtrics.com
+ruxin.staging.chartbeat.com
 ru.xs.mookie1.com
 rv1488euw-tm.everesttech.net
 rv1488use-tm.everesttech.net
@@ -17789,6 +17977,7 @@ s381.meetrics.net
 s382.meetrics.net
 s383.meetrics.net
 s385.meetrics.net
+s3logs.segment.com
 s400.meetrics.net
 s403.meetrics.net
 s407.meetrics.net
@@ -17864,6 +18053,7 @@ salesloft.zemanta.com
 salesmanager.doubleclick.net
 sales.outbrain.com
 sales.piwik.pro
+sales.segment.com
 salesthumbs.zemanta.com
 saltriver.saas.appdynamics.com
 saltsolutions.cleverpush.com
@@ -17953,6 +18143,7 @@ satest.scorecardresearch.com
 satis.plista.com
 sa-tst.scorecardresearch.com
 saturn.saas.appdynamics.com
+sauron.segment.com
 savannah.zd.guj.de
 sawyer14.saas.appdynamics.com
 saxobank.hb.omtrdc.net
@@ -18096,6 +18287,7 @@ seesaa-d.openx.net
 se.eu.qualtrics.com
 segapi.quantserve.com
 segdemo.optimizely.com
+segment-lgj4aajfn4.xid.segment.com
 segment.quantserve.com
 segments.dmp.emetriq.de
 segments.xplosion.de
@@ -18160,6 +18352,7 @@ service-test.guj.de
 service-training.guj.de
 sess1.adnxs.com
 se-synth.demo.appdynamics.com
+set.segment.com
 settings.outbrain.com
 settings.tritondigital.com
 setupad-d.openx.net
@@ -18235,6 +18428,7 @@ sh12.kvm.xplosion.de
 shaneco.com.102.112.2o7.net
 sharead.adcolony.com
 sharecare.iad1.qualtrics.com
+share.chartbeat.com
 sharepoint-analytics-download.matomo.org
 share.weborama.fr
 sharing.criteo.com
@@ -18406,7 +18600,9 @@ site.adform.com
 siteintercept.qualtrics.com
 sitelist.justpremium.com
 sites.a.sentry.io
+sites.chartbeat.com
 sitesearch.cxense.com
+site.segment.com
 sites.eltern.ibl.guj.de
 sites.eltint.guj.de
 sites.newrelic.com
@@ -18576,6 +18772,7 @@ sorgenia.demdex.net
 soskinderdoerfer.piwik.pro
 soundhound-d.openx.net
 source-ce566684bc.iocnt.net
+sourcegraph.segment.com
 sourcemedia-d.openx.net
 sources.dmp.emetriq.de
 s.outbrain.com
@@ -18591,7 +18788,9 @@ sparheld.digidip.net
 sparkpeople-d.openx.net
 sparslovenia.demdex.net
 spbdean.loggly.com
+spec.segment.com
 specs.justpremium.com
+specs.segment.com
 speedousa.com.102.112.2o7.net
 speiseplanapp.guj.de
 spektrum.cleverpush.com
@@ -18689,6 +18888,7 @@ spug-sv3.pubmatic.com
 spug-vac.pubmatic.com
 spug-va.pubmatic.com
 spv-nydc1.outbrain.com
+sql.segment.com
 sqsbbn001.ioam.de
 sqsbbn002.ioam.de
 sqsbbn003.ioam.de
@@ -18816,6 +19016,7 @@ sso-eu-west-1.piwik.pro
 sso.guj.de
 sso-jwk-http.criteo.net
 sso.piwik.pro
+sso.segment.com
 sso.tritondigital.com
 sso-us-east-1.piwik.pro
 ssp-csync.smartadserver.com
@@ -18911,6 +19112,7 @@ staging-beacon-1.newrelic.com
 staging-beacon-2.newrelic.com
 staging-beacon-3.newrelic.com
 staging-beacon.newrelic.com
+staging.chartbeat.com
 staging.chartbeat.net
 staging.clarity.ms
 staging.cleverpush.com
@@ -18995,9 +19197,11 @@ start.digidip.net
 start.insights.emetriq.de
 startribune-d.openx.net
 start.sentry.io
+startups.biztech.segment.com
 starwoodhotels.102.112.2o7.net
 stas.outbrain.com
 static2cdn1.videe.tvnym2.ib.adnxs.com
+static2.chartbeat.com
 static2.outbrain.com
 static2-stg.outbrain.com
 static3.outbrain.com
@@ -19008,9 +19212,11 @@ static.am5.vip.prod.criteo.net
 static.amplitude.com
 static-at.plista.com
 static-au.plista.com
+static.blog.chartbeat.com
 static-cache.guj.de
 static-ca.plista.com
 static-ch.plista.com
+static-cms.chartbeat.com
 static-cn.plista.com
 static.criteo.com
 static.criteo.net
@@ -19054,6 +19260,7 @@ static-pl.plista.com
 static-pt.plista.com
 static-ro.plista.com
 static-ru.plista.com
+static.segment.com
 static-se.plista.com
 static-sg.plista.com
 static-sk.plista.com
@@ -19070,6 +19277,7 @@ static.trbo.com
 static-tr.plista.com
 static-tw.plista.com
 static.ty5.vip.prod.criteo.net
+static-uk.chartbeat.com
 static-uk.plista.com
 static-upload.appdynamics.com
 static.urban-media.com
@@ -19097,6 +19305,7 @@ statsiq.co1.qualtrics.com
 stats.justpremium.com
 stats.l.doubleclick.net
 stats.rubiconproject.com
+stats.segment.com
 stats.supersonicads.com
 stats.support.appsflyer.com
 stats-tm.everesttech.net
@@ -19106,6 +19315,7 @@ stats.zemanta.com
 status.amplitude.com
 status.appsflyer.com
 statuscake.zemanta.com
+status.chartbeat.com
 status.cleverpush.com
 statuscode.guj.de
 status.criteo.com
@@ -19118,6 +19328,7 @@ status.outbrain.com
 statuspage.smartadserver.com
 status.pubmatic.com
 status.rubiconproject.com
+status.segment.com
 status.sentry.io
 status.tritondigital.com
 status.wisepops.com
@@ -19152,6 +19363,7 @@ steirischespezialitaeten.cleverpush.com
 stellarblue.piwik.pro
 stenlund.loggly.com
 step-dk.gscontxt.net
+stephanie.staging.chartbeat.com
 stepstoneb2bbe.widget.criteo.com
 stepstone.d1.sc.omtrdc.net
 sterngutscheine.cleverpush.com
@@ -19274,6 +19486,7 @@ sunnyvale1.criteo.com
 sunnyvale2.criteo.com
 sunnyvale.criteo.com
 sunnyvale-old.criteo.com
+s.update.chartbeat.com
 s.update.criteo.com
 s.update.ib.adnxs.com
 s.update.indexww.com
@@ -19305,6 +19518,7 @@ support-autodiscover.service.newrelic.com
 supportautodiscover.service.newrelic.com
 support-beta.newrelic.com
 support.bunchbox.co
+support.chartbeat.com
 support.criteo.com
 support.cxense.com
 support-de1.cxense.com
@@ -19431,6 +19645,7 @@ symbol-collector.services.sentry.io
 sympl.loggly.com
 sympmsnp12.112.2o7.net
 synacor.hb.omtrdc.net
+synapse.segment.com
 syncf-tm.everesttech.net
 synchronossdocker.saas.appdynamics.com
 synchronysurvey.az1.qualtrics.com
@@ -19585,6 +19800,7 @@ tdc.d1.sc.omtrdc.net
 td-click-haproxy.supersonicads.com
 td-click.sonic-us.supersonicads.com
 t-dev.contentsquare.net
+te2e.segment.com
 tea.co1.qualtrics.com
 teads.tv
 teamcity.adform.com
@@ -19694,6 +19910,7 @@ testas.adform.com
 testberichte.cleverpush.com
 testblogs.outbrain.com
 testcddc.xiti.com
+test.chartbeat.com
 test-cloudflare.criteo.com
 testclo.xiti.com
 testcollbgp.xiti.com
@@ -19833,6 +20050,7 @@ tibco.saas.appdynamics.com
 ticket.exactag.com
 ticket.stroeerdigitalgroup.de
 ticktoc.saas.appdynamics.com
+tiered-billing.segment.com
 tifbs.net
 tiffany.ie.102.112.2o7.net
 tila.demdex.net
@@ -19843,6 +20061,7 @@ tilt.va1.vip.prod.criteo.com
 timebus2.112.2o7.net
 timeinc-d.openx.net
 timeinc.trc.taboola.com
+time-inc-zwpajagg7p.xid.segment.com
 timera-d.openx.net
 timetospa.com.102.112.2o7.net
 tim.hb.omtrdc.net
@@ -19936,6 +20155,7 @@ toad-geo-tyo.omtrdc.net
 toad-geo-va.omtrdc.net
 to-api.omnitagjs.com
 toastmasters.rubiconproject.com
+tobe.staging.chartbeat.com
 todaymediainc-d.openx.net
 toggles.tritondigital.com
 toggo.ivwbox.de
@@ -19951,6 +20171,7 @@ tomsguide.digidip.net
 tomshardware-de.digidip.net
 tomshardware.digidip.net
 tomshw.digidip.net
+tom.staging.chartbeat.com
 tom-test.vgwort.de
 tom-uat.vgwort.de
 tom.vgwort.de
@@ -19960,10 +20181,13 @@ t-online.met.vgwort.de
 toolbox.adscale.de
 toolbox-demand.internal.outbrain.com
 toolbox.internal.outbrain.com
+tooling-faq.segment.com
+tooling.us-west-2.segment.com
 tools.adcolony.com
 tools.adform.com
 tools.adscale.de
 tools.pubmatic.com
+tools.segment.com
 tools.teads.tv
 tools-tracking.adform.com
 top.criteo.com
@@ -19972,6 +20196,7 @@ topline.co1.qualtrics.com
 tor-br1-c.doubleclick.net
 tor-br2-c.doubleclick.net
 t-origin.teads.tv
+toro-investimentos-1dahqprahy.xid.segment.com
 toronto.xiti.com
 total-media-d.openx.net
 totalru2.solution.weborama.fr
@@ -20105,7 +20330,9 @@ trctest.taboola.com
 trc-tls13.taboola.com
 trc-yjp.taboola.com
 trdigital.iad1.qualtrics.com
+trebdocs.segment.com
 trebelmusic-d.openx.net
+trebuchet.segment.com
 treecom.demdex.net
 trends.taboola.com
 tres-click.digidip.net
@@ -20210,6 +20437,7 @@ tulane.co1.qualtrics.com
 tumiholdings.hb.omtrdc.net
 tuneclubde.widget.criteo.com
 tunnel.m6r.eu
+t.update.chartbeat.com
 t.update.criteo.com
 t.update.ib.adnxs.com
 t.update.indexww.com
@@ -20261,6 +20489,7 @@ tw-cr1-p-ext.doubleclick.net
 twentyfourhourcampfire-d.openx.net
 tw.gmads.mookie1.com
 tw-gmtdmp.mookie1.com
+twistlock.segment.com
 twmonstscope01.doubleclick.net
 two.newrelic.com
 tww.loggly.com
@@ -20478,6 +20707,7 @@ university.corp.outbrain.com
 universityofcanberra.demdex.net
 universityoflouisville.saas.appdynamics.com
 universityofwashington.mc.tritondigital.com
+university.segment.com
 university.smartadserver.com
 univision-d.openx.net
 unlff7jz05.kameleoon.eu
@@ -20499,6 +20729,7 @@ uottawapsy.az1.qualtrics.com
 u.outbrain.com
 upc.co1.qualtrics.com
 upcschweiz.fra1.qualtrics.com
+update-billing.segment.com
 update.ib.adnxs.com
 update.indexww.com
 update.rose.pubmatic.com
@@ -20507,6 +20738,7 @@ update.tritondigital.com
 upela.solution.weborama.fr
 upenn.co1.qualtrics.com
 upennira.co1.qualtrics.com
+upfaithandfamily-nilywnfcvs.xid.segment.com
 upgrade-script.dotmetrics.net
 up-hk2.everesttech.net
 upload.adnxs.com
@@ -20557,6 +20789,7 @@ ureka-d.openx.net
 uriuxn.ca1.qualtrics.com
 url1216.criteo.com
 url1883.appsflyer.com
+url684.segment.com
 url8880.optimizely.com
 urlams1.ib.adnxs.com
 urlaubspiraten.digidip.net
@@ -20577,6 +20810,7 @@ usaa.demdex.net
 usacosentino2.solution.weborama.fr
 us-ads2.openx.net
 us.ads.justpremium.com
+usama.staging.chartbeat.com
 usana.co1.qualtrics.com
 us-api.taboola.com
 us.appdynamics.com
@@ -20763,6 +20997,7 @@ vangogh.recommender.dc19.m6r.eu
 vanity00001.vanitydomains.qualtrics.com
 vantagemedia1.d1.sc.omtrdc.net
 vantage.rubiconproject.com
+vaporwave.staging.chartbeat.com
 vapstore.cleverpush.com
 varnish-test.guj.de
 va.saas.appdynamics.com
@@ -21061,12 +21296,14 @@ vpn-am6.preprod.criteo.com
 vpn.appdynamics.com
 vpn.appsflyer.com
 vpnbag.net.guj.de
+vpn.chartbeat.com
 vpn-chiitdc1.corp.outbrain.com
 vpn.criteo.com
 vpn-da1.criteo.com
 vpn-dc.rubiconproject.com
 vpn-eng.rubiconproject.com
 vpn-eu.ktxtr.com
+vpn-fo.chartbeat.com
 vpn-fr.criteo.com
 vpn.govops.appdynamics.com
 vpn-hk5.criteo.com
@@ -21078,6 +21315,7 @@ vpn-pa4.criteo.com
 vpn-pa4.preprod.criteo.com
 vpn-par.criteo.com
 vpn.rubiconproject.com
+vpn.segment.com
 vpn.taboola.com
 vpn-test.guj.de
 vpn-test.rubiconproject.com
@@ -21383,6 +21621,9 @@ webgears.digidip.net
 webguard02.guj.de
 web-haward-vi.app.guj.de
 web-haward-vi.guj.de
+webhook-e2e.segment.com
+webhook.segment.com
+webhooks.segment.com
 webisaba-d.openx.net
 webistrano01-vi.guj.de
 webistrano02-vi.guj.de
@@ -21500,6 +21741,8 @@ which.digidip.net
 whirlpoolca.demdex.net
 whiteapartments.cleverpush.com
 whitefungus.piwik.pro
+whitelabel-apricot.xid.segment.com
+whitelabel-berry.xid.segment.com
 white.soju.openx.net
 whoareyou.outbrain.com
 whooshkaa.mc.tritondigital.com
@@ -22083,6 +22326,7 @@ www-dailyrecord-co-uk.api.omnitagjs.com
 www.d.df-srv.de
 www.de.adcolony.com
 www.dell.hb.omtrdc.net
+www.demo.segment.com
 www.derwesten.cleverpush.com
 www.devccfraacs01.guj.de
 www.developer.pubmatic.com
@@ -22195,9 +22439,13 @@ www.lamturismodemexico2016.solution.weborama.fr
 www.laola1.cleverpush.com
 www.lax1-ib.adnxs.com
 www.lb15.s400.meetrics.net
+www.ldap.corp.segment.com
+www.ldap.segment.com
 www.ldaps.taboola.com
 www.ldap.taboola.com
+www.leaderboard.segment.com
 www.lean.clarity.ms
+www.learn.segment.com
 www.linkpulse-test.plista.com
 www.live.optimizely.com
 www.lms.amplitude.com
@@ -22447,6 +22695,7 @@ xerox.demdex.net
 x.everesttech.net
 xfinity.com.102.112.2o7.net
 xgznad58v7i.proxy.teads.tv
+xid.segment.com
 xieliufz5rq.proxy.teads.tv
 xiti.com
 xjp511xjbae.proxy.teads.tv
@@ -22628,6 +22877,7 @@ zendesk1.appsflyer.com
 zendesk2.appsflyer.com
 zendesk3.appsflyer.com
 zendesk4.appsflyer.com
+zendesk-sidebar.segment.com
 zendesk-staging.optimizely.com
 zenimaxmedia.d1.sc.omtrdc.net
 zenoss.saas.appdynamics.com
@@ -22676,6 +22926,7 @@ zta.containers.piwik.pro
 zta.piwik.pro
 zukkermaedchen.digidip.net
 zumba.d1.sc.omtrdc.net
+zuora.staging.chartbeat.com
 zurichna.co1.qualtrics.com
 zvxlpf76f.kameleoon.eu
 zw179see0k.kameleoon.eu
