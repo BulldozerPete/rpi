@@ -21,6 +21,7 @@ script.ioam.de
 tagger.opecloud.com
 tags.tiqcdn.com
 test.quantcast.mgr.consensu.org
+asadcdn.com
 www.asadcdn.com
 
 # Cookies (Spiegel und Co)
@@ -43,6 +44,7 @@ tracking.overwolf.com
 
 # Github
 cdn.arkoselabs.com
+collector.githubapp.com
 
 # Google
 accounts.google.com
@@ -58,11 +60,13 @@ play.google.com
 script.google.com
 sites.google.com
 storage.cloud.google.com
+www-google-analytics.l.google.com
+www.google-analytics.com
 
 # HP Smart
 mobilesdk-us.kampyle.com
 
-# IKEA Tadrfri
+# IKEA Tradfri
 webhook.logentries.com
 
 # Link Shorteners
