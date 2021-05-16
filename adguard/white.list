@@ -11,6 +11,9 @@ mads-eu.amazon.com
 mads.amazon-adsystem.com
 mads.amazon.com
 
+# Apps
+sdk.split.io
+
 # Bild/Sport1/...
 de.ioam.de
 irqs.ioam.de
@@ -23,6 +26,7 @@ www.asadcdn.com
 # Cookies (Spiegel und Co)
 cdn.cookielaw.org
 cdn.privacy-mgmt.com
+consentcdn.cookiebot.com
 
 # Facebook
 graph.facebook.com
@@ -134,6 +138,9 @@ uim.tifbs.net
 
 # T-Online
 stats.t-online.de
+
+# TV
+events.cid.samba.tv
 
 # Twitch
 static-cdn.jtvnw.net
