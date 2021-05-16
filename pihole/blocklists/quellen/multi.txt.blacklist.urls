@@ -1,5 +1,4 @@
 ! https://adaway.org/hosts.txt
-https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
 https://dbl.oisd.nl/basic/
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 ! https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -20,7 +19,6 @@ https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 ! https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
-https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nextdns.txt
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/prigentads.txt
 ! https://someonewhocares.org/hosts/
 ! https://urlhaus.abuse.ch/downloads/hostfile/
