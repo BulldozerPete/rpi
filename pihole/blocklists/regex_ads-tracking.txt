@@ -1,3 +1,18 @@
+# ---------------------------------------------
+# Zelo*s "regex_ads-tracking" Domain-Blockliste
+# ---------------------------------------------
+# Erstellt zur rein persönlichen, privaten
+# Nutzung.
+#
+# Ergänzungsliste Werbung und Tracking 
+#
+# (Sub)Domains auf Basis der RegEx-Liste:
+# https://github.com/Zelo72/rpi/blob/master/pihole/regex/regex_ads-tracking.txt
+#
+# ---------------------------------------------
+# Falsch positive/neue Domains melden unter:
+# https://github.com/Zelo72/rpi/issues/new
+# ---------------------------------------------
 # 22700 Domains
 # ---------------------------------------------
 #
