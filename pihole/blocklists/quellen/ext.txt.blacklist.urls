@@ -21,6 +21,7 @@ https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/fake.txt
+https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nextdns.txt
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/prigentads.txt
 ! https://someonewhocares.org/hosts/
