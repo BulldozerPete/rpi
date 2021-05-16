@@ -14,11 +14,13 @@ https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains
 https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 ! https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
 https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
+! https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 ! https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 ! https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
+https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nextdns.txt
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/prigentads.txt
 ! https://someonewhocares.org/hosts/
 ! https://urlhaus.abuse.ch/downloads/hostfile/
