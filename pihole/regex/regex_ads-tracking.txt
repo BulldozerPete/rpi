@@ -18,6 +18,7 @@
 (\.|^)aticdn\.net$
 (\.|^)bf-tools\.net$
 (\.|^)bunchbox\.co$
+(\.|^)chartbeat\.com$
 (\.|^)chartbeat\.net$
 (\.|^)clarity\.ms$
 (\.|^)cleverpush\.com$
@@ -68,6 +69,8 @@
 (\.|^)quantserve\.com$
 (\.|^)rubiconproject\.com$
 (\.|^)scorecardresearch\.com$
+(\.|^)segment\.com$
+(\.|^)segment\.io$
 (\.|^)sensic\.net$
 (\.|^)sentry\.io$
 (\.|^)smartadserver\.com$
@@ -75,7 +78,7 @@
 (\.|^)stroeerdigitalgroup\.de$
 (\.|^)supersonicads\.com$
 (\.|^)supersonic\.com$
-(\.|^)s\.w\.org$
+(\.|^)s\.w.org$
 (\.|^)taboola\.com$
 (\.|^)teads\.tv$
 (\.|^)theadex\.com$
