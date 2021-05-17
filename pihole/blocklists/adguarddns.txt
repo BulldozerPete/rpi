@@ -19,7 +19,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 66510 Domains
+# 66530 Domains
 # ---------------------------------------------
 #
 0024aaaa.com
@@ -35,6 +35,7 @@
 01dbf3a452b6.com
 01fen.com
 01n2e3pac2.com
+01tn.cn
 022aifang.com
 023hysj.com
 025suyu.com
@@ -10663,6 +10664,7 @@ def-platform.net
 defpush.com
 defutohy.pro
 defyraspypuke.com
+degryrubi.com
 dehtxweiq.com
 dehuaguanyin.com
 dehua.ixinfan.com
@@ -11782,6 +11784,7 @@ ea.habitat.fr
 ea.histoiredor.com
 eailczoszdrz.com
 eaintrolled.info
+ealcrrm.cn
 ealeo.com
 ea.melijoe.com
 ea.millet.fr
@@ -12595,6 +12598,7 @@ ethereum-pocket.eu
 ethicalads.io
 ethikuma.link
 ethnarc.de
+ethnictyrosky.com
 ethn.io
 ethnio.com
 eth-pocket.com
@@ -13313,6 +13317,7 @@ ferritors.club
 ferrpictak.com
 fer-ta.com
 fertilizeranaemiaupcoming.com
+fertilizermessyshortcut.com
 fessmegilscha.info
 fessoovy.com
 festivaleradicate.com
@@ -14024,6 +14029,7 @@ fvugxwoy.com
 fw-ad.jp
 fwbntw.com
 fwccw.com
+fwnetrb.cn
 fwnowvgk.com
 fwpixel.com
 fwrrcnkzn5ik.com
@@ -21007,6 +21013,7 @@ miniye.xjts.cn
 minkatu.com
 minologyhesia.site
 minorexportshopping.com
+minoritish.online
 minormeeting.com
 minr.pw
 minsistereron.site
@@ -21837,6 +21844,7 @@ mywondertrip.com
 myzk1.com
 mz28ismn.com
 mzbb8872.cn
+mzcs65562.cn
 mzirmall.com
 mzol7lbm.com
 mzvwhksbwnj.com
@@ -27158,6 +27166,7 @@ rockyou.net
 rocli.ru
 rodeopolice.com
 roduster.com
+roewnand.biz
 roeye.com
 rofessiveco.top
 rofhathe.com
@@ -30859,6 +30868,7 @@ tdain.com
 tda.io
 tdayi.com
 tdblazing.com
+tdbwgrm.cn
 tdeilxkjxgdedb.com
 td-everest.biz
 t.dgm-au.com
@@ -35278,6 +35288,7 @@ www.0127538a552.com
 www.01dbf3a452b6.com
 www.01fen.com
 www.01n2e3pac2.com
+www.01tn.cn
 www.022aifang.com
 www.023hysj.com
 www.025suyu.com
@@ -43169,6 +43180,7 @@ www.def-platform.net
 www.defpush.com
 www.defutohy.pro
 www.defyraspypuke.com
+www.degryrubi.com
 www.dehtxweiq.com
 www.dehuaguanyin.com
 www.dehydratedpredestinationplenty.com
@@ -44053,6 +44065,7 @@ www.eagernessrationalize.com
 www.eagleapi.io
 www.eailczoszdrz.com
 www.eaintrolled.info
+www.ealcrrm.cn
 www.ealeo.com
 www.eanalyzer.de
 www.eaqci.com
@@ -44763,6 +44776,7 @@ www.ethereum-pocket.eu
 www.ethicalads.io
 www.ethikuma.link
 www.ethnarc.de
+www.ethnictyrosky.com
 www.ethn.io
 www.ethnio.com
 www.eth-pocket.com
@@ -45341,6 +45355,7 @@ www.ferritors.club
 www.ferrpictak.com
 www.fer-ta.com
 www.fertilizeranaemiaupcoming.com
+www.fertilizermessyshortcut.com
 www.fessmegilscha.info
 www.fessoovy.com
 www.festivaleradicate.com
@@ -45994,6 +46009,7 @@ www.fvugxwoy.com
 www.fw-ad.jp
 www.fwbntw.com
 www.fwccw.com
+www.fwnetrb.cn
 www.fwnowvgk.com
 www.fwpixel.com
 www.fwrrcnkzn5ik.com
@@ -51892,6 +51908,7 @@ www.ministsentr.club
 www.minkatu.com
 www.minologyhesia.site
 www.minorexportshopping.com
+www.minoritish.online
 www.minormeeting.com
 www.minr.pw
 www.minsistereron.site
@@ -52603,6 +52620,7 @@ www.mywondertrip.com
 www.myzk1.com
 www.mz28ismn.com
 www.mzbb8872.cn
+www.mzcs65562.cn
 www.mzirmall.com
 www.mzol7lbm.com
 www.mzvwhksbwnj.com
@@ -57277,6 +57295,7 @@ www.rockyou.net
 www.rocli.ru
 www.rodeopolice.com
 www.roduster.com
+www.roewnand.biz
 www.roeye.com
 www.rofessiveco.top
 www.rofhathe.com
@@ -60033,6 +60052,7 @@ www.tdain.com
 www.tda.io
 www.tdayi.com
 www.tdblazing.com
+www.tdbwgrm.cn
 www.tdeilxkjxgdedb.com
 www.td-everest.biz
 www.tdmd.us

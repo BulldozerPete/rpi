@@ -17,7 +17,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 49940 Domains
+# 49941 Domains
 # ---------------------------------------------
 #
 006a039c957c142bb.com
@@ -3026,6 +3026,7 @@ analytics.convertlanguage.com
 analytics.cynapse.com
 analytics.datahc.com
 analytics.data.lloydsbankinggroup.com
+analytics.designspiration.com
 analytics.developer.riotgames.com
 analytics.dev.htmedia.in
 analytics.dev.springboardvideo.com
