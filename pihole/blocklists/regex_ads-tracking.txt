@@ -13,7 +13,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 20315 Domains
+# 20391 Domains
 # ---------------------------------------------
 #
 000000000.fls.doubleclick.net
@@ -2475,6 +2475,7 @@ adpone-d.openx.net
 adppe.saas.appdynamics.com
 ad-preview.plista.com
 adpreview.plista.com
+adproxy.uimserv.net
 adpsj.ssl.d1.sc.omtrdc.net
 adrevenue.appsflyer.com
 adrian.domanski.loggly.com
@@ -2546,6 +2547,7 @@ ads.sv.us.criteo.com
 ads.taboola.com
 adstax-cdn.adrtx.net
 adstax-match.adrtx.net
+adstax-match-proxy.adrtx.net
 ads.teads.tv
 adstxt.adnxs.com
 ads.urban-media.com
@@ -3006,6 +3008,10 @@ apa30.cxense.com
 apa31.cxense.com
 apa32.cxense.com
 apa33.cxense.com
+apac1-proxy.adnxs.com
+apac2-proxy.adnxs.com
+apac3-proxy.adnxs.com
+apac4-proxy.adnxs.com
 apac-access.taboola.com
 apac.doubleclick.net
 apac-ondemand-impression.tritondigital.com
@@ -3085,6 +3091,7 @@ api.outbrain.com
 api.par.vip.prod.criteo.com
 api.plista.com
 api.prod.optimizely.com
+apiproxy-internal.chartbeat.net
 api.pubmatic.com
 api.qualtrics.com
 api.rc-app.optimizely.com
@@ -3455,6 +3462,9 @@ aub-ipsec-04.preprod.weborama.fr
 aub-ipsec-04.weborama.fr
 aub-kube-10.weborama.fr
 aub-ntp-01.weborama.fr
+aub-proxy-01-preprod.weborama.fr
+aub-proxy-01.weborama.fr
+aub-proxy-02-preprod.weborama.fr
 aub-syslog-01.weborama.fr
 auburn.ca1.qualtrics.com
 aub-weborama-hr-01.weborama.fr
@@ -4094,6 +4104,7 @@ backup1.saas.appdynamics.com
 backup.cloud-nl.piwik.pro
 ba.demdex.net
 badger.outbrain.com
+badische-zeitung-reverse-proxy.transmatico.com
 b.adnxs.com
 baesystems.loggly.com
 bag-guj-link.guj.de
@@ -4559,6 +4570,7 @@ br-gmtdmp.mookie1.com
 bri2.nfs.svc.guj.de
 br-ice.360yield.com
 bricodepot2.solution.weborama.fr
+brightcove-video-proxy.guj.de
 brigitte.met.vgwort.de
 bri.nfs.svc.guj.de
 brisa.demdex.net
@@ -5037,6 +5049,8 @@ cf.adform.com
 cfengine.nym1.adnxs.com
 cf.justpremium.com
 cfm56.com.102.112.2o7.net
+cf-proxy-prd2a.newrelic.com
+cf-proxy-stg2a.newrelic.com
 cf-track.pubmatic.com
 cfwz.customlinks.appsflyer.com
 cgastrategy.eu.qualtrics.com
@@ -5210,6 +5224,7 @@ click-dk.plista.com
 click.e.outbrain.com
 click-fi.plista.com
 clickfraudhero.piwik.pro
+click-haproxy.supersonicads.com
 click-hetzner.plista.com
 clickhk.taboola.com
 click.justpremium.com
@@ -5760,6 +5775,7 @@ creative.360yield.com
 creative.adform.com
 creative.doubleclick.net
 creative-manager.tritondigital.com
+creativeproxy.uimserv.net
 creatives-cdn.appsflyer.com
 creatives.doubleclick.net
 creatives.justpremium.com
@@ -6010,6 +6026,7 @@ d2.sv.omtrdc.net
 d37e7de7fb3b4c3f21d41b9cabccd3c46ffbdd6ab4546eb7150e9710.trk.sensic.net
 d3ftp.guj.de
 d3one-spm.guj.de
+d3proxy.guj.de
 d3.sc.omtrdc.net
 d3.sv.omtrdc.net
 d45c54a4e5ebda7f812fb390766bf712ffefbe76798d04c82b15b5f0.trk.sensic.net
@@ -7598,6 +7615,7 @@ ev077qzuj4.kameleoon.eu
 evar7.d1.sc.omtrdc.net
 eventlog.outbrain.com
 event.outbrain.com
+event-proxy.outbrain.com
 events20.adcolony.com
 events30.adcolony.com
 events3.adcolony.com
@@ -8663,6 +8681,8 @@ geoip-api.cleverpush.com
 geo-location-dev.s-onetag.com
 geo-location.s-onetag.com
 geo.nfs.svc.guj.de
+geoproxy.criteo.net
+geoproxy.va1.vip.prod.criteo.net
 georesolver.saas.appdynamics.com
 geo.scorecardresearch.com
 geosync.solution.weborama.fr
@@ -10458,6 +10478,8 @@ httpfra1-ib.adnxs.com
 httph.df-srv.de
 httpnfl.hb.omtrdc.net
 httpnym1.ib.adnxs.com
+http-proxy-int.guj.de
+http-proxy-outgoing.guj.de
 httpsams1-ib.adnxs.com
 httpscbsdigitalmedia.hb.omtrdc.net
 httpscustomerexperience.iad1.qualtrics.com
@@ -10984,6 +11006,7 @@ ivwbox2-guj.guj.de
 ivwbox.de
 ivw-crawler.ioam.de
 ivwdb.guj.de
+ivwproxy.guj.de
 ivwstats.guj.de
 ivytech.qualtrics.com
 iwcm.tritondigital.com
@@ -11714,6 +11737,8 @@ lb-guj-www-10-1.net-hh.guj.de
 lb-guj-www-10-2.net-hh.guj.de
 lb-guj-www-11-1.net-hh.guj.de
 lbn.saas.appdynamics.com
+lbproxy-1.adform.com
+lbproxy-2.adform.com
 lbs.eu.qualtrics.com
 lb.yieldlab.net
 l.contentsquare.net
@@ -13180,6 +13205,7 @@ na-ice.360yield.com
 nai.outbrain.com
 nait.ca1.qualtrics.com
 nameservercdn.taboola.com
+namespaces-haproxy-alb.appsflyer.com
 name.transmatico.com
 nand.vanitydomains.qualtrics.com
 naranja.demdex.net
@@ -13665,6 +13691,7 @@ nuq-glb.applovin.com
 nuq-prod-a.applovin.com
 nuqprod-msevent.applovin.com
 nuqprod-rtbwin.applovin.com
+nuq-proxy.applovin.com
 nuq-r.applovin.com
 nuq-rt.applovin.com
 nuq-rtb.applovin.com
@@ -14564,6 +14591,8 @@ perforce.cxense.com
 performance-analytics.rubiconproject.com
 perfumescompanhia.solution.weborama.fr
 perf.weborama.fr
+permission-proxy-gmxnet.uimserv.net
+permission-proxy-webde.uimserv.net
 permobads22000.pubmatic.com
 perscdn.taboola.com
 persoenlich.cleverpush.com
@@ -15484,6 +15513,10 @@ provisioning.service.newrelic.com
 pro.website.piwik.pro
 proximus.demdex.net
 proximus.eu.qualtrics.com
+proxy.adalliance.io
+proxy-hetzner.plista.com
+proxy.teads.tv
+proxy-vip-2.xiti.com
 prozess.kafka.ams2.m6r.eu
 prtg44.smartadserver.com
 pru-np.saas.appdynamics.com
@@ -17523,10 +17556,13 @@ std-dns-02.weborama.fr
 std-dns.weborama.fr
 std-kube-18.weborama.fr
 std-ntp-01.weborama.fr
+std-proxy-02.weborama.fr
+std-proxy-03.weborama.fr
 std-qa-01.weborama.fr
 std-qa-02.weborama.fr
 std-redmine-02.weborama.fr
 std-vpn-02.weborama.fr
+std-zabbix-proxy-01.weborama.fr
 s.teads.tv
 steepandcheap.com.102.112.2o7.net
 steirischespezialitaeten.cleverpush.com
@@ -17543,6 +17579,7 @@ steropes-vi.guj.de
 stgallen.co1.qualtrics.com
 stg.scorecardresearch.com
 stimme.ivwbox.de
+stimme-reverse-proxy.transmatico.com
 stjamesplace.saas.appdynamics.com
 stjosephhealthsystem.saas.appdynamics.com
 stlhealthandwellness.az1.qualtrics.com
@@ -17615,6 +17652,10 @@ success.dz.optimizely.com
 successfactors.taboola.com
 success.optimizely.com
 success.piwik.pro
+success-proxy-develrc-2.dz.optimizely.com
+successproxy-develrc.dz.optimizely.com
+successproxy-production.dz.optimizely.com
+successproxy-rc.dz.optimizely.com
 success.qualtrics.com
 sueddeut.ivwbox.de
 suffolk.co1.qualtrics.com
@@ -17874,6 +17915,7 @@ t.contentsquare.net
 tdameritrade.demdex.net
 tdbank.d1.sc.omtrdc.net
 tdc.d1.sc.omtrdc.net
+td-click-haproxy.supersonicads.com
 td-click.sonic-us.supersonicads.com
 t-dev.contentsquare.net
 tea.co1.qualtrics.com
@@ -18049,6 +18091,7 @@ timeinc.trc.taboola.com
 timera-d.openx.net
 timetospa.com.102.112.2o7.net
 tim.hb.omtrdc.net
+timme-reverse-proxy.transmatico.com
 tinyprints.saas.appdynamics.com
 tips.newrelic.com
 tis3iawtxz.kameleoon.eu
@@ -20106,6 +20149,7 @@ www.yagiay.com
 www.yieldlab.net
 www.yieldlove.com
 www.zemanta.com
+wxcizyrwkud.proxy.teads.tv
 wykop.digidip.net
 wyndham.com.102.112.2o7.net
 wyndhamtrips.com.102.112.2o7.net
@@ -20114,6 +20158,7 @@ x22pixel.everesttech.net
 x2.mookie1.com
 x2uh4q4yxf.kameleoon.eu
 x3u9my6md9.kameleoon.eu
+x4a72ybjx74.f3fd2.proxy.teads.tv
 x7.adnxs.com
 xa1.qualtrics.com
 xadc.xplosion.de
@@ -20131,8 +20176,15 @@ xdpvdmz01.guj.de
 xerox.demdex.net
 x.everesttech.net
 xfinity.com.102.112.2o7.net
+xgznad58v7i.proxy.teads.tv
+xieliufz5rq.proxy.teads.tv
 xiti.com
+xjp511xjbae.proxy.teads.tv
+xjp5j63qr3y.proxy.teads.tv
+xjp5z39fuic.proxy.teads.tv
+xjp9v797vza.proxy.teads.tv
 xkyvqcaff.kameleoon.eu
+xltusxmsiwm.proxy.teads.tv
 xm9ho9pbp2.kameleoon.eu
 xml.ioam.de
 xn--7ib-4y3b.adnxs.com
@@ -20140,6 +20192,7 @@ xn--b-gga.adnxs.com
 xn--b-mga.adnxs.com
 xng.trbo.com
 xnl.ads.justpremium.com
+xnurqg2bwwm.proxy.teads.tv
 xn----zhcacijd9b3bc0gfihh.loggly.com
 x.optimizely.com
 xplosion.de
@@ -20148,7 +20201,9 @@ xp.saas.appdynamics.com
 xps-new.uimserv.net
 xps-old.uimserv.net
 xps.uimserv.net
+xqbo6ncmq9v.proxy.teads.tv
 xray.tritondigital.com
+xrchferhjkk.proxy.teads.tv
 xreco.xplosion.de
 xrxdiuijt3.kameleoon.eu
 xs4all.containers.piwik.pro
@@ -20159,17 +20214,28 @@ xsurvey.ca1.qualtrics.com
 xtb.solution.weborama.fr
 xtime3.zd.guj.de
 xtime.guj.de
+xtwzukfknhx.proxy.teads.tv
 xtxunjauh1.kameleoon.eu
 x.uimserv.net
 xups.xplosion.de
 xxxxx7710.log.optimizely.com
+xyrsmmsqbxu.proxy.teads.tv
+xzeoe30ogco.proxy.teads.tv
 xzuoglc9bs.kameleoon.eu
 y1xx8xq0l1.kameleoon.eu
+y49rcyl4dna.proxy.teads.tv
+y4cmjbn4maf.proxy.teads.tv
 y4imtoug5j.kameleoon.eu
 y5818ckr4i.kameleoon.eu
 y5froke4hb.kameleoon.eu
 y67a8irf4j.kameleoon.eu
+y7egb5u92mj.proxy.teads.tv
+y7h1kengppv.proxy.teads.tv
+y7zaorqykw1.proxy.teads.tv
 y8creozec6.kameleoon.eu
+y8x6yr8r1ux.proxy.teads.tv
+y96mjq5nfiv.proxy.teads.tv
+y9s2cjy9s69.proxy.teads.tv
 yachtworld.com.102.112.2o7.net
 yagiay.com
 yahoo.aws.rubiconproject.com
@@ -20184,7 +20250,11 @@ yamatohd.d1.sc.omtrdc.net
 yandina-vi.guj.de
 yankov.dev2.transmatico.com
 yatra.demdex.net
+yauc11mqs7i.proxy.teads.tv
+ybh0pxng05u.proxy.teads.tv
+ybp1iubesch.proxy.teads.tv
 ybs.co.uk.102.112.2o7.net
+ydrdl825d4r.proxy.teads.tv
 yejeni.loggly.com
 yellowbelt.adform.com
 yellow.fonbet.dmp.piwik.pro
@@ -20213,6 +20283,7 @@ ylpp2oie0h.kameleoon.eu
 yl.rtb.df-srv.de
 ym1-ib.adnxs.com
 ym1.ib.adnxs.com
+ymcoofo2jxm.proxy.teads.tv
 yn8uqgm3cf.kameleoon.eu
 ync.teads.tv
 ync-tm.everesttech.net
@@ -20241,8 +20312,10 @@ yy6jb5qbgw.kameleoon.eu
 yz29dh2uhe.kameleoon.eu
 yz3dpub9kc.kameleoon.eu
 z0q75geooh.kameleoon.eu
+z0xskwoitab.proxy.teads.tv
 z13fuvgdz2.kameleoon.eu
 z2.mookie1.com
+z6ugy2k3cms.proxy.teads.tv
 z70jov0xg0.kameleoon.eu
 z850suqqf6.kameleoon.eu
 za.ads.justpremium.com
@@ -20260,6 +20333,7 @@ zap2.mookie1.com
 zapala-vi.guj.de
 zap.mookie1.com
 z.applovin.com
+zb93v321185.proxy.teads.tv
 zd9n8ujkda.kameleoon.eu
 zdb.guj.de
 zdf.ivwbox.de
@@ -20290,6 +20364,7 @@ zet4088fgg.kameleoon.eu
 zf-aftermarket.piwik.pro
 zf-friedrichshafen.containers.piwik.pro
 zf-friedrichshafen.piwik.pro
+zfredt6ddi7.proxy.teads.tv
 zgm0b94es5.kameleoon.eu
 zgtonlin.ivwbox.de
 zhvhm8ialc.kameleoon.eu
@@ -20315,6 +20390,7 @@ zoom.taboola.com
 zoopla-d.openx.net
 zouton.digidip.net
 zouvyhkssg.kameleoon.eu
+zpwrc1n71xt.proxy.teads.tv
 zrk8va5iq8.kameleoon.eu
 zrobank.customlinks.appsflyer.com
 zrwbkz.customlinks.appsflyer.com
