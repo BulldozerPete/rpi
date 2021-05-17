@@ -19,7 +19,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 66530 Domains
+# 66533 Domains
 # ---------------------------------------------
 #
 0024aaaa.com
@@ -3228,6 +3228,7 @@ adunity.com
 adup-tech.com
 adurr.com
 ad-us.24hstatic.com
+ad.utop.ir
 adv01st.com
 adv225489.ru
 adv457895.ru
@@ -6747,6 +6748,7 @@ bm.adentifi.com
 bmbaike.cn
 bmcdn1.com
 bmcm.pw
+bmfads.com
 bmfeed.ru
 bmgan.com
 bmgo.life
@@ -40406,6 +40408,7 @@ www.bm999999.com
 www.bmbaike.cn
 www.bmcdn1.com
 www.bmcm.pw
+www.bmfads.com
 www.bmfeed.ru
 www.bmgan.com
 www.bmgo.life

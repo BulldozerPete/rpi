@@ -13,7 +13,6 @@ mads.amazon.com
 
 # Apps
 sdk.split.io
-sb.scorecardresearch.com
 
 # Bild/Sport1/...
 de.ioam.de
@@ -146,7 +145,7 @@ uim.tifbs.net
 stats.t-online.de
 
 # TV
-events.cid.samba.tv
+#events.cid.samba.tv
 
 # Twitch
 static-cdn.jtvnw.net
@@ -187,4 +186,3 @@ notion.so
 real-markt.de
 strato.de
 watchlist-internet.at
-fiverr.com
