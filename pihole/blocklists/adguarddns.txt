@@ -19,7 +19,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 66508 Domains
+# 66510 Domains
 # ---------------------------------------------
 #
 0024aaaa.com
@@ -21081,6 +21081,7 @@ mkavkaz.ru
 mkazanc.com
 mkhoj.com
 mkjsqrpmxqdf.com
+mkjunc.cn
 mkkliq.com
 mkomrzsizvjdg.com
 mkt3261.com
@@ -51959,6 +51960,7 @@ www.mkavkaz.ru
 www.mkazanc.com
 www.mkhoj.com
 www.mkjsqrpmxqdf.com
+www.mkjunc.cn
 www.mkkliq.com
 www.mkomrzsizvjdg.com
 www.mkt3261.com
