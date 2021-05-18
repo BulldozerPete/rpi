@@ -17,7 +17,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 49966 Domains
+# 49971 Domains
 # ---------------------------------------------
 #
 006a039c957c142bb.com
@@ -2968,6 +2968,7 @@ analyticcdn.globalmailer.com
 analytic.cibc.com
 analytic.imlive.com
 analytic.rocks
+analytic.rollout.io
 analytics00.meride.tv
 analytics.163.com
 analytics.30m.com
@@ -10708,6 +10709,7 @@ frutrun.com
 frvfrv.com
 fryawlauk.com
 fryirktan.com
+f.schemeflood.com
 fs-client-logger.herokuapp.com
 fsd2.digital
 fsi.seek.intel.com
@@ -20444,6 +20446,7 @@ prism.pandora.tv
 pritesol.com
 privacy4browsers.com
 privacy-api.9gag.com
+privacy.outdoorsg.com
 privacy-policy.truste.com
 privacyprotector.com
 privacysearching.com
@@ -26602,6 +26605,7 @@ track.99acres.com
 trackad2.com
 track.addevent.com
 track.adintend.com
+trackadm.com
 trackaffpix.com
 trackalyzer.com
 track.atgstores.com
@@ -46822,6 +46826,7 @@ www.tracer.jp
 www.traceworks.com
 www.track2.me
 www.trackad2.com
+www.trackadm.com
 www.trackaffpix.com
 www.trackalyzer.com
 www.trackboxx.info
