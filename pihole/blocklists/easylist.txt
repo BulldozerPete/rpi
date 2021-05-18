@@ -17,7 +17,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 49964 Domains
+# 49966 Domains
 # ---------------------------------------------
 #
 006a039c957c142bb.com
@@ -2535,6 +2535,7 @@ affiliates.minglematch.com
 affiliates.mozy.com
 affiliates.myfax.com
 affiliates.purevpn.com
+affiliatesrebels.com
 affiliates.systems
 affiliates.thrixxx.com
 affiliates.treasureisland.com
@@ -31268,6 +31269,7 @@ www.affiliatemembership.com
 www.affiliate-robot.com
 www.affiliates.de
 www.affiliatesensor.com
+www.affiliatesrebels.com
 www.affiliates.systems
 www.affiliatewindow.com
 www.affiliationcash.com
