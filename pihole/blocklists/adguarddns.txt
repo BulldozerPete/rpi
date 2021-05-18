@@ -19,7 +19,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 66595 Domains
+# 66596 Domains
 # ---------------------------------------------
 #
 0024aaaa.com
@@ -31923,6 +31923,7 @@ trackcorner.com
 track.cpatool.net
 track.customer.io
 track.custora.com
+trackdb.go3.tv
 track.ddmanager.ru
 track.dictionary.com
 track.digitalriver.com
