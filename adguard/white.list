@@ -1,20 +1,4 @@
-# Amazon
-aax-eu-retail-direct.amazon-adsystem.com
-aviary.amazon.de
-device-metrics-us-2.amazon.com
-device-metrics-us.amazon.com
-fls-eu.amazon.co.uk
-fls-eu.amazon.com
-fls-eu.amazon.de
-kinesis.us-east-1.amazonaws.com
-mads-eu.amazon.com
-mads.amazon-adsystem.com
-mads.amazon.com
-
-# Apps
-sdk.split.io
-
-# Bild/Sport1/...
+# AdBlock-Detection (Bild/Sport1/...)
 de.ioam.de
 irqs.ioam.de
 script.ioam.de
@@ -24,7 +8,19 @@ test.quantcast.mgr.consensu.org
 asadcdn.com
 www.asadcdn.com
 
-# Cookies (Spiegel und Co)
+# Amazon
+aax-eu-retail-direct.amazon-adsystem.com
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
+fls-eu.amazon.com
+fls-eu.amazon.de
+
+# Apps
+app.link
+mobilesdk-us.kampyle.com
+sdk.split.io
+
+# Cookies (Spiegel/...)
 cdn.cookielaw.org
 cdn.privacy-mgmt.com
 consentcdn.cookiebot.com
@@ -33,19 +29,6 @@ consentcdn.cookiebot.com-v1.edgekey.net
 # Facebook
 graph.facebook.com
 graph.instagram.com
-mqtt-mini.facebook.com
-snaptu-z.facebook.com
-
-# Gaming
-analytics.tripwireinteractive.com
-analyticsnew.overwolf.com
-cdn.optimizely.com
-ekg.riotgames.com
-tracking.overwolf.com
-
-# Github
-cdn.arkoselabs.com
-collector.githubapp.com
 
 # Google
 accounts.google.com
@@ -64,34 +47,16 @@ storage.cloud.google.com
 www-google-analytics.l.google.com
 www.google-analytics.com
 
-# HP Smart
-mobilesdk-us.kampyle.com
-
-# IKEA Tradfri
-webhook.logentries.com
-
 # Link Shorteners
 bit.ly
 ow.ly
 tinyurl.com
 
 # Microsoft
-1drv.com
-1drv.ms
-admin.microsoft.com
 arc.msn.com
 browser.pipe.aria.microsoft.com
-contentsync.onenote.com
-contentsync.onenote.trafficmanager.net
 g.live.com
-i-am3p-cor002.api.p001.1drv.com
-insideruser.microsoft.com
 mobile.pipe.aria.microsoft.com
-onedrive.com
-onenote.com
-outlook.com
-outlook.de
-pagecontentsync.onenote.com
 self-events-data.trafficmanager.net
 self.events.data.microsoft.com
 settings-win.data.microsoft.com
@@ -103,13 +68,6 @@ v20.events.data.microsoft.com
 ichnaea.netflix.com
 nrdp.prod.ftl.netflix.com
 push.prod.netflix.com
-
-# NextDNS
-ae01.alicdn.com
-app.link
-geo2.adobe.com
-get3.adobe.com
-teslarati-com-edge.ntv.io
 
 # NVidia
 events.gfe.nvidia.com
@@ -126,13 +84,6 @@ clickserve.dartsearch.net
 pixel.everesttech.net
 promo.mobile.de
 
-# SAT1/Pro7 Video (Cookies)
-aggregator.service.usercentrics.eu
-graphql.usercentrics.eu
-
-# Soundcloud
-feeds.soundcloud.com
-
 # Streaming
 cdn2.cam-content.com
 hw-cdn2.adtng.com
@@ -140,12 +91,8 @@ redefine.hit.stat24.com
 s2.static.cfgr3.com
 vz-cdn2.adtng.com
 uim.tifbs.net
-
-# T-Online
-stats.t-online.de
-
-# TV
-#events.cid.samba.tv
+aggregator.service.usercentrics.eu
+graphql.usercentrics.eu
 
 # Twitch
 static-cdn.jtvnw.net
@@ -165,24 +112,7 @@ r3.o.lencr.org
 # Zoom
 logfiles.zoom.us
 
-# Sonstiges
-api.datadoghq.com
-api.finanzen.immobilienscout24.de
-api.mobile.immobilienscout24.de
-api.recommendation.immobilienscout24.de
-app.hubspot.com
-files.slack.com
-learn.hedera.com
-s.shopify.com
-s0.2mdn.net
-statics.streamable.com
-uapi.adrise.tv
-
 # Falsch Positiv
-7zap.com
-ietf.org
-miner-control.de
-notion.so
 real-markt.de
 strato.de
 watchlist-internet.at
