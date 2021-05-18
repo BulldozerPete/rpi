@@ -1,6 +1,6 @@
 # AdBlock-Detection (Bild/Sport1/...)
-de.ioam.de
-irqs.ioam.de
+#de.ioam.de
+#irqs.ioam.de
 script.ioam.de
 tagger.opecloud.com
 tags.tiqcdn.com
@@ -35,6 +35,10 @@ graph.instagram.com
 bit.ly
 ow.ly
 tinyurl.com
+
+# Google
+www-google-analytics.l.google.com
+www.google-analytics.com
 
 # Microsoft
 arc.msn.com
