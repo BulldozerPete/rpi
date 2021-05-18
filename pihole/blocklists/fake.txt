@@ -16,7 +16,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 14038 Domains
+# 14046 Domains
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -918,6 +918,7 @@ bw-bewegt.at
 bwcuon.com
 bwe-messe.de
 bw-wg.de
+byberlin.de
 bymarlie.de
 byqo.de
 c21watches.com
@@ -2485,6 +2486,7 @@ goldflix.de
 gold-handel24.com
 goldhandel-depot.de
 goldhandel-imperium.de
+goldhandel-markt.de
 goldhandel-preissieger.de
 goldhandel-seit1986.de
 goldhandel-team.de
@@ -2901,6 +2903,7 @@ hwangjiyong.com
 hwuut.shop
 hygienisch-frisch.de
 hyperanzeigen.at
+hyperblue.de
 hypersoftsneakers.com
 hyperstech.com
 hyper-tech.co
@@ -6856,6 +6859,7 @@ whlshop.com
 wholesale-burberry.com
 whs-shop.ru
 wiadveronatrento.it
+wickss.de
 widalewist.de
 widemind.at
 wien-buero.at
@@ -7842,6 +7846,7 @@ www.bw-bewegt.at
 www.bwcuon.com
 www.bwe-messe.de
 www.bw-wg.de
+www.byberlin.de
 www.bymarlie.de
 www.byqo.de
 www.c21watches.com
@@ -9355,6 +9360,7 @@ www.goldflix.de
 www.gold-handel24.com
 www.goldhandel-depot.de
 www.goldhandel-imperium.de
+www.goldhandel-markt.de
 www.goldhandel-preissieger.de
 www.goldhandel-seit1986.de
 www.goldhandel-team.de
@@ -9765,6 +9771,7 @@ www.hwangjiyong.com
 www.hwuut.shop
 www.hygienisch-frisch.de
 www.hyperanzeigen.at
+www.hyperblue.de
 www.hypersoftsneakers.com
 www.hyperstech.com
 www.hyper-tech.co
@@ -13607,6 +13614,7 @@ www.whlshop.com
 www.wholesale-burberry.com
 www.whs-shop.ru
 www.wiadveronatrento.it
+www.wickss.de
 www.widalewist.de
 www.widemind.at
 www.wien-buero.at

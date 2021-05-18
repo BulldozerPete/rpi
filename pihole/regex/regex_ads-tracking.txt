@@ -27,7 +27,6 @@
 (\.|^)criteo\.net$
 (\.|^)crosssell\.info$
 (\.|^)cxense\.com$
-(\.|^)demdex\.net$
 (\.|^)df-srv\.de$
 (\.|^)digidip\.net$
 (\.|^)dotmetrics\.net$
@@ -92,6 +91,7 @@
 (\.|^)weborama\.fr$
 (\.|^)wfxtriggers\.com$
 (\.|^)wisepops\.com$
+(\.|^)wistia\.net$
 (\.|^)xiti\.com$
 (\.|^)xplosion\.de$
 (\.|^)yagiay\.com$
