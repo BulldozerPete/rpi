@@ -15,10 +15,11 @@ device-metrics-us.amazon.com
 fls-eu.amazon.com
 fls-eu.amazon.de
 
-# Apps
+# Apps (Mobile)
 app.link
 mobilesdk-us.kampyle.com
 sdk.split.io
+app-measurement.com
 
 # Cookies (Spiegel/...)
 cdn.cookielaw.org
@@ -29,23 +30,6 @@ consentcdn.cookiebot.com-v1.edgekey.net
 # Facebook
 graph.facebook.com
 graph.instagram.com
-
-# Google
-accounts.google.com
-docs.google.com
-drive.google.com
-google.com
-google.de
-googlehosted.l.googleusercontent.com
-googleoptimize.com
-lh3.googleusercontent.com
-mail-attachment.googleusercontent.com
-play.google.com
-script.google.com
-sites.google.com
-storage.cloud.google.com
-www-google-analytics.l.google.com
-www.google-analytics.com
 
 # Link Shorteners
 bit.ly
@@ -60,7 +44,6 @@ mobile.pipe.aria.microsoft.com
 self-events-data.trafficmanager.net
 self.events.data.microsoft.com
 settings-win.data.microsoft.com
-storage.live.com
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
 
@@ -68,6 +51,11 @@ v20.events.data.microsoft.com
 ichnaea.netflix.com
 nrdp.prod.ftl.netflix.com
 push.prod.netflix.com
+
+# Nintendo
+image.ccg.nintendo.net
+image.ccg.nintendo.com
+a1843.g.akamai.net
 
 # NVidia
 events.gfe.nvidia.com
@@ -102,6 +90,10 @@ countess.twitch.tv
 # Twitter
 analytics.twitter.com
 syndication.twitter.com
+
+# XBox
+image.engage.xbox.com
+click.engage.xbox.com
 
 # Youtube
 s.youtube.com
