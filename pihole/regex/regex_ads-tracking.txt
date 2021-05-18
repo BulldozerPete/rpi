@@ -3,6 +3,7 @@
 (\.|^)aaxads\.com$
 (\.|^)adalliance\.io$
 (\.|^)adcolony\.com$
+(\.|^)ad\.com$
 (\.|^)adform\.com$
 (\.|^)adnxs\.com$
 (\.|^)adnxs-simple\.com$
@@ -22,6 +23,7 @@
 (\.|^)chartbeat\.net$
 (\.|^)clarity\.ms$
 (\.|^)cleverpush\.com$
+(\.|^)consensad\.com$
 (\.|^)contentsquare\.net$
 (\.|^)criteo\.com$
 (\.|^)criteo\.net$
@@ -38,6 +40,7 @@
 (\.|^)exactag\.com$
 (\.|^)gscontxt\.net$
 (\.|^)guj\.de$
+(\.|^)hotjar\.com$
 (\.|^)indexww\.com$
 (\.|^)ioam\.de$
 (\.|^)iocnt\.net$
@@ -63,6 +66,7 @@
 (\.|^)outbrain\.com$
 (\.|^)piwik\.pro$
 (\.|^)plista\.com$
+(\.|^)pointmediatracker\.com$
 (\.|^)pubmatic\.com$
 (\.|^)qualtrics\.com$
 (\.|^)quantserve\.com$
