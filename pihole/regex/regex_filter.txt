@@ -1,0 +1,11 @@
+^(ads?)?(advert(s|is(ing|ements?)))?[0-9]*\.
+^(ads?)?track(er|ing)?[0-9]*\.
+^adim(age|g)s?[0-9]*\.
+^adse?rv(er?|ice)?s?[0-9]*\.
+^adsystem?[0-9]*\.
+^aff(iliat(es?|ion))?[0-9]*\.
+^analytics?[0-9]*\.
+^beacons?[0-9]*\.
+^metrics?[0-9]*\.
+^pixels?[0-9]*\.
+^stat(s|istics)?[0-9]*\.
