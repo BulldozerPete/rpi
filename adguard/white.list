@@ -19,7 +19,8 @@ fls-eu.amazon.de
 app.link
 mobilesdk-us.kampyle.com
 sdk.split.io
-app-measurement.com
+app-measurement.com		
+sb.scorecardresearch.com
 
 # Cookies (Spiegel/...)
 cdn.cookielaw.org
@@ -30,6 +31,9 @@ consentcdn.cookiebot.com-v1.edgekey.net
 # Facebook
 graph.facebook.com
 graph.instagram.com
+
+# IKEA Tradfri
+webhook.logentries.com
 
 # Link Shorteners
 bit.ly
