@@ -19,7 +19,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 66614 Domains
+# 66657 Domains
 # ---------------------------------------------
 #
 0024aaaa.com
@@ -2052,6 +2052,7 @@ adcron.com
 adcrowd.com
 adcryp.to
 adc-serv.net
+adc.streamspread.com
 adc.tripple.at
 adc.xxxlshop.de
 adc.xxxlutz.de
@@ -4271,6 +4272,7 @@ analytics-api.smzdm.com
 analytics.apnewsregistry.com
 analytics.archive.org
 analytics.artirix.com
+analytics.atlassian.com
 analytics.atomiconline.com
 analytics.audioeye.com
 analytics.audionow.de
@@ -8929,6 +8931,7 @@ comm-news.com
 commonalmanac.com
 common.duapps.com
 commonswing.com
+commonvivacious.com
 communicationads.net
 communited.club
 communits.club
@@ -10566,6 +10569,7 @@ dcqsvxuetj.com
 dcrecycle.top
 dcs.maxthon.com
 dc-storm.com
+dc-tag.jp
 dct.mango-office.ru
 dc.tremormedia.com
 dcwacl.com
@@ -11319,6 +11323,7 @@ dolldetail.com
 dollsdeclare.com
 dolohen.com
 dolothbe.xyz
+dolphinanthill.com
 dolphincdn.xyz
 dolsoste.com
 domainadvertising.com
@@ -12738,6 +12743,7 @@ event.prod.bidr.io
 event-reporting-dot-webylytics.appspot.com
 events.air.tv
 events.apester.com
+eventsapi.grocerkey.com
 events.appsflyer.com
 events.artirix.com
 events.attentivemobile.com
@@ -14257,6 +14263,7 @@ garettygrea.space
 garristo.com
 gars57.cn
 garss.jp
+gasijosti.com
 gasolina.ml
 gasxf.com
 gatesrichestbusts.com
@@ -14393,6 +14400,7 @@ gentlemenius.com
 genuinealiaspuzzled.com
 genuschaseslowly.com
 geoaddicted.net
+geo.ads.audio.thisisdax.com
 geobanner.passion.com
 geobar.ziffdavisinternational.com
 geobeacon.ign.com
@@ -14482,6 +14490,7 @@ get-ads.ru
 getaim.info
 getalinkandshare.com
 getambassador.com
+getawayspectaclejumped.com
 getb.7ya.ru
 getback.ch
 getbackstory.com
@@ -16764,6 +16773,7 @@ illustriousoatmeal.com
 ilmijlktgjx.com
 ilogbox.com
 ilohfbiph.com
+ilyf4amifh.com
 ilyonanalytics.herokuapp.com
 ilypsycholasg.club
 ilysa.ru
@@ -16984,6 +16994,7 @@ indoleads.com
 industrybrains.com
 ineedhits.com
 ineffieldinforget.site
+inegolreklam.net
 inethoster.org
 inetinteractive.com
 inetlog.ru
@@ -18220,6 +18231,7 @@ kabbmedia.com
 kadam.net
 kaelpossible.pro
 kaffnet.com
+kagdf.com
 kagortus.ru
 kagrooxa.net
 kaidop.com
@@ -18557,6 +18569,7 @@ kmuvaerfumy.com
 kmwqxqh.com
 kmylvwo5.com
 kneadbewitch.com
+kneeansweras.com
 knewy.com
 kniferasatte.info
 knittedcourthouse.com
@@ -21110,6 +21123,7 @@ mjita.cn
 mjlpqbklxgt.com
 mjlsiopjesbn.com
 mjtowot.cn
+mjvmypr.cn
 mjx123.com
 mk1lyl406xmp.com
 mkaqh.cn
@@ -21959,6 +21973,7 @@ natero.com
 natesbiscussi.club
 natexo-programmatic.com
 nathetsof.com
+nationaldeliquencydeliquency.com
 nationsflushedoccasionally.com
 nativclick.com
 nativeadmatch.com
@@ -25736,6 +25751,7 @@ pvcndecvyb.com
 pvd.to
 pv.hd.sohu.com
 pvk.jp
+pv.kuaizhan.com
 pv.ldlwdsx.com
 pvmax.net
 pvmkyvtt.com
@@ -25902,6 +25918,7 @@ qgjapp.com
 qgnadfdluev.com
 qgnlbjkxrzb.com
 qgnqsebea.com
+qgogogox.com
 qgss8.com
 qguwoq.cn
 qhaif.com
@@ -29007,6 +29024,7 @@ sniperlog.ru
 sniphub.com
 snitswaspshaft.com
 snnnyy.com
+snodlycaccias.com
 snoobi.com
 snoresmile.com
 snormida.top
@@ -30399,6 +30417,7 @@ surkiffee.xyz
 surmountguardianbosom.com
 surprisecub.com
 surprivilegiez.xyz
+surrendersonnygram.com
 surveyingaltitude.com
 survey.interquest.com
 survey-poll.com
@@ -31031,6 +31050,7 @@ telemetry.swiftkey.com
 telemetry.tableausoftware.com
 telemetry.tradingview.com
 telemetryverification.net
+telemetry.voxeet.com
 telephants.club
 telesscolitical.club
 televeniesuc.pro
@@ -31883,6 +31903,7 @@ traceprof.com
 trace.qq.com
 tracer.jp
 tracer.perezhilton.com
+traces.sr.roku.com
 traceworks.com
 track2.cliplister.com
 track2.dulingo.com
@@ -33459,6 +33480,7 @@ usertrack.appcpi.net
 userzoom.com
 usesfathom.com
 us-events.api.iheart.com
+usherprayer.com
 ushoofop.com
 ushooque.net
 us.i1.yimg.com
@@ -33665,6 +33687,7 @@ vast4.kinogo.by
 vast4.kinogo.la
 vastroll.ru
 vastserved.com
+vastshmast.com
 vast.spotim.market
 vast.videocdn.tv
 vatafapac.ru
@@ -42190,6 +42213,7 @@ www.commissionmonster.com
 www.comm-news.com
 www.commonalmanac.com
 www.commonswing.com
+www.commonvivacious.com
 www.communicationads.net
 www.communited.club
 www.communits.club
@@ -43135,6 +43159,7 @@ www.dcplayf.com
 www.dcqsvxuetj.com
 www.dcrecycle.top
 www.dc-storm.com
+www.dc-tag.jp
 www.dcwacl.com
 www.dcwgzqbfl.com
 www.dcxtvftrdd.com
@@ -43739,6 +43764,7 @@ www.dolldetail.com
 www.dollsdeclare.com
 www.dolohen.com
 www.dolothbe.xyz
+www.dolphinanthill.com
 www.dolphincdn.xyz
 www.dolsoste.com
 www.domainadvertising.com
@@ -46253,6 +46279,7 @@ www.garettygrea.space
 www.garristo.com
 www.gars57.cn
 www.garss.jp
+www.gasijosti.com
 www.gasolina.ml
 www.gasxf.com
 www.gatesrichestbusts.com
@@ -46408,6 +46435,7 @@ www.get-ads.ru
 www.getaim.info
 www.getalinkandshare.com
 www.getambassador.com
+www.getawayspectaclejumped.com
 www.getback.ch
 www.getbackstory.com
 www.getbeacon.io
@@ -48445,6 +48473,7 @@ www.illustriousoatmeal.com
 www.ilmijlktgjx.com
 www.ilogbox.com
 www.ilohfbiph.com
+www.ilyf4amifh.com
 www.ilypsycholasg.club
 www.ilysa.ru
 www.im2ss2ss.top
@@ -48603,6 +48632,7 @@ www.indoleads.com
 www.industrybrains.com
 www.ineedhits.com
 www.ineffieldinforget.site
+www.inegolreklam.net
 www.inethoster.org
 www.inetinteractive.com
 www.inetlog.ru
@@ -49663,6 +49693,7 @@ www.kabbmedia.com
 www.kadam.net
 www.kaelpossible.pro
 www.kaffnet.com
+www.kagdf.com
 www.kagortus.ru
 www.kagrooxa.net
 www.kaidop.com
@@ -49983,6 +50014,7 @@ www.kmuvaerfumy.com
 www.kmwqxqh.com
 www.kmylvwo5.com
 www.kneadbewitch.com
+www.kneeansweras.com
 www.knewy.com
 www.kniferasatte.info
 www.knittedcourthouse.com
@@ -52036,6 +52068,7 @@ www.mjita.cn
 www.mjlpqbklxgt.com
 www.mjlsiopjesbn.com
 www.mjtowot.cn
+www.mjvmypr.cn
 www.mjx123.com
 www.mk1lyl406xmp.com
 www.mkaqh.cn
@@ -52765,6 +52798,7 @@ www.natero.com
 www.natesbiscussi.club
 www.natexo-programmatic.com
 www.nathetsof.com
+www.nationaldeliquencydeliquency.com
 www.nationsflushedoccasionally.com
 www.nativclick.com
 www.nativeadmatch.com
@@ -56199,6 +56233,7 @@ www.qgjapp.com
 www.qgnadfdluev.com
 www.qgnlbjkxrzb.com
 www.qgnqsebea.com
+www.qgogogox.com
 www.qgss8.com
 www.qguwoq.cn
 www.qhaif.com
@@ -58883,6 +58918,7 @@ www.sniperlog.ru
 www.sniphub.com
 www.snitswaspshaft.com
 www.snnnyy.com
+www.snodlycaccias.com
 www.snoobi.com
 www.snoresmile.com
 www.snormida.top
@@ -59752,6 +59788,7 @@ www.surkiffee.xyz
 www.surmountguardianbosom.com
 www.surprisecub.com
 www.surprivilegiez.xyz
+www.surrendersonnygram.com
 www.surveyingaltitude.com
 www.survey-poll.com
 www.surveyscout.com
@@ -61943,6 +61980,7 @@ www.userreport.com
 www.users-api.com
 www.userzoom.com
 www.usesfathom.com
+www.usherprayer.com
 www.ushoofop.com
 www.ushooque.net
 www.usingirritatecordial.com
@@ -62123,6 +62161,7 @@ www.vashoot.com
 www.vasstycom.com
 www.vastroll.ru
 www.vastserved.com
+www.vastshmast.com
 www.vatafapac.ru
 www.vatizon.com
 www.vatlodesim.com
@@ -63834,6 +63873,7 @@ www.xmvoodgr.com
 www.xmwbplpgjc.com
 www.xmxxwl.com
 www.xmysinter.com
+www.xmzwdgm.com
 www.xn--2qu92fhtx4ff.icu
 www.xn--2qu92fhtx4ff.ink
 www.xn--2qu92fhtx4ff.ren
@@ -64285,6 +64325,7 @@ www.ylicxdkgkvfc.com
 www.yljiaoluo.com
 www.ylkkp.com
 www.yllix.com
+www.ylppppp.cn
 www.ylqbiljjlyq.com
 www.yltcgyud.com
 www.yluvo.com
@@ -65339,6 +65380,7 @@ xmvoodgr.com
 xmwbplpgjc.com
 xmxxwl.com
 xmysinter.com
+xmzwdgm.com
 xn--2qu92fhtx4ff.icu
 xn--2qu92fhtx4ff.ink
 xn--2qu92fhtx4ff.ren
@@ -65832,6 +65874,7 @@ ylicxdkgkvfc.com
 yljiaoluo.com
 ylkkp.com
 yllix.com
+ylppppp.cn
 ylqbiljjlyq.com
 yltcgyud.com
 yluvo.com
