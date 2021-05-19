@@ -17,6 +17,7 @@
 (\.|^)appsflyer\.com$
 (\.|^)aticdn\.net$
 (\.|^)bf-tools\.net$
+(\.|^)branch\.io$
 (\.|^)bunchbox\.co$
 (\.|^)chartbeat\.com$
 (\.|^)chartbeat\.net$
@@ -33,6 +34,7 @@
 (\.|^)dotmetrics\.net$
 (\.|^)doubleclick\.com$
 (\.|^)doubleclick\.net$
+(\.|^)eloqua\.com$
 (\.|^)emetriq\.de$
 (\.|^)emsservice\.de$
 (\.|^)everesttech\.net$
@@ -40,12 +42,14 @@
 (\.|^)gscontxt\.net$
 (\.|^)guj\.de$
 (\.|^)hotjar\.com$
+(\.|^)idcdn\.de$
 (\.|^)indexww\.com$
 (\.|^)ioam\.de$
 (\.|^)ivwbox\.de$
 (\.|^)justpremium\.com$
 (\.|^)kameleoon\.eu$
 (\.|^)ktxtr\.com$
+(\.|^)leadinspector\.de$
 (\.|^)liftoff\.io$
 (\.|^)loggly\.com$
 (\.|^)m6r\.eu$
@@ -68,6 +72,7 @@
 (\.|^)pubmatic\.com$
 (\.|^)qualtrics\.com$
 (\.|^)quantserve\.com$
+(\.|^)ravenjs\.com$
 (\.|^)rubiconproject\.com$
 (\.|^)scorecardresearch\.com$
 (\.|^)segment\.com$
