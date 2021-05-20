@@ -6,7 +6,7 @@
 
 ---
 
-[**Extended**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/ext.txt) - Erweiterte Domain-Blockliste: ***Enthält alles aus der Multi- und Fake-Liste und blockt zusätzliche Werbung, Tracking, Phishing, Malware, Scam, Coins und sonstigen "Mist" aus dem Netz***. *Kein explizites Whitelisting!*. Sie kann als alleinige Pihole-Blockliste verwendet werden. ***(Optinal)*** *- ca. 1.400.000 Domains*
+[**Extended**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/ext.txt) - Erweiterte Domain-Blockliste: ***Enthält alles aus der Multi- und Fake-Liste und blockt zusätzliche Werbung, Tracking, Phishing, Malware, Scam, Coins und sonstigen "Mist" aus dem Netz***. *Kein explizites Whitelisting!*. Sie kann als alleinige Pihole-Blockliste verwendet werden. ***(Optinal - die volle Dröhnung)*** *- ca. 1.400.000 Domains*
 
 ---
 
