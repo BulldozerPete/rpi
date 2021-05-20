@@ -5,13 +5,11 @@ script.ioam.de
 tagger.opecloud.com
 tags.tiqcdn.com
 test.quantcast.mgr.consensu.org
-asadcdn.com
 www.asadcdn.com
 
 # Amazon
-aax-eu-retail-direct.amazon-adsystem.com
-device-metrics-us-2.amazon.com
-device-metrics-us.amazon.com
+#device-metrics-us-2.amazon.com
+#device-metrics-us.amazon.com
 fls-eu.amazon.com
 fls-eu.amazon.de
 
@@ -36,7 +34,7 @@ graph.facebook.com
 graph.instagram.com
 
 # IKEA Tradfri
-webhook.logentries.com
+#webhook.logentries.com
 
 # Link Shorteners
 bit.ly
@@ -44,6 +42,8 @@ ow.ly
 tinyurl.com
 
 # Google
+analytics.google.com
+analytics.google.de
 www-google-analytics.l.google.com
 www.google-analytics.com
 www-googletagmanager.l.google.com
@@ -78,6 +78,7 @@ gfwsl.geforce.com
 t.paypal.com
 
 # Referral
+aax-eu-retail-direct.amazon-adsystem.com
 ad.doubleclick.net
 adservice.google.com
 adservice.google.de
