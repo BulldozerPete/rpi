@@ -17,7 +17,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 49848 Domains
+# 49849 Domains
 # ---------------------------------------------
 #
 006a039c957c142bb.com
@@ -8778,6 +8778,7 @@ easyhits4u.com
 easyinline.com
 easykits.org
 easylist-to.xyz
+easylist.zelo72.info
 easy.lv
 easyresearch.se
 easysol.net

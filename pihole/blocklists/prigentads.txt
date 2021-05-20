@@ -18,7 +18,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 6027 Domains
+# 6028 Domains
 # ---------------------------------------------
 #
 0nlinemeds.com
@@ -2858,6 +2858,7 @@ presetrabbits.com
 presho.site
 previousplayground.com
 previouspotato.com
+prigentads.zelo72.info
 primaryads.com
 primecups.com
 primetime.net

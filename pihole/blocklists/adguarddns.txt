@@ -19,7 +19,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 66522 Domains
+# 66523 Domains
 # ---------------------------------------------
 #
 0024aaaa.com
@@ -2197,6 +2197,7 @@ adgroups.com
 adgrowmedia.com
 adgrx.com
 ad.gt
+adguarddns.zelo72.info
 ad.gunosy.com
 adgxptnsiwxjx.com
 adhands.ru

@@ -29,7 +29,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 101143 Domains
+# 101144 Domains
 # ---------------------------------------------
 #
 0.0.0.0.beeglivesex.com
@@ -47059,6 +47059,7 @@ nextbestgame.org
 next-channel.xyz
 nextclick.pl
 nextdigitalday.ru
+nextdns.zelo72.info
 nextel-ringtone.komi.su
 nextel-ringtone.spb.su
 nextgearup.com
