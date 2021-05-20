@@ -14,6 +14,15 @@ https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains
 https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 ! https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
 https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/roku
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi
 ! https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 ! https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
@@ -24,6 +33,7 @@ https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/fake.txt
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nextdns.txt
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/prigentads.txt
+https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/windows10-office365_telemetrie.txt
 ! https://someonewhocares.org/hosts/
 ! https://urlhaus.abuse.ch/downloads/hostfile/
 https://v.firebog.net/hosts/Admiral.txt
