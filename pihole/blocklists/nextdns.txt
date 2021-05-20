@@ -29,7 +29,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 101115 Domains
+# 101143 Domains
 # ---------------------------------------------
 #
 0.0.0.0.beeglivesex.com
@@ -9273,6 +9273,7 @@ alberts.diamondrelationscrm.us
 albiondrugs.com
 alblux.com
 alboautotrasportatori.it
+alb.reddit.com
 alcaido.com
 alchemist.go2cloud.org
 alchemyworldwide.tt.omtrdc.net
@@ -18012,6 +18013,7 @@ clickc.admaster.com.cn
 click.cartsguru.io
 clickcash.com
 click.cashengines.com
+clickcash.onelink.me
 clickcash.webpower.com
 click.catalystfunds.email
 clickcdn.shareaholic.com
@@ -18108,6 +18110,7 @@ click.marketing.carousell.com
 clickmate.io
 clickmedia.ro
 click.mediav.com
+click.member.americanexpress.com
 clickmeter.com
 clickm.fang.com
 click.mobile-bt.com
@@ -18259,6 +18262,10 @@ click.uve.mobile.sina.cn
 clickvalidator.net
 click.virt.exacttarget.com
 click.virt.s10.exacttarget.com
+click.virt.s11.exacttarget.com
+click.virt.s12.exacttarget.com
+click.virt.s4.exacttarget.com
+click.virt.s5.exacttarget.com
 click.virt.s6.exacttarget.com
 click.virt.s7.exacttarget.com
 clickwallads.s3.amazonaws.com
@@ -25209,6 +25216,7 @@ email.clearscore.com.au
 email.clearscore.co.za
 email.cobsbread.com
 emaildeals.biz
+email.docker.com
 email.eomega.org
 email.evan-moor.com
 email.exacttarget.com
@@ -30470,6 +30478,7 @@ go.meter.group
 go.meyer-shop.com
 go.miaaesthetics.com
 go.microfocus.com
+go.microsoft.com
 go.mikatus.com
 go.mikro.com.tr
 go.milanlaser.com
@@ -30535,6 +30544,8 @@ go.njit.edu
 go.nkbb.jp
 go.nlpjapan.co.jp
 go.nobelpharma.co.jp
+go.nordlocker.net
+go.nordvpn.net
 go.noregon.com
 gonosz-majom.com
 gonow.threatconnect.com
@@ -30610,6 +30621,7 @@ goolpter.com
 go.onclasrv.com
 go.onecareer.jp
 go.onecompath.com
+go.onelink.me
 go.onenetwork.com
 go.onfido.com
 go.online.brunel.ac.uk
@@ -32552,6 +32564,7 @@ hrclat.kijiji.it
 hrcmzp.cn
 hrcorp1.site
 href.asia
+href.li
 hr-engine.xclaimwords.net
 hrerheerhher.001www.com
 hrhererhtng.001www.com
@@ -32574,6 +32587,7 @@ hsbciprocess.01g.info
 hsbconline.ca
 h-sdk.online-metrix.net
 hseda.com
+hs.eloqua.com
 h.seznam.cz
 hs.healthstream.com
 h-signifyd.online-metrix.net
@@ -38821,6 +38835,12 @@ links.mail.foodnetwork.com
 links.mail.stubhub.com
 linksmartcontract.com
 links.m.blueapron.com
+links.mkt41.net
+links.mkt51.net
+links.mkt61.net
+links.mkt71.net
+links.mkt81.net
+links.mkt91.net
 links.nbc.com
 links.nbcnews.com
 links.news.mindbody.io
@@ -38833,6 +38853,7 @@ linksourcetrack.com
 links.outster.com
 links.performcb.com
 links.playon.tv
+link.springer.com
 links-private-krankenversicherung.de
 links-ranking.de
 links.riverview.org
@@ -44101,6 +44122,7 @@ mkt.lifesciences.neogen.com
 mkto-ab410147.com
 mkto-lon040102.com
 mktoresp.com
+mktoweb.com
 mkt.pushspring.com
 mktrack.com
 mktrkr.com
@@ -59519,6 +59541,10 @@ sitesearch.hitbox.com
 siteservdswkcnfjr.cn
 siteservikj.com
 siteservkcn.in
+sites.hscoscdn10.net
+sites.hscoscdn20.net
+sites.hscoscdn30.net
+sites.hscoscdn40.net
 sitesite.cn
 sitesitepowerpbn.org
 sitesiteservdswsrv.nl
@@ -83639,6 +83665,7 @@ www.hpyrdr.com
 www.hrcmzp.cn
 www.hrcorp1.site
 www.href.asia
+www.href.li
 www.hrerheerhher.001www.com
 www.hrhererhtng.001www.com
 www.hrnecek.com
@@ -87426,6 +87453,7 @@ www.mktg-offer.com
 www.mkto-ab410147.com
 www.mkto-lon040102.com
 www.mktoresp.com
+www.mktoweb.com
 www.mktrack.com
 www.mktrkr.com
 www.mkzmudzki.pl
