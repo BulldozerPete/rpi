@@ -19,7 +19,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 66521 Domains
+# 66522 Domains
 # ---------------------------------------------
 #
 0024aaaa.com
@@ -4524,6 +4524,7 @@ analyzer51.fc2.com
 analyzer52.fc2.com
 analyzer.omniata.com
 analyze.yahooapis.com
+ana.mediable.info
 anametrix.com
 anametrix.net
 a.nanhuwang.com
