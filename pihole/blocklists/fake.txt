@@ -16,7 +16,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 14046 Domains
+# 14047 Domains
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -1977,6 +1977,7 @@ fairchartervote.at
 fairerkapitalmarkt.at
 fairylovers.com
 fairyta.com
+fake.zelo72.info
 falinas.at
 falinas.com
 falinas.de
