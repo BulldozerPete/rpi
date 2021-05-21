@@ -39,6 +39,7 @@ tinyurl.com
 
 # Flutet den DNS-Server wenn geblockt
 analyticsnew.overwolf.com
+webhook.logentries.com
 
 # Google
 analytics.google.com
@@ -47,8 +48,6 @@ www-google-analytics.l.google.com
 www.google-analytics.com
 www-googletagmanager.l.google.com
 www.googletagmanager.com
-s0-2mdn-net.l.google.com
-s0.2mdn.net
 ssl-google-analytics.l.google.com
 ssl.google-analytics.com
 
@@ -76,6 +75,9 @@ a1843.g.akamai.net
 # NVidia
 events.gfe.nvidia.com
 gfwsl.geforce.com
+
+# Merkur.de
+tag.aticdn.net
 
 # Paypal
 t.paypal.com
