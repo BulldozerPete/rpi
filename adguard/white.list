@@ -19,23 +19,12 @@ sb.scorecardresearch.com
 # Cookies (Spiegel/...)
 cdn.cookielaw.org
 cdn.privacy-mgmt.com
-consentcdn.cookiebot.com
-consentcdn.cookiebot.com-v1.edgekey.net
-
-# Conrad
-asset.conrad.com
+#consentcdn.cookiebot.com
+#consentcdn.cookiebot.com-v1.edgekey.net
 
 # Facebook
 graph.facebook.com
 graph.instagram.com
-
-# IKEA Tradfri
-#webhook.logentries.com
-
-# Link Shorteners
-bit.ly
-ow.ly
-tinyurl.com
 
 # Flutet den DNS-Server wenn geblockt
 analyticsnew.overwolf.com
@@ -76,6 +65,9 @@ a1843.g.akamai.net
 events.gfe.nvidia.com
 gfwsl.geforce.com
 
+# n-tv und andere Newsportale
+api.opinary.com
+
 # Merkur.de
 tag.aticdn.net
 
@@ -98,9 +90,14 @@ hw-cdn2.adtng.com
 redefine.hit.stat24.com
 s2.static.cfgr3.com
 vz-cdn2.adtng.com
+
+# Videso auf web.de / gmx.net
 uim.tifbs.net
+
+# Sat1
 aggregator.service.usercentrics.eu
 graphql.usercentrics.eu
+e1cd4958785f7e0dcfaee56d57a7db4096b34051.cws.conviva.com
 
 # Twitch
 static-cdn.jtvnw.net
@@ -123,6 +120,8 @@ r3.o.lencr.org
 
 # Zoom
 logfiles.zoom.us
+log.zoom.us
+click.zoom.us 
 
 # Falsch Positiv
 real-markt.de
