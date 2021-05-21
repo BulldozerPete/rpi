@@ -64,7 +64,8 @@
 #         1.0.7 - [Zelo72]          - Kompatiblitaet fuer Pihole 5.x
 #         1.0.8 - [Zelo72]          - Auf Update nur simulieren nicht automatisch durchführen umgestellt.
 #                                     Betrifft Raspberry Pakete und das Pi-hole Softwareupdate.
-#         1.0.9 - [Zelo72]          - Lokalen Blocklisten-Cache vor Gravity-Update bereinigen. 
+#         1.0.9 - [Zelo72]          - Lokalen Blocklisten-Cache vor Gravity-Update bereinigen.
+#         1.1.0 - [Zelo72]          - Internetverbindungs-/DNS-Test um Cloudflare erweitert.
 #
 
 # Prüfen ob das Script als root ausgefuehrt wird
@@ -140,7 +141,7 @@ status() {
 # Internetverbindung testen
 checkinet() {
    writeLog "[I] Teste Internetverbindung ..."
-   if ! (ping -c1 8.8.8.8 >/dev/null); then
+   if ! (ping -c1 -w1 8.1.8.8 >/dev/null) && ! (ping -c1 -w1 1.1.1.1 >/dev/null); then
       writeLog "[E] Keine Internetverbindung! Das Script wird beendet!"
       inetTestStatus=1
       exit 1
@@ -153,7 +154,7 @@ checkinet() {
 # DNS-Namensaufloesung testen
 checkdns() {
    writeLog "[I] Teste DNS Namensaufloesung ..."
-   if ! (ping -c1 google.de >/dev/null); then
+   if ! (ping -c1 -w2 google.de >/dev/null) && ! (ping -c1 -w2 cloudflare.com >/dev/null); then
       writeLog "[E] Keine DNS Namensaufloesung moeglich!"
       dnsTestStatus=1
       return 1
