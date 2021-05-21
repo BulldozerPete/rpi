@@ -1,6 +1,4 @@
 # AdBlock-Detection (Bild/Sport1/...)
-#de.ioam.de
-#irqs.ioam.de
 script.ioam.de
 tagger.opecloud.com
 tags.tiqcdn.com
@@ -8,8 +6,6 @@ test.quantcast.mgr.consensu.org
 www.asadcdn.com
 
 # Amazon
-#device-metrics-us-2.amazon.com
-#device-metrics-us.amazon.com
 fls-eu.amazon.com
 fls-eu.amazon.de
 
@@ -40,6 +36,9 @@ graph.instagram.com
 bit.ly
 ow.ly
 tinyurl.com
+
+# Flutet den DNS-Server wenn geblockt
+analyticsnew.overwolf.com
 
 # Google
 analytics.google.com
