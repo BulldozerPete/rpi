@@ -6,7 +6,7 @@
 
 ---
 
-[**Extended**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/ext.txt) - Erweiterte Domain-Blockliste: ***Enthält alles aus der Multi- und Fake-Liste und blockt zusätzliche Werbung, Tracking, Phishing, Malware, Scam, Coins und sonstigen "Mist" aus dem Netz***. *Kein explizites Whitelisting!*. Sie kann als alleinige Pihole-Blockliste verwendet werden. ***(Optinal - die volle Dröhnung)*** *- ca. 1.400.000 Domains*
+[**Extended**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/ext.txt) - Erweiterte Domain-Blockliste: ***Enthält alles aus der Multi- und Fake-Liste und blockt zusätzliche Werbung, Tracking, Phishing, Malware, Scam, Coins und sonstigen "Mist" aus dem Netz***. Sie kann als alleinige Pihole-Blockliste verwendet werden. ***(Optinal - die volle Dröhnung!)*** *- ca. 1.300.000 Domains*
 
 ---
 
@@ -22,7 +22,7 @@
 
 ---
 
-***Die Blocklisten wurden zur rein persönlichen, privaten Nutzung estellt. Die Multi-, Extended- und Fake-Blockliste wurde aus [vorhandenen Quellen](https://github.com/Zelo72/rpi/tree/master/pihole/blocklists/quellen) und eigenen [Blacklisten](https://github.com/Zelo72/rpi/tree/master/pihole/blocklists/quellen) unter Berücksichtigung von Whitelisten (außer Extended-Liste) wie Dead-Hosts (Hosts-Adressen die nicht mehr existieren) und Alexa-Toplisten (DE:Top 50 - Welt:Top 50) zusammen gestellt.***
+***Die Blocklisten wurden zur rein persönlichen, privaten Nutzung estellt. Die Multi-, Extended- und Fake-Blockliste wurde aus [vorhandenen Quellen](https://github.com/Zelo72/rpi/tree/master/pihole/blocklists/quellen) und eigenen [Blacklisten](https://github.com/Zelo72/rpi/tree/master/pihole/blocklists/quellen) unter Berücksichtigung von Whitelisten wie Dead-Hosts (Hosts-Adressen die nicht mehr existieren) und Alexa-Toplisten (DE:Top 50 - Welt:Top 50) zusammen gestellt.***
 
 **Die Blocklisten werden täglich um 04:00 Uhr aktualisiert.**
 
