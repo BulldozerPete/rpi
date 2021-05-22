@@ -22,6 +22,9 @@ cdn.privacy-mgmt.com
 consentcdn.cookiebot.com
 consentcdn.cookiebot.com-v1.edgekey.net
 
+# Disney+
+js-agent.newrelic.com
+
 # Facebook
 graph.facebook.com
 graph.instagram.com
