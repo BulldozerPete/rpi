@@ -19,8 +19,8 @@ sb.scorecardresearch.com
 # Cookies (Spiegel/...)
 cdn.cookielaw.org
 cdn.privacy-mgmt.com
-#consentcdn.cookiebot.com
-#consentcdn.cookiebot.com-v1.edgekey.net
+consentcdn.cookiebot.com
+consentcdn.cookiebot.com-v1.edgekey.net
 
 # Facebook
 graph.facebook.com
@@ -97,7 +97,6 @@ uim.tifbs.net
 # Sat1
 aggregator.service.usercentrics.eu
 graphql.usercentrics.eu
-e1cd4958785f7e0dcfaee56d57a7db4096b34051.cws.conviva.com
 
 # Twitch
 static-cdn.jtvnw.net
