@@ -6,6 +6,7 @@ test.quantcast.mgr.consensu.org
 www.asadcdn.com
 
 # Amazon
+aviary.amazon.de
 fls-eu.amazon.com
 fls-eu.amazon.de
 
@@ -87,12 +88,17 @@ pixel.everesttech.net
 promo.mobile.de
 mydealz.digidip.net
 
-# Streaming
+# Shopping
+widgets.trustedshops.com
+
+# Streaming/Videos
 cdn2.cam-content.com
 hw-cdn2.adtng.com
 redefine.hit.stat24.com
 s2.static.cfgr3.com
 vz-cdn2.adtng.com
+videos-fms.jwpsrv.com
+js-sec.indexww.com
 
 # Videso auf web.de / gmx.net
 uim.tifbs.net
