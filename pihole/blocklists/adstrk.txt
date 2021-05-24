@@ -13,7 +13,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 84607 Domains
+# 84609 Domains
 # ---------------------------------------------
 #
 000free.us
@@ -19849,6 +19849,7 @@ doubleclick.com
 doubleclick.ctfile.com
 doubleclick.de
 doubleclick.ne.jp
+doubleclick.net
 doubleclick-net.com
 doubledeepclick.com
 doublelimpup.com
@@ -63382,6 +63383,7 @@ www.doubleclickbygoogle.com
 www.doubleclick.com
 www.doubleclick.de
 www.doubleclick.ne.jp
+www.doubleclick.net
 www.doubleclick-net.com
 www.doubledeepclick.com
 www.doublelimpup.com
