@@ -19,7 +19,7 @@
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
 # ---------------------------------------------
-# 66722 Domains
+# 66725 Domains
 # ---------------------------------------------
 #
 0024aaaa.com
@@ -4711,6 +4711,7 @@ api.ad.intl.xiaomi.com
 api.ad-locus.com
 api.adnet.mob.com
 api.adnsafe.org
+api-adservices.apple.com
 apiads.gg.pl
 api.ads.watchabc.go.com
 api.ad.xiaomi.com
@@ -4749,6 +4750,7 @@ api.ipdata.co
 api-keks.com
 api.kiip.me
 api.leadbolt.net
+api.limbik.com
 api.logmatic.io
 api.mediarithmics.com
 api.mediation.amberweather.com
@@ -4870,6 +4872,7 @@ approvalglamourduly.com
 app.roximity.com
 apprupt.com
 apps4.space
+appsanalytics.appideas.it
 app.sbz.workers.dev
 appsdt.com
 appserver-ap.com
