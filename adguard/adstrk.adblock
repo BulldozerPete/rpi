@@ -1,3 +1,21 @@
+! ---------------------------------------------
+! Zelo*s "Ads & Tracking" Blockliste
+! ---------------------------------------------
+! Erstellt zur rein persönlichen, privaten
+! Nutzung.
+!
+! Werbung und Tracking.
+!
+! Blacklist-Quellen:
+! ******************
+! https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/quellen/adstrk.txt.blacklist.urls
+! ---------------------------------------------
+! Falsch positive/neue Domains melden unter:
+! https://github.com/Zelo72/rpi/issues/new
+! ---------------------------------------------
+! 42999 Domains
+! ---------------------------------------------
+!
 ||000free.us^
 ||000.gaysexe.free.fr^
 ||000tristanprod.free.fr^
