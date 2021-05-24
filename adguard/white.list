@@ -36,7 +36,7 @@ webhook.logentries.com
 
 # Google
 analytics.google.com
-analytics.google.de
+#analytics.google.de
 www-google-analytics.l.google.com
 www.google-analytics.com
 www-googletagmanager.l.google.com
@@ -94,10 +94,12 @@ widgets.trustedshops.com
 # Streaming/Videos
 cdn2.cam-content.com
 hw-cdn2.adtng.com
+hw-cdn.trafficjunky.net
 hw-cdn2.trafficjunky.net
 redefine.hit.stat24.com
 s2.static.cfgr3.com
 vz-cdn2.adtng.com
+vz-cdn.trafficjunky.net
 vz-cdn2.trafficjunky.net
 videos-fms.jwpsrv.com
 js-sec.indexww.com
