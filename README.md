@@ -20,7 +20,7 @@
 
 #### Weitreichendes Blocking ~1.300.000 Domains
   
-[**Extended**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/ext.txt) - Erweiterte Blockliste: ***Enthält alles aus der Multi- und Fake-Liste und blockt zusätzliche Werbung, Tracking, Phishing, Malware, Scam, Coins und sonstigen "Mist" aus dem Netz***. Sie kann als alleinige Pihole-Blockliste verwendet werden. *(Optional - die volle Dröhnung!)*  
+[**Extended**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/ext.txt) - Erweiterte Blockliste: ***Enthält alles aus der Multi- und Fake-Liste und blockt zusätzliche Werbung, Tracking, Phishing, Malware, Scam, Coins und sonstigen "Mist" aus dem Netz***. Sie kann als alleinige Blockliste verwendet werden. *(Optional - die volle Dröhnung!)*  
 
 > ***Quellen:*** *adaway.org, adguard.com, cyberthreatcoalition.org, d3ward, dandelionsprout, easylist.to, fademind, firebog, hoshsadiq, jkrejcha, laicure, nextdns, notracking, oisd.nl, osint.digitalside.it, phishing.army, prigentads, shallalist, someonewhocares.org, spam404, stevenblack, urlhaus.abuse.ch, yhonay, yoyo.org, zerodot1, zelo72*
 
