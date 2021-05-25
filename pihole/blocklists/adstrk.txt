@@ -12,7 +12,7 @@
 # GitHub: https://github.com/Zelo72
 # Mail:   zelo72@dismail.de
 # ---------------------------------------------
-# 2960 Domains
+# 2984 Domains
 # ---------------------------------------------
 #
 0qyfjdeian.kameleoon.eu
@@ -117,6 +117,7 @@
 9120855.fls.doubleclick.net
 9130883.fls.doubleclick.net
 9135143.fls.doubleclick.net
+9145.searchmagnified.com
 9200789.fls.doubleclick.net
 9232451.fls.doubleclick.net
 9273919.fls.doubleclick.net
@@ -532,6 +533,7 @@ axel-springer-d.openx.net
 ayu97c9b5j.kameleoon.eu
 b0.w.kicker.de
 b2b.baidu.com
+b2b.e.shifen.com
 b2c.insticator.com
 b.6sc.co
 b90.yahoo.co.jp
@@ -600,6 +602,7 @@ brain.rvty.net
 breitbart-com.videoplayerhub.com
 browser-http-intake.logs.datadoghq.com
 browser-update.org
+bs.eyeblaster.akadns.net
 bshare.cn
 bs.nakanohito.jp
 bs.showheroes.com
@@ -694,6 +697,7 @@ cdn.fastclick.net
 cdn.ftd.agency
 cdn.funnelytics.io
 cdn.fuseplatform.net
+cdn-gcp.siftscience.com
 cdn.getblueshift.com
 cdn.getsmartcontent.com
 cdn.gladly.com
@@ -905,6 +909,7 @@ counter.ukr.net
 counter.yadro.ru
 count.taobao.com
 cpanel.nativeads.com
+cpe.us.dotomi.weighted.com.akadns.net
 cpro.baidustatic.com
 cpx.golem.de
 cpxl.golem.de
@@ -930,6 +935,7 @@ customers.kameleoon.com
 c.v4dwkcv.com
 c.videoamp.com
 c.wort-suche.com
+cws-eu.conviva.com
 cws-iad4.conviva.com
 cws-sjc2.conviva.com
 cx.atdmt.com
@@ -1053,6 +1059,7 @@ dmx.districtm.io
 dmxleo.dailymotion.com
 d.nativendo.de
 dnsdelegation.io
+dns.gowinxp.com
 dn.srv1272.com
 dol.tianya.cn
 dotmetrics.net
@@ -1137,6 +1144,7 @@ eu-u.openx.net
 event.api.drift.com
 eventapi.libring.com
 event.csdn.net
+eventgateway.soundcloud.com
 event.insticator.com
 eventlogger.soundcloud.com
 event.notifier.rakuten.co.jp
@@ -1170,6 +1178,7 @@ feadrope.net
 feedback.userreport.com
 fidelity.demdex.net
 files.upscore.com
+finaonl-relay.iocnt.net
 firebaselogging.googleapis.com
 firebase-settings.crashlytics.com
 fkrkkmxsqeb5bj9r.s3.amazonaws.com
@@ -1275,6 +1284,7 @@ hdfcbank.demdex.net
 h.df-srv.de
 hdrbd.ivstracker.net
 hexagon-analytics.com
+h-fidelity.online-metrix.net
 hifi-d.openx.net
 hit15.hotlog.ru
 hit-counts.com
@@ -1291,6 +1301,7 @@ homedepot.demdex.net
 hootsuite.com
 horizon.globo.com
 horizon-track.globo.com
+hostgator.extole.com
 hotjar.com
 hp.demdex.net
 hpr.outbrain.com
@@ -1497,6 +1508,8 @@ load.sumo.com
 loadus.exelator.com
 log-api.newrelic.com
 logbak.hicloud.com
+log-edc5180c.us.v2.we-stats.com
+log.gds.mmstat.com
 logger.unsplash.com
 login.dotomi.com
 log.intellimize.co
@@ -1611,6 +1624,7 @@ microsoftwindows.112.2o7.net
 ml314.com
 m.mixadvert.com
 mms.cnn.com
+mobgolem-relay.iocnt.net
 mobile-sdk-lib-eu-1.brilliantcollector.com
 moevideo.biz
 mond.post.ch
@@ -2030,6 +2044,7 @@ secureads.g.doubleclick.net
 secure-assets.rubiconproject.com
 secure.cdn.fastclick.net
 secure-dcr.imrworldwide.com
+secure-eu.imrworldwide.com
 secure-eu.nmrodam.com
 secure-it.imrworldwide.com
 secure.lomadee.com
@@ -2169,6 +2184,7 @@ s.skimresources.com
 ss.knet.cn
 ssl.adklick.de
 ssl-cdn.static.browser.mi-img.com
+sslgen-toppreise.datadome.co
 ssl.gft2.de
 ssl-golem.met.vgwort.de
 ssl.hurra.com
@@ -2249,6 +2265,7 @@ statsy.net
 stat.thestartmagazine.com
 stat.tianya.cn
 stat.tiara.daum.net
+stat.tiara.g.daum.net
 stat.tiara.kakaocorp.com
 stat.tiara.tistory.com
 st.bahn.de
@@ -2356,6 +2373,7 @@ technical-service.net
 t.effectivemeasure.net
 telemetry.api.wmcdp.io
 telemetry.dailymotion.com
+telemetry-incoming.r53-2.services.mozilla.com
 telemetry.tradingview.com
 tentacles.smartocto.com
 te.technical-service.net
@@ -2368,11 +2386,13 @@ therapistpopulationcommentary.com
 thickcash.com
 thorsado.net
 thunderbird.innocraft.cloud
+tinychinacdnweb.qiniu.com.w.kunlunno.com
 tippcom01.tipp24.com
 tisoomi-services.com
 titan01.babytree.com
 titan.babytree.com
 tjs.sjs.sinajs.cn
+tk6if76q.ab1n.net
 t.ktxtr.com
 tlx.3lift.com
 tm.ads.sportradar.com
@@ -2395,7 +2415,9 @@ trace.qq.com
 tracert.alipay.com
 track1.aniview.com
 track2.trbo.com
+track.cj.akadns.net
 track.cnki.net
+track.cpamatica.com
 track.custora.com
 tracker.affirm.com
 tracker-api.my.com
@@ -2598,6 +2620,7 @@ wfpscripts.webspectator.com
 wfxtriggers.com
 wg-gesucht-d.openx.net
 wgo.mmstat.com
+whitelabel-apricot.xid.segment.com
 whos.amung.us
 whugesto.net
 widget.eu.criteo.com
@@ -2623,6 +2646,7 @@ w.sharethis.com
 ws.sharethis.com
 wt.soundestlink.com
 wt.vhb.de
+wup-edc5180c.us.v2.we-stats.com
 w.usabilla.com
 ww1097.smartadserver.com
 ww1.txporn.com
