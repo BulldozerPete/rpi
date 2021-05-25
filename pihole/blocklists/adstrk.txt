@@ -4,11 +4,8 @@
 # Erstellt zur rein persönlichen, privaten
 # Nutzung.
 #
-# Werbung und Tracking.
-#
-# Blacklist-Quellen:
-# ******************
-# https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/quellen/adstrk.txt.blacklist.urls
+# Blockt Werbung und Tracking. Optimiert fuer
+# den deutschsprachigen Raum.
 # ---------------------------------------------
 # Falsch positive/neue Domains melden unter:
 # https://github.com/Zelo72/rpi/issues/new
