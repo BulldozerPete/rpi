@@ -42,7 +42,7 @@
 
 ### ***Hinweis***
 
-***Die Blocklisten wurden zur rein persönlichen, privaten Nutzung erstellt. Die Multi-, Extended- und Fake-Blockliste wurde aus [vorhandenen Quellen](https://github.com/Zelo72/rpi/tree/master/pihole/blocklists/quellen) und eigenen [Blacklisten](https://github.com/Zelo72/rpi/tree/master/pihole/blocklists/quellen) unter Berücksichtigung von Whitelisten wie Dead-Hosts (Hosts-Adressen die nicht mehr existieren) und Alexa-Toplisten (DE:Top 50 - Welt:Top 50) zusammen gestellt.***
+***Die Blocklisten wurden zur rein persönlichen, privaten Nutzung erstellt. Die Multi-, Extended- und Fake-Blockliste wurde aus [vorhandenen Quellen](https://github.com/Zelo72/rpi/tree/master/pihole/blocklists/quellen) und eigenen [Blacklisten](https://github.com/Zelo72/rpi/tree/master/pihole/blocklists/quellen) unter Berücksichtigung von Whitelisten wie Dead-Hosts (Hosts-Adressen die nicht mehr existieren) und [Toplisten](https://github.com/Zelo72/rpi/tree/master/toplists) (DE:Top 50 - Welt:Top 50) zusammen gestellt.***
 
 **Die Blocklisten werden täglich aktualisiert.**
 
