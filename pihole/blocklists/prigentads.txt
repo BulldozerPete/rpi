@@ -1,6 +1,7 @@
 # ---------------------------------------------
-# Zelo*s "Prigent Ads" Blockliste
+# "Prigent Ads" Blockliste
 # ---------------------------------------------
+#
 # Erstellt zur rein persönlichen, privaten
 # Nutzung.
 #
@@ -13,10 +14,11 @@
 # ******************
 # http://dsi.ut-capitole.fr/blacklists/download/ads.tar.gz
 #
-# + Erweitert um mögliche WWW-Domains.
+# + Erweitert um mögliche WWW/FLD-Domains.
+#
 # ---------------------------------------------
-# Falsch positive/neue Domains melden unter:
-# https://github.com/Zelo72/rpi/issues/new
+# GitHub: https://github.com/Zelo72
+# Mail:   zelo72@dismail.de
 # ---------------------------------------------
 # 6028 Domains
 # ---------------------------------------------

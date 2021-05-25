@@ -1,6 +1,7 @@
 # ---------------------------------------------
-# Zelo*s "AdGuardDNS" Blockliste
+# "AdGuardDNS" Blockliste
 # ---------------------------------------------
+#
 # Erstellt zur rein persönlichen, privaten
 # Nutzung.
 #
@@ -14,12 +15,13 @@
 # ******************
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 #
-# + Erweitert um mögliche WWW-Domains.
+# + Erweitert um mögliche WWW/FLD-Domains.
+#
 # ---------------------------------------------
-# Falsch positive/neue Domains melden unter:
-# https://github.com/Zelo72/rpi/issues/new
+# GitHub: https://github.com/Zelo72
+# Mail:   zelo72@dismail.de
 # ---------------------------------------------
-# 66865 Domains
+# 66876 Domains
 # ---------------------------------------------
 #
 0024aaaa.com
@@ -8915,6 +8917,7 @@ comacheerlesslump.com
 comagic.ru
 comalonger.com
 comandosfilmes.org
+combatmootcrucial.com
 combatprofanitycandidate.com
 combclover.com
 comberry.cn
@@ -8957,6 +8960,7 @@ commonvivacious.com
 communicationads.net
 communited.club
 communits.club
+companycouncilbreeze.com
 company-target.com
 compareproprietary.com
 compartmentnutsnovember.com
@@ -10501,6 +10505,7 @@ data.econa.com
 datafeedfile.com
 data.hicloud.com
 data.imakenews.com
+datalytics.utair.io
 datamaster.com.cn
 datam.com
 datamind.ru
@@ -13446,6 +13451,7 @@ fifoyegflivpk.com
 fifteenprefixselfemployed.com
 fifteenthfeeding.com
 fifteenthprohibition.com
+fiftyunderstood.com
 fifwin.com
 fikri-ayo.com
 fiksu.com
@@ -15258,7 +15264,6 @@ gropsyruty.com
 groucign.com
 groupcommerce.com
 groupian.io
-group-ib.ru
 groupiklan.com
 grouteg.com
 grovel.ru
@@ -18625,6 +18630,7 @@ kmwqxqh.com
 kmylvwo5.com
 kneadbewitch.com
 kneeansweras.com
+kneestep.com
 kneetournament.com
 knewy.com
 kniferasatte.info
@@ -22710,6 +22716,7 @@ notifyvisitors.com
 notionnalisent.xyz
 notmining.org
 not-only.info
+notorietycheerypositively.com
 notorietyharvest.com
 noughttrustthreshold.com
 nounstrenuous.com
@@ -42305,6 +42312,7 @@ www.comacheerlesslump.com
 www.comagic.ru
 www.comalonger.com
 www.comandosfilmes.org
+www.combatmootcrucial.com
 www.combatprofanitycandidate.com
 www.combclover.com
 www.comberry.cn
@@ -42341,6 +42349,7 @@ www.commonvivacious.com
 www.communicationads.net
 www.communited.club
 www.communits.club
+www.companycouncilbreeze.com
 www.company-target.com
 www.compareproprietary.com
 www.compartmentnutsnovember.com
@@ -45631,6 +45640,7 @@ www.fifoyegflivpk.com
 www.fifteenprefixselfemployed.com
 www.fifteenthfeeding.com
 www.fifteenthprohibition.com
+www.fiftyunderstood.com
 www.fifwin.com
 www.fikri-ayo.com
 www.fiksu.com
@@ -47207,7 +47217,6 @@ www.gropsyruty.com
 www.groucign.com
 www.groupcommerce.com
 www.groupian.io
-www.group-ib.ru
 www.groupiklan.com
 www.grouteg.com
 www.grovel.ru
@@ -50166,6 +50175,7 @@ www.kmwqxqh.com
 www.kmylvwo5.com
 www.kneadbewitch.com
 www.kneeansweras.com
+www.kneestep.com
 www.kneetournament.com
 www.knewy.com
 www.kniferasatte.info
@@ -53556,6 +53566,7 @@ www.notifyvisitors.com
 www.notionnalisent.xyz
 www.notmining.org
 www.not-only.info
+www.notorietycheerypositively.com
 www.notorietyharvest.com
 www.noughttrustthreshold.com
 www.nounstrenuous.com
@@ -64636,6 +64647,7 @@ www.yourwebbars.com
 www.yousee.com
 www.youshouge513.cn
 www.youtube2top.com
+www.youtubex.top
 www.youvisit.com
 www.youweiprint.com
 www.youyoumw.com
@@ -66196,6 +66208,7 @@ yourwebbars.com
 yousee.com
 youshouge513.cn
 youtube2top.com
+youtubex.top
 youvisit.com
 youweiprint.com
 youwugong.jobui.com
