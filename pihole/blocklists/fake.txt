@@ -1,20 +1,15 @@
 # ---------------------------------------------
 # Zelo*s "anti Abzock" Blockliste
 # ---------------------------------------------
+#
 # Erstellt zur rein persönlichen, privaten
 # Nutzung.
 #
 # Fake-Shops, -Streaming, Abzocke und Co.
+# 
 # ---------------------------------------------
-# Domains auf Basis von:
-#   https://www.verbraucherzentrale-niedersachsen.de/vorsicht-falle
-#   https://www.verbraucherzentrale-niedersachsen.de/themen/internet-telefon/unserioese-streaming-anbieter
-#   https://www.watchlist-internet.at
-#   https://www.trustedshops.de/aktuelle-warnungen/
-#   ...
-# ---------------------------------------------
-# Falsch positive/neue Domains melden unter:
-# https://github.com/Zelo72/rpi/issues/new
+# GitHub: https://github.com/Zelo72
+# Mail:   zelo72@dismail.de
 # ---------------------------------------------
 # 14151 Domains
 # ---------------------------------------------
