@@ -2,13 +2,7 @@
 
 ### ***DNS-Sperrlisten*** (Blacklists)
 
-#### Moderates Blocking ~5.000 Domains
-
-[**AdsTrk**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adstrk.txt) - Zelo's "Ads & Tracking" Blockliste: ***Werbung, Tracking - nur das Nötigste***. Eine ***Light*** Filterliste die nur Werbung und Tracking blockt - Optimiert fuer den deutschsprachigen Raum (DACH). Die Filterliste wird stetig erweitert. Alle Filter sind in ***Multi*** enthalten. *(Optional)*  
-
-> ***Quelle:*** *zelo72*
-
-#### Normales Blocking (Empfohlen) ~330.000 Domains
+#### Normales Blocking (Empfohlen)
 
 [**Multi**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt) - Zelo's "persönliche" Blockliste: ***Werbung, Tracking, Phishing, Malware, Coins und sonstiger "Mist" aus dem Netz***. Eine All-in-One Filterliste die keine zwingend benötigten "Funktionen" blockiert - kein striktes Blocken. Dead-Hosts (Hosts-Adressen die nicht mehr existieren) wurden aus dieser Liste entfernt. Sie kann als alleinige Blockliste verwendet werden. ***(Empfehlung)***  
 
@@ -18,7 +12,7 @@
 
 > ***Quellen:*** *Verbraucherzentralen, Trusted Shops, Watchlist Internet, zelo72*
 
-#### Weitreichendes Blocking ~1.300.000 Domains
+#### Weitreichendes Blocking
   
 [**Extended**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/ext.txt) - Erweiterte Blockliste: ***Enthält alles aus der Multi- und Fake-Liste und blockt zusätzliche Werbung, Tracking, Phishing, Malware, Scam, Coins und sonstigen "Mist" aus dem Netz***. Sie kann als alleinige Blockliste verwendet werden. *(Optional - die volle Dröhnung!)*  
 
