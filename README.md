@@ -4,7 +4,7 @@
 
 #### Moderates Blocking ~3.000 Domains
 
-[**AdsTrk**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adstrk.txt) - Zelo's "Ads & Tracking" Blockliste: ***Werbung, Tracking - nur das Nötigste***. Eine ***Light*** Filterliste die nur Werbung und Tracking blockt - Optimiert fuer den deutschsprachigen Raum. Die Filterliste wird stetig erweitert. Alle Filter sind in ***Multi*** enthalten. *(Optional)*  
+[**AdsTrk**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adstrk.txt) - Zelo's "Ads & Tracking" Blockliste: ***Werbung, Tracking - nur das Nötigste***. Eine ***Light*** Filterliste die nur Werbung und Tracking blockt - Optimiert fuer den deutschsprachigen Raum (DACH). Die Filterliste wird stetig erweitert. Alle Filter sind in ***Multi*** enthalten. *(Optional)*  
 
 > ***Quelle:*** *zelo72*
 
