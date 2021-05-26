@@ -4,7 +4,7 @@
 
 [**Multi**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt) - Zelo's "persönliche" Blockliste: ***Werbung, Tracking, Phishing, Malware, Coins und sonstiger "Mist" aus dem Netz***. Eine All-in-One Filterliste die keine zwingend benötigten "Funktionen" blockiert - kein striktes Blocken. Dead-Hosts (Hosts-Adressen die nicht mehr existieren) wurden aus dieser Liste entfernt. Sie kann als alleinige Blockliste verwendet werden. ***(Empfehlung)***  
 
-> ***Quellen:*** *adaway.org, adguard.com, cyberthreatcoalition.org, d3ward, dandelionsprout, easylist.to, fademind, firebog, hoshsadiq, jkrejcha, laicure, nextdns, notracking, oisd.nl, osint.digitalside.it, phishing.army, prigentads, shallalist, someonewhocares.org, spam404, stevenblack, urlhaus.abuse.ch, yhonay, yoyo.org, zerodot1, zelo72*
+> ***Quellen:*** *adaway.org, adguard.com, cyberthreatcoalition.org, d3ward, dandelionsprout, easylist.to, fademind, firebog, hoshsadiq, jkrejcha, laicure, nextdns, notracking, oisd.nl, osint.digitalside.it, phishing.army, prigentads, quidsup, shallalist, someonewhocares.org, spam404, stevenblack, urlhaus.abuse.ch, yhonay, yoyo.org, zerodot1, zelo72*
 
 [**Fake**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/fake.txt) - Zelo's "anti Abzock" Blockliste: ***Fake-Shops, -Streaming, Abzocke und Co***. Auf Basis verschiedener Verbaucherseiten, Warnungen und anderen Fake-Listen. Als Zusatz zur Multi-Filterliste ***(Empfehlung)***  
 
