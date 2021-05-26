@@ -2,21 +2,13 @@
 
 ### ***DNS-Sperrlisten*** (Blacklists)
 
-#### Normales Blocking (Empfohlen)
-
 [**Multi**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt) - Zelo's "persönliche" Blockliste: ***Werbung, Tracking, Phishing, Malware, Coins und sonstiger "Mist" aus dem Netz***. Eine All-in-One Filterliste die keine zwingend benötigten "Funktionen" blockiert - kein striktes Blocken. Dead-Hosts (Hosts-Adressen die nicht mehr existieren) wurden aus dieser Liste entfernt. Sie kann als alleinige Blockliste verwendet werden. ***(Empfehlung)***  
 
-> ***Quellen:*** *adaway.org, adguard.com, d3ward, easylist.to, fademind, firebog, hoshsadiq, jkrejcha, laicure, nextdns, notracking, oisd.nl, phishing.army,   prigentads, shallalist, someonewhocares.org, spam404, stevenblack, urlhaus.abuse.ch, yhonay, yoyo.org, zerodot1, zelo72*  
+> ***Quellen:*** *adaway.org, adguard.com, cyberthreatcoalition.org, d3ward, dandelionsprout, easylist.to, fademind, firebog, hoshsadiq, jkrejcha, laicure, nextdns, notracking, oisd.nl, osint.digitalside.it, phishing.army, prigentads, shallalist, someonewhocares.org, spam404, stevenblack, urlhaus.abuse.ch, yhonay, yoyo.org, zerodot1, zelo72*
 
 [**Fake**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/fake.txt) - Zelo's "anti Abzock" Blockliste: ***Fake-Shops, -Streaming, Abzocke und Co***. Auf Basis verschiedener Verbaucherseiten, Warnungen und anderen Fake-Listen. Als Zusatz zur Multi-Filterliste ***(Empfehlung)***  
 
 > ***Quellen:*** *Verbraucherzentralen, Trusted Shops, Watchlist Internet, zelo72*
-
-#### Weitreichendes Blocking
-  
-[**Extended**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/ext.txt) - Erweiterte Blockliste: ***Enthält alles aus der Multi- und Fake-Liste und blockt zusätzliche Werbung, Tracking, Phishing, Malware, Scam, Coins und sonstigen "Mist" aus dem Netz***. Sie kann als alleinige Blockliste verwendet werden. *(Optional - die volle Dröhnung!)*  
-
-> ***Quellen:*** *adaway.org, adguard.com, cyberthreatcoalition.org, d3ward, dandelionsprout, easylist.to, fademind, firebog, hoshsadiq, jkrejcha, laicure, nextdns, notracking, oisd.nl, osint.digitalside.it, phishing.army, prigentads, shallalist, someonewhocares.org, spam404, stevenblack, urlhaus.abuse.ch, yhonay, yoyo.org, zerodot1, zelo72*
 
 ---
 
@@ -30,18 +22,14 @@
 
 [**AdguardDNS**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt) - AdGuard DNS Filterliste (AdGuard Base filter, German + English filter, Social media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) + Erweiterung um mögliche WWW-Domains. ***(in Multi enthalten)*** - Quelle: [AdguardDNS](https://github.com/AdguardTeam)
 
-[**NextDNS**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nextdns.txt) - NextDNS + Affiliate & Tracking + Erweiterung um mögliche WWW-Domains (Eine umfassende Blockliste zum Blockieren von Anzeigen & Trackern in allen Ländern. Dies ist die empfohlene Starterblockliste von NextDNS. ***(in Extended enthalten)*** - Quelle: [NextDNS](https://github.com/nextdns)
+[**NextDNS**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nextdns.txt) - NextDNS + Affiliate & Tracking + Erweiterung um mögliche WWW-Domains (Eine umfassende Blockliste zum Blockieren von Anzeigen & Trackern in allen Ländern. Dies ist die empfohlene Starterblockliste von NextDNS. ***(in Multi enthalten)*** - Quelle: [NextDNS](https://github.com/nextdns)
 
 ---
 
 ### ***Hinweis***
 
-***Die Blocklisten wurden zur rein persönlichen, privaten Nutzung erstellt. Die Multi-, Extended- und Fake-Blockliste wurde aus vorhandenen Quellen und eigenen Blacklisten unter Berücksichtigung von Whitelisten wie Dead-Hosts (Hosts-Adressen die nicht mehr existieren) und Toplisten (DE:Top 50 - Welt:Top 50) zusammen gestellt.***
+***Die Blocklisten wurden zur rein persönlichen, privaten Nutzung erstellt. Die Multi- und Fake-Blockliste wurde aus vorhandenen Quellen und eigenen Blacklisten unter Berücksichtigung von Whitelisten wie Dead-Hosts (Hosts-Adressen die nicht mehr existieren) und Toplisten (DE:Top 50 - Welt:Top 50) zusammen gestellt.***
 
 **Die Blocklisten werden täglich aktualisiert.**
-
----
-
-*Die Blocklisten im Domain-Format lassen sich - neben PiHole - auch mit Blokada, Diversion, PersonalDNSfilter, pfBlockerNG und PersonalBlocklist nutzen.* ![grafik](https://user-images.githubusercontent.com/62211544/117189136-22048a80-adde-11eb-933d-6e4159fc47d9.png)![grafik](https://user-images.githubusercontent.com/62211544/117189274-4a8c8480-adde-11eb-9d58-b035a211dbdc.png)![grafik](https://user-images.githubusercontent.com/62211544/117189305-55dfb000-adde-11eb-978d-de741fc269a6.png)![grafik](https://user-images.githubusercontent.com/62211544/117189369-6b54da00-adde-11eb-97bd-7ef01a33b12a.png)![grafik](https://user-images.githubusercontent.com/62211544/117189399-7445ab80-adde-11eb-8ab5-d7aeb652269e.png)![grafik](https://user-images.githubusercontent.com/62211544/117189443-7f004080-adde-11eb-99f3-a73c943bf5e1.png)
 
 ---
