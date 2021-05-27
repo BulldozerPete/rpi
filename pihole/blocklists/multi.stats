@@ -16,7 +16,7 @@
 # Hosts fake.txt: 14167 - /media/nas/git/rpi/pihole/blocklists/fake.txt
 # Hosts: 14167
 
-# White-/Deadlist: 283876
+# White-/Deadlist: 283877
 
 # Blacklist global: 237 - /media/nas/git/priv/shell/blocklist/black.list
 # Blacklist source: 1 - /media/nas/git/priv/shell/blocklist/multi.txt.blacklist
@@ -58,19 +58,19 @@
 # 34. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 # 35. Source: 82942 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # 36. Source: 253678 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-# 37. Source: 1566 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 37. Source: 1574 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 38. Source: 290 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 # 39. Source: 1211 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 40. Source: 433 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 881158
+# #. Source: 881166
 
 Statistik multi.txt:
-== Source:      412365
-++ Black:       412370 (+5)
--- White:       349905 (-62465)
--- Hosts:       349849 (-56)
-++ Block:       349850 (+1)
--- Unblock:     349792 (-58)
-++ WWW-Domains: 410853 (+61061)
-++ FLD-Domains: 411583 (+730)
+== Source:      412366
+++ Black:       412371 (+5)
+-- White:       349906 (-62465)
+-- Hosts:       349850 (-56)
+++ Block:       349851 (+1)
+-- Unblock:     349793 (-58)
+++ WWW-Domains: 410856 (+61063)
+++ FLD-Domains: 411586 (+730)
 
