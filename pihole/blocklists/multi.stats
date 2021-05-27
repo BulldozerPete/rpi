@@ -14,13 +14,13 @@
 # ---------------------------------------------
 
 # Hosts fake.txt: 14167 - /media/nas/git/rpi/pihole/blocklists/fake.txt
-# Hosts: 14167 - /media/nas/tmp/host.domains
+# Hosts: 14167
 
-# Whitelist: 283876 - /media/nas/tmp/white.list.sorted
+# White-/Deadlist: 283876
 
 # Blacklist global: 237 - /media/nas/git/priv/shell/blocklist/black.list
 # Blacklist source: 1 - /media/nas/git/priv/shell/blocklist/multi.txt.blacklist
-# Blacklist: 238 - /media/nas/tmp/multi.txt.blacklist.sorted
+# Blacklist: 238
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 # 2. Source: 662 - https://v.firebog.net/hosts/Admiral.txt
@@ -58,21 +58,19 @@
 # 34. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 # 35. Source: 82942 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # 36. Source: 253678 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-# 37. Source: 1557 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 37. Source: 1559 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 38. Source: 290 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 # 39. Source: 1211 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 40. Source: 433 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# ##. Source: 881149 - /media/nas/tmp/multi.txt.raw
+# #. Quelle: 881151
 
 Statistik multi.txt:
-== Source:      412360
-++ Black:       412365 (+5)
--- White:       349900 (-62465)
--- Hosts:       349844 (-56)
-++ Block:       349845 (+1)
--- Unblock:     349787 (-58)
-++ WWW-Domains: 410845 (+61058)
-++ FLD-Domains: 411575 (+730)
-
-Fertig! 411575 Domains - /media/nas/git/rpi/pihole/blocklists/multi.txt
+== Source:      412365
+++ Black:       412370 (+5)
+-- White:       349905 (-62465)
+-- Hosts:       349849 (-56)
+++ Block:       349850 (+1)
+-- Unblock:     349792 (-58)
+++ WWW-Domains: 410853 (+61061)
+++ FLD-Domains: 411583 (+730)
 
