@@ -29,5 +29,3 @@ Erweitere Domains durch WWW         --> 29811 adguarddns.www
 Erstelle Domainliste für FLD        --> 6 adguarddns.www.fld
 Erstelle adguarddns                 --> 66898 adguarddns.txt.tmp
 
-Extrahiere Whitelist Domains        --> 77 /media/nas/git/priv/shell/blocklist/white.list.adguard
-
