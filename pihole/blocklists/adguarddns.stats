@@ -31,7 +31,3 @@ Erstelle adguarddns                 --> 66898 adguarddns.txt.tmp
 
 Extrahiere Whitelist Domains        --> 77 /media/nas/git/priv/shell/blocklist/white.list.adguard
 
-Bereite adguarddns für Git Push vor ... 
-
-Fertig!
-
