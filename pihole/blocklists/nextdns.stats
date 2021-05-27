@@ -1,0 +1,56 @@
+# ---------------------------------------------
+# "NextDNS" Blockliste
+# ---------------------------------------------
+#
+# Erstellt zur rein persönlichen, privaten
+# Nutzung.
+#
+# NextDNS empfohlen + Affiliate & Tracking
+#
+# Eine umfassende Blockliste zum Blockieren
+# von Anzeigen & Trackern in allen Ländern.
+# Dies ist die empfohlene Starterblockliste
+# von NextDNS.
+#
+# +++
+#
+# Affiliate- und Tracking-Domains, die auf
+# Angebots-Webseiten, in E-Mails oder in
+# Suchergebnissen häufig vorkommen.
+# Diese werden normalerweise erst nach
+# manuellem Klicken auf einen Link aufgerufen.
+#
+# Blacklist-Quellen:
+# ******************
+# https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
+# https://github.com/nextdns/metadata/blob/master/privacy/affiliate-tracking-domains
+#
+# + Erweitert um mögliche WWW/FLD-Domains.
+#
+# ---------------------------------------------
+# GitHub: https://github.com/Zelo72
+# Mail:   zelo72@dismail.de
+# ---------------------------------------------
+
+# Hosts:  - /media/nas/tmp/host.domains
+
+# Whitelist:  - /media/nas/git/priv/shell/blocklist/nextdns.txt.white.sorted
+
+# Blacklist: 1 - /media/nas/tmp/nextdns.txt.blacklist.sorted
+
+# 1. Source: 82942 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# 2. Source: 1761 - https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+# 3. Source: 9458 - https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
+# 4. Source: 2214 - https://raw.githubusercontent.com/tiuxo/hosts/master/ads
+# 5. Source: 422 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
+# ##. Source: 96797 - /media/nas/tmp/nextdns.txt.raw
+
+Statistik nextdns.txt:
+== Source:      92362
+++ Black:       92363 (+1)
+-- Unblock:     92342 (-21)
+++ WWW-Domains: 101990 (+9648)
+++ FLD-Domains: 103690 (+1700)
+
+Fertig! 103690 Domains - /media/nas/git/rpi/pihole/blocklists/nextdns.txt
+
