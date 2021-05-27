@@ -22,10 +22,10 @@
 # Mail:   zelo72@dismail.de
 # ---------------------------------------------
 
-Downloade adguarddns                --> 48576 adguarddns.raw
-Extrahiere gültige Domains          --> 37083 adguarddns.domains
-Erstelle Domainliste für WWW Zusatz --> 29811 adguarddns.domains.www
-Erweitere Domains durch WWW         --> 29811 adguarddns.www
+Downloade adguarddns                --> 48606 adguarddns.raw
+Extrahiere gültige Domains          --> 37099 adguarddns.domains
+Erstelle Domainliste für WWW Zusatz --> 29823 adguarddns.domains.www
+Erweitere Domains durch WWW         --> 29823 adguarddns.www
 Erstelle Domainliste für FLD        --> 6 adguarddns.www.fld
-Erstelle adguarddns                 --> 66898 adguarddns.txt.tmp
+Erstelle adguarddns                 --> 66926 adguarddns.txt.tmp
 
