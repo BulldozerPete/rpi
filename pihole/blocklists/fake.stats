@@ -12,15 +12,15 @@
 # Mail:   zelo72@dismail.de
 # ---------------------------------------------
 
-# Hosts:  - /media/nas/tmp/host.domains
+# Hosts: 
 
-# Whitelist: 283876 - /media/nas/tmp/white.list.sorted
+# White-/Deadlist: 283876
 
-# Blacklist: 6948 - /media/nas/tmp/fake.txt.blacklist.sorted
+# Blacklist: 6948
 
 # 1. Source: 4100 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
-# ##. Source: 4227 - /media/nas/tmp/fake.txt.raw
+# #. Quelle: 4227
 
 Statistik fake.txt:
 == Source:      4227
@@ -29,6 +29,3 @@ Statistik fake.txt:
 -- Unblock:     7205 (-0)
 ++ WWW-Domains: 14155 (+6950)
 ++ FLD-Domains: 14167 (+12)
-
-Fertig! 14167 Domains - /media/nas/git/rpi/pihole/blocklists/fake.txt
-

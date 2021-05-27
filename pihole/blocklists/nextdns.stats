@@ -32,18 +32,18 @@
 # Mail:   zelo72@dismail.de
 # ---------------------------------------------
 
-# Hosts:  - /media/nas/tmp/host.domains
+# Hosts: 
 
-# Whitelist:  - /media/nas/git/priv/shell/blocklist/nextdns.txt.white.sorted
+# White-/Deadlist: 
 
-# Blacklist: 1 - /media/nas/tmp/nextdns.txt.blacklist.sorted
+# Blacklist: 1
 
 # 1. Source: 82942 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # 2. Source: 1761 - https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 # 3. Source: 9458 - https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 # 4. Source: 2214 - https://raw.githubusercontent.com/tiuxo/hosts/master/ads
 # 5. Source: 422 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
-# ##. Source: 96797 - /media/nas/tmp/nextdns.txt.raw
+# #. Quelle: 96797
 
 Statistik nextdns.txt:
 == Source:      92362
@@ -51,6 +51,4 @@ Statistik nextdns.txt:
 -- Unblock:     92342 (-21)
 ++ WWW-Domains: 101990 (+9648)
 ++ FLD-Domains: 103690 (+1700)
-
-Fertig! 103690 Domains - /media/nas/git/rpi/pihole/blocklists/nextdns.txt
 

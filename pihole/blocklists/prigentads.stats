@@ -1,0 +1,34 @@
+# ---------------------------------------------
+# "Prigent Ads" Blockliste
+# ---------------------------------------------
+#
+# Erstellt zur rein persönlichen, privaten
+# Nutzung.
+#
+# Blacklists UT1 by Fabrice Prigent 
+# https://dsi.ut-capitole.fr/blacklists/index_en.php
+#
+# Prigent Ads
+#
+# Blacklist-Quellen:
+# ******************
+# http://dsi.ut-capitole.fr/blacklists/download/ads.tar.gz
+#
+# + Erweitert um mögliche WWW/FLD-Domains.
+#
+# ---------------------------------------------
+# GitHub: https://github.com/Zelo72
+# Mail:   zelo72@dismail.de
+# ---------------------------------------------
+
+Downloade prigentads                --> 3744 prigentads.raw
+Extrahiere gültige Domains          --> 3671 prigentads.domains
+Erstelle Domainliste für WWW Zusatz --> 2357 prigentads.domains.www
+Erweitere Domains durch WWW         --> 2357 prigentads.www
+Erstelle Domainliste für FLD        --> 0 prigentads.www.fld
+Erstelle prigentads                 --> 6028 prigentads.txt.tmp
+
+Bereite prigentads für Git Push vor ... 
+
+Fertig!
+

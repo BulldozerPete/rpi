@@ -1,0 +1,33 @@
+# ---------------------------------------------
+# "EasyList" Blockliste
+# ---------------------------------------------
+#
+# Erstellt zur rein persönlichen, privaten
+# Nutzung.
+#
+# EasyList (+Germany) & EasyList Privacy
+#
+# Blacklist-Quellen:
+# ******************
+# https://easylist.to/easylist/easylist.txt
+# https://easylist.to/easylist/easyprivacy.txt
+# https://easylist.to/easylistgermany/easylistgermany.txt
+#
+# + Erweitert um mögliche WWW/FLD-Domains.
+#
+# ---------------------------------------------
+# GitHub: https://github.com/Zelo72
+# Mail:   zelo72@dismail.de
+# ---------------------------------------------
+
+Downloade easylist                  --> 85101 easylist.raw
+Extrahiere gültige Domains          --> 30285 easylist.domains
+Erstelle Domainliste für WWW Zusatz --> 19763 easylist.domains.www
+Erweitere Domains durch WWW         --> 19763 easylist.www
+Erstelle Domainliste für FLD        --> 8 easylist.www.fld
+Erstelle easylist                   --> 50056 easylist.txt.tmp
+
+Bereite easylist für Git Push vor ... 
+
+Fertig!
+

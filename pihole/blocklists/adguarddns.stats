@@ -1,0 +1,37 @@
+# ---------------------------------------------
+# "AdGuardDNS" Blockliste
+# ---------------------------------------------
+#
+# Erstellt zur rein persönlichen, privaten
+# Nutzung.
+#
+# AdGuard DNS Filterliste
+#
+# AdGuard Base filter, Social media filter, 
+# Tracking Protection filter, Mobile Ads filter,
+# EasyList and EasyPrivacy
+#
+# Blacklist-Quellen:
+# ******************
+# https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+#
+# + Erweitert um mögliche WWW/FLD-Domains.
+#
+# ---------------------------------------------
+# GitHub: https://github.com/Zelo72
+# Mail:   zelo72@dismail.de
+# ---------------------------------------------
+
+Downloade adguarddns                --> 48576 adguarddns.raw
+Extrahiere gültige Domains          --> 37083 adguarddns.domains
+Erstelle Domainliste für WWW Zusatz --> 29811 adguarddns.domains.www
+Erweitere Domains durch WWW         --> 29811 adguarddns.www
+Erstelle Domainliste für FLD        --> 6 adguarddns.www.fld
+Erstelle adguarddns                 --> 66898 adguarddns.txt.tmp
+
+Extrahiere Whitelist Domains        --> 77 /media/nas/git/priv/shell/blocklist/white.list.adguard
+
+Bereite adguarddns für Git Push vor ... 
+
+Fertig!
+

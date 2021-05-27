@@ -11,9 +11,17 @@
 # GitHub: https://github.com/Zelo72
 # Mail:   zelo72@dismail.de
 # ---------------------------------------------
+#
+# Statistik:
+#
+# White-/Deadlist: 283876
+# Blacklist:       6948
+# 1. Source:       4100 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+# 2. Source:       127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
+#
+# ---------------------------------------------
 # 14167 Domains
 # ---------------------------------------------
-#
 100jahrehochbahn.de
 101joints.com
 123brennholz.com
