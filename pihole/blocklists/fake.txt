@@ -12,12 +12,13 @@
 # Mail:   zelo72@dismail.de
 # ---------------------------------------------
 #
-# Statistik:
+# Statistik
+# ---------
 #
 # White-/Deadlist: 283876
-# Blacklist:       6948
-# 1. Source:       4100 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# 2. Source:       127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
+# Blacklist: 6948
+# 1. Source: 4100 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+# 2. Source: 127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
 #
 # ---------------------------------------------
 # 14167 Domains
