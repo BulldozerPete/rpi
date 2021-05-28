@@ -17,12 +17,12 @@
 # ---------
 #
 # White-/Deadlist: 283830
-# Blacklist: 6948
+# Blacklist: 6949
 # 1. Source: 4100 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
 #
 # ---------------------------------------------
-# 14167 Domains - 2021.05.27-23:37:51
+# 14169 Domains - 2021.05.28-03:31:36
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -5776,6 +5776,7 @@ sparkauf24.com
 sparkauf.eu
 sparklybag.com
 sparluchs.net
+spar-markt.de
 spaxdelivery.org
 speaklife.at
 specialsalecheap.com
@@ -12620,6 +12621,7 @@ www.sparkauf24.com
 www.sparkauf.eu
 www.sparklybag.com
 www.sparluchs.net
+www.spar-markt.de
 www.spaxdelivery.org
 www.speaklife.at
 www.specialsalecheap.com
