@@ -43,7 +43,7 @@
 # 19. Source: 66978 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 20. Source: 12703 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 # 21. Source: 72687 - https://dbl.oisd.nl/basic/
-# 22. Source: 35725 - https://phishing.army/download/phishing_army_blocklist_extended.txt
+# 22. Source: 35972 - https://phishing.army/download/phishing_army_blocklist_extended.txt
 # 23. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 # 24. Source: 122584 - https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
 # 25. Source: 34 - https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
@@ -58,18 +58,17 @@
 # 34. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 # 35. Source: 82942 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # 36. Source: 253348 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-# 37. Source: 1455 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 37. Source: 1454 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 38. Source: 290 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 # 39. Source: 1215 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 40. Source: 433 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 880887
+# #. Source: 881133
 
 Statistik multi.txt:
-== Source:      412333
-++ Black:       412707 (+374)
--- White:       349898 (-62809)
--- Hosts:       349842 (-56)
-++ Block:       349843 (+1)
--- Unblock:     349788 (-55)
-++ WWW-Domains: 410539 (+60751)
-++ FLD-Domains: 411268 (+729)
+== Source:      412621
+++ Black:       412995 (+374)
+-- White:       350186 (-62809)
+-- Hosts:       350130 (-56)
+-- Unblock:     350075 (-55)
+++ WWW-Domains: 410926 (+60851)
+++ FLD-Domains: 411658 (+732)
