@@ -16,13 +16,13 @@
 # Statistik
 # ---------
 #
-# White-/Deadlist: 287104
-# Blacklist: 6949
+# White-/Deadlist: 288471
+# Blacklist: 6947
 # 1. Source: 4100 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
 #
 # ---------------------------------------------
-# 14169 Domains - V2021.05.28-14:15:10
+# 14165 Domains - V2021.05.28-15:41:23
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -3620,7 +3620,6 @@ lifeworks-munich.de
 liftr.eu
 lighteu.de
 lightflix.de
-lightinthebox.com
 lightoping.com
 lightunity.de
 likebootsde.com
@@ -4994,7 +4993,6 @@ popnewin.com
 popshily.com
 populily.com
 popuor.com
-popuptest.com
 popwelle.com
 portags.com
 portplay.de
@@ -10534,7 +10532,6 @@ www.lifeworks-munich.de
 www.liftr.eu
 www.lighteu.de
 www.lightflix.de
-www.lightinthebox.com
 www.lightoping.com
 www.lightunity.de
 www.likebootsde.com
@@ -11862,7 +11859,6 @@ www.popnewin.com
 www.popshily.com
 www.populily.com
 www.popuor.com
-www.popuptest.com
 www.popwelle.com
 www.portags.com
 www.portplay.de
