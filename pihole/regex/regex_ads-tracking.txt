@@ -30,12 +30,10 @@
 (\.|^)eulerian\.net$
 (\.|^)freshmarketer\.com$
 (\.|^)gscontxt\.net$
-(\.|^)hotjar\.com$
 (\.|^)ivwbox\.de$
 (\.|^)justpremium\.com$
 (\.|^)kameleoon\.eu$
 (\.|^)ktxtr\.com$
-(\.|^)liftoff\.io$
 (\.|^)m6r\.eu$
 (\.|^)mateti\.net$
 (\.|^)media\.net$
@@ -43,13 +41,11 @@
 (\.|^)meetrics\.de$
 (\.|^)meetrics\.net$
 (\.|^)mookie1\.com$
-(\.|^)mouseflow\.com$
 (\.|^)m-pathy\.com$
 (\.|^)nuggad\.net$
 (\.|^)oghub\.io$
 (\.|^)omnitagjs\.com$
 (\.|^)openx\.net$
-(\.|^)outbrain\.com$
 (\.|^)piwik\.pro$
 (\.|^)plista\.com$
 (\.|^)pointmediatracker\.com$
@@ -62,7 +58,6 @@
 (\.|^)storetail\.io$
 (\.|^)supersonicads\.com$
 (\.|^)supersonic\.com$
-(\.|^)taboola\.com$
 (\.|^)teads\.tv$
 (\.|^)theadex\.com$
 (\.|^)trafficjunky\.net$
