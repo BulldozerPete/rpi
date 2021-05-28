@@ -13,14 +13,14 @@
 # Mail:   zelo72@dismail.de
 # ---------------------------------------------
 
-# Hosts fake.txt: 14165 - /media/nas/git/rpi/pihole/blocklists/fake.txt
+# Hosts fake.txt: 14165
 # Hosts: 14165
 
 # White-/Deadlist: 288471
 
-# Blacklist global: 445 - /media/nas/git/priv/shell/blocklist/black.list
-# Blacklist source: 1 - /media/nas/git/priv/shell/blocklist/multi.txt.blacklist
-# Blacklist: 446
+# Blacklist global: 444
+# Blacklist source: 1
+# Blacklist: 445
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 # 2. Source: 662 - https://v.firebog.net/hosts/Admiral.txt
@@ -39,7 +39,7 @@
 # 15. Source: 9 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi
 # 16. Source: 103690 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nextdns.txt
 # 17. Source: 15009 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-# 18. Source: 50147 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
+# 18. Source: 50149 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 19. Source: 66978 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 20. Source: 12703 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 # 21. Source: 72687 - https://dbl.oisd.nl/basic/
@@ -58,19 +58,19 @@
 # 34. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 # 35. Source: 82942 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # 36. Source: 253348 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-# 37. Source: 1467 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 37. Source: 1459 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 38. Source: 290 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 # 39. Source: 1215 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 40. Source: 433 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 880897
+# #. Source: 880891
 
 Statistik multi.txt:
-== Source:      412330
-++ Black:       412705 (+375)
--- White:       349896 (-62809)
--- Hosts:       349840 (-56)
-++ Block:       349841 (+1)
--- Unblock:     349786 (-55)
-++ WWW-Domains: 410538 (+60752)
-++ FLD-Domains: 411267 (+729)
+== Source:      412334
+++ Black:       412708 (+374)
+-- White:       349899 (-62809)
+-- Hosts:       349843 (-56)
+++ Block:       349844 (+1)
+-- Unblock:     349789 (-55)
+++ WWW-Domains: 410540 (+60751)
+++ FLD-Domains: 411269 (+729)
 
