@@ -16,13 +16,13 @@
 # Statistik
 # ---------
 #
-# White-/Deadlist: 288682
-# Blacklist: 6947
+# White-/Deadlist: 288929
+# Blacklist: 6952
 # 1. Source: 4100 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
 #
 # ---------------------------------------------
-# 14165 Domains - V2021.05.28-22:28:40
+# 14171 Domains - V2021.05.28-23:11:18
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -41,6 +41,7 @@
 24h-elektrodienst.at
 24things.de
 2hgv-emstek.de
+2rad-hanke.de
 2rad-klein.de
 2rad-xxl.de
 300-dpi-buch.de
@@ -881,6 +882,7 @@ bullplay.de
 bullusenet.de
 bumaplay.de
 bumelnde.org
+b-und-h.com
 bungarten-wenzel.de
 buntneu.com
 buoniperte.it
@@ -4372,6 +4374,7 @@ murusidis.de
 music2ndhand.de
 musikzitat.at
 mut-bar.de
+muzam.de
 mvbergweiler.de
 mv-pflegeschutz.de
 mv-rosenau.at
@@ -7053,6 +7056,7 @@ www.24flix.de
 www.24h-elektrodienst.at
 www.24things.de
 www.2hgv-emstek.de
+www.2rad-hanke.de
 www.2rad-klein.de
 www.2rad-xxl.de
 www.300-dpi-buch.de
@@ -7870,6 +7874,7 @@ www.bullplay.de
 www.bullusenet.de
 www.bumaplay.de
 www.bumelnde.org
+www.b-und-h.com
 www.bungarten-wenzel.de
 www.buntneu.com
 www.buoniperte.it
@@ -11255,6 +11260,7 @@ www.murusidis.de
 www.music2ndhand.de
 www.musikzitat.at
 www.mut-bar.de
+www.muzam.de
 www.mvbergweiler.de
 www.mv-pflegeschutz.de
 www.mv-rosenau.at
