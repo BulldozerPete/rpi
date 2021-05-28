@@ -16,13 +16,13 @@
 # Statistik
 # ---------
 #
-# White-/Deadlist: 288471
+# White-/Deadlist: 288682
 # Blacklist: 6947
 # 1. Source: 4100 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
 #
 # ---------------------------------------------
-# 14165 Domains - V2021.05.28-17:08:53
+# 14165 Domains - V2021.05.28-22:28:40
 # ---------------------------------------------
 #
 100jahrehochbahn.de

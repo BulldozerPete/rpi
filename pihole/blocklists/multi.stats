@@ -16,11 +16,11 @@
 # Hosts fake.txt: 14165
 # Hosts: 14165
 
-# White-/Deadlist: 288471
+# White-/Deadlist: 288682
 
-# Blacklist global: 444
+# Blacklist global: 209
 # Blacklist source: 1
-# Blacklist: 445
+# Blacklist: 210
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 # 2. Source: 662 - https://v.firebog.net/hosts/Admiral.txt
@@ -40,7 +40,7 @@
 # 16. Source: 103690 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nextdns.txt
 # 17. Source: 15009 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 # 18. Source: 50149 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
-# 19. Source: 66978 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 19. Source: 66981 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 20. Source: 12703 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 # 21. Source: 72687 - https://dbl.oisd.nl/basic/
 # 22. Source: 35972 - https://phishing.army/download/phishing_army_blocklist_extended.txt
@@ -58,17 +58,17 @@
 # 34. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 # 35. Source: 82942 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # 36. Source: 253348 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-# 37. Source: 1454 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 37. Source: 1448 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 38. Source: 290 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 # 39. Source: 1215 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 40. Source: 433 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 881133
+# #. Source: 881130
 
 Statistik multi.txt:
-== Source:      412621
-++ Black:       412995 (+374)
--- White:       350186 (-62809)
--- Hosts:       350130 (-56)
--- Unblock:     350075 (-55)
-++ WWW-Domains: 410926 (+60851)
-++ FLD-Domains: 411658 (+732)
+== Source:      412623
+++ Black:       412833 (+210)
+-- White:       349874 (-62959)
+-- Hosts:       349818 (-56)
+-- Unblock:     349763 (-55)
+++ WWW-Domains: 410611 (+60848)
+++ FLD-Domains: 411343 (+732)
