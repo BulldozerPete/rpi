@@ -16,13 +16,13 @@
 # Statistik
 # ---------
 #
-# White-/Deadlist: 288929
+# White-/Deadlist: 300376
 # Blacklist: 6952
-# 1. Source: 4100 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+# 1. Source: 4138 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
 #
 # ---------------------------------------------
-# 14171 Domains - V2021.05.28-23:11:18
+# 14238 Domains - V2021.05.30-03:32:35
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -90,6 +90,7 @@ abenteuerlust.net
 abfluss-frei24.de
 ab-homes.com
 abh-uhren.de
+abinaslawk.com
 abkingpro.at
 abnehmen-einfach-gemacht.de
 aboplay.de
@@ -345,6 +346,7 @@ areck-vom-kleibergsfeld.de
 aredfoods.com
 arena-jeux.com
 ariacosmetics.co.uk
+arjav-bids.com
 arktofil.de
 arlodesire.com
 armadio-mode-calw.de
@@ -643,6 +645,7 @@ beziehungspersoenlichkeit.de
 bgrci-echeck.de
 bgs.bz
 bhc-luzern.ch
+bhgroupx.com
 bhseen.com
 bhslogistic.tk
 bhstestflex.de
@@ -767,6 +770,7 @@ bogostream.de
 boguso.de
 bokuflix.de
 bolada.de
+bold-estate.com
 boldmatters.de
 bolitrans.com
 bomoflix.de
@@ -843,6 +847,7 @@ british-columbia-hotels.com
 brodyjeane.com
 bro-ker.de
 brook-field-assets.com
+brookfieldassets.eu
 brotherprintersupport.net
 brownbest.club
 brs-biogas.at
@@ -1394,6 +1399,7 @@ dectty.com
 de.de2021.com
 deepflix.de
 de.fordeals24.com
+de-imex.de
 deinbaumarkt24.eu
 deinbikeprofi.de
 dein-elektromarkt.de
@@ -1865,6 +1871,7 @@ engelbert-versand.de
 engelhardt-ses.de
 engelmann-elektro.de
 enginelover.com
+engllischebulldogge.com
 enix-ai.net
 enjoyhop.com
 enjoy-relax.at
@@ -2209,6 +2216,7 @@ foolhouse.de
 footballcamp.at
 footsmart.eu
 footwearonesale.com
+foplay.de
 force.dr-g-schober.at
 fordeals24.com
 forestcabin-de.myshopify.com
@@ -2361,6 +2369,7 @@ garten-events.de
 gartenfreunde-murrhardt.de
 garten-genial.de
 garten-maestro.de
+garten-paule.de
 gartenwelt-lammerting.de
 gartenwerker-sascha-kolic.de
 gasteinerhodalumpn.at
@@ -2376,6 +2385,7 @@ gdeepsea.com
 gdetivtope.com
 gdprice.co.uk
 ge4collection.com
+gearmall.co.uk
 gebo-rituale.at
 gebr-huber.de
 gecycles.com
@@ -3025,6 +3035,7 @@ inetchip.de
 inetzteil.de
 infinite-electronic.de
 infinite-electronics.hk
+infinity-element.com
 inflix.de
 infotripvnw.com
 infox24.de
@@ -3245,6 +3256,7 @@ kaliro-pellets.de
 kaltesbroetchen.de
 kaluxo.de
 kamaflix.de
+kamagrabestellen.shop
 kaminfegerriediker.ch
 kammy.eu
 kandiny.com
@@ -3471,6 +3483,7 @@ ksutora.com
 kswfp.top
 kuaicmn.com
 kuechenblume.net
+kuechen-sommer.de
 kugler-autolack.de
 kunstamt.at
 kunstzeit-ruhr.de
@@ -3581,6 +3594,7 @@ lernwerkstatt-villach.at
 lesamisdupiston.ch
 lesehunde.de
 lesgrandsgats-sologne.com
+lesplay.de
 lestetesbrulees.ch
 lesvitalities.com
 letesteur.net
@@ -3615,6 +3629,7 @@ lieblingstaschen.com
 liebly.de
 liebrari.com
 lieb-schafft.de
+liebscher-elektro.de
 lifecottons.com
 lifestyle-gastronomie.de
 lifestyleskondome.de
@@ -3726,6 +3741,7 @@ lowpricemoncler.top
 loxflix.de
 loxostream.de
 loyaltrend-de.com
+lozano-agro-spedition.com
 lpstransport.com
 lrealvinc.com
 ls-works.de
@@ -3733,6 +3749,7 @@ ltehnovar.com
 ltripxd.top
 lucavida.de
 luckfashions.com
+luckstark.com
 luckyukii.com
 lucybreeze.com
 lugoflix.de
@@ -4026,6 +4043,7 @@ methaozp.com
 mettle.at
 metzgereilauster.de
 mexflix.com
+mexisale.com
 mexkino.com
 mexplay.de
 mexstream.de
@@ -4559,6 +4577,7 @@ notebook-profis.shop
 notherr.com
 notinstallateur24h.at
 novacosy.com
+nova-eu.com
 novaflix.de
 novagamers.net
 nova-watch.co
@@ -4733,6 +4752,7 @@ pantoletti.myshopify.com
 pantsholic.com
 panzer-industriebedarf.de
 papiflix.de
+papskenya.com
 papsttasche.de
 paraflix.de
 parazax.com
@@ -4760,6 +4780,7 @@ payment-confirmations.online
 payment-confirmations.xyz
 pay-privat.online
 pay-privat.site
+payszpz.cf
 p-bau.at
 pbpksbd.com
 pc-akku.at
@@ -4784,6 +4805,7 @@ pension-heuhexe.de
 pepes-weltreisen.de
 peppesbutik.se
 peppnet.com
+perfectclub.shop
 perfect-home.co
 perfektegeschenke.co.uk
 perfektwelt.de
@@ -4970,6 +4992,7 @@ plaza-real-estates.eu
 pleasurelounge.at
 plex-elektrostore.com
 plinkereule.de
+pltechsarl.top
 pluri-lec.com
 pmarebaja.online
 pmkbfx.com
@@ -4982,6 +5005,7 @@ polenboeller-bestellen.com
 polenboeller-deutschland.com
 politecity.com
 poliva.store
+polodresse2020.com
 polokleidung.de
 polomano.co
 polo-sales.com
@@ -4989,6 +5013,7 @@ poltoshop.com
 polymerd.com
 pomeranets.de
 pommersches-bettenmuseum.de
+pomplay.de
 poneyclubyonnais.com
 ponymediaxis.de
 poobia.com
@@ -5106,6 +5131,7 @@ pyro-effects.com
 pyroxtrem.com
 qakppo.top
 qbzdq.shop
+qfucktalk.com
 qi-dance.de
 qintimemoon.com
 qiundgong.at
@@ -5308,6 +5334,7 @@ roemer-schafhausen.de
 rohrbruch-notdienst24.at
 rohrreinigung24-7.at
 rohrreinigung--24.at
+rohrreinigung-24h.at
 rohrsanierungen24.de
 rohrverstopfung-notdienst.at
 rolandberlin.de
@@ -5315,6 +5342,7 @@ rolladenreparatur.at
 rollangel.com
 rollerclub-wieselburg.at
 rollerkarl.de
+rollerklub-wieselburg.at
 rollerrent-schwabing.de
 rollomall.de
 romantic-butterfly.com
@@ -6392,6 +6420,7 @@ traumtanzer.com
 travodo.net
 treasureboy.net
 trec-re.com
+treekidsn.com
 treestore.xyz
 tremendaedizioni.it
 trend-angebot.com
@@ -6620,6 +6649,7 @@ urbanized.shop
 urbanized-store.de
 urbanpodspro.com
 urban-transporte.com
+ureines.com
 urhair.co.uk
 urkoolwear.com
 urlaub-martens.de
@@ -6801,6 +6831,7 @@ vs-logistics.eu
 vsmee.com
 vsmitterdorf-raab.at
 vstroke.de
+vtecnokar.com
 vtmu.ch
 vunir.de
 vunol.de
@@ -7103,6 +7134,7 @@ www.abenteuerlust.net
 www.abfluss-frei24.de
 www.ab-homes.com
 www.abh-uhren.de
+www.abinaslawk.com
 www.abkingpro.at
 www.abnehmen-einfach-gemacht.de
 www.aboplay.de
@@ -7353,6 +7385,7 @@ www.ardivine.com
 www.areck-vom-kleibergsfeld.de
 www.aredfoods.com
 www.arena-jeux.com
+www.arjav-bids.com
 www.arktofil.de
 www.arlodesire.com
 www.armadio-mode-calw.de
@@ -7639,6 +7672,7 @@ www.beziehungspersoenlichkeit.de
 www.bgrci-echeck.de
 www.bgs.bz
 www.bhc-luzern.ch
+www.bhgroupx.com
 www.bhseen.com
 www.bhslogistic.tk
 www.bhstestflex.de
@@ -7758,6 +7792,7 @@ www.bogostream.de
 www.boguso.de
 www.bokuflix.de
 www.bolada.de
+www.bold-estate.com
 www.boldmatters.de
 www.bolitrans.com
 www.bomoflix.de
@@ -7835,6 +7870,7 @@ www.british-columbia-hotels.com
 www.brodyjeane.com
 www.bro-ker.de
 www.brook-field-assets.com
+www.brookfieldassets.eu
 www.brotherprintersupport.net
 www.brownbest.club
 www.brs-biogas.at
@@ -8354,6 +8390,7 @@ www.dealshopper.de
 www.decleaners.de
 www.dectty.com
 www.deepflix.de
+www.de-imex.de
 www.deinbaumarkt24.eu
 www.deinbikeprofi.de
 www.dein-elektromarkt.de
@@ -8814,6 +8851,7 @@ www.engelbert-versand.de
 www.engelhardt-ses.de
 www.engelmann-elektro.de
 www.enginelover.com
+www.engllischebulldogge.com
 www.enix-ai.net
 www.enjoyhop.com
 www.enjoy-relax.at
@@ -9150,6 +9188,7 @@ www.foolhouse.de
 www.footballcamp.at
 www.footsmart.eu
 www.footwearonesale.com
+www.foplay.de
 www.fordeals24.com
 www.forevercosmetics.us
 www.form-willhaben.at
@@ -9299,6 +9338,7 @@ www.garten-events.de
 www.gartenfreunde-murrhardt.de
 www.garten-genial.de
 www.garten-maestro.de
+www.garten-paule.de
 www.gartenwelt-lammerting.de
 www.gartenwerker-sascha-kolic.de
 www.gasteinerhodalumpn.at
@@ -9950,6 +9990,7 @@ www.inetchip.de
 www.inetzteil.de
 www.infinite-electronic.de
 www.infinite-electronics.hk
+www.infinity-element.com
 www.inflix.de
 www.infotripvnw.com
 www.infox24.de
@@ -10168,6 +10209,7 @@ www.kaliro-pellets.de
 www.kaltesbroetchen.de
 www.kaluxo.de
 www.kamaflix.de
+www.kamagrabestellen.shop
 www.kaminfegerriediker.ch
 www.kammy.eu
 www.kandiny.com
@@ -10389,6 +10431,7 @@ www.ksutora.com
 www.kswfp.top
 www.kuaicmn.com
 www.kuechenblume.net
+www.kuechen-sommer.de
 www.kugler-autolack.de
 www.kunstamt.at
 www.kunstzeit-ruhr.de
@@ -10498,6 +10541,7 @@ www.lernwerkstatt-villach.at
 www.lesamisdupiston.ch
 www.lesehunde.de
 www.lesgrandsgats-sologne.com
+www.lesplay.de
 www.lestetesbrulees.ch
 www.lesvitalities.com
 www.letesteur.net
@@ -10530,6 +10574,7 @@ www.lieblingstaschen.com
 www.liebly.de
 www.liebrari.com
 www.lieb-schafft.de
+www.liebscher-elektro.de
 www.lifecottons.com
 www.lifestyle-gastronomie.de
 www.lifestyleskondome.de
@@ -10639,6 +10684,7 @@ www.lowpricemoncler.top
 www.loxflix.de
 www.loxostream.de
 www.loyaltrend-de.com
+www.lozano-agro-spedition.com
 www.lpstransport.com
 www.lrealvinc.com
 www.ls-works.de
@@ -10646,6 +10692,7 @@ www.ltehnovar.com
 www.ltripxd.top
 www.lucavida.de
 www.luckfashions.com
+www.luckstark.com
 www.luckyukii.com
 www.lucybreeze.com
 www.lugoflix.de
@@ -10935,6 +10982,7 @@ www.methaozp.com
 www.mettle.at
 www.metzgereilauster.de
 www.mexflix.com
+www.mexisale.com
 www.mexkino.com
 www.mexplay.de
 www.mexstream.de
@@ -11443,6 +11491,7 @@ www.notebook-profis.shop
 www.notherr.com
 www.notinstallateur24h.at
 www.novacosy.com
+www.nova-eu.com
 www.novaflix.de
 www.novagamers.net
 www.nova-watch.co
@@ -11606,6 +11655,7 @@ www.panteha-market.de
 www.pantsholic.com
 www.panzer-industriebedarf.de
 www.papiflix.de
+www.papskenya.com
 www.papsttasche.de
 www.paraflix.de
 www.parazax.com
@@ -11633,6 +11683,7 @@ www.payment-confirmations.online
 www.payment-confirmations.xyz
 www.pay-privat.online
 www.pay-privat.site
+www.payszpz.cf
 www.p-bau.at
 www.pbpksbd.com
 www.pc-akku.at
@@ -11656,6 +11707,7 @@ www.pension-heuhexe.de
 www.pepes-weltreisen.de
 www.peppesbutik.se
 www.peppnet.com
+www.perfectclub.shop
 www.perfect-home.co
 www.perfektwelt.de
 www.performance-gloves.at
@@ -11839,6 +11891,7 @@ www.plaza-real-estates.eu
 www.pleasurelounge.at
 www.plex-elektrostore.com
 www.plinkereule.de
+www.pltechsarl.top
 www.pluri-lec.com
 www.pmarebaja.online
 www.pmkbfx.com
@@ -11851,6 +11904,7 @@ www.polenboeller-bestellen.com
 www.polenboeller-deutschland.com
 www.politecity.com
 www.poliva.store
+www.polodresse2020.com
 www.polokleidung.de
 www.polomano.co
 www.polo-sales.com
@@ -11858,6 +11912,7 @@ www.poltoshop.com
 www.polymerd.com
 www.pomeranets.de
 www.pommersches-bettenmuseum.de
+www.pomplay.de
 www.poneyclubyonnais.com
 www.ponymediaxis.de
 www.poobia.com
@@ -11967,6 +12022,7 @@ www.pyro-effects.com
 www.pyroxtrem.com
 www.qakppo.top
 www.qbzdq.shop
+www.qfucktalk.com
 www.qi-dance.de
 www.qintimemoon.com
 www.qiundgong.at
@@ -12165,6 +12221,7 @@ www.roemer-schafhausen.de
 www.rohrbruch-notdienst24.at
 www.rohrreinigung24-7.at
 www.rohrreinigung--24.at
+www.rohrreinigung-24h.at
 www.rohrsanierungen24.de
 www.rohrverstopfung-notdienst.at
 www.rolandberlin.de
@@ -12172,6 +12229,7 @@ www.rolladenreparatur.at
 www.rollangel.com
 www.rollerclub-wieselburg.at
 www.rollerkarl.de
+www.rollerklub-wieselburg.at
 www.rollerrent-schwabing.de
 www.rollomall.de
 www.romantic-butterfly.com
@@ -13228,6 +13286,7 @@ www.traumtanzer.com
 www.travodo.net
 www.treasureboy.net
 www.trec-re.com
+www.treekidsn.com
 www.treestore.xyz
 www.tremendaedizioni.it
 www.trend-angebot.com
@@ -13441,6 +13500,7 @@ www.urbanized.shop
 www.urbanized-store.de
 www.urbanpodspro.com
 www.urban-transporte.com
+www.ureines.com
 www.urkoolwear.com
 www.urlaub-martens.de
 www.urlaubsmenschen.at
@@ -13619,6 +13679,7 @@ www.vs-logistics.eu
 www.vsmee.com
 www.vsmitterdorf-raab.at
 www.vstroke.de
+www.vtecnokar.com
 www.vtmu.ch
 www.vunir.de
 www.vunol.de
@@ -13957,6 +14018,7 @@ www.zddliver.com
 www.zealreplica.pl
 www.zeelool.com
 www.zefreya.com
+www.zeigdeinbein.de
 www.zeitlosliebe.de
 www.zenodora.fr
 www.zentempel.com
@@ -13967,6 +14029,7 @@ www.zeusfya.com
 www.zf-blog.de
 www.zgongdan.com
 www.zhshang.top
+www.zifuliangm.com
 www.zigaretten-kaufen.org
 www.zigaretten-steuerfrei-bestellen.com
 www.zigmabit.com
@@ -13983,6 +14046,7 @@ www.zollernalb-film.de
 www.zololily.com
 www.zonaflix.de
 www.zopcar-gmbh.com
+www.zpermapi.com
 www.zpohi.com
 www.z-rims.com
 www.zserslicenx.site
@@ -14141,6 +14205,7 @@ zddliver.com
 zealreplica.pl
 zeelool.com
 zefreya.com
+zeigdeinbein.de
 zeitlosliebe.de
 zenodora.fr
 zentempel.com
@@ -14151,6 +14216,7 @@ zeusfya.com
 zf-blog.de
 zgongdan.com
 zhshang.top
+zifuliangm.com
 zigaretten-kaufen.org
 zigaretten-steuerfrei-bestellen.com
 zigmabit.com
@@ -14167,6 +14233,7 @@ zollernalb-film.de
 zololily.com
 zonaflix.de
 zopcar-gmbh.com
+zpermapi.com
 zpohi.com
 z-rims.com
 zserslicenx.site
