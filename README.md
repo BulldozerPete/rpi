@@ -10,7 +10,19 @@
 
 > ***Quellen:*** *Verbraucherzentralen, Trusted Shops, Watchlist Internet, stonecrusher, namePlayer, zelo72* - [Stats](https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/fake.stats)
 
+### ***RegEx-Filter*** 
+
 [**RegEx**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/regex/regex_filter.txt) - Zelo's "RegEx" Blacklist: ***Filtert mögliche Ads- und Tracking-Domains mittels regulären Ausdrücken***. RegEx können per Copy & Paste in Pihole unter *Blacklist > RegEX filter > Regular Expression* hinzugefügt werden. ***(Optional)***  
+
+Weitere RegEx-Filter wie z.B. Geo-Blocking sind [hier](https://github.com/Zelo72/rpi/tree/master/pihole/regex) zu finden.
+
+> ***Quelle:*** *zelo72*
+
+---
+
+### ***DNS-Freigabeliste*** (Whitelist)
+
+[**White**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/white.list) - Zelo's Whitelist: ***Domains die man nicht blocken sollte***. Die in der Whitelist aufgeführten Domains wurden gegen die Multi- und Fake-Blockiste geprüft und sind in diesen Blocklisten nicht mehr enthalten.
 
 > ***Quelle:*** *zelo72*
 
