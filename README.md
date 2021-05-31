@@ -28,7 +28,7 @@ Weitere RegEx-Filter wie z.B. Geo-Blocking sind [hier](https://github.com/Zelo72
 
 ---
 
-### ***DNS-Sperrlisten*** (Blacklists) - generiert aus Anbieterlisten
+### ***DNS-Sperrlisten*** (Blacklists) - generiert aus bekannten Anbieterlisten
 
 **In das Domain-Format umgewandelte Listen** + WWW- & third-party/popup Domains *(Listen in der Multi-Liste bereits enthalten)*
 
@@ -39,6 +39,12 @@ Weitere RegEx-Filter wie z.B. Geo-Blocking sind [hier](https://github.com/Zelo72
 [**AdguardDNS**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt) - AdGuard DNS Filterliste (AdGuard Base filter, German + English filter, Social media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) + Erweiterung um mögliche WWW-Domains. ***(in Multi enthalten)*** - Quelle: [AdguardDNS](https://github.com/AdguardTeam) - [Stats](https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/adguarddns.stats)
 
 [**NextDNS**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nextdns.txt) - NextDNS + Affiliate & Tracking + Erweiterung um mögliche WWW-Domains (Eine umfassende Blockliste zum Blockieren von Anzeigen & Trackern in allen Ländern. Dies ist die empfohlene Starterblockliste von NextDNS. ***(in Multi enthalten)*** - Quelle: [NextDNS](https://github.com/nextdns) - [Stats](https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/nextdns.stats)
+
+---
+
+### ***DNS-Sperrlisten*** (Blacklists) - Sonstige
+
+[**CryptoScamDB**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/cryptoscamdb.txt) - CryptoScamDB von https://cryptoscamdb.org/ umgewandelt + Erweiterung um mögliche WWW-Domains. Bereinigt von toten und falsch positiven Domains. **Trotz der Bereinigung kann die Liste falsch positve Domains enthalten!** - Quelle: [CryptoScamDB](https://api.cryptoscamdb.org/v1/blacklist) - [Stats](https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/cryptoscamdb.stats)
 
 ---
 
