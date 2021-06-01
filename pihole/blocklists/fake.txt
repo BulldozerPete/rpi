@@ -16,13 +16,13 @@
 # Statistik
 # ---------
 #
-# White-/Deadlist: 291973
-# Blacklist: 6952
+# White-/Deadlist: 294592
+# Blacklist: 6956
 # 1. Source: 4138 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
 #
 # ---------------------------------------------
-# 14238 Domains - V2021.05.31-14:41:42
+# 14246 Domains - V2021.06.01-03:31:56
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -1244,6 +1244,7 @@ copyshop-seekirchen.at
 corachic.com
 cordi-group.com
 coresystem.at
+cosgos.de
 cosmeticotwoo.com
 cosmopoint.de
 cosmopolitan-re.com
@@ -2279,6 +2280,7 @@ fritz-rohrreinigung.de
 fritzsche-technik.com
 frodospor.com
 frogplay.de
+frohzeit.de
 froplay.de
 fruchtpresse.at
 fruggboots.com
@@ -2516,6 +2518,7 @@ goldenwaters.de
 gold-erwerben.com
 goldflix.de
 gold-handel24.com
+goldhandel-beratung-kauf.de
 goldhandel-depot.de
 goldhandel-imperium.de
 goldhandel-markt.de
@@ -2523,6 +2526,7 @@ goldhandel-preissieger.de
 goldhandel-seit1986.de
 goldhandel-team.de
 goldhandel-testsieger.de
+goldhandel-vorsorge.de
 goldhandel-zertifiziert.de
 gold-haus24.com
 golding-house.com
@@ -8245,6 +8249,7 @@ www.copyshop-seekirchen.at
 www.corachic.com
 www.cordi-group.com
 www.coresystem.at
+www.cosgos.de
 www.cosmeticotwoo.com
 www.cosmopoint.de
 www.cosmopolitan-re.com
@@ -9248,6 +9253,7 @@ www.fritz-rohrreinigung.de
 www.fritzsche-technik.com
 www.frodospor.com
 www.frogplay.de
+www.frohzeit.de
 www.froplay.de
 www.fruchtpresse.at
 www.fruggboots.com
@@ -9479,6 +9485,7 @@ www.goldenwaters.de
 www.gold-erwerben.com
 www.goldflix.de
 www.gold-handel24.com
+www.goldhandel-beratung-kauf.de
 www.goldhandel-depot.de
 www.goldhandel-imperium.de
 www.goldhandel-markt.de
@@ -9486,6 +9493,7 @@ www.goldhandel-preissieger.de
 www.goldhandel-seit1986.de
 www.goldhandel-team.de
 www.goldhandel-testsieger.de
+www.goldhandel-vorsorge.de
 www.goldhandel-zertifiziert.de
 www.gold-haus24.com
 www.golding-house.com
