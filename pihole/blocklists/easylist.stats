@@ -20,10 +20,10 @@
 # Mail:   zelo72@dismail.de
 # ---------------------------------------------
 
-Downloade easylist                  --> 85310 easylist.raw
-Extrahiere gültige Domains          --> 30443 easylist.domains
-Erstelle Domainliste für WWW Zusatz --> 19909 easylist.domains.www
-Erweitere Domains durch WWW         --> 19909 easylist.www
+Downloade easylist                  --> 85316 easylist.raw
+Extrahiere gültige Domains          --> 30446 easylist.domains
+Erstelle Domainliste für WWW Zusatz --> 19911 easylist.domains.www
+Erweitere Domains durch WWW         --> 19911 easylist.www
 Erstelle Domainliste für FLD        --> 8 easylist.www.fld
-Erstelle easylist                   --> 50360 easylist.txt.tmp
+Erstelle easylist                   --> 50365 easylist.txt.tmp
 
