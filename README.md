@@ -10,6 +10,10 @@
 
 > ***Quellen:*** *Verbraucherzentralen, Trusted Shops, Watchlist Internet, stonecrusher, namePlayer, zelo72* - [Stats](https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/fake.stats)
 
+[**Privacy**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/privacy.txt) - Zelo's "Privacy" Blockliste: ***Blockt Telemetrie & Metriken von Endgeräten und Systemen diverser Hersteller***. ***(Optional)***  
+
+> ***Quelle:*** *zelo72*
+
 ### ***RegEx-Filter*** 
 
 [**RegEx**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/regex/regex_filter.txt) - Zelo's "RegEx" Blacklist: ***Filtert mögliche Ads- und Tracking-Domains mittels regulären Ausdrücken***. RegEx können per Copy & Paste in Pihole unter *Blacklist > RegEX filter > Regular Expression* hinzugefügt werden. ***(Optional)***  
