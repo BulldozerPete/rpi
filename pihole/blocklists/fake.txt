@@ -11,18 +11,22 @@
 # GitHub: https://github.com/Zelo72
 # Mail:   zelo72@dismail.de
 # ---------------------------------------------
+# Telegram-Gruppe PiHole + Unbound Fans (DACH)
+#                 https://t.me/piholefans_DACH
+# ---------------------------------------------
+
 #
 # ---------
 # Statistik
 # ---------
 #
-# White-/Deadlist: 294592
-# Blacklist: 6956
+# White-/Deadlist: 297841
+# Blacklist: 6962
 # 1. Source: 4138 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
 #
 # ---------------------------------------------
-# 14246 Domains - V2021.06.01-03:31:56
+# 14256 Domains - V2021.06.02-11:30:18
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -1878,6 +1882,7 @@ enjoyhop.com
 enjoy-relax.at
 en-pangu.com
 ensportlook.ch
+enter-croatia.com
 entruempelung-gruber.info
 envyreal.com
 eomsebin.com
@@ -2676,6 +2681,7 @@ handballnews24.at
 handel-aller-art.at
 handelshaus-beer.de
 handelshaus-deitel.de
+handelshaus-dietz.de
 handelshaus-jakob.de
 handelshaus-kruse.de
 handelshaus-mayer.de
@@ -3443,6 +3449,7 @@ komfybh.de
 kompens.de
 kompresory.at
 konim.ch
+konrad-versand.de
 konrad-zuse.at
 konsale-konsolen.com
 konsolenfreax-stuttgart.de
@@ -4777,6 +4784,7 @@ pathshoes.de
 patienten-infotv.at
 patrickvetter.de
 paulick-haustechnik.de
+pawnature.de
 pawppithouse.com
 paxum-market.com
 payeers.gq
@@ -5649,6 +5657,7 @@ shoppingthomas.com
 shoppome.info
 shoppro.ch
 shoprosada.com
+shops-disney-uk.com
 shoptoout.com
 shop-uggboots.de
 shopymarkt.com
@@ -8862,6 +8871,7 @@ www.enjoyhop.com
 www.enjoy-relax.at
 www.en-pangu.com
 www.ensportlook.ch
+www.enter-croatia.com
 www.entruempelung-gruber.info
 www.envyreal.com
 www.eomsebin.com
@@ -9641,6 +9651,7 @@ www.handballnews24.at
 www.handel-aller-art.at
 www.handelshaus-beer.de
 www.handelshaus-deitel.de
+www.handelshaus-dietz.de
 www.handelshaus-jakob.de
 www.handelshaus-kruse.de
 www.handelshaus-mayer.de
@@ -10396,6 +10407,7 @@ www.komfybh.de
 www.kompens.de
 www.kompresory.at
 www.konim.ch
+www.konrad-versand.de
 www.konrad-zuse.at
 www.konsale-konsolen.com
 www.konsolenfreax-stuttgart.de
@@ -11684,6 +11696,7 @@ www.pathshoes.de
 www.patienten-infotv.at
 www.patrickvetter.de
 www.paulick-haustechnik.de
+www.pawnature.de
 www.pawppithouse.com
 www.paxum-market.com
 www.payeers.gq
@@ -12530,6 +12543,7 @@ www.shoppingthomas.com
 www.shoppome.info
 www.shoppro.ch
 www.shoprosada.com
+www.shops-disney-uk.com
 www.shoptoout.com
 www.shop-uggboots.de
 www.shopymarkt.com
