@@ -98,9 +98,9 @@ telemetry.microsoft.com
 telemetry.urs.microsoft.com
 us.vortex-win.data.microsoft.com
 v10-win.vortex.data.microsoft.com.akadns.net
-v10.events.data.microsoft.com
+#v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
-v20.events.data.microsoft.com
+#v20.events.data.microsoft.com
 vortex-sandbox.data.microsoft.com
 vortex-win-sandbox.data.microsoft.com
 vortex-win.data.microsoft.com
