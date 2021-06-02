@@ -49,6 +49,10 @@ metrics3.data.hicloud.com
 metrics4.data.hicloud.com
 metrics5.data.hicloud.com
 #
+# IKEA (Tradfri)
+#
+webhook.logentries.com
+#
 # Oppo
 #
 adsfs.oppomobile.com
