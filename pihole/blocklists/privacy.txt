@@ -1,9 +1,29 @@
+# ---------------------------------------------
+# Zelo*s "Privacy" Blockliste
+# ---------------------------------------------
+#
+# Erstellt zur rein persönlichen, privaten
+# Nutzung.
+#
+# Blockt Telemetrie & Metriken von 
+# Endgeräten und Systemen diverser Hersteller
+#
+# ---------------------------------------------
+# GitHub: https://github.com/Zelo72
+# Mail:   zelo72@dismail.de
+# ---------------------------------------------
+# Telegram-Gruppe PiHole + Unbound Fans (DACH)
+#                 https://t.me/piholefans_DACH
+# ---------------------------------------------
+#
 # Amazon/Alexa
+#
 data.alexa.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
-
+#
 # Apple
+#
 books-analytics-events.apple.com
 books-analytics-events.news.apple-dns.net
 dzc-metrics.mzstatic.com
@@ -15,8 +35,9 @@ stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
 supportmetrics.apple.com
 trackingshipment.apple.com
-
+#
 # Huawei
+#
 logbak.hicloud.com
 logservice.hicloud.com
 logservice1.hicloud.com
@@ -27,23 +48,27 @@ metrics2.data.hicloud.com
 metrics3.data.hicloud.com
 metrics4.data.hicloud.com
 metrics5.data.hicloud.com
-
+#
 # Oppo
+#
 adsfs.oppomobile.com
 adx.ads.oppomobile.com
 bdapi.ads.oppomobile.com
 ck.ads.oppomobile.com
 data.ads.oppomobile.com
 g1.ads.oppomobile.com
-
-#Realme
+#
+# Realme
+#
 ata-ads.realmemobile.com
 bdapi-in-ads.realmemobile.com
-
+#
 # Roku
+#
 logs.roku.com
-
+#
 # Samsung
+#
 ad.samsungadhub.com
 ad.samsungads.com
 analytics-api.samsunghealthcn.com
@@ -56,12 +81,14 @@ samsung-com.112.2o7.net
 samsungadhub.com
 samsungads.com
 smetrics.samsung.com
-
+#
 # Sonos
+#
 msmetrics-test.ws.sonos.com
 msmetrics.ws.sonos.com
-
+#
 # Microsoft
+#
 alpha.telemetry.microsoft.com
 asimov-win.settings.data.microsoft.com.akadns.net
 cache.datamart.windows.com
@@ -110,18 +137,21 @@ watson.live.com
 watson.microsoft.com
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
-
+#
 # OnePlus
+#
 analytics.oneplus.cn
 click.oneplus.cn
 click.oneplus.com
 open.oneplus.net
-
+#
 # Whatsapp
+#
 dit.whatsapp.net
 privatestats.whatsapp.net
-
+#
 # Xiaomi
+#
 ad.xiaomi.com
 api.ad.xiaomi.com
 app.chat.xiaomi.net
