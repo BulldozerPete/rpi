@@ -14,7 +14,6 @@
 # Telegram-Gruppe PiHole + Unbound Fans (DACH)
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
-
 #
 # ---------
 # Statistik
@@ -26,7 +25,7 @@
 # 2. Source: 127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
 #
 # ---------------------------------------------
-# 14256 Domains - V2021.06.02-11:30:18
+# 14256 Domains - V2021.06.02-11:50:49
 # ---------------------------------------------
 #
 100jahrehochbahn.de
