@@ -23,7 +23,11 @@
 # GitHub: https://github.com/Zelo72
 # Mail:   zelo72@dismail.de
 # ---------------------------------------------
-# 16611 Domains - 2021.06.01-12:19:07
+# Telegram-Gruppe PiHole + Unbound Fans (DACH)
+#                 https://t.me/piholefans_DACH
+# ---------------------------------------------
+
+# 16625 Domains - 2021.06.02-11:16:45
 # ---------------------------------------------
 #
 0101.systems
@@ -641,6 +645,7 @@ bitblender.me
 bitboxapp.xyz
 bitcashout.wixsite.com
 bitcashsv.org
+bitclaive.com
 bitcoin24-wallet.site
 bitcoin4future.club
 bitcoin-address-cracker.bit7880.com
@@ -1157,6 +1162,7 @@ bytetrade.com
 bytetrade.io
 calchain.io
 calchain.net
+calibra-ico.info
 calibra-ico.net
 calibra-token.com
 calibra-token.info
@@ -1664,6 +1670,7 @@ daily-free-eth.net
 dailyinequality.org
 dai-stablecoin.com
 daostack.onuniverse.com
+daostack-token.io
 dapp.doubledouble.io
 dashcoinminer.space
 data-token.com
@@ -1854,6 +1861,7 @@ electrum.org.uk
 electrumproject.org
 electrumsecuredownload.com
 electrumsource.org
+electrumupdate.com
 electrumupgrade.org
 electrumus.com
 electrumwallet.io
@@ -3039,6 +3047,7 @@ exodusupdate.com
 exodus.vc
 exodus-wallet.net
 exoduswallet.online
+exodus-wallet.org
 exoduz.io
 exploretransactions.info
 expwallet.net
@@ -4344,6 +4353,7 @@ mmyetlherwallett.com
 mnaxy.blogspot.com
 mnycryptoethwallet.com
 mnyctervailliet.com
+mnyicthervwvallct.com
 mnyidthewallot.com
 mobus.network
 model3.pw
@@ -4579,6 +4589,7 @@ myelheriwallet.com
 myelhervvalet.com
 myelherwallel.com
 myelherwallet.com
+myelherwatlet.com
 myellthevwaallet.com
 myelonx.org
 myelterwallet.com
@@ -7486,6 +7497,7 @@ singularitynet.info
 singularty.net
 sirinlabs.co
 sirin-labs.org
+sirinlabs.pro
 sirinlabs.website
 sirinslabs.com
 site-binance.co
@@ -8794,6 +8806,7 @@ www.bit-airdrop.com
 www.bitblender.me
 www.bitboxapp.xyz
 www.bitcashsv.org
+www.bitclaive.com
 www.bitcoin24-wallet.site
 www.bitcoin4future.club
 www.bitcoinaddresstoqrcode.com
@@ -9222,6 +9235,7 @@ www.bytetrade.com
 www.bytetrade.io
 www.calchain.io
 www.calchain.net
+www.calibra-ico.info
 www.calibra-ico.net
 www.calibra-token.com
 www.calibra-token.info
@@ -9650,6 +9664,7 @@ www.dailycurrency.promo
 www.daily-free-eth.net
 www.dailyinequality.org
 www.dai-stablecoin.com
+www.daostack-token.io
 www.dashcoinminer.space
 www.data-token.com
 www.data-token.org
@@ -9820,6 +9835,7 @@ wwwelectrum.org
 www.electrumproject.org
 www.electrumsecuredownload.com
 www.electrumsource.org
+www.electrumupdate.com
 www.electrumupgrade.org
 www.electrumus.com
 www.electrumwallet.io
@@ -10817,6 +10833,7 @@ www.exodusupdate.com
 www.exodus.vc
 www.exodus-wallet.net
 www.exoduswallet.online
+www.exodus-wallet.org
 www.exoduz.io
 www.exploretransactions.info
 www.expwallet.net
@@ -11893,6 +11910,7 @@ www.mmyetherwallets.info
 www.mmyetlherwallett.com
 www.mnycryptoethwallet.com
 www.mnyctervailliet.com
+www.mnyicthervwvallct.com
 www.mnyidthewallot.com
 www.mobus.network
 www.model3.pw
@@ -12121,6 +12139,7 @@ www.myelheriwallet.com
 www.myelhervvalet.com
 www.myelherwallel.com
 www.myelherwallet.com
+www.myelherwatlet.com
 www.myellthevwaallet.com
 www.myelonx.org
 www.myelterwallet.com
@@ -14769,6 +14788,7 @@ www.singularitynet.info
 www.singularty.net
 www.sirinlabs.co
 www.sirin-labs.org
+www.sirinlabs.pro
 www.sirinlabs.website
 www.sirinslabs.com
 www.site-binance.co
@@ -15750,7 +15770,6 @@ www.xn--myetherwllet-5nb.com
 www.xn--myetherwllet-76e.com
 www.xn--myetherwllet-9bb.com
 www.xn--myetherwllet-fnb.com
-www.xn--myetherwllet-jbb.com
 www.xn--myetherwllet-ktd.com
 www.xn--myetherwllet-ncb.com
 www.xn--myetherwllet-ncb.org
@@ -16312,7 +16331,6 @@ xn--myetherwllet-5nb.com
 xn--myetherwllet-76e.com
 xn--myetherwllet-9bb.com
 xn--myetherwllet-fnb.com
-xn--myetherwllet-jbb.com
 xn--myetherwllet-ktd.com
 xn--myetherwllet-ncb.com
 xn--myetherwllet-ncb.org
