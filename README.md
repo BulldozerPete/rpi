@@ -4,7 +4,7 @@
 
 [**Multi**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt) - Zelo's "persönliche" Blockliste: ***Werbung, Tracking, Phishing, Malware, Coins und sonstiger "Mist" aus dem Netz***. Eine All-in-One Filterliste die keine zwingend benötigten "Funktionen" blockiert - kein striktes Blocken. Dead-Hosts (Hosts-Adressen die nicht mehr existieren) wurden aus dieser Liste entfernt. Sie kann als alleinige Blockliste verwendet werden. ***(Empfehlung)***  
 
-> ***Quellen:*** *adaway.org, adguard.com, cyberthreatcoalition.org, d3ward, dandelionsprout, disconnect.me, durablenapkin, easylist.to, fademind, firebog, hoshsadiq, jkrejcha, laicure, mitchellkrogza, nextdns, notracking, oisd.nl, osint.digitalside.it, phishing.army, prigentads, quidsup, scafroglia9, shallalist, shreyasminocha, someonewhocares.org, spam404, stevenblack, urlhaus.abuse.ch, yhonay, yoyo.org, zerodot1, zelo72* - [Stats](https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/multi.stats)
+> ***Quellen:*** *adaway.org, adguard.com, cyberthreatcoalition.org, d3ward, dandelionsprout, durablenapkin, easylist.to, fademind, firebog, hoshsadiq, jkrejcha, laicure, mitchellkrogza, molinero.dev, nextdns, notracking, oisd.nl, osint.digitalside.it, phishing.army, prigentads, quidsup, scafroglia93, shallalist, shreyasminocha, someonewhocares.org, spam404, stevenblack, urlhaus.abuse.ch, yhonay, yoyo.org, zerodot1, zelo72* - [Stats](https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/multi.stats)
 
 [**Fake**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/fake.txt) - Zelo's "anti Abzock" Blockliste: ***Fake-Shops, -Streaming, Abzocke und Co***. Auf Basis verschiedener Verbaucherseiten, Warnungen und anderen Fake-Listen. Als Zusatz zur Multi-Filterliste ***(Empfehlung)***  
 
@@ -16,7 +16,7 @@
 
 ### ***RegEx-Filter*** 
 
-[**RegEx**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/regex/regex_filter.txt) - Zelo's "RegEx" Blacklist: ***Filtert mögliche Ads- und Tracking-Domains mittels regulären Ausdrücken***. RegEx können per Copy & Paste in Pihole unter *Blacklist > RegEX filter > Regular Expression* hinzugefügt werden. ***(Optional)***  
+[**RegEx**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/regex/regex_filter.txt) - Zelo's "RegEx" Blacklist: ***Filtert mögliche Ads- und Tracking-Domains mittels regulären Ausdrücken***. RegEx (Inhalt der TXT-Datei) können per Copy & Paste in Pihole unter *Blacklist > RegEX filter > Regular Expression* hinzugefügt werden. ***(Optional)***  
 
 Weitere RegEx-Filter wie z.B. Geo-Blocking sind [hier](https://github.com/Zelo72/rpi/tree/master/pihole/regex) zu finden.
 
