@@ -71,6 +71,13 @@ bdapi-in-ads.realmemobile.com
 #
 logs.roku.com
 #
+# SambaTV
+#
+api.cid.samba.tv
+events.cid.samba.tv
+platform.cid.samba.tv
+preferences.cid.samba.tv
+#
 # Samsung
 #
 ad.samsungadhub.com
@@ -90,6 +97,18 @@ smetrics.samsung.com
 #
 msmetrics-test.ws.sonos.com
 msmetrics.ws.sonos.com
+#
+# Sony Bravia
+#
+0b412f3d0caba3cf703fbc4701cbd138.ssm1.internet.sony.tv
+flingo.tv
+log.core.cloud.vewd.com
+reg.biv.sony.tv
+service.biv.sony.tv
+ssm1.internet.sony.tv
+ssm2.internet.sony.tv
+ssm3.internet.sony.tv
+www.flingo.tv
 #
 # Microsoft
 #
