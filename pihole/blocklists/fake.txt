@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# White-/Deadlist: 297841
-# Blacklist: 6962
+# White-/Deadlist: 292686
+# Blacklist: 6975
 # 1. Source: 4138 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
 #
 # ---------------------------------------------
-# 14256 Domains - V2021.06.02-11:50:49
+# 14282 Domains - V2021.06.03-07:11:11
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -1538,6 +1538,11 @@ d-moerking.de
 dms-medimax.com
 dmxinfo.de
 dnewssyi.com
+dnsaustria.com
+dnsdeutschland.com
+dnsgermany.net
+dnsschweiz.com
+dnsswitzerland.com
 docmou.com
 doctorbrew.de
 doctorkasem.com
@@ -1940,6 +1945,7 @@ europrodif.de
 eurosaar.de
 eurtrans.com
 eustiefel.com
+eutd.org
 euthanint.org
 eu.uggonlineok.com
 evad3rs-devteam.com
@@ -2984,6 +2990,9 @@ idealsofsweden.de
 ideationtriz.at
 idiscountq.com
 idlcareo.com
+idsaustria.com
+idsgermany.com
+idsschweiz.org
 id-willhaben.at
 iefjcoiefhv.myshopify.com
 ielmufid.com
@@ -3086,6 +3095,7 @@ intercamping-grossbreitenbach.com
 intergerma.at
 internationaalverhuisadvies.nl
 internationalerumzug.de
+internetservicegermany.org
 internetzwert.de
 intomidatlanticstore.shop
 intosmile.nl
@@ -6076,6 +6086,7 @@ tablet-restposten.club
 tablet-restposten.shop
 tacoats.online
 tacocood.com
+taddeutschland.com
 tagfashions.com
 tago-gewuerzplanet.de
 tailorfactory.com
@@ -6359,7 +6370,9 @@ tlg-immo.com
 tlkbaonline.eu
 tm5-ag.com
 tm6-thermomix.net
+tmdeutschland.com
 tmissyildiz.com
+tmosterreich.com
 tobiflix.de
 todoplay.de
 todos-lala.com
@@ -8531,6 +8544,11 @@ www.d-moerking.de
 www.dms-medimax.com
 www.dmxinfo.de
 www.dnewssyi.com
+www.dnsaustria.com
+www.dnsdeutschland.com
+www.dnsgermany.net
+www.dnsschweiz.com
+www.dnsswitzerland.com
 www.docmou.com
 www.doctorbrew.de
 www.doctorkasem.com
@@ -8928,6 +8946,7 @@ www.europrodif.de
 www.eurosaar.de
 www.eurtrans.com
 www.eustiefel.com
+www.eutd.org
 www.euthanint.org
 www.evad3rs-devteam.com
 www.evad3rsjb.com
@@ -9950,6 +9969,9 @@ www.idealsofsweden.de
 www.ideationtriz.at
 www.idiscountq.com
 www.idlcareo.com
+www.idsaustria.com
+www.idsgermany.com
+www.idsschweiz.org
 www.id-willhaben.at
 www.ielmufid.com
 www.igiftyi.com
@@ -10049,6 +10071,7 @@ www.intercamping-grossbreitenbach.com
 www.intergerma.at
 www.internationaalverhuisadvies.nl
 www.internationalerumzug.de
+www.internetservicegermany.org
 www.internetzwert.de
 www.intomidatlanticstore.shop
 www.intosmile.nl
@@ -12957,6 +12980,7 @@ www.tablet-restposten.club
 www.tablet-restposten.shop
 www.tacoats.online
 www.tacocood.com
+www.taddeutschland.com
 www.tagfashions.com
 www.tago-gewuerzplanet.de
 www.tailorfactory.com
@@ -13235,7 +13259,9 @@ www.tlg-immo.com
 www.tlkbaonline.eu
 www.tm5-ag.com
 www.tm6-thermomix.net
+www.tmdeutschland.com
 www.tmissyildiz.com
+www.tmosterreich.com
 www.tobiflix.de
 www.todoplay.de
 www.todos-lala.com
