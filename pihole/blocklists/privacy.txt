@@ -137,10 +137,10 @@ oca.telemetry.microsoft.com
 onecollector.cloudapp.aria.akadns.net
 prod.nexusrules.live.com.akadns.net
 redir.metaservices.microsoft.com
-self-events-data.trafficmanager.net
-self.events.data.microsoft.com
+#self-events-data.trafficmanager.net
+#self.events.data.microsoft.com
 settings-sandbox.data.microsoft.com
-settings-win.data.microsoft.com
+#settings-win.data.microsoft.com
 spynet2.microsoft.com
 spynetalt.microsoft.com
 telemetry.appex.bing.net
