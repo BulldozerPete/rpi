@@ -10,7 +10,7 @@
 
 > ***Quellen:*** *Verbraucherzentralen, Trusted Shops, Watchlist Internet, stonecrusher, namePlayer, zelo72* - [Stats](https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/fake.stats)
 
-[**Privacy**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/privacy.txt) - Zelo's "Privacy" Blockliste: ***Blockt Telemetrie & Metriken von Endgeräten und Systemen diverser Hersteller***. ***(Optional)***  
+[**Privacy**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/privacy.txt) - Zelo's "Privacy" Blockliste: ***Blockt Telemetrie & Metriken von Endgeräten, Diensten und Systemen diverser Hersteller***. ***(Optional)***  
 
 > ***Quelle:*** *zelo72*
 
