@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# White-/Deadlist: 306076
-# Blacklist: 6976
+# White-/Deadlist: 309678
+# Blacklist: 6973
 # 1. Source: 4138 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
 #
 # ---------------------------------------------
-# 14284 Domains - V2021.06.04-20:15:13
+# 14278 Domains - V2021.06.04-20:55:34
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -2206,7 +2206,6 @@ flobamorata.com
 floplay.de
 florday.com
 floritita.com
-floryday.com
 flottepalme.de
 flowcampprzyczepy.eu
 fl-trans.com
@@ -9201,7 +9200,6 @@ www.flobamorata.com
 www.floplay.de
 www.florday.com
 www.floritita.com
-www.floryday.com
 www.flottepalme.de
 www.flowcampprzyczepy.eu
 www.fl-trans.com
@@ -14013,7 +14011,6 @@ www.yoshino.at
 www.yostream.de
 www.youbestchoice.com
 www.yougogirl.clothing
-www.youla.ru
 www.youndmi.de
 www.youngsexdoll.com
 www.young-village.de
@@ -14043,7 +14040,6 @@ www.yxk-hamburg.de
 www.yyearsale.com
 www.zacha-hokej.cz
 www.zaffia.de
-www.zaful.com
 www.zagose.com
 www.zahnaerzte-hamme.de
 www.zahnarzt-baruch.de
@@ -14200,7 +14196,6 @@ yoshino.at
 yostream.de
 youbestchoice.com
 yougogirl.clothing
-youla.ru
 youndmi.de
 youngsexdoll.com
 young-village.de
@@ -14230,7 +14225,6 @@ yxk-hamburg.de
 yyearsale.com
 zacha-hokej.cz
 zaffia.de
-zaful.com
 zagose.com
 zahnaerzte-hamme.de
 zahnarzt-baruch.de
