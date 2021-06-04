@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# White-/Deadlist: 295890
+# White-/Deadlist: 306076
 # Blacklist: 6976
 # 1. Source: 4138 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
 #
 # ---------------------------------------------
-# 14286 Domains - V2021.06.04-07:26:09
+# 14284 Domains - V2021.06.04-20:15:13
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -3657,7 +3657,6 @@ lifeworks-munich.de
 liftr.eu
 lighteu.de
 lightflix.de
-lightinthebox.com
 lightoping.com
 lightunity.de
 likebootsde.com
@@ -10626,7 +10625,6 @@ www.lifeworks-munich.de
 www.liftr.eu
 www.lighteu.de
 www.lightflix.de
-www.lightinthebox.com
 www.lightoping.com
 www.lightunity.de
 www.likebootsde.com
