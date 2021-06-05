@@ -19,12 +19,12 @@
 # Statistik
 # ---------
 #
-# White-/Deadlist: 302160
+# White-/Deadlist: 302145
 # Blacklist: 3005
 # 1. Source: 4138 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #
 # ---------------------------------------------
-# 14061 Domains - V2021.06.05-08:21:50
+# 14065 Domains - V2021.06.05-09:37:47
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -2167,6 +2167,7 @@ flobamorata.com
 floplay.de
 florday.com
 floritita.com
+floryday.com
 flottepalme.de
 flowcampprzyczepy.eu
 fl-trans.com
@@ -9053,6 +9054,7 @@ www.flobamorata.com
 www.floplay.de
 www.florday.com
 www.floritita.com
+www.floryday.com
 www.flottepalme.de
 www.flowcampprzyczepy.eu
 www.fl-trans.com
@@ -13828,6 +13830,7 @@ www.yxk-hamburg.de
 www.yyearsale.com
 www.zacha-hokej.cz
 www.zaffia.de
+www.zaful.com
 www.zagose.com
 www.zahnaerzte-hamme.de
 www.zahnarzt-baruch.de
@@ -14010,6 +14013,7 @@ yxk-hamburg.de
 yyearsale.com
 zacha-hokej.cz
 zaffia.de
+zaful.com
 zagose.com
 zahnaerzte-hamme.de
 zahnarzt-baruch.de
