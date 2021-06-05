@@ -1,0 +1,32 @@
+# ---------------------------------------------
+# Zelo*s "BETA Privacy" Blockliste
+# ---------------------------------------------
+#
+# Erstellt zur rein persönlichen, privaten
+# Nutzung.
+#
+# Blockt Telemetrie & Metriken von 
+# Endgeräten, Diensten und Systemen
+# diverser Hersteller.
+#
+# ---------------------------------------------
+# GitHub: https://github.com/Zelo72
+# Mail:   zelo72@dismail.de
+# ---------------------------------------------
+# Telegram-Gruppe PiHole + Unbound Fans (DACH)
+#                 https://t.me/piholefans_DACH
+# ---------------------------------------------
+#
+# Google
+#
+analytics.google.com
+google-analytics.com
+www.google-analytics.com
+googletagmanager.com
+www,googletagmanager.com
+googletagservices.com
+www.googletagservices.com
+ssl-google-analytics.l.google.com
+ssl.google-analytics.com
+www-google-analytics.l.google.com
+www-googletagmanager.l.google.com
