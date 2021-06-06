@@ -39,7 +39,8 @@
 # Statistik
 # ---------
 #
-# White-/Deadlist: 
+# Whitelist: 0
+# Deadlist: 0
 # Blacklist: 1
 # 1. Source: 82717 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # 2. Source: 1761 - https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
@@ -48,7 +49,7 @@
 # 5. Source: 422 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 103108 Domains - V2021.06.03-13:28:46
+# 103108 Domains - V2021.06.06-19:10:47
 # ---------------------------------------------
 #
 0.0.0.0.beeglivesex.com

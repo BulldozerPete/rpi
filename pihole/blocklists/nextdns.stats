@@ -35,9 +35,10 @@
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
 
-# Hosts: 
+# Hosts: 0
 
-# White-/Deadlist: 
+# Whitelist: 0
+# Deadlist: 0
 
 # Blacklist: 1
 
@@ -49,8 +50,8 @@
 # #. Source: 96572
 
 Statistik nextdns.txt:
-== Source:      92137
-++ Black:       92138 (+1)
--- Unblock:     92118 (-20)
-++ WWW-Domains: 101493 (+9375)
-++ FLD-Domains: 103108 (+1615)
+== Source (unique): 92137
+++ Black:           92138 (+1)
+-- Unblock:         92118 (-20)
+++ WWW-Domains:     101493 (+9375)
+++ FLD-Domains:     103108 (+1615)

@@ -26,11 +26,11 @@
 # ---------------------------------------------
 
 Downloade adguarddns                --> 49508 adguarddns.raw
-Extrahiere gültige Domains          --> 37378 adguarddns.domains
-Erstelle Domainliste für WWW Zusatz --> 30072 adguarddns.domains.www
-Erweitere Domains durch WWW         --> 30072 adguarddns.www
+Extrahiere gültige Domains          --> 37380 adguarddns.domains
+Erstelle Domainliste für WWW Zusatz --> 30074 adguarddns.domains.www
+Erweitere Domains durch WWW         --> 30074 adguarddns.www
 Erstelle Domainliste für FLD        --> 6 adguarddns.www.fld
-Erstelle adguarddns                 --> 67454 adguarddns.txt.tmp
+Erstelle adguarddns                 --> 67458 adguarddns.txt.tmp
 
 Extrahiere Whitelist Domains        --> 77
 Extrahiere Exclusion Domains        --> 289
