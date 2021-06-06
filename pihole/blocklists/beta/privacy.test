@@ -19,15 +19,37 @@
 #
 # Google
 #
+#   Ads
+ads.google.com
+adservice.google.com
+googleadservices.com
+www.googleadservices.com
+pagead2.googleadservices.com
+#   Analytics
+id.google.com
 analytics.google.com
 google-analytics.com
 www.google-analytics.com
-googletagservices.com
-www.googletagservices.com
 ssl-google-analytics.l.google.com
 ssl.google-analytics.com
-ssl.google-analytics.com
 www-google-analytics.l.google.com
+#   Tag
+googletagservices.com
+www.googletagservices.com
+#   Syndication
+ade.googlesyndication.com
+afs.googlesyndication.com
+buttons.googlesyndication.com
+captive.pagead2.googlesyndication.com
+captive.tpc.googlesyndication.com
+googlesyndication.com
+pagead2.googlesyndication.com
+pagead46.googlesyndication.com
+redirector.c.googlesyndication.com
+tpc.googlesyndication.com
+tpcnc.googlesyndication.com
+video-ad-stats.googlesyndication.com
+www.googlesyndication.com
 #
 # Statcounter
 #
