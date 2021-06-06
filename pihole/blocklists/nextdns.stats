@@ -40,7 +40,7 @@
 # Whitelist: 0
 # Deadlist: 0
 
-# Blacklist: 1
+# Blacklist: 0
 
 # 1. Source: 82717 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # 2. Source: 1761 - https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
@@ -51,7 +51,6 @@
 
 Statistik nextdns.txt:
 == Source (unique): 92137
-++ Black:           92138 (+1)
--- Unblock:         92118 (-20)
-++ WWW-Domains:     101493 (+9375)
-++ FLD-Domains:     103108 (+1615)
+-- Unblock:         92117 (-20)
+++ WWW-Domains:     101492 (+9375)
+++ FLD-Domains:     103107 (+1615)

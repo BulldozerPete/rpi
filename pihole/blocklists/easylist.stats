@@ -24,9 +24,9 @@
 # ---------------------------------------------
 
 Downloade easylist                  --> 85883 easylist.raw
-Extrahiere gültige Domains          --> 30553 easylist.domains
+Extrahiere gültige Domains          --> 30552 easylist.domains
 Erstelle Domainliste für WWW Zusatz --> 19986 easylist.domains.www
-Erweitere Domains durch WWW         --> 23526 easylist.www
+Erweitere Domains durch WWW         --> 19986 easylist.www
 Erstelle Domainliste für FLD        --> 8 easylist.www.fld
-Erstelle easylist                   --> 50547 easylist.txt.tmp
+Erstelle easylist                   --> 50546 easylist.txt.tmp
 

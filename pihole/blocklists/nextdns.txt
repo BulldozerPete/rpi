@@ -41,7 +41,7 @@
 #
 # Whitelist: 0
 # Deadlist: 0
-# Blacklist: 1
+# Blacklist: 0
 # 1. Source: 82717 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # 2. Source: 1761 - https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 # 3. Source: 9458 - https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
@@ -49,7 +49,7 @@
 # 5. Source: 422 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 103108 Domains - V2021.06.06-19:32:57
+# 103107 Domains - V2021.06.06-20:07:03
 # ---------------------------------------------
 #
 0.0.0.0.beeglivesex.com
@@ -48095,7 +48095,6 @@ nextbestgame.org
 next-channel.xyz
 nextclick.pl
 nextdigitalday.ru
-nextdns.zelo72.info
 nextel-ringtone.komi.su
 nextel-ringtone.spb.su
 nextgearup.com
