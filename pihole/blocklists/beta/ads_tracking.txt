@@ -15,6 +15,47 @@
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
 #
+# Doubleclick
+#
+ad-ace.doubleclick.net
+ad-apac.doubleclick.net
+ad-emea.doubleclick.net
+ad-g.doubleclick.net
+ad.doubleclick.net
+ad2.doubleclick.net
+adclick.g.doubleclick.net
+ads-bid.l.doubleclick.net
+adx.g.doubleclick.net
+dart-apac.l.doubleclick.net
+doubleclick.com
+doubleclick.net
+feedads.g.doubleclick.net
+fls.doubleclick.net
+g.doubleclick.net
+g0.doubleclick.net
+g1.doubleclick.net
+g2.doubleclick.net
+g3.doubleclick.net
+googleads.g.doubleclick.net
+googleads2.g.doubleclick.net
+googleads4.g.doubleclick.net
+m.doubleclick.net
+mobile-displayads.l.doubleclick.net
+pagead46.l.doubleclick.net
+partnerad.l.doubleclick.net
+pubads.g.doubleclick.net
+s0.doubleclick.net
+s1.doubleclick.net
+securepubads.g.doubleclick.net
+static.doubleclick.net
+stats.g.doubleclick.net
+stats.l.doubleclick.net
+www.doubleclick.com
+www.doubleclick.net
+www2.doubleclick.com
+www3.doubleclick.com
+www3.doubleclick.net
+#
 # Google
 #
 #   Ads
@@ -47,7 +88,6 @@ redirector.c.googlesyndication.com
 tpc.googlesyndication.com
 tpcnc.googlesyndication.com
 video-ad-stats.googlesyndication.com
-www.googlesyndication.com
 #
 # Statcounter
 #
