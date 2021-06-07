@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# Whitelist: 22001
-# Deadlist: 271993
-# Blacklist: 1675
+# Whitelist: 22193
+# Deadlist: 368833
+# Blacklist: 1682
 # 1. Source: 4138 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #
 # ---------------------------------------------
-# 9616 Domains - V2021.06.06-20:23:19
+# 9626 Domains - V2021.06.07-22:31:19
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -1752,7 +1752,10 @@ goldhandel-markt.de
 goldhandel-preissieger.de
 goldhandel-seit1986.de
 goldhandel-team.de
+goldhandel-testsieger-2021.de
 goldhandel-testsieger.de
+goldhandel-testsieger-seit1972.de
+goldhandel-und-beratung.de
 goldhandel-vorsorge.de
 goldhandel-zertifiziert.de
 golding-house.com
@@ -3575,6 +3578,7 @@ raum-und-gruen.de
 ravensburger-krippenland.de
 rawchanger.com
 ray-markt.de
+rbasenbox.com
 rbhgr.com
 rbkat.net
 rbtef.com
@@ -4659,6 +4663,7 @@ webmarker.de
 web-meinkorb.com
 wedderbruuk-bremen.de
 weddingdresshouse.com
+weettr.com
 wegenerteam.de
 weidmann-kueche.net
 weigl-handel.de
@@ -6444,7 +6449,10 @@ www.goldhandel-markt.de
 www.goldhandel-preissieger.de
 www.goldhandel-seit1986.de
 www.goldhandel-team.de
+www.goldhandel-testsieger-2021.de
 www.goldhandel-testsieger.de
+www.goldhandel-testsieger-seit1972.de
+www.goldhandel-und-beratung.de
 www.goldhandel-vorsorge.de
 www.goldhandel-zertifiziert.de
 www.golding-house.com
@@ -8216,6 +8224,7 @@ www.raum-und-gruen.de
 www.ravensburger-krippenland.de
 www.rawchanger.com
 www.ray-markt.de
+www.rbasenbox.com
 www.rbhgr.com
 www.rbkat.net
 www.rbtef.com
@@ -9275,6 +9284,7 @@ www.webmarker.de
 www.web-meinkorb.com
 www.wedderbruuk-bremen.de
 www.weddingdresshouse.com
+www.weettr.com
 www.wegenerteam.de
 www.weidmann-kueche.net
 www.weigl-handel.de
