@@ -38,7 +38,7 @@
 # Hosts: 0
 
 # Whitelist: 0
-# Deadlist: 0
+# Deadlist: 15181
 
 # Blacklist: 0
 
@@ -51,6 +51,7 @@
 
 Statistik nextdns.txt:
 == Source (unique): 92137
--- Unblock:         92117 (-20)
-++ WWW-Domains:     101492 (+9375)
-++ FLD-Domains:     103107 (+1615)
+-- Dead:            77270 (-14867)
+-- Unblock:         77250 (-20)
+++ WWW-Domains:     83590 (+6340)
+++ FLD-Domains:     88310 (+4720)

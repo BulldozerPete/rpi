@@ -13,6 +13,7 @@
 # https://easylist.to/easylist/easyprivacy.txt
 # https://easylist.to/easylistgermany/easylistgermany.txt
 #
+# - Tote Domains entfernt.
 # + Erweitert um mögliche WWW/FLD-Domains.
 #
 # ---------------------------------------------
@@ -23,10 +24,11 @@
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
 
-Downloade easylist                  --> 85890 easylist.raw
-Extrahiere gültige Domains          --> 30556 easylist.domains
-Erstelle Domainliste für WWW Zusatz --> 19990 easylist.domains.www
-Erweitere Domains durch WWW         --> 19990 easylist.www
+Downloade easylist                  --> 85912 easylist.raw
+Extrahiere gültige Domains          --> 30574 easylist.domains
+Bereinige tote Domains              --> 29564 easylist.domains
+Erstelle Domainliste für WWW Zusatz --> 19186 easylist.domains.www
+Erweitere Domains durch WWW         --> 19186 easylist.www
 Erstelle Domainliste für FLD        --> 8 easylist.www.fld
-Erstelle easylist                   --> 50554 easylist.txt.tmp
+Erstelle easylist                   --> 48758 easylist.txt.tmp
 

@@ -14,6 +14,7 @@
 # ******************
 # http://dsi.ut-capitole.fr/blacklists/download/ads.tar.gz
 #
+# - Tote Domains entfernt.
 # + Erweitert um mögliche WWW/FLD-Domains.
 #
 # ---------------------------------------------
@@ -26,8 +27,9 @@
 
 Downloade prigentads                --> 3744 prigentads.raw
 Extrahiere gültige Domains          --> 3670 prigentads.domains
-Erstelle Domainliste für WWW Zusatz --> 2357 prigentads.domains.www
-Erweitere Domains durch WWW         --> 2357 prigentads.www
+Bereinige tote Domains              --> 3080 prigentads.domains
+Erstelle Domainliste für WWW Zusatz --> 2106 prigentads.domains.www
+Erweitere Domains durch WWW         --> 2106 prigentads.www
 Erstelle Domainliste für FLD        --> 0 prigentads.www.fld
-Erstelle prigentads                 --> 6027 prigentads.txt.tmp
+Erstelle prigentads                 --> 5186 prigentads.txt.tmp
 
