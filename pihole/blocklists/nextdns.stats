@@ -42,16 +42,16 @@
 
 # Blacklist: 0
 
-# 1. Source: 82717 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# 1. Source: 82070 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # 2. Source: 1761 - https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 # 3. Source: 9458 - https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 # 4. Source: 2214 - https://raw.githubusercontent.com/tiuxo/hosts/master/ads
 # 5. Source: 422 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
-# #. Source: 96572
+# #. Source: 95925
 
 Statistik nextdns.txt:
-== Source (unique): 92137
--- Dead:            77270 (-14867)
--- Unblock:         77250 (-20)
-++ WWW-Domains:     83590 (+6340)
-++ FLD-Domains:     88310 (+4720)
+== Source (unique): 91492
+-- Dead:            77911 (-13581)
+-- Unblock:         77890 (-21)
+++ WWW-Domains:     84252 (+6362)
+++ FLD-Domains:     88907 (+4655)
