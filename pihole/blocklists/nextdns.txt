@@ -40,16 +40,16 @@
 # ---------
 #
 # Whitelist: 0
-# Deadlist: 15181
+# Deadlist: 15334
 # Blacklist: 0
 # 1. Source: 82070 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # 2. Source: 1761 - https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 # 3. Source: 9458 - https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
-# 4. Source: 2214 - https://raw.githubusercontent.com/tiuxo/hosts/master/ads
+# 4. Source: 1730 - https://raw.githubusercontent.com/tiuxo/hosts/master/ads
 # 5. Source: 422 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 88907 Domains - V2021.06.07-18:54:22
+# 88815 Domains - V2021.06.08-13:30:17
 # ---------------------------------------------
 #
 0.0.0.0.beeglivesex.com
@@ -418,7 +418,6 @@
 192569.engine.mobileapptracking.com
 192834.engine.mobileapptracking.com
 1933000.com
-1933611911.findprofile.net.pl
 193.net.daraz.com
 194192.engine.mobileapptracking.com
 194792.engine.mobileapptracking.com
@@ -525,7 +524,6 @@
 1.ofsnetwork.com
 1-onetowo.pl
 1-onet.pl
-1-onet.waw.pl
 1pamm.ru
 1phads.com
 1polskie-o2.pl
@@ -822,7 +820,6 @@
 2o7.net
 2-onetowo.pl
 2-onet.pl
-2-onet.waw.pl
 2p9fyvx.com
 2perc.info
 2polskie-o2.pl
@@ -942,7 +939,6 @@
 3650.tm.zedo.com
 365abcd.net
 365locksmithsminneapolis.com
-3663333633.findprofile.net.pl
 3694.api.swrve.com
 3694.content.swrve.com
 3696.api.swrve.com
@@ -1057,7 +1053,6 @@
 3.news20.biz
 3-onetowo.pl
 3-onet.pl
-3-onet.waw.pl
 3p3x.adj.st
 3polskie-o2.pl
 3ppa.jp.cinarra.com
@@ -1252,7 +1247,6 @@
 4.ogloszeniateraz97.club
 4-onetowo.pl
 4-onet.pl
-4-onet.waw.pl
 4ourkidsky.com
 4plus11.com
 4pornxxx.com
@@ -1310,7 +1304,6 @@
 529collegesaving.com
 5.2mono.biz
 5.2solo.biz
-5306.findprofile.net.pl
 531.xg4ken.com
 5345ll.com
 5362399.fls.doubleclick.net
@@ -1436,7 +1429,6 @@
 6000518.com
 600ad.com
 601654.com
-6018866066.findprofile.net.pl
 602.stats.misstrends.com
 604.stats.misstrends.com
 6063.bapi.adsafeprotected.com
@@ -1580,10 +1572,8 @@
 7.2solo.biz
 7336.deeplink.mobileapptracking.com
 7336.engine.mobileapptracking.com
-7386977377.findprofile.net.pl
 7.3mono.biz
 7.3solo.biz
-7405377477.findprofile.net.pl
 749558.com
 7.4mono.biz
 7.4solo.biz
@@ -3136,7 +3126,6 @@ ad3.udn.com
 ad3.xrea.com
 ad40.checkm8.com
 ad40digital.checkm8.com
-ad-411.com
 ad41.atlas.cz
 ad41.checkm8.com
 ad41digital.checkm8.com
@@ -3690,7 +3679,6 @@ ad.exyws.org
 adfactor.nl
 adfalcon.com
 adfarm1.adition.com
-ad.favod.net
 adf.dahe.cn
 ad-feed.com
 ad-feeds.com
@@ -4076,7 +4064,6 @@ adm.easou.com
 admeasure.hh-online.jp
 admedia.com
 ad.media-servers.net
-admedias.net
 ad.mediastorm.hu
 ad-mediation.tuanguwen.com
 admediator.unityads.unity3d.com
@@ -4710,7 +4697,6 @@ ads.adroar.com
 ads.adroi.com.cn
 ads.adsag.com
 ads.adsbookie.com
-ads-adseast.yldbt.com
 ads.adshareware.net
 ads.adsinimages.com
 ads.ads.netlog.com
@@ -4868,7 +4854,6 @@ ads.bloodhorse.com
 ads.bluecava.com
 ads.bluemountain.com
 ads.bninews.com
-ads.bnmedia.com
 ads.boardtracker.com
 ads.boerding.com
 ads.boerse-express.com
@@ -5850,7 +5835,6 @@ ads.img.globo.com
 adsimg-kompascom-1349122490.ap-southeast-1.elb.amazonaws.com
 ads.imguol.com
 ads.imgur.com
-adsim.sabah.com.tr
 ads.indeed.com
 ads.independent.com.mt
 ads.indexinfo.org
@@ -6283,7 +6267,6 @@ ads.roanoke.com
 ads.roblox.com
 ads.rohea.com
 ads.roiserver.com
-ads-rolandgarros.com
 adsroller.com
 ads.rondomondo.com
 ads.rootzoo.com
@@ -6315,7 +6298,6 @@ ad-srv.net
 adsrvr.com
 adsrvr.org
 adsrvus.com
-ads.sabah.com.tr
 ads.sacbee.com
 ads.samba.tv
 ads.samsungads.com
@@ -6401,7 +6383,6 @@ ads.stardoll.com
 ads.static.blip.tv
 ads.static.madserving.com
 adsstatic.vivo.com.cn
-ads-stats.com
 ads.stephensmedia.com
 ads.stickyadstv.com
 ads.stickyadstv.com.akadns.net
@@ -10906,7 +10887,6 @@ b97.yahoo.co.jp
 b9a92be975.e-kocyki.pl
 b.9dreams.net
 b9g4.nxwfhjvi.cn
-b.a2gw.com
 ba8.jp
 ba.afl.rakuten.co.jp
 babajaga-deko.pl
@@ -14101,7 +14081,6 @@ cdn1.tribalfusion.com
 cdn1.vntsm.com
 cdn1.zopiny.com
 cdn2.ad-center.com
-cdn2.adflex.vn
 cdn2.admatic.com.tr
 cdn2.adsdk.com
 cdn2.crispadvertising.com
@@ -18074,7 +18053,6 @@ czytanie.site
 czytelnikpoliska.club
 czytooszustwo.pl
 czyzyk.icu
-d0007starpage.co.vu
 d00.sina.com.cn
 d03307.top
 d03x2011.com
@@ -20414,7 +20392,6 @@ ds-api-public.addthis.com.edgekey.net
 dsbtpy.viata.nl
 ds.contextweb.com
 ds.cybereps.com
-dsd.dxwpedu.me
 ds.digital-science.com
 d.security-ns.emailvision.net.daraz.com
 d.securityns.emailvision.net.daraz.com
@@ -23673,7 +23650,6 @@ findprize-inbox.life
 findprizes4u.life
 findprizesforyou.life
 find-prize-zone.life
-findprofile.net.pl
 findsexeasy.com
 findsexguide.com
 find-sex-partner-now.com
@@ -26923,7 +26899,6 @@ gov-pl-poczta-przychodzaca-zawieszona-html-php.weebly.com
 govpro.us.intellitxt.com
 govrefund-uk.com
 go.vrvm.com
-gov.yanao.ru
 go.wabco-auto.com
 go.wacul.co.jp
 gowadogo.com
@@ -30231,7 +30206,6 @@ info-onet9.pl
 info-onet.pl
 info.onetrust.com
 info.onetrustpro.com
-info-onet.waw.pl
 info.opengear.com
 info.order2cash.com
 info.orientalbank.com
@@ -30671,7 +30645,6 @@ inpost.moferta.life
 inpost.moferta.live
 inpostodbior.com
 inpost-oferta.su
-inpost.offerta-dostawo.club
 inpost.olxkontosos.casa
 inpost.olxkontosos.cyou
 inpost.olxkontosos.shop
@@ -30694,11 +30667,7 @@ inpost-pl.delivery-site.info
 inpost.pl-fastdelivery.work
 inpost.pl-fastorders.shop
 inpost.pl-fastorders.work
-inpost.pl-fastpaid.cyou
-inpost.pl-fastpaid.icu
 inpost.pl-fastpaid.work
-inpost.pl-fastpays.cyou
-inpost.pl-fastpays.icu
 inpost.pl-fastpays.work
 inpost.pl-get.cash
 inpost.pl-getmoney.life
@@ -30752,7 +30721,6 @@ inpost.pl-paycash.work
 inpost.pl-paycost.cyou
 inpost.pl-paycost.icu
 inpost.pl-paycosts.cyou
-inpost.pl-paycost.shop
 inpost.pl-paycosts.icu
 inpost.pl-paycosts.xyz
 inpost.pl-paycost.work
@@ -30766,7 +30734,6 @@ inpost.pl-receive.work
 inpost.pl-safecash.link
 inpost.pl-safecost.cyou
 inpost.pl-safecost.icu
-inpost.pl-safecost.xyz
 inpost.pl-safelycash.cyou
 inpost.pl-safelycash.icu
 inpost.pl-safelycash.work
@@ -32136,7 +32103,6 @@ jsdevelopmentq6.live
 jsdevelopmentq7.live
 jsdevelopmentq8.live
 jsdevelopmentq9.live
-js.dkqapp.cn
 j.sdqoi2d.com
 js.driftt.com
 js.dsp-socialgameinfo.com
@@ -33305,7 +33271,6 @@ laptopscreen.jp
 laptopyinfo.pl
 larati.net
 laravel.pointersoftwares.com.br
-larcocultura.it
 largetfar.ga
 largetfarge.ml
 largetfarget.ga
@@ -35303,7 +35268,6 @@ mailers.unitedadlabel.com
 mail-food-id.000webhostapp.com
 mailfoogae.appspot.com
 mailforfreedom.com
-mailgate.sbell.com.cn
 mail.golimoapp.com
 mailgw2.net.daraz.com
 mail.hallym.ac.kr
@@ -39263,7 +39227,6 @@ music611.com
 musiccounter.ru
 music.getyesappz1.com
 music.ign.us.intellitxt.com
-musicmembersarea.com
 music.myappzcenter.com
 musicnote.soundcast.me
 musictoon.com
@@ -39396,7 +39359,6 @@ mybloglog.com
 my.blueadvertise.com
 mybooster.net.daraz.com
 my.bruker.com
-m.ybstwl.com
 mybuys.com
 my.carolina.com
 mycashback.co.uk
@@ -39637,7 +39599,6 @@ myyearbookdigital.checkm8.com
 m.yyeks.com
 m.yyfymj.com
 m.yzjlsb.com
-m.z0mh0u.cn
 mz8gg5.webwave.dev
 m.zabxb.com
 m.zaoss.com
@@ -41039,7 +41000,6 @@ nuyibu.pieper.de
 nv.5.p2l.info
 nv-ad.24hstatic.com
 nvfjvtntt.cf
-nvgeeforsegt.ru
 nvisionpropl1.com
 nvjrxh.nl.bauhaus
 nvod.pl
@@ -41640,16 +41600,12 @@ olx-doreczenie.pl
 olx.doreczenle.pl
 olx-d.org
 olx-dosstawa.pl
-olx.dostava24.agency
 olx-dostava.pl
 olx-dostava.su
 olx.dostawa24-fun.club
 olx.dostawa24-fun.digital
 olx.dostawa24-fun.xyz
-olx.dostawa-319157161.site
-olx.dostawa-480671504.site
 olx-dostawa792.top
-olx.dostawa-961312582.site
 olx-dostawa.app
 olx-dostawa.art
 olx-dostawa.cc
@@ -41808,8 +41764,6 @@ olxpgetpay.work
 olx.pink
 olxpl.3dsecurity.info
 olx-pl.3vd.me
-olx.pl-461280562.site
-olx.pl-541069065.site
 olxpl.app
 olx-pl.beitarprenn.cf
 olx.pl-blog.help
@@ -41851,9 +41805,7 @@ olx.pl-fastordered.work
 olx.pl-fastorders.shop
 olx.pl-fastorders.work
 olx.pl-fastorder.work
-olx.pl-fastpaid.icu
 olx.pl-fastpaid.work
-olx.pl-fastpays.icu
 olx.pl-fastpays.work
 olx-pl.getc.icu
 olx.pl-getdelivery.link
@@ -42000,7 +41952,6 @@ olx.pl-paydeliveries.icu
 olx.pl-paydeliveries.shop
 olx.pl-paydelivery.icu
 olx.pl-paydelivery.shop
-olx.pl.payfor-id.site
 olx-pl.pay-id74553.me
 olx.pl.pay-information.com
 olx.pl-pay.items-id.site
@@ -42022,7 +41973,6 @@ olx.pl-pay.shop
 olxpl-pays.online
 olx.pl-pay.su
 olx.pl-pay.surf
-olx.pl.paytrans.site
 olx.pl-payx.site
 olx-pl.pl
 olx-pl-platnosci.info
@@ -42051,7 +42001,6 @@ olx.pl-safecosts.cyou
 olx.pl-safecosts.icu
 olx.pl-safecosts.shop
 olx.pl-safecosts.work
-olx.pl-safecosts.xyz
 olx.pl-safecost.work
 olx.pl-safedeal.link
 olx.pl.safe-deal.top
@@ -42069,7 +42018,6 @@ olx.pl-safeorder.com
 olx.pl-safeorder.icu
 olx.pl-safepaid.club
 olx.pl-safepaid.work
-olx.pl-safepayments.xyz
 olx.pl.safe-payment.top
 olx.pl-safepay.shop
 olx.pl-safeway.life
@@ -42079,7 +42027,6 @@ olx.pl-savecosts.cyou
 olx.pl-savecosts.icu
 olx.pl-savecosts.shop
 olx.pl-savecosts.work
-olx.pl-savecosts.xyz
 olx.pl-saveorder.work
 olx.pl-savepayouts.shop
 olx.pl-save.work
@@ -42152,7 +42099,6 @@ olx-polska.com
 olx.polska-dastawka.casa
 olx.polska-dastawka.work
 olx.polska-dastawka.xyz
-olx.polska-dostawa24.casa
 olx.polska-dostawa.biz
 olx.polska-dostawa.ink
 olx.polska-dostawa.wiki
@@ -42510,10 +42456,6 @@ o-net1.pl
 on-et1.pl
 one-t1.pl
 onet-1.pl
-o-net1.waw.pl
-on-et1.waw.pl
-one-t1.waw.pl
-onet-1.waw.pl
 onet24.dkonto.pl
 onet24.live
 onet24pl.pvi.pl
@@ -42523,26 +42465,14 @@ o-net2.pl
 on-et2.pl
 one-t2.pl
 onet-2.pl
-o-net2.waw.pl
-on-et2.waw.pl
-one-t2.waw.pl
-onet-2.waw.pl
 o-net3.pl
 on-et3.pl
 one-t3.pl
 onet-3.pl
-o-net3.waw.pl
-on-et3.waw.pl
-one-t3.waw.pl
-onet-3.waw.pl
 o-net4.pl
 on-et4.pl
 one-t4.pl
 onet-4.pl
-o-net4.waw.pl
-on-et4.waw.pl
-one-t4.waw.pl
-onet-4.waw.pl
 onetad.com
 onetag-geo-grouping.s-onetag.com
 onetag-geo.onscroll.com
@@ -42585,7 +42515,6 @@ onet-regulamin.icu
 onetrust.mgr.consensu.org
 onet-technologie.online
 onet-warszawa.xyz
-onet.waw.pl
 onet-wiadomosc.online
 onet-wiadomosc.xyz
 onet.you2.pl
@@ -42985,7 +42914,6 @@ orlen-pl-syst.site
 orlen.pl.teslinvests.site
 orlinwestpl.pw
 orlnpacifica.pw
-orln.saygoodnewspl.xyz
 oroinc.actonservice.com
 orpheus.cuci.nl
 orpixel.adsafeprotected.com
@@ -45322,7 +45250,6 @@ pocztainteria-regulamin.net
 poczta-login-neostrada.com
 poczta-mobile.pl
 poczta-o2.pl
-poczta-onet.waw.pl
 poczta.pl-gotpaid.work
 poczta.pl-ordered.work
 poczta.pl-receive.work
@@ -45534,7 +45461,6 @@ polska-dostawa.online
 polska-dostawka.club
 polskadziennik.pl
 polska-dzisiaj1.cyou
-polskagazeta.co.pl
 polskagazeta.xyz
 polskainfo.co.pl
 polska-nasze-info24.x9.eu
@@ -49320,7 +49246,6 @@ safe.inpost.codes
 safelinking.net
 safemobilelink.com
 safenetdir.com
-safe.oferta-payment.quest
 safe-olxpln.xyz
 safepay2.interactivebrands.com
 safe-pay.info
@@ -51410,7 +51335,6 @@ signup.advance.net
 signup.iagcargo.com
 signup.lirehub.com
 signup.oasisnow.net
-signup.yogasuma.care
 sigo99.com
 si.hit.gemius.pl
 siili.net
@@ -56386,7 +56310,6 @@ sytraders.co
 s.yunpifu.cn
 sy-v1.presage.io
 syycwa.barcelo.com
-syy.dxwpedu.me
 szabadonebredok.info
 szakal.cyou
 szakms.bygghemma.se
@@ -56932,7 +56855,6 @@ td.mpush.cn
 tdn.r42tag.com
 t.domdex.com
 tdreg.icu
-tdreg.top
 t.dripemail2.com
 tds-01.atas.io
 t.dsp.mediav.com
@@ -59644,7 +59566,6 @@ t.trafmag.com
 ttsv2.shijiezhidao.com
 ttt.onthe.io
 ttwitter.com
-t.tymbf.top
 ttyyuuoo.com
 t.tzcccm.com
 tu4dff-reflective-shark.eu-gb.mybluemix.net
@@ -60107,7 +60028,6 @@ udbwft.3attar.com
 u.dc.duapps.com
 udc-neb.kampyle.com
 udc.safe.baidu.com
-u.ddvip.com
 udec.cl
 udgrbq.malwarebytes.com
 u.diannaodian.com
@@ -61131,7 +61051,6 @@ verypositiveus.com
 veryvoga.pl
 verywellfitnesse.com
 vesen.xyz
-vespang.ml
 vet0.carrefour-banque.fr
 veterans.hillandponton.com
 ve.tsdlp.com
@@ -62193,7 +62112,6 @@ wd.sharethis.com
 wds.inte.sogoucdn.com
 wd-track.de
 wdukge.midwayusa.com
-wdumme.onedio.com
 wearbasin.com
 weareactum.com
 we-are-gamers.com
@@ -62616,7 +62534,6 @@ wiadomosci-j24.cleverapps.io
 wiadomosci-naszemiasto24.x9.eu
 wiadomoscinewsy.live
 wiadomoscionet.pythonanywhere.com
-wiadomosci-onet.waw.pl
 wiadomoscipolskie.online
 wiadomosci-region24.pl
 wiadomosci-web.24.eu
@@ -64889,7 +64806,6 @@ www.ad3.api.ero-advertising.com
 www.ad3.banners.ero-advertising.com
 www.ad3.eu
 www.ad3.fpa.ero-advertising.com
-www.ad-411.com
 www.ad4.api.ero-advertising.com
 www.ad4.banners.ero-advertising.com
 www.ad4game.com
@@ -65158,7 +65074,6 @@ www.admaster.com.cn
 www.admatchly.com
 www.ad-maven.com
 www.admedia.com
-www.admedias.net
 www.admedit.net
 www.admedo.com
 www.admeld.com
@@ -65424,7 +65339,6 @@ www.adspserving.com
 www.adspsp.com
 www.ads.revenue.net
 www.adsrevenue.net
-www.ads-rolandgarros.com
 www.adsroller.com
 www.ad-srv.co
 www.adsrv.me
@@ -65434,7 +65348,6 @@ www.adsrvr.org
 www.adsrvus.com
 www.adsspace.net
 www.adsspaces.ero-advertising.com
-www.ads-stats.com
 www.ads-stream.com
 www.adstaces.ero-advertising.com
 www.adstacks.in
@@ -75451,7 +75364,6 @@ www.laptoprewardszone.com
 www.laptopscreen.jp
 www.laptopyinfo.pl
 www.larati.net
-www.larcocultura.it
 www.largetfar.ga
 www.largetfarge.ml
 www.largetfarget.ga
@@ -77220,7 +77132,6 @@ www.murdoog.com
 www.murthydigitals.com
 www.music611.com
 www.musiccounter.ru
-www.musicmembersarea.com
 www.musictoon.com
 www.musika.pl
 www.musikzoo.com
@@ -78098,7 +78009,6 @@ www.nutrired.org
 www.nutten-verzeichnis.cxa.de
 www.nuttyorganization.com
 www.nvfjvtntt.cf
-www.nvgeeforsegt.ru
 www.nvisionpropl1.com
 www.nvod.pl
 www.nvrentao8.com
@@ -84227,7 +84137,6 @@ www.td583.com
 www.tdejob.work
 www.tdggrthhbfgnahnmstjasrmst.myartsonline.com
 www.tdreg.icu
-www.tdreg.top
 www.te81.net
 www.teacriss-edlechs.xyz
 www.teacross-edtechs.xyz
@@ -85667,7 +85576,6 @@ www.verypositiveus.com
 www.veryvoga.pl
 www.verywellfitnesse.com
 www.vesen.xyz
-www.vespang.ml
 www.vewvwm.myshopify.com
 www.vexacion.com
 www.vfastdownload.com
