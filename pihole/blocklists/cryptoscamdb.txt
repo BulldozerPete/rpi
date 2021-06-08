@@ -26,7 +26,7 @@
 # Telegram-Gruppe PiHole + Unbound Fans (DACH)
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
-# 4134 Domains - 2021.06.08-03:31:36
+# 4134 Domains - 2021.06.08-07:23:21
 # ---------------------------------------------
 #
 0978f655-465b-4434-99fb-f8357c7bca4b.htmlpasta.com
@@ -128,7 +128,6 @@ app.uniswap.org-info-liquidity.com
 app.uniswap.tokens-airdrop-holders.com
 aprilcontest.tumblr.com
 april.trade
-arbitragecrypto.org
 aronum.com
 artoken.co
 atlantis-wallet.com
@@ -1207,6 +1206,7 @@ idex.xyz
 idice.epizy.com
 iluminatto.com.br
 im-creator.com
+immvrse.io
 indexcryptofx.com
 infinances.com
 infinitimoney.com
@@ -2091,7 +2091,6 @@ tesla3.gifts
 tesla3-now.com
 tesla3.org
 tesla-btc.info
-tesla.bz
 tesla.center
 teslacoins.club
 teslaearn.com
@@ -2347,7 +2346,6 @@ www.app-aave.org
 www.app-bittrex.com
 www.applegive.club
 www.april.trade
-www.arbitragecrypto.org
 www.aronum.com
 www.artoken.co
 www.atlantis-wallet.com
@@ -3076,6 +3074,7 @@ www.idex-markt-roosen-gmbh.com
 www.idex.pw
 www.idex.xyz
 www.im-creator.com
+www.immvrse.io
 www.indexcryptofx.com
 www.infinances.com
 www.infinitimoney.com
@@ -3783,7 +3782,6 @@ www.tesla3.gifts
 www.tesla3-now.com
 www.tesla3.org
 www.tesla-btc.info
-www.tesla.bz
 www.tesla.center
 www.teslacoins.club
 www.teslaearn.com
@@ -3977,6 +3975,7 @@ www.xn--localitcoins-bh4f.net
 www.xn--medum-vsa.com
 www.xn--metherwallet-qlb.com
 www.xn--mxer-qpa.money
+www.xn--myetherallt-0k9ejx.com
 www.xn--myetherwalet-lcc.com
 www.xn--myetherwallt-cfb.com
 www.xn--myetherwallt-leb.com
@@ -4081,6 +4080,7 @@ xn--localitcoins-bh4f.net
 xn--medum-vsa.com
 xn--metherwallet-qlb.com
 xn--mxer-qpa.money
+xn--myetherallt-0k9ejx.com
 xn--myetherwalet-lcc.com
 xn--myetherwallt-cfb.com
 xn--myetherwallt-leb.com

@@ -24,11 +24,11 @@
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
 
-Downloade easylist                  --> 85917 easylist.raw
-Extrahiere gültige Domains          --> 30562 easylist.domains
-Bereinige tote Domains              --> 29583 easylist.domains
-Erstelle Domainliste für WWW Zusatz --> 19208 easylist.domains.www
-Erweitere Domains durch WWW         --> 19208 easylist.www
+Downloade easylist                  --> 85882 easylist.raw
+Extrahiere gültige Domains          --> 30596 easylist.domains
+Bereinige tote Domains              --> 29617 easylist.domains
+Erstelle Domainliste für WWW Zusatz --> 19241 easylist.domains.www
+Erweitere Domains durch WWW         --> 19241 easylist.www
 Erstelle Domainliste für FLD        --> 8 easylist.www.fld
-Erstelle easylist                   --> 48799 easylist.txt.tmp
+Erstelle easylist                   --> 48866 easylist.txt.tmp
 
