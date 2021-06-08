@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# Whitelist: 22193
-# Deadlist: 368833
-# Blacklist: 1682
+# Whitelist: 22192
+# Deadlist: 368898
+# Blacklist: 1675
 # 1. Source: 4138 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #
 # ---------------------------------------------
-# 9626 Domains - V2021.06.07-22:31:19
+# 9612 Domains - V2021.06.08-03:32:19
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -60,7 +60,6 @@
 aaafashion.ru
 aaa-handel.net
 aacan.site
-aaemauleg.com
 aalborgfrivilligraad.dk
 aandrzej.pl
 abaherhat.com
@@ -329,7 +328,6 @@ aw-handel.de
 axa-immo.us
 axialgeo.com
 axorisshop.com
-ayanmartc.com
 ayparwebt.com
 ayurreadpro.com
 aziur.de
@@ -1153,7 +1151,6 @@ duesseldorf-botschaft.de
 dumbbell-fitness.de
 dumpingwhale.com
 du-und-ich.at
-duvanelstore.com
 dvdsetstore.com
 dvg-hagen-mitte.de
 dvshopm.com
@@ -2031,7 +2028,6 @@ hrehwald.at
 hroudra.com
 hrs-lassnitzhoehe.at
 hsd-installationstechnik.at
-hsiaglf.com
 htansys.top
 hugfirst.com
 hulahip.de
@@ -2080,7 +2076,6 @@ idsgermany.com
 idsschweiz.org
 id-willhaben.at
 iefjcoiefhv.myshopify.com
-ielmufid.com
 igrt-mbh.de
 igulaser.com
 ihre-hausverwalter.de
@@ -2536,7 +2531,6 @@ limassolrealestate.com
 limetree.at
 limondo.shop
 linearnetrik.de
-line-eu.com
 line-express-group.com
 lingoget.com
 linh-nguyen.de
@@ -4446,7 +4440,6 @@ umozu.de
 umsatz-generator.de
 umshopp.com
 umwatchvip.com
-umziehen-heppenheim.de
 umziehen-in-europa.de
 umzug-moedling.at
 unabhaengige-verlage.de
@@ -4809,7 +4802,6 @@ www.99rabats.shop
 www.aaafashion.ru
 www.aaa-handel.net
 www.aacan.site
-www.aaemauleg.com
 www.aalborgfrivilligraad.dk
 www.aandrzej.pl
 www.abaherhat.com
@@ -5073,7 +5065,6 @@ www.aw-handel.de
 www.axa-immo.us
 www.axialgeo.com
 www.axorisshop.com
-www.ayanmartc.com
 www.ayparwebt.com
 www.ayurreadpro.com
 www.aziur.de
@@ -5860,7 +5851,6 @@ www.duesseldorf-botschaft.de
 www.dumbbell-fitness.de
 www.dumpingwhale.com
 www.du-und-ich.at
-www.duvanelstore.com
 www.dvdsetstore.com
 www.dvg-hagen-mitte.de
 www.dvshopm.com
@@ -6724,7 +6714,6 @@ www.hrehwald.at
 www.hroudra.com
 www.hrs-lassnitzhoehe.at
 www.hsd-installationstechnik.at
-www.hsiaglf.com
 www.htansys.top
 www.hugfirst.com
 www.hulahip.de
@@ -6772,7 +6761,6 @@ www.idsaustria.com
 www.idsgermany.com
 www.idsschweiz.org
 www.id-willhaben.at
-www.ielmufid.com
 www.igrt-mbh.de
 www.igulaser.com
 www.ihre-hausverwalter.de
@@ -7221,7 +7209,6 @@ www.limassolrealestate.com
 www.limetree.at
 www.limondo.shop
 www.linearnetrik.de
-www.line-eu.com
 www.line-express-group.com
 www.lingoget.com
 www.linh-nguyen.de
@@ -9070,7 +9057,6 @@ www.umozu.de
 www.umsatz-generator.de
 www.umshopp.com
 www.umwatchvip.com
-www.umziehen-heppenheim.de
 www.umziehen-in-europa.de
 www.umzug-moedling.at
 www.unabhaengige-verlage.de
