@@ -4,6 +4,7 @@
 ^adtrack(er|ing)?[0-9]*\.
 ^advert(s|ising|ise(rs?))?[0-9]*\.
 ^affiliates?[0-9]*\.
+^beacons?[0-9]*\.
 ^pixels?[0-9]*\.
 ^s?analytics?[0-9]*\.
 ^s?metrics?[0-9]*\.
