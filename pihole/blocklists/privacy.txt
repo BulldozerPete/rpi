@@ -5,7 +5,7 @@
 # Erstellt zur rein persönlichen, privaten
 # Nutzung.
 #
-# Blockt Telemetrie & Metriken von 
+# Blockt Telemetrie & Metriken von
 # Endgeräten, Diensten und Systemen
 # diverser Hersteller.
 #
@@ -39,15 +39,19 @@ trackingshipment.apple.com
 #
 # Huawei
 #
-grs.dbankcloud.asia 
-grs.dbankcloud.cn 
-grs.dbankcloud.com 
-grs.dbankcloud.eu 
+data.hicloud.com
+datacollector-drru.dt.hicloud.com
+grs.dbankcloud.asia
+grs.dbankcloud.cn
+grs.dbankcloud.com
 logbak.hicloud.com
+logservice-dra.platform.hicloud.com
 logservice.hicloud.com
 logservice1.hicloud.com
+logtransform.hicloud.com
 metrics-dra.dt.hicloud.com
 metrics.data.hicloud.com
+metrics.dt.hicloud.com
 metrics1.data.hicloud.com
 metrics2.data.hicloud.com
 metrics3.data.hicloud.com
@@ -97,6 +101,28 @@ samsungadhub.com
 samsungads.com
 smetrics.samsung.com
 #
+# Snapchat
+#
+ad-center.snapchat.com
+ads.snapchat.com
+adsapi.snapchat.com
+adsapi2.snapchat.com
+adsapimus.snapchat.com
+advertising.snapchat.com
+app-analytics-v2.snapchat.com
+app-analytics.snapchat.com
+content-insights-revenue.snapchat.com
+intg.snapchat.com
+learn.advertising.snapchat.com
+omnicollector.snapchat.com
+pro-insights.snapchat.com
+rtam-collector.snapchat.com
+server-analytics.snapchat.com
+staging.app-analytics.snapchat.com
+staging.server-analytics.snapchat.com
+story-insights.snapchat.com
+tr.snapchat.com
+#
 # Sonos
 #
 msmetrics-test.ws.sonos.com
@@ -111,6 +137,17 @@ service.biv.sony.tv
 ssm1.internet.sony.tv
 ssm2.internet.sony.tv
 ssm3.internet.sony.tv
+#
+# Tiktok
+#
+log-va.tiktokv.com
+log.tiktokv.com
+mcs-va.tiktokv.com
+mon-va.tiktokv.com
+mon.tiktokv.com
+rtlog.tiktokv.com
+xlog-va.tiktokv.com
+xlog.tiktokv.com
 #
 # Microsoft
 #
