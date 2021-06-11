@@ -24,10 +24,9 @@
 
 # 1. Source: 68 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/beta/ads_tracking.txt
 # 2. Source: 422 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
-# 3. Source: 184 - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
-# #. Source: 674
+# #. Source: 490
 
 Statistik affiliatetracking.txt:
-== Source (unique): 661
-++ WWW-Domains:     714 (+53)
-++ FLD-Domains:     717 (+3)
+== Source (unique): 487
+++ WWW-Domains:     530 (+43)
+++ FLD-Domains:     533 (+3)
