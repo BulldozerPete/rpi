@@ -21,16 +21,22 @@
 #
 # Whitelist: 0
 # Deadlist: 0
-# Blacklist: 0
+# Blacklist: 48
 # 1. Source: 68 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/beta/ads_tracking.txt
 # 2. Source: 422 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 533 Domains - V2021.06.11-07:31:21
+# 583 Domains - V2021.06.11-07:39:46
 # ---------------------------------------------
 #
+19534.redirect.appmetrica.yandex.com
+30488.redirect.appmetrica.yandex.com
+3.redirect.appmetrica.yandex.com
+4.redirect.appmetrica.yandex.com
 5014.xg4ken.com
 7eer.net
+aan.amazon.com
+aax.amazon-adsystem.com
 action.metaffiliation.com
 ad2.doubleclick.net
 ad-ace.doubleclick.net
@@ -41,9 +47,11 @@ ad.doubleclick.net
 ade.googlesyndication.com
 ad-emea.doubleclick.net
 adfoc.us
+adfox.yandex.ru
 ad-g.doubleclick.net
 adj.st
 ads-bid.l.doubleclick.net
+adsdk.yandex.ru
 adservice.google.ac
 adservice.google.ad
 adservice.google.ae
@@ -283,28 +291,43 @@ adservice.google.xn--mxtq1m
 adservice.google.xn--ngbrx
 adservice.google.xn--node
 ads.google.com
+ads.pinterest.com
 adx.g.doubleclick.net
 affiliatefuture.com
 afs.googlesyndication.com
 alb.reddit.com
 amazon-adsystem.com
+a.mouseflow.comc
 analytics.google.com
+analytics.mobile.yandex.net
+analytics.pinterest.com
 analytics.twitter.com
 anrdoezrs.net
+an.yandex.ru
 apiservices.krxd.net
 apmebf.com
 app2.salesmanago.pl
 app.adjust.com
 app.getresponse.com
 app.link
+appmetrica.yandex.com
+assoc-amazon.com
 at-go.kelkoogroup.net
 avantlink.com
+awaps.yandex.ru
 awin1.com
+awsync.yandex.ru
+banners.mobile.yandex.net
+banners-slb.mobile.yandex.net
 be-go.kelkoogroup.net
 bfast.com
 br-go.kelkoogroup.net
+browser.sentry-cdn.com
+bs-meta.yandex.ru
 bs.serving-sys.com
+bs.yandex.ru
 buttons.googlesyndication.com
+c.amazon-adsystem.com
 campaign.adobe.com
 captive.pagead2.googlesyndication.com
 captive.tpc.googlesyndication.com
@@ -323,6 +346,7 @@ click.mail.macmillan.com
 click.member.americanexpress.com
 click.pstmrk.it
 click.redditmail.com
+click.sender.yandex.ru
 clickserve.cc-dt.com
 clickserve.dartsearch.net
 click.virt.s10.exacttarget.com
@@ -339,6 +363,7 @@ commission-junction.com
 cse3.chausport.com
 c.statcounter.com
 ct.impactradius.com
+ct.pinterest.com
 cts.businesswire.com
 ct.sendgrid.net
 custom.bnc.lt
@@ -362,6 +387,7 @@ es-go.kelkoogroup.net
 eulerian.brandalley.fr
 eultech.fnac.com
 evyy.net
+extmaps-api.yandex.net
 feedads.g.doubleclick.net
 fi-go.kelkoogroup.net
 fls.doubleclick.net
@@ -387,9 +413,11 @@ go.pardot.com
 gopjn.com
 go.redirectingat.com
 go.skimresources.com
+grade.market.yandex.ru
 gr-go.kelkoogroup.net
 gs.statcounter.com
 guce.advertising.com
+hotjar.com
 href.li
 hs.eloqua.com
 hubspotemail.net
@@ -397,10 +425,12 @@ hu-go.kelkoogroup.net
 id.google.com
 ie-go.kelkoogroup.net
 image.email.microsoftemail.com
+informer.yandex.ru
 it-go.kelkoogroup.net
 jdoqocy.com
 k.cocooncenter.com
 kdukvh.com
+kiks.yandex.ru
 kqzyfj.com
 link.digitaladvisor.dk
 link.epicgames.com
@@ -413,15 +443,23 @@ links.mkt81.net
 links.mkt91.net
 link.springer.com
 list-manage.com
+log.pinterest.com
+mads.amazon-adsystem.com
+matchid.adfox.yandex.ru
+mc.yandex.ru
 m.doubleclick.net
+metrika.yandex.ru
 mktoweb.com
 mmtro.com
 mobile-displayads.l.doubleclick.net
+mobile.yandexadexchange.net
 monitor.clickcease.com
+mouseflow.com
 mx-go.kelkoogroup.net
 nb-go.kelkoogroup.net
 nl-go.kelkoogroup.net
 no-go.kelkoogroup.net
+offerwall.yandex.net
 ojrq.net
 onelink.me
 onenetworkdirect.net
@@ -452,10 +490,13 @@ qksrv.net
 r20.rs6.net
 rd.bizrate.com
 rebrandlydomain.com
+redirect.appmetrica.yandex.com
+redirect.appmetrica.yandex.ru
 redirect.at
 redirector.c.googlesyndication.com
 redirect.viglink.com
 redir.tradedoubler.com
+report.appmetrica.yandex.net
 ro-go.kelkoogroup.net
 ru-go.kelkoogroup.net
 s0.doubleclick.net
@@ -465,6 +506,7 @@ s.click.aliexpress.com
 securepubads.g.doubleclick.net
 se-go.kelkoogroup.net
 shareasale.com
+share.yandex.ru
 sites.hscoscdn10.net
 sites.hscoscdn20.net
 sites.hscoscdn30.net
@@ -473,8 +515,10 @@ sk-go.kelkoogroup.net
 solutions.tradedoubler.com
 ssl.google-analytics.com
 ssl-google-analytics.l.google.com
+startup.mobile.yandex.net
 statcounter.com
 static.doubleclick.net
+static.hotjar.com
 stats.g.doubleclick.net
 stats.l.doubleclick.net
 suite15.emarsys.net
@@ -500,6 +544,7 @@ tracking.publicidees.com
 track.webgains.com
 trk.klclick1.com
 trk.klclick.com
+trk.pinterest.com
 uk-go.kelkoogroup.net
 us-go.kelkoogroup.net
 video-ad-stats.googlesyndication.com
@@ -515,6 +560,7 @@ www.amazon-adsystem.com
 www.anrdoezrs.net
 www.apmebf.com
 www.app.link
+www.assoc-amazon.com
 www.avantlink.com
 www.awin1.com
 www.bfast.com
@@ -534,6 +580,7 @@ www-google-analytics.l.google.com
 www.googlesyndication.com
 www.googletagservices.com
 www.gopjn.com
+www.hotjar.com
 www.href.li
 www.hubspotemail.net
 www.jdoqocy.com
@@ -542,6 +589,7 @@ www.kqzyfj.com
 www.list-manage.com
 www.mktoweb.com
 www.mmtro.com
+www.mouseflow.com
 www.ojrq.net
 www.onelink.me
 www.onenetworkdirect.net
@@ -562,3 +610,5 @@ www.statcounter.com
 www.t.co
 www.tkqlhce.com
 www.trackcmp.net
+www.yandexadexchange.net
+yandexadexchange.net
