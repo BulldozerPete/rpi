@@ -5,7 +5,7 @@
 # Erstellt zur rein persönlichen, privaten
 # Nutzung.
 #
-# Blockt Werbung und Tracking (+Links).
+# Blockt Werbung und Tracking (+Ad-Links).
 #
 # ---------------------------------------------
 # GitHub: https://github.com/Zelo72
@@ -20,14 +20,13 @@
 # Whitelist: 0
 # Deadlist: 0
 
-# Blacklist: 48
+# Blacklist: 0
 
-# 1. Source: 68 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/beta/ads_tracking.txt
+# 1. Source: 180 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/ads_tracking.txt
 # 2. Source: 422 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
-# #. Source: 490
+# #. Source: 602
 
 Statistik affiliatetracking.txt:
-== Source (unique): 487
-++ Black:           533 (+46)
-++ WWW-Domains:     580 (+47)
-++ FLD-Domains:     583 (+3)
+== Source (unique): 596
+++ WWW-Domains:     647 (+51)
+++ FLD-Domains:     650 (+3)

@@ -5,7 +5,7 @@
 # Erstellt zur rein persönlichen, privaten
 # Nutzung.
 #
-# Blockt Werbung und Tracking (+Links).
+# Blockt Werbung und Tracking (+Ad-Links).
 #
 # ---------------------------------------------
 # GitHub: https://github.com/Zelo72
@@ -21,12 +21,12 @@
 #
 # Whitelist: 0
 # Deadlist: 0
-# Blacklist: 48
-# 1. Source: 68 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/beta/ads_tracking.txt
+# Blacklist: 0
+# 1. Source: 180 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/ads_tracking.txt
 # 2. Source: 422 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 583 Domains - V2021.06.11-07:39:46
+# 650 Domains - V2021.06.11-08:36:07
 # ---------------------------------------------
 #
 19534.redirect.appmetrica.yandex.com
@@ -52,6 +52,8 @@ ad-g.doubleclick.net
 adj.st
 ads-bid.l.doubleclick.net
 adsdk.yandex.ru
+adserver.yahoo.com
+adservetx.media.net
 adservice.google.ac
 adservice.google.ad
 adservice.google.ae
@@ -290,18 +292,32 @@ adservice.google.ws
 adservice.google.xn--mxtq1m
 adservice.google.xn--ngbrx
 adservice.google.xn--node
+ads.facebook.com
 ads.google.com
+ads.linkedin.com
+adspecs.yahoo.com
 ads.pinterest.com
+ads.reddit.com
+ads.tiktok.com
+ads-twitter.com
+ads.yahoo.com
+ads.yap.yahoo.com
+ads.youtube.com
+advertising.yahoo.com
 adx.g.doubleclick.net
 affiliatefuture.com
 afs.googlesyndication.com
 alb.reddit.com
 amazon-adsystem.com
-a.mouseflow.comc
+a.mouseflow.com
+analytics.facebook.com
 analytics.google.com
 analytics.mobile.yandex.net
 analytics.pinterest.com
+analytics.pointdrive.linkedin.com
+analytics.query.yahoo.com
 analytics.twitter.com
+analytics.yahoo.com
 anrdoezrs.net
 an.yandex.ru
 apiservices.krxd.net
@@ -319,8 +335,11 @@ awin1.com
 awsync.yandex.ru
 banners.mobile.yandex.net
 banners-slb.mobile.yandex.net
+bats.video.yahoo.com
+beap.gemini.yahoo.com
 be-go.kelkoogroup.net
 bfast.com
+br.adspecs.yahoo.com
 br-go.kelkoogroup.net
 browser.sentry-cdn.com
 bs-meta.yandex.ru
@@ -333,6 +352,8 @@ captive.pagead2.googlesyndication.com
 captive.tpc.googlesyndication.com
 cb.sailthru.com
 cc-dt.com
+cdn.fastclick.net
+cdn.luckyorange.com
 ch0p.darty.com
 ch-go.kelkoogroup.net
 cj.com
@@ -358,9 +379,12 @@ click.virt.s6.exacttarget.com
 click.virt.s7.exacttarget.com
 clk.boulanger.com
 clk.tradedoubler.com
+cms.analytics.yahoo.com
+comet.yahoo.com
 commander1.com
 commission-junction.com
 cse3.chausport.com
+cs.luckyorange.net
 c.statcounter.com
 ct.impactradius.com
 ct.pinterest.com
@@ -373,6 +397,7 @@ cz-go.kelkoogroup.net
 dart-apac.l.doubleclick.net
 dart.l.doubleclick.net
 dashboard-01.braze.com
+de.advertising.yahoo.com
 dk-go.kelkoogroup.net
 doubleclick.com
 doubleclick.net
@@ -383,20 +408,29 @@ email.docker.com
 email-tracking.infobip.com
 email.uber.com
 emjcd.com
+es.advertising.yahoo.com
 es-go.kelkoogroup.net
 eulerian.brandalley.fr
 eultech.fnac.com
+events.redditmedia.com
 evyy.net
 extmaps-api.yandex.net
 feedads.g.doubleclick.net
 fi-go.kelkoogroup.net
 fls.doubleclick.net
+fr.advertising.yahoo.com
+freshmarketer.com
 fr-go.kelkoogroup.net
 g0.doubleclick.net
 g1.doubleclick.net
 g2.doubleclick.net
 g3.doubleclick.net
+ganon.yahoo.com
 g.doubleclick.net
+gemini.yahoo.com
+geo.query.yahoo.com
+geo.yahoo.com
+global.adserver.yahoo.com
 go2jump.org
 go.microsoft.com
 go.nordlocker.net
@@ -425,13 +459,16 @@ hu-go.kelkoogroup.net
 id.google.com
 ie-go.kelkoogroup.net
 image.email.microsoftemail.com
+in.advertising.yahoo.com
 informer.yandex.ru
+it.advertising.yahoo.com
 it-go.kelkoogroup.net
 jdoqocy.com
 k.cocooncenter.com
 kdukvh.com
 kiks.yandex.ru
 kqzyfj.com
+latam.adspecs.yahoo.com
 link.digitaladvisor.dk
 link.epicgames.com
 link.freshmail.mx
@@ -443,11 +480,15 @@ links.mkt81.net
 links.mkt91.net
 link.springer.com
 list-manage.com
+log.fc.yahoo.com
 log.pinterest.com
 mads.amazon-adsystem.com
+marketingsolutions.yahoo.com
 matchid.adfox.yandex.ru
 mc.yandex.ru
 m.doubleclick.net
+media.fastclick.net
+media.net
 metrika.yandex.ru
 mktoweb.com
 mmtro.com
@@ -456,16 +497,20 @@ mobile.yandexadexchange.net
 monitor.clickcease.com
 mouseflow.com
 mx-go.kelkoogroup.net
+m.yap.yahoo.com
 nb-go.kelkoogroup.net
 nl-go.kelkoogroup.net
 no-go.kelkoogroup.net
+notify.bugsnag.com
 offerwall.yandex.net
 ojrq.net
 onelink.me
 onenetworkdirect.net
+onepush.query.yahoo.com
 online.adservicemedia.dk
 online.digital-advisor.com
 open.spotify.com
+opus.analytics.yahoo.com
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
 pagead46.googlesyndication.com
@@ -473,9 +518,12 @@ pagead46.l.doubleclick.net
 pagead.l.doubleclick.net
 partnerad.l.doubleclick.net
 partner-ads.com
+partnerads.ysm.yahoo.com
+pclick.yahoo.com
 pepperjamnetwork.com
 pi.pardot.com
 pixel.everesttech.net
+pixel.facebook.com
 pjatr.com
 pjtra.com
 pl-go.kelkoogroup.net
@@ -497,14 +545,18 @@ redirector.c.googlesyndication.com
 redirect.viglink.com
 redir.tradedoubler.com
 report.appmetrica.yandex.net
+rereddit.com
 ro-go.kelkoogroup.net
 ru-go.kelkoogroup.net
 s0.doubleclick.net
 s1.doubleclick.net
 sailthru.com
 s.click.aliexpress.com
+sea.advertising.yahoo.com
 securepubads.g.doubleclick.net
 se-go.kelkoogroup.net
+sessions.bugsnag.com
+settings.luckyorange.net
 shareasale.com
 share.yandex.ru
 sites.hscoscdn10.net
@@ -513,14 +565,18 @@ sites.hscoscdn30.net
 sites.hscoscdn40.net
 sk-go.kelkoogroup.net
 solutions.tradedoubler.com
+sp.analytics.yahoo.com
 ssl.google-analytics.com
 ssl-google-analytics.l.google.com
 startup.mobile.yandex.net
 statcounter.com
+static.ads-twitter.com
 static.doubleclick.net
 static.hotjar.com
+static.media.net
 stats.g.doubleclick.net
 stats.l.doubleclick.net
+stats.wp.com
 suite15.emarsys.net
 syndication.exosrv.com
 syndication.realsrv.com
@@ -545,16 +601,23 @@ track.webgains.com
 trk.klclick1.com
 trk.klclick.com
 trk.pinterest.com
+uk.advertising.yahoo.com
 uk-go.kelkoogroup.net
+upload.luckyorange.net
+us.adserver.yahoo.com
 us-go.kelkoogroup.net
+ush.adspecs.yahoo.com
 video-ad-stats.googlesyndication.com
 view.virt.s7.exacttarget.com
+visit.webhosting.yahoo.com
+w1.luckyorange.com
 www2.doubleclick.com
 www3.doubleclick.com
 www3.doubleclick.net
 www.7eer.net
 www.adfoc.us
 www.adj.st
+www.ads-twitter.com
 www.affiliatefuture.com
 www.amazon-adsystem.com
 www.anrdoezrs.net
@@ -573,6 +636,7 @@ www.doubleclick.net
 www.dpbolvw.net
 www.emjcd.com
 www.evyy.net
+www.freshmarketer.com
 www.go2jump.org
 www.googleadservices.com
 www.google-analytics.com
@@ -587,6 +651,7 @@ www.jdoqocy.com
 www.kdukvh.com
 www.kqzyfj.com
 www.list-manage.com
+www.media.net
 www.mktoweb.com
 www.mmtro.com
 www.mouseflow.com
@@ -604,6 +669,7 @@ www.prf.hn
 www.qksrv.net
 www.rebrandlydomain.com
 www.redirect.at
+www.rereddit.com
 www.sailthru.com
 www.shareasale.com
 www.statcounter.com
@@ -612,3 +678,4 @@ www.tkqlhce.com
 www.trackcmp.net
 www.yandexadexchange.net
 yandexadexchange.net
+youtube.cleverads.vn
