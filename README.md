@@ -1,5 +1,6 @@
 
 ## *PiHole*, Blokada, Diversion, PersonalDNSfilter, pfBlockerNG und PersonalBlocklist [Blocklisten](https://github.com/Zelo72/rpi/tree/master/pihole/blocklists) (Domain-Format)
+***Weitere Formate: [Hosts](https://github.com/Zelo72/hosts) | [AdGuard/AdBlock](https://github.com/Zelo72/adguard)***
 
 ### ***DNS-Sperrlisten*** (Black-/Blocklists)
 
@@ -75,7 +76,7 @@
 
 ### ***Hinweis***
 
-***Die Blocklisten wurden zur rein persönlichen, privaten Nutzung erstellt. Die Blocklisten wurde aus vorhandenen Quellen und eigenen Blacklisten unter Berücksichtigung von Whitelisten wie Dead-Hosts (Hosts-Adressen die nicht mehr existieren) und Toplisten (DE:Top 50 - Welt:Top 50) zusammen gestellt.***
+***Die Blocklisten wurden zur rein persönlichen, privaten Nutzung erstellt. Die Blocklisten wurden aus vorhandenen Quellen und eigenen Blacklisten unter Berücksichtigung von Whitelisten wie Dead-Hosts (Hosts-Adressen die nicht mehr existieren) und Toplisten (DE:Top 50 - Welt:Top 50) zusammen gestellt.***
 
 **Die Blocklisten werden täglich aktualisiert.**
 
