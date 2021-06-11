@@ -1,0 +1,271 @@
+#
+# Amazon ***
+#
+aan.amazon.com
+aax.amazon-adsystem.com
+amazon-adsystem.com
+assoc-amazon.com
+c.amazon-adsystem.com
+mads.amazon-adsystem.com
+
+#
+# Bugsnag ***
+#
+notify.bugsnag.com
+sessions.bugsnag.com
+
+#
+# Doubleclick
+#
+ad-ace.doubleclick.net
+ad-apac.doubleclick.net
+ad-emea.doubleclick.net
+ad-g.doubleclick.net
+ad.doubleclick.net
+ad2.doubleclick.net
+adclick.g.doubleclick.net
+ads-bid.l.doubleclick.net
+adx.g.doubleclick.net
+dart-apac.l.doubleclick.net
+doubleclick.com
+doubleclick.net
+feedads.g.doubleclick.net
+fls.doubleclick.net
+g.doubleclick.net
+g0.doubleclick.net
+g1.doubleclick.net
+g2.doubleclick.net
+g3.doubleclick.net
+googleads.g.doubleclick.net
+googleads2.g.doubleclick.net
+googleads4.g.doubleclick.net
+m.doubleclick.net
+mobile-displayads.l.doubleclick.net
+pagead46.l.doubleclick.net
+partnerad.l.doubleclick.net
+pubads.g.doubleclick.net
+s0.doubleclick.net
+s1.doubleclick.net
+securepubads.g.doubleclick.net
+static.doubleclick.net
+stats.g.doubleclick.net
+stats.l.doubleclick.net
+www.doubleclick.com
+www.doubleclick.net
+www2.doubleclick.com
+www3.doubleclick.com
+www3.doubleclick.net
+
+#
+# FastClick ***
+#
+cdn.fastclick.net
+media.fastclick.net
+
+#
+# Google
+#
+#   Ads
+ads.google.com
+adservice.google.com
+googleadservices.com
+pagead2.googleadservices.com
+www.googleadservices.com
+#   Analytics
+analytics.google.com
+google-analytics.com
+id.google.com
+ssl-google-analytics.l.google.com
+ssl.google-analytics.com
+www-google-analytics.l.google.com
+www.google-analytics.com
+#   Tag
+googletagservices.com
+www.googletagservices.com
+#   Syndication
+ade.googlesyndication.com
+afs.googlesyndication.com
+buttons.googlesyndication.com
+captive.pagead2.googlesyndication.com
+captive.tpc.googlesyndication.com
+googlesyndication.com
+pagead2.googlesyndication.com
+pagead46.googlesyndication.com
+redirector.c.googlesyndication.com
+tpc.googlesyndication.com
+tpcnc.googlesyndication.com
+video-ad-stats.googlesyndication.com
+
+#
+# Hotjar ***
+#
+hotjar.com
+static.hotjar.com
+
+#
+# Media.net ***
+#
+adservetx.media.net
+media.net
+static.media.net
+
+#
+# MouseFlow ***
+#
+a.mouseflow.com
+mouseflow.com
+
+#
+# Facebook ***
+#
+ads.facebook.com
+analytics.facebook.com
+pixel.facebook.com
+
+#
+# FreshMarketer ***
+#
+freshmarketer.com
+
+#
+# LinkedIn ***
+#
+ads.linkedin.com
+analytics.pointdrive.linkedin.com
+
+#
+# Luckyorange ***
+#
+cdn.luckyorange.com
+cs.luckyorange.net
+settings.luckyorange.net
+upload.luckyorange.net
+w1.luckyorange.com
+
+#
+# Pinterest ***
+#
+ads.pinterest.com
+analytics.pinterest.com
+ct.pinterest.com
+log.pinterest.com
+trk.pinterest.com
+
+#
+# Reddit ***
+#
+ads.reddit.com
+events.redditmedia.com
+rereddit.com
+
+#
+# Sentry ***
+#
+browser.sentry-cdn.com
+
+#
+# Statcounter
+#
+c.statcounter.com
+gs.statcounter.com
+statcounter.com
+www.statcounter.com
+
+#
+# TikTok ***
+#
+ads.tiktok.com
+
+#
+# Twitter ***
+#
+ads-twitter.com
+analytics.twitter.com
+static.ads-twitter.com
+
+#
+# Wordpress
+#
+stats.wp.com
+
+#
+# Yahoo ***
+#
+ads.yahoo.com
+ads.yap.yahoo.com
+adserver.yahoo.com
+adspecs.yahoo.com
+advertising.yahoo.com
+analytics.query.yahoo.com
+analytics.yahoo.com
+bats.video.yahoo.com
+beap.gemini.yahoo.com
+br.adspecs.yahoo.com
+cms.analytics.yahoo.com
+comet.yahoo.com
+de.advertising.yahoo.com
+es.advertising.yahoo.com
+fr.advertising.yahoo.com
+ganon.yahoo.com
+gemini.yahoo.com
+geo.query.yahoo.com
+geo.yahoo.com
+global.adserver.yahoo.com
+in.advertising.yahoo.com
+it.advertising.yahoo.com
+latam.adspecs.yahoo.com
+log.fc.yahoo.com
+m.yap.yahoo.com
+marketingsolutions.yahoo.com
+onepush.query.yahoo.com
+opus.analytics.yahoo.com
+partnerads.ysm.yahoo.com
+pclick.yahoo.com
+sea.advertising.yahoo.com
+sp.analytics.yahoo.com
+uk.advertising.yahoo.com
+us.adserver.yahoo.com
+ush.adspecs.yahoo.com
+visit.webhosting.yahoo.com
+
+#
+# Yandex ***
+#
+19534.redirect.appmetrica.yandex.com
+3.redirect.appmetrica.yandex.com
+30488.redirect.appmetrica.yandex.com
+4.redirect.appmetrica.yandex.com
+adfox.yandex.ru
+adsdk.yandex.ru
+an.yandex.ru
+analytics.mobile.yandex.net
+appmetrica.yandex.com
+awaps.yandex.ru
+awsync.yandex.ru
+banners-slb.mobile.yandex.net
+banners.mobile.yandex.net
+bs-meta.yandex.ru
+bs.yandex.ru
+clck.yandex.ru
+click.sender.yandex.ru
+extmaps-api.yandex.net
+grade.market.yandex.ru
+informer.yandex.ru
+kiks.yandex.ru
+matchid.adfox.yandex.ru
+mc.yandex.ru
+metrika.yandex.ru
+mobile.yandexadexchange.net
+offerwall.yandex.net
+redirect.appmetrica.yandex.com
+redirect.appmetrica.yandex.ru
+report.appmetrica.yandex.net
+share.yandex.ru
+startup.mobile.yandex.net
+yandexadexchange.net
+
+#
+# YouTube ***
+#
+ads.youtube.com
+youtube.cleverads.vn
