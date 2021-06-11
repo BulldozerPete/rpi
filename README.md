@@ -44,7 +44,7 @@
 
 ### ***DNS-Freigabeliste*** (Whitelist)
 
-[**White**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/white.list) - Zelo's Whitelist: ***Domains die man nicht blocken sollte***. Die in der Whitelist aufgeführten Domains wurden **gegen die Multi- und Fake-Blockiste geprüft und sind in diesen Blocklisten nicht mehr enthalten**.
+[**White**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/white.list) - Zelo's Whitelist: ***Domains die man nicht blocken sollte***. Die in der Whitelist aufgeführten Domains wurden **gegen die Multi- und Fake-Blockiste geprüft und sind in diesen Blocklisten nicht mehr enthalten**.
 
 > ***Quelle:*** *zelo72*
 
