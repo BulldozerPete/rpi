@@ -106,7 +106,6 @@
 1.se.pool.ntp.org
 1.shrd.fncstatic.com
 1.sonostime.pool.ntp.org
-1stminingpool.com
 1tk.us
 1.ubuntu.pool.ntp.org
 1und1.de
@@ -1669,7 +1668,6 @@ amped.co.uk
 amp.flipboard.com
 amplitude.com
 amp.pinterest.com
-ampproject.org
 amp-reddit-com.cdn.ampproject.org
 amp.spot.im
 amp.usatoday.com
@@ -1742,7 +1740,6 @@ antionline.com
 antiphishing.cliqz.com
 antispam.cryptopool.eu
 antispam.suremine.com
-antminereurope.com
 antpool.com
 anubisnetworks.com
 anurl.com
@@ -2716,6 +2713,7 @@ beacon.geo.netflix.com
 beaconhealthsystem.org
 beacon.netflix.com
 beacon.schneidercorp.com
+beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 beacon-v2.helpscout.net
 beauty.rakuten.co.jp
 bebe.com
@@ -2964,25 +2962,17 @@ blog.snapchat.com
 blog.snap.com
 blog.sndcdn.com
 blog.soundcloud.com
-blogspot.ae
 blogspot.ca
 blogspot.com
 blogspot.com.by
 blogspot.com.es
 blogspot.co.uk
-blogspot.cz
 blogspot.de
 blogspot.fr
-blogspot.gr
-blogspot.hk
-blogspot.hu
 blog.spot.im
 blogspot.in
 blogspot.jp
-blogspot.kr
 blogspot.l.googleusercontent.com
-blogspot.se
-blogspot.sg
 blogs.sonymobile.com
 blogs.techrepublic.com
 blog.techrepublic.com
@@ -3805,7 +3795,6 @@ cidadehoje.pt
 c.id.mi.com
 cifraclub.com.br
 cimage.adobe.com
-cimo.org
 ci-mpsnare.iovation.com
 cindyholbrook.lpages.co
 cint.com
@@ -4990,7 +4979,6 @@ dedipower.eu.playstation.com
 de.engadget.com
 deepl.com
 deezer.com
-defensacentral.com
 definitions.net
 def-vef.xboxlive.com
 dege.freeweb.hu
@@ -5157,7 +5145,6 @@ digitalsmiths.net
 digitaltrends.com
 digits.com
 diigo.com
-dinemore.lk
 dingtalk.com
 directdomains.com
 directory.soundcloud.com
@@ -5402,7 +5389,6 @@ driftt.com
 driveapi.micloud.xiaomi.net
 drive.google.com
 drive.mobisystems.com
-drivereasy.com
 driverfix.com
 drivethelife.com
 drm-pr-us.crackle.com
@@ -5958,7 +5944,6 @@ exchange.kaspersky.com
 excite.co.jp
 exct.net
 execute-api.us-east-1.amazonaws.com
-exe.io
 exitintel.com
 ex-notify.coinbase.com
 exoclick.com
@@ -6019,7 +6004,6 @@ f1.g.mi.com
 f1.media.brightcove.com
 f2.g.mi.com
 f2pool.com
-f3322.net
 fabric.io
 facebook.com
 facebook.de
@@ -7727,7 +7711,6 @@ ig.com.br
 igg.com
 igg-games.com
 igludostats.moonfroglabs.com
-ig.me
 ign.com
 ignorelist.com
 igodigital.com
@@ -8129,7 +8112,6 @@ iny.com
 inyurl.com
 ioam.de
 iob.imgur.com
-iobit.com
 io.mi.com
 ionicframework.com
 ionos.com
@@ -9052,7 +9034,6 @@ macromedia.com
 macromill.com
 macrr.com
 mac.search.naver.com
-mac-torrent-download.net
 macworld.co.uk
 macys.com
 madison.com
@@ -9273,7 +9254,6 @@ m.crunchyroll.com
 mc-siderail.spot.im
 mctrades.org
 mc.yandex.ru
-mc.yandex.ua
 mdap.alipay.com
 m.daum.net
 m.dcinside.com
@@ -9997,7 +9977,6 @@ myspace.com
 myspass.de
 mysql.com
 my.staging.vudu.com
-mystart.com
 mystrikingly.com
 mysupport.sonymobile.com
 my.tealiumiq.com
@@ -10098,7 +10077,6 @@ ndrive.naver.com
 ndtv.com
 nebula-collector.huawei.com
 neckermann.de
-necror.de
 neobux.com
 neodium.network
 neoplanet.snap.com
@@ -10270,7 +10248,6 @@ nlrb.gov
 nl.sitestat.com
 nl.statcounter.com
 nls.techrepublic.com
-nluug.nl
 nl.wikipedia.com
 nmcheck.gnome.org
 nmetrics.samsung.com
@@ -10634,7 +10611,6 @@ oniongames.jp
 online.adservicemedia.dk
 online.digital-advisor.com
 online-metrix.net
-online.pro
 onlinevideoconverter.com
 onmpeg.com
 on.playstation.com
@@ -10898,7 +10874,6 @@ pagead46.l.doubleclick.net
 pagead.l.doubleclick.net
 pagefair.com
 page.line.me
-page.link
 pages03.net
 pages.ebay.com
 pages.em.funimation.com
@@ -11283,7 +11258,6 @@ polling.bbc.co.uk
 polling.finance.naver.com
 poloniex.com
 polyfill.io
-pomf.se
 poneytelecom.eu
 pool.bitcoin.com
 pool.btc.com
@@ -11421,6 +11395,7 @@ prod.ftl.netflix.com
 prod-helpapp.sonymobile.com
 prodmg2.blob.core.windows.net
 prod.mobile.roku.com
+prod.msocdn.com
 prod-native.actionbutton.co
 prod.nexusrules.live.com.akadns.net
 prod.p02ams.pod.rockstargames.com
@@ -11911,7 +11886,6 @@ rg3.github.io
 rgho.st
 rgmechanicsgames.com
 ria.ru
-richplanet.net
 richrelevance.com
 ridefox.com
 right.daum.net
@@ -12578,7 +12552,6 @@ shealth.samsunghealth.com
 sheldonbrown.com
 shell-cdn.marketing.adobe.com
 shellfix.nirsoft.net
-shengen.ru
 shenghuo.xiaomi.com
 shifen.com
 shimo.im
@@ -12939,7 +12912,6 @@ sp-mms.weather.com
 sp.naver.com
 sp.nicovideo.jp
 spn.sr
-sportmaster.ru
 sport.onet.pl
 sport.pl
 sportrx.com
@@ -13092,7 +13064,6 @@ star-mini.c10r.facebook.com
 starsmedia.ign.com
 startcoin.miningpoolhub.com
 start.duckduckgo.com
-start.me
 start.nirsoft.net
 startpage.com
 start.www.daum.net
@@ -13653,7 +13624,6 @@ teams.microsoft.com
 team.stumbleupon.com
 teamviewer.com
 teaparty.org
-techbargains.com
 techcommunity.microsoft.com
 techcrunch.com
 techguy.org
@@ -13733,7 +13703,6 @@ tg1.premium.db4.wix.com
 tg1.premium.dc11.wix.com
 thaiticketmajor.com
 the2019ncov.com
-theadviser.com.au
 theafterparty.tv
 theatlantic.com
 theblaze.com
@@ -13894,6 +13863,7 @@ tny.cz
 To8.cc
 today.com
 today.line.me
+todhamilton.pro
 todo-ta-g7g.amazon.com
 tofukko.r.ribbon.to
 toggo.de
@@ -14368,7 +14338,6 @@ ur.wikipedia.com
 us-1.hide.me
 us1.locationiq.com
 us2.sumologic.com
-usa-138.com
 usabilla.com
 us.account.samsung.com
 us.account.samsung.com.gslb.cdnetworks.net
@@ -14530,7 +14499,6 @@ valuedopinions.co.uk
 valve555.steamcontent.com
 valve564.steamcontent.com
 valv.im
-vamos.net.au
 vancovid.ca
 vancovid.com
 vandelaydesign.com
@@ -14901,7 +14869,6 @@ webpayment-promo.internet.apps.samsung.com
 web.pcbeta.com
 webpower.eu
 webpushr.com
-webredirect.org
 webredir.vip.gandi.net
 websearch.rakuten.co.jp
 websecurity.norton.com
@@ -15141,7 +15108,6 @@ wscont.apps.microsoft.com
 ws-feed.exchange.coinbase.com
 ws-feed.prime.coinbase.com
 ws-feed.pro.coinbase.com
-wsglb0.com
 wshareit.com
 wshifen.com
 wsimg.com
@@ -15227,7 +15193,6 @@ www.1inch.exchange
 www.1.pool.ntp.org
 www.1q2w3.fun
 www.1q2w3.website
-www.1stminingpool.com
 www.1tk.us
 www.1und1.de
 www.1un.fr
@@ -16174,7 +16139,6 @@ www.amiami.jp
 www.amna.gr
 www.a-mo.net
 www.amplitude.com
-www.ampproject.org
 www.a-msedge.net
 www.amway.com
 www.amzn.com
@@ -16215,7 +16179,6 @@ www.answers.yahoo.com
 www.ant.design
 www.antfin.com
 www.antionline.com
-www.antminereurope.com
 www.antpool.com
 www.anubisnetworks.com
 www.anurl.com
@@ -16555,20 +16518,12 @@ www.blog.medium.com
 www.blogram.net
 www.blo.gs
 www.blogsmithmedia.com
-www.blogspot.ae
 www.blogspot.ca
 www.blogspot.com
-www.blogspot.cz
 www.blogspot.de
 www.blogspot.fr
-www.blogspot.gr
-www.blogspot.hk
-www.blogspot.hu
 www.blogspot.in
 www.blogspot.jp
-www.blogspot.kr
-www.blogspot.se
-www.blogspot.sg
 www.blogs.techrepublic.com
 www.blog.techrepublic.com
 www.blogtopsites.com
@@ -16808,7 +16763,6 @@ www.chron.com
 www.chtbl.com
 www.cia.gov
 www.cidadehoje.pt
-www.cimo.org
 www.cint.com
 www.cintnetworks.com
 www.cisco.com
@@ -17354,7 +17308,6 @@ www.decknetwork.net
 www.dedecms.com
 www.deepl.com
 www.deezer.com
-www.defensacentral.com
 www.definitions.net
 www.de.ign.com
 www.dekhvhai.com
@@ -17413,7 +17366,6 @@ www.digitalsmiths.net
 www.digitaltrends.com
 www.digits.com
 www.diigo.com
-www.dinemore.lk
 www.dingtalk.com
 www.directdomains.com
 www.directtrack.com
@@ -17498,7 +17450,6 @@ www.dribbble.com
 www.drift.com
 www.driftt.com
 www.drive.google.com
-www.drivereasy.com
 www.driverfix.com
 www.drivethelife.com
 www.droid.ws
@@ -17745,7 +17696,6 @@ www.exblog.jp
 www.exchange4media.com
 www.excite.co.jp
 www.exct.net
-www.exe.io
 www.exitintel.com
 www.exoclick.com
 www.exosrv.com
@@ -17770,7 +17720,6 @@ www.eztv.it
 www.eztv.re
 www.ezurl.cc
 www.f2pool.com
-www.f3322.net
 www.fabric.io
 www.facebook.com
 www.facebook.de
@@ -18660,7 +18609,6 @@ www.igbig.com
 www.ig.com.br
 www.igg.com
 www.igg-games.com
-www.ig.me
 www.ign.com
 www.ignorelist.com
 www.igodigital.com
@@ -18777,7 +18725,6 @@ www.iny.cc
 www.iny.com
 www.inyurl.com
 www.ioam.de
-www.iobit.com
 www.ionicframework.com
 www.ionos.com
 www.iotcplatform.com
@@ -19209,7 +19156,6 @@ www.macmillandictionary.com
 www.macromedia.com
 www.macromill.com
 www.macrr.com
-www.mac-torrent-download.net
 www.macworld.co.uk
 www.macys.com
 www.madison.com
@@ -19504,7 +19450,6 @@ www.myshopify.com
 www.myspace.com
 www.myspass.de
 www.mysql.com
-www.mystart.com
 www.mystrikingly.com
 www.mytoys.de
 www.myunidays.com
@@ -19559,7 +19504,6 @@ www.ncu.ca
 www.ndmdhs.com
 www.ndtv.com
 www.neckermann.de
-www.necror.de
 www.neobux.com
 www.neodium.network
 www.neoseeker.com
@@ -19655,7 +19599,6 @@ www.nk.pl
 www.nllapps.com
 www.nlrb.gov
 www.nls.techrepublic.com
-www.nluug.nl
 www.noaa.gov
 www.nobook.com
 www.nocdnrlly.xyz
@@ -19802,7 +19745,6 @@ www.onhax.me
 www.onhax.net
 www.oniongames.jp
 www.online-metrix.net
-www.online.pro
 www.onlinevideoconverter.com
 www.onmpeg.com
 www.onrpg.com
@@ -19979,7 +19921,6 @@ www.paddleapi.com
 www.paddle.com
 www.paessler.com
 www.pagefair.com
-www.page.link
 www.pages03.net
 www.paho.org
 www.pair.com
@@ -20151,7 +20092,6 @@ www.politico.com
 www.polldaddy.com
 www.poloniex.com
 www.polyfill.io
-www.pomf.se
 www.poneytelecom.eu
 www.poolhb.com
 www.pool.ntp.org
@@ -20416,7 +20356,6 @@ www.rexdl.com
 www.rgho.st
 www.rgmechanicsgames.com
 www.ria.ru
-www.richplanet.net
 www.richrelevance.com
 www.ridefox.com
 www.rikka.app
@@ -20629,7 +20568,6 @@ www.sharepoint.com
 www.sharethis.com
 www.sharewood.org
 www.sheldonbrown.com
-www.shengen.ru
 www.shifen.com
 www.shimo.im
 www.shinobi.jp
@@ -20792,7 +20730,6 @@ www.spiceworks.com
 www.spiegel.de
 www.spieletipps.de
 www.spn.sr
-www.sportmaster.ru
 www.sport.pl
 www.sportrx.com
 www.sportsmansguide.com
@@ -20833,7 +20770,6 @@ www.staradvertiser.com
 www.starbase.co
 www.starbucks.com
 www.stardata.it
-www.start.me
 www.startpage.com
 www.staseraintv.com
 www.stat24.com
@@ -20979,7 +20915,6 @@ www.tdcoincore.org
 www.tdjt.cz
 www.teamviewer.com
 www.teaparty.org
-www.techbargains.com
 www.techcrunch.com
 www.techguy.org
 www.techlab-cdn.com
@@ -21127,6 +21062,7 @@ www.tns-sifo.se
 www.tny.cz
 www.To8.cc
 www.today.com
+www.todhamilton.pro
 www.toggo.de
 www.tohle.de
 www.tokopedia.com
@@ -21353,7 +21289,6 @@ www.ur.ly
 www.urlz.fr
 www.urs.techrepublic.com
 www.urub.us
-www.usa-138.com
 www.usabilla.com
 www.usa.gov
 www.usaid.gov
@@ -21562,7 +21497,6 @@ www.webminerpool.com
 www.webopedia.com
 www.webpower.eu
 www.webpushr.com
-www.webredirect.org
 www.webtask.io
 www.webtrends.com
 www.webxmr.com
@@ -21673,7 +21607,6 @@ www-wp.viber.com
 www.wr.com
 www.wrd.org
 www.wreg.com
-www.wsglb0.com
 www.wshareit.com
 www.wshifen.com
 www.wsimg.com
@@ -22175,7 +22108,6 @@ z-m.facebook.com
 zobj.net
 zoho.com
 zoho.in
-zol.com.cn
 zombo.com
 zona.media
 zone.msn.com
