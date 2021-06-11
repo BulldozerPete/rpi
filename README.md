@@ -1,40 +1,59 @@
+
 ## *PiHole*, Blokada, Diversion, PersonalDNSfilter, pfBlockerNG und PersonalBlocklist [Blocklisten](https://github.com/Zelo72/rpi/tree/master/pihole/blocklists) (Domain-Format)
 
-### ***DNS-Sperrlisten*** (Blacklists)
+### ***DNS-Sperrlisten*** (Black-/Blocklists)
 
-[**Multi**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt) - Zelo's "persönliche" Blockliste: ***Werbung, Tracking, Phishing, Malware, Coins und sonstiger "Mist" aus dem Netz***. Eine All-in-One Filterliste die keine zwingend benötigten "Funktionen" blockiert - kein striktes Blocken. Dead-Hosts (Hosts-Adressen die nicht mehr existieren) wurden aus dieser Liste entfernt. Sie kann als alleinige Blockliste verwendet werden. ***(Empfehlung)***  
+#### Basislisten (empfohlen)
 
+[**Multi**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt) - Zelo's "persönliche" Blockliste: ***Werbung, Tracking, Phishing, Malware, Coins und sonstiger "Mist" aus dem Netz***. Eine All-in-One Blockliste die keine zwingend benötigten "Funktionen" blockiert - kein striktes Blocken. Dead-Hosts (Hosts-Adressen die nicht mehr existieren) wurden aus dieser Liste entfernt. Sie kann als alleinige Blockliste verwendet werden und nach Wunsch durch Hinzufügen der Erweiterungslisten (siehe unten) erweitert werden. ***(Empfehlung)***  
+
+> ***Link:***
+> https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt
+> 
 > ***Quellen:*** [Stats](https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/multi.stats)
 
-[**Fake**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/fake.txt) - Zelo's "anti Abzock" Blockliste: ***Fake-Shops, -Streaming, Abzocke und Co***. Auf Basis verschiedener Verbaucherseiten, Warnungen und anderen Fake-Listen. Als Zusatz zur Multi-Filterliste ***(Empfehlung)***  
+[**Fake**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/fake.txt) - Zelo's "anti Abzock" Blockliste: ***Fake-Shops, -Streaming, Abzocke und Co***. Auf Basis verschiedener Verbaucherseiten, Warnungen und anderen Fake-Listen. Als empfohlener Zusatz zur Multi-Blockliste, die Domains aus der Fakeliste sind nicht in der Multiliste enthalten. ***(Empfehlung)***  
 
+> ***Link:*** https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/fake.txt
+> 
 > ***Quellen:*** *Verbraucherzentralen, Trusted Shops, Watchlist Internet, zelo72* - [Stats](https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/fake.stats)
 
-[**Privacy**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/privacy.txt) - Zelo's "Privacy" Blockliste: ***Blockt Telemetrie & Metriken von Endgeräten, Diensten und Systemen diverser Hersteller***. ***(Optional)***  
+#### Erweiterungslisten (bei Bedarf - als Erweiterung zur Multi-Liste)
 
+[**Privacy**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/privacy.txt) - Zelo's "Privacy" Blockliste: ***Blockt Telemetrie & Metriken von Endgeräten, Diensten und Systemen diverser Hersteller (OEM)***. ***(Optional - als Erweiterung zur Multiliste)***  
+
+> ***Link:*** https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/privacy.txt
+> 
 > ***Quelle:*** *zelo72*
 
-### ***RegEx-Filter*** 
+[**Affiliate&Tracking**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/affiliatetracking.txt) - Zelo's "Affiliate & Tracking" Blockliste: ***Blockt Affiliate, Analytics & Tracking Links***.  **Hinweis:** Durch diese Blockliste werden Z.B. auch Links, die in der Google-Suche als Anzeige markiert sind oder Affiliate-Links in Mailangeboten, geblockt. ***(Optional - als Erweiterung zur Multiliste)***  
 
-[**RegEx**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/regex/regex_filter.txt) - Zelo's "RegEx" Blacklist: ***Filtert mögliche Ads- und Tracking-Domains mittels regulären Ausdrücken***. RegEx (Inhalt der TXT-Datei) können per Copy & Paste in Pihole unter *Blacklist > RegEX filter > Regular Expression* hinzugefügt werden. ***(Optional)***  
+> ***Link:*** https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/affiliatetracking.txt
+> 
+> ***Quelle:*** [Stats](https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/affiliatetracking.stats)
 
-Weitere RegEx-Filter wie z.B. Geo-Blocking sind [hier](https://github.com/Zelo72/rpi/tree/master/pihole/regex) zu finden.
+### ***RegEx-Filter*** (Nur für erfahrene Anwender empfohlen!)
 
+[**RegEx**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/regex/regex_filter.txt) - Zelo's "RegEx" Blacklist: ***Filtert mögliche Ads- und Tracking-Domains mittels regulären Ausdrücken***. RegEx-Ausdrücke (Inhalt der TXT-Datei) können per Copy & Paste in Pihole unter *Blacklist > RegEX filter > Regular Expression* hinzugefügt werden. ***(Nur erfahrene Anwender)***  
+
+**Weitere RegEx-Filter wie z.B. Geo-Blocking sind [hier](https://github.com/Zelo72/rpi/tree/master/pihole/regex) zu finden.**
 > ***Quelle:*** *zelo72*
 
 ---
 
 ### ***DNS-Freigabeliste*** (Whitelist)
 
-[**White**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/white.list) - Zelo's Whitelist: ***Domains die man nicht blocken sollte***. Die in der Whitelist aufgeführten Domains wurden gegen die Multi- und Fake-Blockiste geprüft und sind in diesen Blocklisten nicht mehr enthalten.
+[**White**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/white.list) - Zelo's Whitelist: ***Domains die man nicht blocken sollte***. Die in der Whitelist aufgeführten Domains wurden **gegen die Multi- und Fake-Blockiste geprüft und sind in diesen Blocklisten nicht mehr enthalten**.
 
 > ***Quelle:*** *zelo72*
 
 ---
 
-### ***DNS-Sperrlisten*** (Blacklists) - generiert aus bekannten Anbieterlisten
+### ***DNS-Sperrlisten*** (Black-/Blocklists) - generiert aus bekannten Anbieterlisten
 
-**In das Domain-Format umgewandelte Listen** + WWW- & third-party/popup Domains *(Listen in der Multi-Liste bereits enthalten)*
+**In das Domain-Format umgewandelte Listen** + WWW- & third-party/popup Domains.
+
+***Folgende Listen sind bereits in der Multi-Liste enthalten!***
 
 [**EasyList**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt) - EasyList (+Germany) & EasyList Privacy + Erweiterung um mögliche WWW-Domains. ***(in Multi enthalten)*** - Quelle: [EasyList](https://easylist.to/) - [Stats](https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/easylist.stats)
 
@@ -46,7 +65,9 @@ Weitere RegEx-Filter wie z.B. Geo-Blocking sind [hier](https://github.com/Zelo72
 
 ---
 
-### ***DNS-Sperrlisten*** (Blacklists) - Sonstige
+### ***DNS-Sperrlisten*** (Black-/Blocklists) - Sonstige
+
+***Folgende Listen sind NICHT in der Multi-Liste enthalten!***
 
 [**CryptoScamDB**](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/cryptoscamdb.txt) - CryptoScamDB von https://cryptoscamdb.org/ umgewandelt + Erweiterung um mögliche WWW-Domains. Bereinigt von toten und falsch positiven Domains. **Trotz der Bereinigung kann die Liste falsch positve Domains enthalten!** - Quelle: [CryptoScamDB](https://api.cryptoscamdb.org/v1/blacklist) - [Stats](https://github.com/Zelo72/rpi/blob/master/pihole/blocklists/cryptoscamdb.stats)
 
@@ -54,8 +75,14 @@ Weitere RegEx-Filter wie z.B. Geo-Blocking sind [hier](https://github.com/Zelo72
 
 ### ***Hinweis***
 
-***Die Blocklisten wurden zur rein persönlichen, privaten Nutzung erstellt. Die Multi- und Fake-Blockliste wurde aus vorhandenen Quellen und eigenen Blacklisten unter Berücksichtigung von Whitelisten wie Dead-Hosts (Hosts-Adressen die nicht mehr existieren) und Toplisten (DE:Top 50 - Welt:Top 50) zusammen gestellt.***
+***Die Blocklisten wurden zur rein persönlichen, privaten Nutzung erstellt. Die Blocklisten wurde aus vorhandenen Quellen und eigenen Blacklisten unter Berücksichtigung von Whitelisten wie Dead-Hosts (Hosts-Adressen die nicht mehr existieren) und Toplisten (DE:Top 50 - Welt:Top 50) zusammen gestellt.***
 
 **Die Blocklisten werden täglich aktualisiert.**
 
 ---
+
+
+
+
+
+
