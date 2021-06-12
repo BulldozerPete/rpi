@@ -28,6 +28,7 @@ device-metrics-us.amazon.com
 books-analytics-events.apple.com
 books-analytics-events.news.apple-dns.net
 dzc-metrics.mzstatic.com
+iadsdk.apple.com
 metrics.apple.com
 metrics.icloud.com
 metrics.mzstatic.com
@@ -36,6 +37,10 @@ stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
 supportmetrics.apple.com
 trackingshipment.apple.com
+#
+# Google
+#
+app-measurement.com
 #
 # Huawei
 #
@@ -108,20 +113,26 @@ ads.snapchat.com
 adsapi.snapchat.com
 adsapi2.snapchat.com
 adsapimus.snapchat.com
+adserver.snapads.com
 advertising.snapchat.com
 app-analytics-v2.snapchat.com
 app-analytics.snapchat.com
+app-analytics.snapchat.com
+ase.adserver.snapads.com
 content-insights-revenue.snapchat.com
+euw.adserver.snapads.com
 intg.snapchat.com
 learn.advertising.snapchat.com
 omnicollector.snapchat.com
 pro-insights.snapchat.com
 rtam-collector.snapchat.com
+sc-analytics.appspot.com
 server-analytics.snapchat.com
 staging.app-analytics.snapchat.com
 staging.server-analytics.snapchat.com
 story-insights.snapchat.com
 tr.snapchat.com
+usc.adserver.snapads.com
 #
 # Sonos
 #
@@ -205,6 +216,7 @@ open.oneplus.net
 #
 dit.whatsapp.net
 privatestats.whatsapp.net
+crashlogs.whatsapp.net
 #
 # Xiaomi
 #
