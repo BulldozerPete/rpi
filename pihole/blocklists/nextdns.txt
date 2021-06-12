@@ -46,10 +46,10 @@
 # 2. Source: 1761 - https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 # 3. Source: 9458 - https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 # 4. Source: 1730 - https://raw.githubusercontent.com/tiuxo/hosts/master/ads
-# 5. Source: 422 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
+# 5. Source: 423 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 101606 Domains - V2021.06.08-19:06:20
+# 101607 Domains - V2021.06.12-03:31:20
 # ---------------------------------------------
 #
 0.0.0.0.beeglivesex.com
@@ -17962,6 +17962,7 @@ cleverads.vn
 clevernet.vn
 clevernt.com
 clever-trade.com
+cl.exct.net
 cl-gmtdmp.mookie1.com
 clhctrk.com
 cl.he9630.com

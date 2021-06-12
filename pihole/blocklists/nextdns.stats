@@ -46,11 +46,11 @@
 # 2. Source: 1761 - https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 # 3. Source: 9458 - https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 # 4. Source: 1730 - https://raw.githubusercontent.com/tiuxo/hosts/master/ads
-# 5. Source: 422 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
-# #. Source: 95441
+# 5. Source: 423 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
+# #. Source: 95442
 
 Statistik nextdns.txt:
-== Source (unique): 91492
--- Unblock:         91471 (-21)
-++ WWW-Domains:     99962 (+8491)
-++ FLD-Domains:     101606 (+1644)
+== Source (unique): 91493
+-- Unblock:         91472 (-21)
+++ WWW-Domains:     99963 (+8491)
+++ FLD-Domains:     101607 (+1644)
