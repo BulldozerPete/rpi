@@ -968,7 +968,9 @@ api.teams.skype.com
 api.techet.net
 api.telegram.org
 api.traq.li
+apituner.ecbsn.com
 api.tvpage.com
+api-tv.spotify.com
 api.tw06.xlmc.sandai.net
 api.twitter.com
 api.uca.cloud.unity3d.com
@@ -1689,6 +1691,7 @@ cdn.anypoint.mulesoft.com
 cdnapi.kaltura.com
 cdn.appdynamics.com
 cdn-apple.com
+cdn.ark.qq.com
 cdn.auth0.com
 cdn.bluebillywig.com
 cdn.branch.io
@@ -2693,6 +2696,7 @@ dailymotion.com
 damoh.schneevonmorgen.com
 damoh.spiegel.de
 dan.com
+da.netease.com
 dansguardian.org
 danskretursystem.dk
 darknet.org.uk
@@ -2818,6 +2822,7 @@ di.com.pl
 dictionary.cambridge.org
 dictionary.com
 dict.leo.org
+d.ifengimg.com
 differencebetween.info
 digg.com
 digidip.net
@@ -2848,6 +2853,7 @@ disney.com
 disneyplus.com
 disneyplus.com.ssl.sc.omtrdc.net
 disney-plus.net
+display.apester.com
 displaycatalog.mp.microsoft.com
 display.ugc.bazaarvoice.com
 disq.us
@@ -3198,6 +3204,7 @@ eroterest.net
 errorception.com
 error.facebook.com
 error.fc2.com
+err.taobao.com
 err.tmall.com
 erw.cz
 esdb.link
@@ -3265,6 +3272,7 @@ eu-west-1.elb.amazonaws.com
 eu-west-3.elb.amazonaws.com
 eventbrite.com
 eventbrite.co.uk
+events.apester.com
 events.data.microsoft.com
 events.gfe.nvidia.com
 events.godaddy.com
@@ -4472,6 +4480,7 @@ imgadult.com
 img.alibaba.com
 img.alicdn.com
 img.alicdn.com.danuoyi.alicdn.com
+img.apester.com
 img.beeg.com
 imgbox.com
 imgcache.qq.com
@@ -4563,6 +4572,7 @@ instructables.com
 instructure.com
 intel.com
 intelliad.de
+interaction.apester.com
 intercomassets.com
 intercomcdn.com
 intercom.com
@@ -4788,6 +4798,7 @@ keepvid.com
 kek.sh
 kelkoogroup.net
 kemsos.go.id
+kepler.jd.com
 keybase.io
 keystone.mwbsys.com
 keywestinns.com
@@ -4993,6 +5004,7 @@ livepassdl.conviva.com
 liveperson.com
 liveperson.net
 livescience.com
+live.simcitybuildit.com
 livestream.com
 live.thunderbird.net
 liveupdate01.asus.com
@@ -5021,6 +5033,7 @@ location-api.hdhomerun.com
 location.services.mozilla.com
 loc.gov
 lodz.tvp.pl
+log.byteoversea.com
 logentries.com
 logfiles.zoom.us
 logging.googleapis.com
@@ -5413,6 +5426,7 @@ moneroocean.stream
 moneropool.nl
 monetha.io
 money.yandex.ru
+mon.isnssdk.com
 monitis.com
 monitor.azure.com
 monitor.clickcease.com
@@ -5442,6 +5456,7 @@ mqtt.c10r.facebook.com
 mqtt-mini.facebook.com
 mqtt.pushy.me
 m.queer.de
+mr.da.netease.com
 mrex.exs.pl
 mrzikj.com
 msa.akadns6.net
@@ -6596,6 +6611,7 @@ releases.flowplayer.org
 release.theplatform.com
 relink.fr
 remme.io
+renderer.apester.com
 renta.papy.co.jp
 rentry.co
 reports.cliqz.com
@@ -6634,6 +6650,7 @@ ria.ru
 richrelevance.com
 ridefox.com
 ri.ms
+ringfotomeppel.nl
 rink.hockeyapp.net
 riotgames.com
 ris.api.iris.microsoft.com
@@ -7281,6 +7298,7 @@ static.ada.support
 static.adsafeprotected.com
 static.ak.connect.facebook.com
 static.ak.facebook.com
+static.apester.com
 staticapp.icpsc.com
 static-asm.secure.skypeassets.com
 static-cdn.jtvnw.net
@@ -7491,6 +7509,7 @@ s.ytimg.com
 szczecin.tvp.pl
 szentkoronaradio.com
 s.zkcdn.net
+szlong.weixin.qq.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 t11.baidu.com
@@ -7728,6 +7747,7 @@ to.ly
 tom.itv.com
 tomshardware.com
 tongbu.com
+tongji.baidu.com
 t-online.at
 t-online.de
 t-online.hu
@@ -11909,6 +11929,7 @@ www.ria.ru
 www.richrelevance.com
 www.ridefox.com
 www.ri.ms
+www.ringfotomeppel.nl
 www.riotgames.com
 www.river.data.ea.com
 www.rivm.nl

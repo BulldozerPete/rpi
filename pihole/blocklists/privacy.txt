@@ -27,16 +27,28 @@ device-metrics-us.amazon.com
 #
 books-analytics-events.apple.com
 books-analytics-events.news.apple-dns.net
+ca.iadsdk.apple.com
+cf.iadsdk.apple.com
 dzc-metrics.mzstatic.com
 iadsdk.apple.com
 metrics.apple.com
 metrics.icloud.com
 metrics.mzstatic.com
+ocsp2.apple.com
+notes-analytics-events.apple.com
 securemetrics.apple.com
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
 supportmetrics.apple.com
 trackingshipment.apple.com
+tr.iadsdk.apple.com
+weather-analytics-events.apple.com
+#
+# Crashlytics
+#
+crashlyticsreports-pa.googleapis.com
+firebase-settings.crashlytics.com
+settings.crashlytics.com
 #
 # Google
 #
