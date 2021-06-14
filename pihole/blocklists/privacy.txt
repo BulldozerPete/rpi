@@ -222,6 +222,11 @@ watson.telemetry.microsoft.com
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
 #
+# Mozilla / Firefox
+#
+incoming.telemetry.mozilla.org
+telemetry-incoming.r53-2.services.mozilla.com
+#
 # OnePlus
 #
 analytics.oneplus.cn
