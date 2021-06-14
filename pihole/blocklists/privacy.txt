@@ -34,20 +34,23 @@ iadsdk.apple.com
 metrics.apple.com
 metrics.icloud.com
 metrics.mzstatic.com
+news.iadsdk.apple.com
 notes-analytics-events.apple.com
 securemetrics.apple.com
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
+su.iadsdk.apple.com
 supportmetrics.apple.com
-trackingshipment.apple.com
 tr.iadsdk.apple.com
+trackingshipment.apple.com
+ut.iadsdk.apple.com
 weather-analytics-events.apple.com
+www.iadsdk.apple.com
 #
 # Crashlytics
 #
 crashlyticsreports-pa.googleapis.com
 firebase-settings.crashlytics.com
-settings.crashlytics.com
 #
 # Google
 #
@@ -109,12 +112,15 @@ www.flingo.tv
 ad.samsungadhub.com
 analytics-api.samsunghealthcn.com
 analytics.samsungknox.com
+bldr.mkt.samsung.com
+channelusa.samsung.com
 config.samsungads.com
 insights.samsung.com
 nmetrics.samsung.com
 samsung-com.112.2o7.net
 samsungadhub.com
 samsungads.com
+seao.business.samsung.com
 smetrics.samsung.com
 #
 # Snapchat
