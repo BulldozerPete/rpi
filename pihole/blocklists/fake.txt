@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# Whitelist: 22238
-# Deadlist: 329403
-# Blacklist: 1673
+# Whitelist: 13331
+# Deadlist: 332557
+# Blacklist: 1677
 # 1. Source: 4230 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #
 # ---------------------------------------------
-# 9793 Domains - V2021.06.14-13:41:13
+# 9775 Domains - V2021.06.15-11:30:48
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -199,7 +199,6 @@ amechad.de
 ament.at
 amicale-des-alberes.fr
 amirhpc.com
-amorehill.com
 ams-markt.de
 anabolenkopen24.nl
 anabolika24.biz
@@ -428,7 +427,6 @@ belletaka.com
 belstaffofficial.com
 bemoplay.de
 bene-taichi.at
-benoza-mode.de
 beratungs-werkstatt-dortmund.de
 bercasa.de
 bergmannsschach.at
@@ -738,7 +736,6 @@ celincelma.com
 celondo.de
 cem-bulut.de
 centocanti.it
-century-21.uk
 cesar-klein-schule.de
 cesvovpertutti.it
 cfcs.co.uk
@@ -1052,9 +1049,11 @@ de.wundertesting.com
 dexia-hyp.de
 dezuu.at
 dgsys.de
+dh-immobilien.at
 dhk-transport.com
 didi-tec.de
 didplay.de
+didro.de
 diebestenparfums.xyz
 dienst-elektronischer.com
 dieretrokonsole.com
@@ -1063,6 +1062,7 @@ diesophiestore.com
 dietnr1.com
 diezweigrafikdesign.at
 differenta.com
+diggedidope.de
 digitalakku.de
 digitale-einreiseanmeldung.de
 digital-restock.com
@@ -1270,7 +1270,6 @@ elektro.ninja
 elektronius.com
 elektronius.eu
 elektronlinestore.com
-elektrono24.de
 elektropanda.de
 elektro-parc.de
 elektro-polar.de
@@ -1306,7 +1305,6 @@ ellepretty.com
 ellerne.com
 elleslife.com
 ellmauplus.at
-elmiracolo.store
 elmodis.de
 elobuy.net
 eloquentika.de
@@ -1469,6 +1467,7 @@ favornote.com
 favwearj.com
 fazzporn.top
 fcirlich.de
+fc-pflaumloch.de
 fctraunstein.de
 fdachdeck.com
 febsale.com
@@ -1610,7 +1609,6 @@ frodospor.com
 frohzeit.de
 froplay.de
 fruchtpresse.at
-ftm-soryn-kg.at
 ftx-store.de
 fuehrerscheinfabrik.com
 fuehrungszeugnis-online-beantragen.de
@@ -2009,7 +2007,6 @@ hochgothe.de
 hockerty.de
 hockeyinvest.de
 hoerstern.at
-hof-hicken.de
 hog-honigberg.de
 hoisingtonshop.com
 hokaoneoneosterreich.at
@@ -2054,7 +2051,6 @@ hotelsinvienna.org
 hotelsofnewyorkcity.net
 hotliky.com
 hotpremiumdate.de
-hottrendtou.com
 hounony.com
 housetdi.com
 houssyn-store.com
@@ -2101,7 +2097,6 @@ ic-eckardt.at
 icgproducts.net
 ich-creativ.de
 ichhabe-ichwill.at
-ichingliu.com
 icinden.at
 icm-consulting.de
 iconstoretv.com
@@ -2204,7 +2199,6 @@ italiadesigns.com
 itcloth.net
 itc-schwarz.de
 i-translogistics.com
-iubqx.com
 iued.ch
 iva-mihanovic-sopran.de
 ivcuafuku.com
@@ -2271,6 +2265,7 @@ jtasokt.com
 judyandpunch.de
 juechuang.cc
 juengling-karcher.de
+julianeh.de
 julia-rothmann.de
 julias-jinan.de
 julireh.com
@@ -2304,6 +2299,7 @@ kallweg.com
 kaltesbroetchen.de
 kaluxo.de
 kamagrabestellen.shop
+kameraexperten.de
 kaminfegerriediker.ch
 kandiny.com
 kandiny.de
@@ -2540,7 +2536,6 @@ letscomfy.de
 letsgric.myshopify.com
 lets-schmitt-it.de
 leuchtendeeule.de
-levas24.de
 lexflix.de
 lfidsor.com
 lfimicc.com
@@ -2567,6 +2562,7 @@ lifeworks-munich.de
 liftr.eu
 lighteu.de
 lightflix.de
+lightinthebox.com
 likelymore.com
 likelymorely.com
 lilabogen.de
@@ -2642,7 +2638,6 @@ lukasovsky.at
 luluestore.com
 lumilights.de
 lunavelvets.com
-lunestedter-gewerbeverein.de
 luppo.at
 lushdream.de
 luskepoker.com
@@ -2728,6 +2723,7 @@ markus-mendler.de
 maroplay.de
 marosina.at
 martens-elektro.de
+marti-bosom.de
 marti-bosom.net
 martyritaville.com
 marvinmartin.de
@@ -2756,7 +2752,6 @@ media-feuer.de
 mediafritz.com
 media-haushalt.de
 media-hungry.de
-media-kaufhaus.de
 medialovers.de
 media-marktonline.com
 mediamartinsen.de
@@ -3607,6 +3602,7 @@ qranls.com
 qsaney.com
 quaestus.at
 quantheco.com
+quantomator.de
 queeneva.com
 quick-ebuyer.com
 qv-salzburg.at
@@ -3728,7 +3724,6 @@ rise-property.com
 ritterplanvienna.at
 rkzhb.com
 rlhfirmh.com
-rnthaulage.com
 robolectro.de
 robuxforyou.info
 rockactivestore.com
@@ -3975,7 +3970,6 @@ sisgard.com
 sisterok.de
 sj-steyr.at
 skateabalooza.at
-skechersdamen.at
 skechersosterreich.at
 skinrockfur.de
 skrum.at
@@ -4442,7 +4436,6 @@ trendtronic24.com
 trendy-gadgets.net
 trendypreis.at
 trendypreis.de
-trendyshopvip.com
 tretrollerladen.de
 triangle-ink.de
 trikotsale.de
@@ -4591,7 +4584,6 @@ vbridal.com
 vdd-osnabrueck.de
 vds-delivery.net
 veganfoodie.de
-veggiemuscles.de
 velenza.de
 veloberlin.de
 velurio.com
@@ -5029,7 +5021,6 @@ www.amechad.de
 www.ament.at
 www.amicale-des-alberes.fr
 www.amirhpc.com
-www.amorehill.com
 www.ams-markt.de
 www.anabolenkopen24.nl
 www.anabolika24.biz
@@ -5253,7 +5244,6 @@ www.belletaka.com
 www.belstaffofficial.com
 www.bemoplay.de
 www.bene-taichi.at
-www.benoza-mode.de
 www.beratungs-werkstatt-dortmund.de
 www.bercasa.de
 www.bergmannsschach.at
@@ -5551,7 +5541,6 @@ www.celincelma.com
 www.celondo.de
 www.cem-bulut.de
 www.centocanti.it
-www.century-21.uk
 www.cesar-klein-schule.de
 www.cesvovpertutti.it
 www.cfundemy.com
@@ -5845,9 +5834,11 @@ www.deveclo.com
 www.dexia-hyp.de
 www.dezuu.at
 www.dgsys.de
+www.dh-immobilien.at
 www.dhk-transport.com
 www.didi-tec.de
 www.didplay.de
+www.didro.de
 www.diebestenparfums.xyz
 www.dienst-elektronischer.com
 www.dieretrokonsole.com
@@ -5856,6 +5847,7 @@ www.diesophiestore.com
 www.dietnr1.com
 www.diezweigrafikdesign.at
 www.differenta.com
+www.diggedidope.de
 www.digitalakku.de
 www.digitale-einreiseanmeldung.de
 www.digital-restock.com
@@ -6060,7 +6052,6 @@ www.elektro.ninja
 www.elektronius.com
 www.elektronius.eu
 www.elektronlinestore.com
-www.elektrono24.de
 www.elektropanda.de
 www.elektro-parc.de
 www.elektro-polar.de
@@ -6096,7 +6087,6 @@ www.ellepretty.com
 www.ellerne.com
 www.elleslife.com
 www.ellmauplus.at
-www.elmiracolo.store
 www.elmodis.de
 www.elobuy.net
 www.eloquentika.de
@@ -6253,6 +6243,7 @@ www.favornote.com
 www.favwearj.com
 www.fazzporn.top
 www.fcirlich.de
+www.fc-pflaumloch.de
 www.fctraunstein.de
 www.fdachdeck.com
 www.febsale.com
@@ -6393,7 +6384,6 @@ www.frodospor.com
 www.frohzeit.de
 www.froplay.de
 www.fruchtpresse.at
-www.ftm-soryn-kg.at
 www.ftx-store.de
 www.fuehrerscheinfabrik.com
 www.fuehrungszeugnis-online-beantragen.de
@@ -6787,7 +6777,6 @@ www.hochgothe.de
 www.hockerty.de
 www.hockeyinvest.de
 www.hoerstern.at
-www.hof-hicken.de
 www.hog-honigberg.de
 www.hoisingtonshop.com
 www.hokaoneoneosterreich.at
@@ -6830,7 +6819,6 @@ www.hotelsinvienna.org
 www.hotelsofnewyorkcity.net
 www.hotliky.com
 www.hotpremiumdate.de
-www.hottrendtou.com
 www.hounony.com
 www.housetdi.com
 www.houssyn-store.com
@@ -6877,7 +6865,6 @@ www.ic-eckardt.at
 www.icgproducts.net
 www.ich-creativ.de
 www.ichhabe-ichwill.at
-www.ichingliu.com
 www.icinden.at
 www.icm-consulting.de
 www.iconstoretv.com
@@ -6978,7 +6965,6 @@ www.italiadesigns.com
 www.itcloth.net
 www.itc-schwarz.de
 www.i-translogistics.com
-www.iubqx.com
 www.iued.ch
 www.iva-mihanovic-sopran.de
 www.ivcuafuku.com
@@ -7045,6 +7031,7 @@ www.jtasokt.com
 www.judyandpunch.de
 www.juechuang.cc
 www.juengling-karcher.de
+www.julianeh.de
 www.julia-rothmann.de
 www.julias-jinan.de
 www.julireh.com
@@ -7078,6 +7065,7 @@ www.kallweg.com
 www.kaltesbroetchen.de
 www.kaluxo.de
 www.kamagrabestellen.shop
+www.kameraexperten.de
 www.kaminfegerriediker.ch
 www.kandiny.com
 www.kandiny.de
@@ -7309,7 +7297,6 @@ www.letoucan.ch
 www.letscomfy.de
 www.lets-schmitt-it.de
 www.leuchtendeeule.de
-www.levas24.de
 www.lexflix.de
 www.lfidsor.com
 www.lfimicc.com
@@ -7335,6 +7322,7 @@ www.lifeworks-munich.de
 www.liftr.eu
 www.lighteu.de
 www.lightflix.de
+www.lightinthebox.com
 www.likelymore.com
 www.likelymorely.com
 www.lilabogen.de
@@ -7409,7 +7397,6 @@ www.lukasovsky.at
 www.luluestore.com
 www.lumilights.de
 www.lunavelvets.com
-www.lunestedter-gewerbeverein.de
 www.luppo.at
 www.lushdream.de
 www.luskepoker.com
@@ -7494,6 +7481,7 @@ www.markus-mendler.de
 www.maroplay.de
 www.marosina.at
 www.martens-elektro.de
+www.marti-bosom.de
 www.marti-bosom.net
 www.martyritaville.com
 www.marvinmartin.de
@@ -7522,7 +7510,6 @@ www.media-feuer.de
 www.mediafritz.com
 www.media-haushalt.de
 www.media-hungry.de
-www.media-kaufhaus.de
 www.medialovers.de
 www.media-marktonline.com
 www.mediamartinsen.de
@@ -8336,6 +8323,7 @@ www.qranls.com
 www.qsaney.com
 www.quaestus.at
 www.quantheco.com
+www.quantomator.de
 www.queeneva.com
 www.quick-ebuyer.com
 www.qv-salzburg.at
@@ -8456,7 +8444,6 @@ www.rise-property.com
 www.ritterplanvienna.at
 www.rkzhb.com
 www.rlhfirmh.com
-www.rnthaulage.com
 www.robolectro.de
 www.robuxforyou.info
 www.rockactivestore.com
@@ -8698,7 +8685,6 @@ www.sisgard.com
 www.sisterok.de
 www.sj-steyr.at
 www.skateabalooza.at
-www.skechersdamen.at
 www.skechersosterreich.at
 www.skinrockfur.de
 www.skrum.at
@@ -9158,7 +9144,6 @@ www.trendtronic24.com
 www.trendy-gadgets.net
 www.trendypreis.at
 www.trendypreis.de
-www.trendyshopvip.com
 www.tretrollerladen.de
 www.triangle-ink.de
 www.trikotsale.de
@@ -9296,7 +9281,6 @@ www.vbridal.com
 www.vdd-osnabrueck.de
 www.vds-delivery.net
 www.veganfoodie.de
-www.veggiemuscles.de
 www.velenza.de
 www.veloberlin.de
 www.velurio.com
@@ -9602,7 +9586,6 @@ www.yoebag.com
 www.yogabaum.at
 www.yogaonlineb.com
 www.yokemart.com
-www.yolandal.com
 www.yoncyou.com
 www.yooraka.com
 www.yoplay.de
@@ -9736,7 +9719,6 @@ yoebag.com
 yogabaum.at
 yogaonlineb.com
 yokemart.com
-yolandal.com
 yoncyou.com
 yooraka.com
 yoplay.de
