@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# Whitelist: 13331
-# Deadlist: 332557
-# Blacklist: 1677
+# Whitelist: 13332
+# Deadlist: 241275
+# Blacklist: 1679
 # 1. Source: 4230 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #
 # ---------------------------------------------
-# 9775 Domains - V2021.06.15-11:30:48
+# 9783 Domains - V2021.06.16-11:59:15
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -1084,6 +1084,7 @@ diskretetreffen.ch
 divceb.top
 divebuddy.at
 djabcu.com
+djfkracing.com
 djkali.de
 dkamilcar.com
 dkirmizu.com
@@ -1776,6 +1777,7 @@ goldhandel-depot.de
 goldhandel-imperium.de
 goldhandel-markt.de
 goldhandel-preissieger.de
+goldhandel-seit-1981.de
 goldhandel-seit1986.de
 goldhandel-team.de
 goldhandel-testsieger-2021.de
@@ -4509,6 +4511,7 @@ uhrhaus24.de
 uhrhaus-kramlich.de
 ujmixf.com
 uk-polo.com
+ulacglobalfinanzen.com
 ulrichweil.de
 ultraheroshop.com
 ultraonlinede.com
@@ -4744,6 +4747,7 @@ weidmann-kueche.net
 weigl-handel.de
 wein-ankauf.at
 weingalerie-odenhausen.de
+weisehaus.de
 weka-markt.com
 wellensteynjacke.com
 wellindal.com
@@ -5868,6 +5872,7 @@ www.diskretetreffen.ch
 www.divceb.top
 www.divebuddy.at
 www.djabcu.com
+www.djfkracing.com
 www.djkali.de
 www.dkamilcar.com
 www.dkirmizu.com
@@ -6548,6 +6553,7 @@ www.goldhandel-depot.de
 www.goldhandel-imperium.de
 www.goldhandel-markt.de
 www.goldhandel-preissieger.de
+www.goldhandel-seit-1981.de
 www.goldhandel-seit1986.de
 www.goldhandel-team.de
 www.goldhandel-testsieger-2021.de
@@ -9207,6 +9213,7 @@ www.uhrhaus24.de
 www.uhrhaus-kramlich.de
 www.ujmixf.com
 www.uk-polo.com
+www.ulacglobalfinanzen.com
 www.ulrichweil.de
 www.ultraheroshop.com
 www.ultraonlinede.com
@@ -9439,6 +9446,7 @@ www.weidmann-kueche.net
 www.weigl-handel.de
 www.wein-ankauf.at
 www.weingalerie-odenhausen.de
+www.weisehaus.de
 www.weka-markt.com
 www.wellensteynjacke.com
 www.wellindal.com
