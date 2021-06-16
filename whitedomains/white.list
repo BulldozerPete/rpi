@@ -794,7 +794,6 @@ analytics.console.aws.a2z.com
 analytics.edgekey.net
 analytics.google.com
 analytics-login.norton.com
-analyticsnew.overwolf.com
 analytics.robinhood.com
 analytics.supplyframe.com
 analytics.twitter.com
@@ -1954,7 +1953,6 @@ client.crisp.chat
 client.dropbox.com
 client-event-reporter.twitch.tv
 client.hip.live.com
-client.hola.org
 client.perimeterx.net
 clients1.google.com
 clients2.google.com
@@ -1963,6 +1961,8 @@ clients4.google.com
 clients5.google.com
 clients6.google.com
 clientsc.alipay.com
+clientsdk.luminati-china.io
+clientsdk.luminati.io
 clientservices.googleapis.com
 client-s.gateway.messenger.live.com
 clients.google.com
@@ -2263,6 +2263,7 @@ corriere.it
 cosmopolitan.com
 costco.com
 couic.fr
+co.uk
 co.uk.edgekey.net
 countere.com
 countess.twitch.tv
@@ -3103,6 +3104,7 @@ edge-usw2.demdex.net
 ed.gov
 edigitalsurvey.com
 edm.crikey.com.au
+edrone.me
 eds.xboxlive.com
 edu.hebnews.cn
 ee38.playfabapi.com
@@ -4258,7 +4260,6 @@ hlrcv.stage.adobe.com
 hls.ted.com
 hm.com
 hockeyapp.net
-hola.org
 hollyhockhill.com
 hollywoodlife.com
 hollywoodreporter.com
@@ -4313,6 +4314,7 @@ hs-sites.com
 h-tdcanada.online-metrix.net
 ht.ly
 html5zombo.com
+http-test1.luminatinet.com
 ht.youporn.com
 huangye.miui.com
 huanqiu.com
@@ -4722,7 +4724,6 @@ jango.com
 janrain.com
 japantv.club
 jasonhill.co.uk
-java-forum.org
 javbooks.com
 ja.wikipedia.org
 jcpenney.com
@@ -5626,7 +5627,6 @@ nature.com
 naukri.com
 naver.com
 naver.jp
-navitime.co.jp
 naytev.com
 nazwa.pl
 nba.com
@@ -5640,7 +5640,6 @@ ncu.client.hip.live.com
 nd.demdex.net
 ndmdhs.com
 neckermann.de
-necror.de
 neobux.com
 neodium.network
 neowin.net
@@ -6368,7 +6367,6 @@ pool.coinlab.biz
 pool.minergate.com
 pool.ntp.org
 poolto.be
-pop.com
 popin.cc
 pornerbros.com
 pornhub.com
@@ -6527,7 +6525,6 @@ pvn.xxxlutz.de
 pv.sohu.com
 pvtag.yahoo.co.jp
 pw2.ro
-pwdhash.com
 pxc-coding.com
 pxf.io
 px.spiceworks.com
@@ -6552,7 +6549,6 @@ quantummetric.com
 queer.de
 questionpro.com
 quiddity.goguardian.com
-quip.com
 quizilla.com
 quizlet.com
 quora.com
@@ -7508,7 +7504,6 @@ stuff.co.nz
 stumbleupon.com
 stun.l.google.com
 suara.com
-subang.go.id
 subscriptions.pstmrk.it
 substratum.net
 suche.t-online.de
@@ -8274,7 +8269,6 @@ visualstudio-devdiv-c2s.msedge.net
 visualwebsiteoptimizer.com
 vis.vi-serve.com
 vitalia.pl
-vitasave.ca
 vizury.com
 vjs.zencdn.net
 vk.cc
@@ -9478,6 +9472,7 @@ www.corriere.it
 www.cosmopolitan.com
 www.costco.com
 www.couic.fr
+www.co.uk
 www.countere.com
 www.coupons.com
 www.couponxoo.com
@@ -9949,6 +9944,7 @@ www.edgekey.net
 www.edgesuite.net
 www.ed.gov
 www.edigitalsurvey.com
+www.edrone.me
 www.eepurl.com
 www.effiliation.com
 www.effinghamanimalhospital.com
@@ -10654,7 +10650,6 @@ www.hitmarkerjobs.com
 www.hjkl.fr
 www.hm.com
 www.hockeyapp.net
-www.hola.org
 www.hollyhockhill.com
 www.hollywoodlife.com
 www.hollywoodreporter.com
@@ -10893,7 +10888,6 @@ www.jango.com
 www.janrain.com
 www.japantv.club
 www.jasonhill.co.uk
-www.java-forum.org
 www.javbooks.com
 www.ja.wikipedia.org
 www.jcpenney.com
@@ -11393,7 +11387,6 @@ www.ncdhhs.gov
 www.ncrla-covid-19.org
 www.ndmdhs.com
 www.neckermann.de
-www.necror.de
 www.neobux.com
 www.neodium.network
 www.neowin.net
@@ -11851,7 +11844,6 @@ www.polyfill.io
 www.poneytelecom.eu
 www.pool.ntp.org
 www.poolto.be
-www.pop.com
 www.popin.cc
 www.pornerbros.com
 www.pornhub.com
@@ -11931,7 +11923,6 @@ www.putlocker.is
 www.puu.sh
 www.puzz.com
 www.pw2.ro
-www.pwdhash.com
 www.pxc-coding.com
 www.pxf.io
 www.py6.ru
@@ -11949,7 +11940,6 @@ www.qualtrics.com
 www.quantummetric.com
 www.queer.de
 www.questionpro.com
-www.quip.com
 www.quizilla.com
 www.quizlet.com
 www.quora.com
@@ -12812,7 +12802,6 @@ www.vistaprint.com
 www.visualstudio.com
 www.visualwebsiteoptimizer.com
 www.vitalia.pl
-www.vitasave.ca
 www.vizury.com
 www.vk.cc
 www.vk.com
