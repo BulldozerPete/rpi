@@ -44,12 +44,12 @@
 # Blacklist: 0
 # 1. Source: 81107 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # 2. Source: 1761 - https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
-# 3. Source: 9458 - https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
+# 3. Source: 9539 - https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 # 4. Source: 1730 - https://raw.githubusercontent.com/tiuxo/hosts/master/ads
 # 5. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 100364 Domains - V2021.06.18-03:31:16
+# 100434 Domains - V2021.06.18-08:42:31
 # ---------------------------------------------
 #
 0.0.0.0.beeglivesex.com
@@ -1043,6 +1043,7 @@
 3236990328.rekrutacjaksos.pl
 3241.hittail.com
 3243857.fls.doubleclick.net
+3245dsfsd.cdgongfang.cn
 32666099.com
 32792.prolocksmithwinterpark.com
 3285.api.swrve.com
@@ -2752,6 +2753,7 @@ a.as-us.falkag.net
 aas.visitsaudi.com
 aata.ero-advertising.com
 aa.tallink.com
+aa.toponad.com
 aa.tv.com
 aa.tvguide.com
 aaucna.casasbahia.com.br
@@ -4538,6 +4540,7 @@ adkontekst.pl
 ad.koreadaily.com
 ad.kr.doubleclick.net
 ad.krutilka.ru
+adktrack.com
 adktracking-1671721947.eu-west-3.elb.amazonaws.com
 adlabs-sync.rutarget.ru
 adlanding.admarketplace.net.akadns.net
@@ -8559,6 +8562,7 @@ adx.adform.net
 adx.admaster.com.cn
 adx.admicro.vn
 adx.adrenalinesk.sk
+adxadserv.com
 adx.ads.heytapmobi.com
 adx.ads.oppomobile.com
 adx.adxglobal.com
@@ -10601,7 +10605,9 @@ a.overlay.top
 aowadczdfkcd4kl9dk.et.r.appspot.com
 aoxcapitals.com
 aoxtrade.com
+aoyou1.top
 aoyou2.top
+aoyou4.top
 ap101.curves.com
 ap76rmx3.accountant
 apacautumn.net.daraz.com
@@ -15677,6 +15683,7 @@ c7.adforgeinc.com
 c7.amazingcounters.com
 c7e58e2241.natrasiekorzysci.pl
 c7.statcounter.com
+c.7times.top
 c7.zedo.com
 c8.amazingcounters.com
 c8b.jcdb88.com
@@ -16284,6 +16291,7 @@ ccpgotofuture.ru
 cc.piao.jianzhigg.com
 cc.pkesports.cn
 ccpmo.com
+c.cqdjhj.cn
 cc.qiqisou.cn
 ccrbudgetca.112.2o7.net
 ccredits-agricole.com
@@ -16315,6 +16323,7 @@ cda-film.prv.pl
 cdaflix.eu
 cda-flix.pl
 cdaflix.pl
+c.daizhangguanjia.com.cn
 c.danangmo.cn
 cdaonline.com.ar
 cdata.carambo.la
@@ -16458,6 +16467,7 @@ cdn.admixer.net
 cdn.adm.myhayo.com
 cdn-adn-https-new.rayjump.com
 cdn-adn-https.rayjump.com
+cdn-adn-https-share.rayjump.com
 cdn-adn.rayjump.com
 cdn.adnwif.smt.docomo.ne.jp
 cdn-adn-ws.rayjump.com
@@ -19683,6 +19693,7 @@ cotusiedziejeludzie.site
 cougar.igtools.app
 couhome.112.2o7.net
 coulsongraphics.com
+c.oumaite168.com.cn
 counselheal.us.intellitxt.com
 count10.51yes.com
 count.1133.cc
@@ -20039,6 +20050,7 @@ cpd.adsplay.xyz
 cpdsalerno.com
 c.pebblemedia.be
 cpe.dotomi.com
+c.pengmingx.cn
 cp.europort.jp
 cpe.us.dotomi.weighted.com.akadns.net
 cp.ggyapp.com
@@ -20112,6 +20124,7 @@ cpx.to
 cpx.vnecdn.com
 cqa9.cn
 cqcounter.com
+c.qhruisen.cn
 c.qhruixin.cn
 cqishr.mobile.de
 cqpmvc.businessinsider.fr
@@ -21041,6 +21054,7 @@ da1.vip.prod.criteo.net
 da.2000888.com
 daaa.ero-advertising.com
 da-ads.com
+da.anythinktech.com
 d.aa.online-metrix.net
 daa.shuzilm.cn
 dabcc.us.intellitxt.com
@@ -25950,6 +25964,7 @@ ethereumwallet-kr.info
 ethereum-wallet.net
 ethereum-zero.com
 etherexx.org
+ether-pack.pangolin-sdk-toutiao.com
 etherparty.in
 etherscan.in
 etherswap.org
@@ -26376,6 +26391,7 @@ ewstv.abc15.com
 ewstv.abcactionnews.com
 ewsventura.112.2o7.net
 e.wsxxu.com
+ewtyewj.com
 e.wy87qg.cn
 e-wymiana.com
 ewymiana.com.pl
@@ -29680,6 +29696,7 @@ go1.aniview.com
 go1.pearson.com
 go1.predictiveindex.com
 go1.viewdeos.com
+go2021-1955280580.bceapp.com
 go.280group.com
 go2.adversal.com
 go2affise.com
@@ -30678,6 +30695,7 @@ go.yourplanprovisions.com
 go.yume-tec.co.jp
 gozatar.com
 go.zen.co.uk
+gozendata.com
 go.zendesk.com
 go.zeplug.com
 go.zeromotorcycles.com
@@ -31130,6 +31148,8 @@ gyqbrs.qvc.it
 gyros.es
 gyvcwd.cdiscount.com
 gyvyoc.dermoeczanem.com
+gzads.com
+gz-data.com
 g.zedo.com
 g.zeroredirect.com
 g.zhangaiwan.com
@@ -33719,6 +33739,7 @@ impservice.youdao.com
 impse.tradedoubler.com
 impsnare.iesnare.com
 imp.startappservice.com
+imp-toutiao-data.37.com.cn
 imp.track.tappx.com
 imp.tradedoubler.com
 impulsband.pl
@@ -35255,6 +35276,7 @@ inwestujwrozwoj.pl
 inwpgnig.pw
 in.wzrkt.com
 in.yimg.com
+i.nyue6.com
 in.zog.link
 ioads.ero-advertising.com
 ioam.de
@@ -35491,6 +35513,7 @@ issges.oewabox.at
 is.sh
 i.ssix.io
 issl-cert.pl
+is.snssdk.com
 istartsurf.com
 istat.biz
 i.static.zaplata.bg
@@ -35501,6 +35524,7 @@ istotny-czyn.eu
 istotny-punkcik.eu
 is-tracking-pixel-api-prod.appspot.com
 ist-track.com
+isub.snssdk.com
 isub.snssdk.com.bytedns.net
 isuzi.com
 isuzu.actonservice.com
@@ -35659,6 +35683,7 @@ jaccs.122.2o7.net
 jackal.goldsteinmedia.com
 jacketoutlet.pl
 jacketspolska.cn
+jacklm3.com
 jack.okkkk.com
 jackpot.112.2o7.net
 jacksonsun.us.intellitxt.com
@@ -38659,7 +38684,6 @@ ll.songlaoban.cn
 lmadvertising.engine.adglare.net
 lmcd.us.intellitxt.com
 l.minisplat.cn
-lm.licenses.adobe.com
 lmlicenses.wip4.adobe.com
 lml.jfjsp.com
 l.mnjkw.cn
@@ -42048,6 +42072,7 @@ mediaview.globalmailer.com
 mediaview.nielsen.com
 mediavine.com
 mediavision.actonservice.com
+media.vivaclix.com
 media.viwii.net
 mediavoice.com
 mediawaysnews.com
@@ -45731,6 +45756,7 @@ m.zu08e.cn
 m.zuopp.com
 m.zuu.co.jp
 m.zvfuka.cn
+m.zzchuy.cn
 n01d05.cumulus-cloud.com
 n02.unternehmen.com
 n1275adserv.xyz
@@ -46329,6 +46355,7 @@ new-ads.eurogamer.net
 new.afsanalytics.com
 newalways.easyfetmoredonefasterbysubmiting.download
 newalways.findonnetnowplayersystem.info
+new.api.ad.xiaomi.com
 new-best-prizes-2019.com
 newbie.com
 newbritmoneymethod.com
@@ -46403,6 +46430,7 @@ newpalmcoins.com
 newpassporn.com
 new-payment.space
 new-payment.store
+newplayable.dspunion.com
 newre-conversions.clickmeter.com
 newrelic.com
 news06.biz
@@ -49939,6 +49967,7 @@ p0rtal-register.tk
 p102-clb.allstarcluster.com
 p128902.clksite.com
 p1.adhitzads.com
+p1-be-endcard.pglstatp-toutiao.com
 p1cluster.cxense.com
 p1.lingpao8.com
 p1.parsely.com
@@ -52923,6 +52952,7 @@ pp.promocionesfarma.com
 p.presage.io
 p.profistats.net
 ppsdk.yhmapi.com
+ppslsa.com
 pp.sxjkc.cn
 pptv.adx.admaster.com.cn
 pptv.cm.admaster.com.cn
@@ -53917,6 +53947,7 @@ pumpkin.co.uk
 puna.pl
 punchdialogues.com
 punchjump.us.intellitxt.com
+p.unclecarm.cn
 pundix.eu
 punishtube.com
 punjabdevelopersassociation.com.pk
@@ -54271,6 +54302,7 @@ qq.irs01.com
 qqlogo.qq.com
 qq.m.cn.miaozhen.com
 q.qo26.com
+qqpublic.qpic.cn
 qqqqttt.weebly.com
 qqrp.adj.st
 qqs.glpen08.com
@@ -54410,6 +54442,7 @@ qwe.jzpxyd.com
 qweqwe.mctvhp.cn
 qwestfull.112.2o7.net
 qwe.tl875f.cn
+qwupoq.com
 qxhydkz8.hmjdaw.ntt.com
 qxm.pluto.sogou.com
 qxxru.linknotification.com
@@ -56437,6 +56470,7 @@ s3network1.com
 s3.pageranktop.com
 s3.pfp.sina.net
 s3.phluant.com
+s3.pstatp.com
 s3r-dw-1.net.daraz.com
 s3.rongnews.com
 s3.shinystat.com
@@ -57470,6 +57504,7 @@ script.tailsweep.com
 script.tapfiliate.com
 script.vccoo.com
 scr.kliksaya.com
+scr.lflable.com
 s.cr-nielsen.com
 scrollbelow.com
 scrollingads.hustlermegapass.com
@@ -58734,6 +58769,7 @@ sf1-be-pack.pglstatp-toutiao.com
 s.f1.impact-ad.jp
 sf3-be-pack.pglstatp-toutiao.com
 sf3-fe-tos.pglstatp-toutiao.com
+sf3-ttcdn-tos.pstatp.com
 sf6-be-pack.pglstatp-toutiao.com
 sfads.osdn.com
 sf.anest-iwata.co.jp
@@ -59617,6 +59653,7 @@ slimxxxtubeyge.ddns.name
 slimxxxtubeyhz.ddns.name
 slipperysack.com
 s.liveads.jp
+slkeq.com
 slodka-nagroda.click
 slodkibar.pl
 slodki-traf.click
@@ -60865,6 +60902,7 @@ smp.specificmedia.com
 smr2.so-net.ne.jp
 smritiphotography.in
 smr.nuro.jp
+smr.snssdk.com
 smr.so-net.ne.jp
 smrtb.com
 sms1.biz
@@ -63889,6 +63927,7 @@ svpury.sizeofficial.de
 svr-prc-01.com
 sv-static1-lottery.headlines.pw
 sv-static-lottery.headlines.pw
+sv.vgimer.cn
 svvoss.hoiku-shigoto.com
 sw88.abc.com
 sw88.disney.co.jp
@@ -64952,6 +64991,7 @@ techgadgets.in.intellitxt.com
 techgage.us.intellitxt.com
 techgms.com
 techguy.us.intellitxt.com
+tech.hellobya.cn
 te.chicagotribune.com
 techimo.us.intellitxt.com
 techiwant.com
@@ -65012,6 +65052,7 @@ te.cleveland.net
 t.eclick.vn
 te.creation-l.de
 tec.sarl.tk
+tect.hellobya.cn
 te.ctnow.com
 te.dailycamera.com
 te.dailypress.com
@@ -65801,6 +65842,7 @@ t.invitemedia.com
 tinybar.com
 tinyfilehost.com
 tinyfileshost.com
+tinytapgame.com
 tiomarkets.com
 tipanddonation.com
 tippcom01.tipp24.com
@@ -65832,6 +65874,7 @@ tivvitter.com
 t.iz55.com
 tizanidine.1.p2l.info
 tj-cmys.com
+tj.dushu.ru
 tjf.lyhuayun.com
 tj.g.pptv.com
 tjhhr.com
@@ -65863,10 +65906,12 @@ tk.airfrance.fr
 tk.airfrance.ru
 tk.airfrance.tn
 tk.airfrance.us
+tk.anythinktech.com
 tk.baidu.com
 tk.biovea.com
 tkbo.com
 tkclick.smardroid.com
+tkcn.rayjump.com
 tk.conforama.fr
 tkdami.net
 tk.dietbon.fr
@@ -69353,6 +69398,7 @@ v2.yieldlove-ad-serving.net
 v.37uta.cn
 v3-ad.ixigua.com
 v3-ads-st-vcdn.anthill.vn
+v3-be-pack.pglstatp-toutiao.com
 v3.cnzz.com
 v3.jiathis.com
 v3.stat.ku6.com
@@ -69373,6 +69419,7 @@ v61.com
 v66v66.com
 v68.ink
 v6analytics.htmedia.in.edgekey.net
+v6-be-pack.pglstatp-toutiao.com
 v6.cnzz.com
 v.6dvip.com
 v6.mobilelog.upqzfile.com
@@ -69383,6 +69430,7 @@ v7.kawinhome.com
 v7pjo.voluumtrk.com
 v7.shaoyumuye.com
 v7.stats.load.com
+v.7times.top
 v8.analytics.pinsightmedia.com
 v8.cnzz.com
 v8engine.pinsightmedia.com
@@ -69581,7 +69629,10 @@ v.com.5p67n.cn
 vcomdeepdiscount.112.2o7.net
 vcommerce.112.2o7.net
 vcommission.com
+v.cqdjhj.cn
+vc.vgimer.cn
 vda.17173.com
+v.daizhangguanjia.com.cn
 v.dalemax.cn
 vda.oipzyrzffum.ovh
 vdapp.nend.net
@@ -70137,6 +70188,7 @@ vivarrq324.mama92901.com
 vivationdesign.com
 viveirodoiscorregos.com.br
 vivienne.com.pl
+vivo.mmxy.tech
 vivtracking.com
 vizury.com
 vj0.42422277.com
@@ -70308,6 +70360,7 @@ vote.yixuecup.com
 votobicentenario.com
 voucher-for-you.online
 v.oui.sncf
+v.oumaite168.com.cn
 vownfp.vodomotorika.ru
 vox.amp.permutive.com
 voxcustomdfp152282307853.s.moatpixel.com
@@ -70319,6 +70372,7 @@ vpaid.doubleverify.com
 vpaid.springserve.com
 vpc.altitude-arena.com
 vp.cdnstoremedia.com
+v.pengmingx.cn
 vpf4.euskaltelofertas.com
 vpgf.qianyilamian.cn
 vphsiv.gsshop.com
@@ -70478,6 +70532,7 @@ vwr3.hitbox.com
 v-wrd.com
 vww-olx-pl.com
 v.www.net.daraz.com
+v.wxxljy.net
 v.xadingli.cn
 v.xbjcgs.cn
 vxiframe.biz
@@ -74143,6 +74198,7 @@ www.adk2.com
 www.adk2x.com
 www.adklip.com
 www.adkontekst.pl
+www.adktrack.com
 www.adlandpro.com
 www.adland.ru
 www.adlantis.jp
@@ -74659,6 +74715,7 @@ www.adworldnetwork.com
 www.adworx.at
 www.adworx.nl
 www.adwpaces.ero-advertising.com
+www.adxadserv.com
 www.adxite-ads.com
 www.adxpansion.com
 www.adxpose.com
@@ -75408,7 +75465,9 @@ www.aoredi.com
 www.aowadczdfkcd4kl9dk.et.r.appspot.com
 www.aoxcapitals.com
 www.aoxtrade.com
+www.aoyou1.top
 www.aoyou2.top
+www.aoyou4.top
 www.ap76rmx3.accountant
 www.a-pagerank.net
 www.apartamentoscitta.com
@@ -80403,6 +80462,7 @@ www.ewiadomosc.online
 www.ewieszaczek.pl
 www.ewills.access.ly
 www.eworldtrack.com
+www.ewtyewj.com
 www.e-wymiana.com
 www.ewymiana.com.pl
 www.exactadvertising.com
@@ -82285,6 +82345,7 @@ www.gowadogo.com
 www.go.webhelp.com
 www.gowin7.com
 www.gozatar.com
+www.gozendata.com
 www.gparted.fr
 www.gpotecnosystems.com
 www.gpydym.cn
@@ -82464,6 +82525,8 @@ www.gxplugin.com
 www.gxzjzg.com
 www.gyamfua.money-for-you-22.ru
 www.gyros.es
+www.gzads.com
+www.gz-data.com
 www.gzhctryy.com
 www.h0me.eu
 www.h12-media.com
@@ -84316,6 +84379,7 @@ www.jabra.id
 www.jacbridge.com
 www.jacketoutlet.pl
 www.jacketspolska.cn
+www.jacklm3.com
 www.jackstar.pl
 www.jackwolfskinpolska.com
 www.jackwolfskinsklep.com
@@ -91347,6 +91411,7 @@ www.pphumarex.pl
 www.ppl-puls.gloryft.com
 www.ppoi.org
 www.pppe.ddns.net
+www.ppslsa.com
 www.ppuhmarko.com.pl
 www.praca-logowanie-4.ct8.pl
 www.pracaonline.co.pl
@@ -91950,6 +92015,7 @@ www.quntstamp.com
 www.qupinhj.com
 www.ququdm.com
 www.qvikar.com
+www.qwupoq.com
 www.qzgjprj.com
 www.qzip.cjb.net
 www.r2prod.com
@@ -93572,6 +93638,7 @@ www.slimerix.pl
 www.slimitoys.com
 www.slimspots.com
 www.slipperysack.com
+www.slkeq.com
 www.slodka-nagroda.click
 www.slodkibar.pl
 www.slodki-traf.click
@@ -95166,6 +95233,7 @@ www.tinbuadserv.com
 www.tinybar.com
 www.tinyfilehost.com
 www.tinyfileshost.com
+www.tinytapgame.com
 www.tiomarkets.com
 www.tipanddonation.com
 www.tipsforall.xyz
@@ -99710,6 +99778,7 @@ ys.da.mgtv.com
 ysdk.qq.com
 ysej.code.weddingeeos.com
 y.shuoshuocm.com
+ysiqmzfr.eileader.cn
 ysiu.freenation.com
 ysloutletbags.com
 ysm.hauchi.com.tw
@@ -99784,6 +99853,7 @@ ywrcqa.wnep.com
 ywrcqa.wthr.com
 ywrcqa.wzzm13.com
 yxceermovfotgsh.su
+yxd9c.hnpljm.xyz
 yx-in-f108.1e100.net
 y.xinghao89.com
 yxrp.lianfuhuang.cn
