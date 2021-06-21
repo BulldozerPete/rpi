@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# Whitelist: 13314
-# Deadlist: 383406
-# Blacklist: 1677
+# Whitelist: 13673
+# Deadlist: 386808
+# Blacklist: 1702
 # 1. Source: 4282 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #
 # ---------------------------------------------
-# 9887 Domains - V2021.06.20-03:32:59
+# 9900 Domains - V2021.06.21-09:15:44
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -252,6 +252,7 @@ app-tastico.com
 app-testina.com
 app-testion.com
 apricot-pudel.at
+aprs-karlsruhe.de
 aqdixj.com
 aquaclean-das-original.de
 aquamax.at
@@ -779,6 +780,7 @@ chicbm.com
 chichandbagsshop.com
 chicladdy.com
 chicrina.com
+chicsoda.de
 chicsoso.com
 chiliaug.com
 chili-pepper.ch
@@ -1739,6 +1741,7 @@ getryoko.com
 getzor.com
 geuer-elektronline.com
 ggv-tk.de
+ghostarmy.de
 gh-stadtwald.at
 ghyifellowe.site
 giabardi.shop
@@ -3980,6 +3983,7 @@ shop.deveri.de
 shop.dragon.bike
 shop.electro-center.lu
 shopeplace.com
+shop.haushaltsideal.de
 shopidoro.eu
 shopkrone.de
 shopmood.de
@@ -4421,6 +4425,7 @@ toceanswide.com
 todoplay.de
 todos-lala.com
 tonfeld-freiburg.de
+toni-greif.de
 tonobi.de
 tonspy.com
 topamarkt.de
@@ -4779,6 +4784,7 @@ watches-fashion.com
 watchesinfashion.se
 watchesstore.co
 waw-hausoptimierung.de
+waworld.de
 wayfale.com
 wayplay.de
 wayrates.com
@@ -4906,6 +4912,7 @@ wpgame.shop
 wpyslr.com
 wsoftia.com
 wsonio.com
+wunderlandwelpenhaus.com
 wundershark.de
 wunderwahl.de
 wunderwild.de
@@ -5129,6 +5136,7 @@ www.app-tastico.com
 www.app-testina.com
 www.app-testion.com
 www.apricot-pudel.at
+www.aprs-karlsruhe.de
 www.aqdixj.com
 www.aquaclean-das-original.de
 www.aquamax.at
@@ -5637,6 +5645,7 @@ www.chicbm.com
 www.chichandbagsshop.com
 www.chicladdy.com
 www.chicrina.com
+www.chicsoda.de
 www.chicsoso.com
 www.chiliaug.com
 www.chili-pepper.ch
@@ -6568,6 +6577,7 @@ www.getryoko.com
 www.getzor.com
 www.geuer-elektronline.com
 www.ggv-tk.de
+www.ghostarmy.de
 www.gh-stadtwald.at
 www.ghyifellowe.site
 www.giabardi.shop
@@ -9186,6 +9196,7 @@ www.toceanswide.com
 www.todoplay.de
 www.todos-lala.com
 www.tonfeld-freiburg.de
+www.toni-greif.de
 www.tonobi.de
 www.tonspy.com
 www.topamarkt.de
@@ -9530,6 +9541,7 @@ www.watches-fashion.com
 www.watchesinfashion.se
 www.watchesstore.co
 www.waw-hausoptimierung.de
+www.waworld.de
 www.wayfale.com
 www.wayplay.de
 www.wayrates.com
@@ -9647,6 +9659,7 @@ www.wpgame.shop
 www.wpyslr.com
 www.wsoftia.com
 www.wsonio.com
+www.wunderlandwelpenhaus.com
 www.wundershark.de
 www.wunderwahl.de
 www.wunderwild.de
