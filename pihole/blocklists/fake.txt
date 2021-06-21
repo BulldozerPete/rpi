@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# Whitelist: 13673
+# Whitelist: 13645
 # Deadlist: 386808
-# Blacklist: 1702
+# Blacklist: 1688
 # 1. Source: 4282 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #
 # ---------------------------------------------
-# 9900 Domains - V2021.06.21-09:15:44
+# 9908 Domains - V2021.06.21-22:10:23
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -197,6 +197,7 @@ amboss-haarscheren.at
 ambroxitp.com
 ambusama.de
 amechad.de
+amellys-damenboutique.de
 ament.at
 amicale-des-alberes.fr
 amirhpc.com
@@ -286,6 +287,7 @@ assipozzi.it
 as-transport.org
 atakku.at
 atelierpesce.it
+ateris-versandhandel.de
 atesco.de
 atleisures.com
 atlienstore.com
@@ -2382,6 +2384,7 @@ kfactem.com
 kfz-hogen.de
 kfz-tiptop.at
 kg-treppchen.de
+kiatajhizd.com
 kickoutracism.de
 kiddiesstarkmachen.de
 kidimo.at
@@ -4684,6 +4687,7 @@ viagogo.com
 viagogo.de
 viagrafuerfrauen.com
 viciac.com
+victormartincollection.com
 videofilm-reinhardt.de
 videokaarten.eu
 viennaapartments.org
@@ -5082,6 +5086,7 @@ www.amboss-haarscheren.at
 www.ambroxitp.com
 www.ambusama.de
 www.amechad.de
+www.amellys-damenboutique.de
 www.ament.at
 www.amicale-des-alberes.fr
 www.amirhpc.com
@@ -5169,6 +5174,7 @@ www.assipozzi.it
 www.as-transport.org
 www.atakku.at
 www.atelierpesce.it
+www.ateris-versandhandel.de
 www.atesco.de
 www.atleisures.com
 www.atlienstore.com
@@ -7210,6 +7216,7 @@ www.kfactem.com
 www.kfz-hogen.de
 www.kfz-tiptop.at
 www.kg-treppchen.de
+www.kiatajhizd.com
 www.kickoutracism.de
 www.kiddiesstarkmachen.de
 www.kidimo.at
@@ -9443,6 +9450,7 @@ www.viagogo.com
 www.viagogo.de
 www.viagrafuerfrauen.com
 www.viciac.com
+www.victormartincollection.com
 www.videofilm-reinhardt.de
 www.videokaarten.eu
 www.viennaapartments.org
