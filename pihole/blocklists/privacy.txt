@@ -49,6 +49,7 @@ www.iadsdk.apple.com
 #
 # Crashlytics
 #
+crashlytics.com
 crashlyticsreports-pa.googleapis.com
 firebase-settings.crashlytics.com
 #
@@ -83,6 +84,11 @@ webhook.logentries.com
 #
 # Microsoft
 #
+#self-events-data.trafficmanager.net
+#self.events.data.microsoft.com
+#settings-win.data.microsoft.com
+#v10.events.data.microsoft.com
+#v20.events.data.microsoft.com
 asimov-win.settings.data.microsoft.com.akadns.net
 cache.datamart.windows.com
 ceuswatcab01.blob.core.windows.net
@@ -99,23 +105,19 @@ geo.vortex.data.microsoft.com.akadns.net
 hubblecontent.osi.office.net
 i1.services.social.microsoft.com
 nexus.officeapps.live.com
+nexusrules.officeapps.live.com
 oca.telemetry.microsoft.com
 onecollector.cloudapp.aria.akadns.net
 prod.nexusrules.live.com.akadns.net
 redir.metaservices.microsoft.com
-#self-events-data.trafficmanager.net
-#self.events.data.microsoft.com
 settings-sandbox.data.microsoft.com
-#settings-win.data.microsoft.com
 spynet2.microsoft.com
 spynetalt.microsoft.com
 telemetry.microsoft.com
 telemetry.urs.microsoft.com
 us.vortex-win.data.microsoft.com
 v10-win.vortex.data.microsoft.com.akadns.net
-#v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
-#v20.events.data.microsoft.com
 vortex-sandbox.data.microsoft.com
 vortex-win-sandbox.data.microsoft.com
 vortex-win.data.microsoft.com
@@ -130,6 +132,14 @@ weus2watcab02.blob.core.windows.net
 #
 incoming.telemetry.mozilla.org
 telemetry-incoming.r53-2.services.mozilla.com
+#
+# Netflix
+#
+beacon.eu-west-1.prodaa.netflix.com
+beacon.us-east-1.prodaa.netflix.com
+beacon.us-west-2.prodaa.netflix.com
+nmtracking.netflix.com
+presentationtracking.netflix.com
 #
 # OnePlus
 #
@@ -152,6 +162,11 @@ g1.ads.oppomobile.com
 analyticsnew.overwolf.com
 tracking.overwolf.com
 #
+# PayPal
+#
+stats.paypal.com
+t.paypal.com
+#
 # Realme
 #
 bdapi-in-ads.realmemobile.com
@@ -163,10 +178,12 @@ logs.roku.com
 # SambaTV
 #
 api.cid.samba.tv
+api.recommendations.samba.tv
 events.cid.samba.tv
+flingo.tv
 platform.cid.samba.tv
 preferences.cid.samba.tv
-flingo.tv
+samba.tv
 www.flingo.tv
 #
 # Samsung
@@ -184,6 +201,27 @@ samsungadhub.com
 samsungads.com
 seao.business.samsung.com
 smetrics.samsung.com
+#
+# Sentry
+#
+a.sentry.io
+browser.sentry-cdn.com
+ingest.sentry.io
+my.sentry.io
+sentry-cdn.com
+sentry.io
+services.sentry.io
+#
+# Smartclip
+#
+ad.smartclip.net
+ad.sxp.smartclip.net
+ci.atv.smartclip.net
+ci.sxp.smartclip.net
+smartclip.com
+smartclip.net
+stats.smartclip.net
+sxp.smartclip.net
 #
 # Snapchat
 #
@@ -228,14 +266,37 @@ ssm1.internet.sony.tv
 ssm2.internet.sony.tv
 ssm3.internet.sony.tv
 #
+# Spotify
+#
+adeventtracker.spotify.com
+#
+# Tapatalk
+#
+log.tapatalk.com
+track.tapatalk.com
+#
 # Tiktok
 #
+applog.musical.ly
+byteoversea.com
+i.byteoversea.com
+ichannel.musical.ly
+ichannel.snssdk.com
 log-va.tiktokv.com
+log.byteoversea.com
+log.snssdk.com
 log.tiktokv.com
+log15.byteoversea.com
+log16-normal-c-useast1a.tiktokv.com
 mcs-va.tiktokv.com
 mon-va.tiktokv.com
 mon.tiktokv.com
+rtlog.byteoversea.com
+rtlog.musical.ly
+rtlog.snssdk.com
 rtlog.tiktokv.com
+snssdk.com
+toutiao.com
 xlog-va.tiktokv.com
 xlog.tiktokv.com
 #
@@ -247,18 +308,36 @@ crashlogs.whatsapp.net
 #
 # Xiaomi
 #
+abtest.mistat.xiaomi.com
+activity.browser.intl.miui.com
+adv.sec.intl.miui.com
+adv.sec.miui.com
 api.ad.xiaomi.com
+api.brs.intl.miui.com
+api.miui.security.xiaomi.com
+api.newsfeed.intl.miui.com
 app.chat.xiaomi.net
+auth.be.sec.miui.com
+cdn.ad.xiaomi.com
 data.mistat.india.xiaomi.com
 data.mistat.intl.xiaomi.com
 data.mistat.rus.xiaomi.com
 data.mistat.xiaomi.com
 globalapi.ad.xiaomi.com
+huangye.miui.com
+log.ad.xiaomi.com
+logupdate.avlyun.sec.miui.com
+mazu.sec.miui.com
+metok.sys.miui.com
+o2o.api.xiaomi.com
+r.browser.miui.com
 sa.api.intl.miui.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
+stat.duokanbox.com
+track.ad.xiaomi.com
 tracking.india.miui.com
 tracking.intl.miui.com
 tracking.miui.com
 tracking.rus.miui.com
-cdn.ad.xiaomi.com
+xlmc.sandai.net

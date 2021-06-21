@@ -145,6 +145,14 @@ upload.luckyorange.net
 w1.luckyorange.com
 
 #
+# Netflix
+#
+ads.netflix.com
+ads.test.netflix.com
+ads.us-east-1.prodaa.netflix.com
+ads.us-west-2.prodaa.netflix.com
+
+#
 # Pinterest ***
 #
 ads.pinterest.com
@@ -177,6 +185,7 @@ www.statcounter.com
 # TikTok ***
 #
 ads.tiktok.com
+ads.tiktok.com.edgekey.net
 
 #
 # Twitter ***
