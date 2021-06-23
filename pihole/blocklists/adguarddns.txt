@@ -25,7 +25,7 @@
 # Telegram-Gruppe PiHole + Unbound Fans (DACH)
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
-# 68007 Domains - 2021.06.23-03:15:16
+# 68014 Domains - 2021.06.23-11:16:55
 # ---------------------------------------------
 #
 0024aaaa.com
@@ -11500,6 +11500,7 @@ dnsseed.emzy.de
 dnudg.com
 do09.net
 do67etikr7pwz.cloudfront.net
+do69ll745l27z.cloudfront.net
 doaraifa.click
 doathair.com
 doboacki.net
@@ -17179,6 +17180,7 @@ imo-cash.de
 imonomy.com
 imounsos.com
 impactaffirm.com
+impactify.io
 impactlaterhand.com
 impactradius.com
 impactradius-event.com
@@ -28759,6 +28761,8 @@ seomaster.com.br
 seo-master.net
 seomonitor.ro
 seomoz.org
+seondnsresolve.com
+seon.io
 seoparts.com
 seoparts.net
 seopult.ru
@@ -49483,6 +49487,7 @@ www.imo-cash.de
 www.imonomy.com
 www.imounsos.com
 www.impactaffirm.com
+www.impactify.io
 www.impactlaterhand.com
 www.impactradius.com
 www.impactradius-event.com
@@ -59369,6 +59374,8 @@ www.seolabadv.it
 www.seo-master.net
 www.seomonitor.ro
 www.seomoz.org
+www.seondnsresolve.com
+www.seon.io
 www.seoparts.com
 www.seoparts.net
 www.seopult.ru

@@ -23,7 +23,7 @@
 # Telegram-Gruppe PiHole + Unbound Fans (DACH)
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
-# 50921 Domains - 2021.06.23-03:15:06
+# 50919 Domains - 2021.06.23-11:16:44
 # ---------------------------------------------
 #
 006a039c957c142bb.com
@@ -1476,7 +1476,6 @@ adalso.com
 adalyser.com
 adamatic.co
 adaos-ads.net
-ad-apac.doubleclick.net
 adapd.com
 adapex.io
 adaptingtova.biz
@@ -1634,7 +1633,6 @@ adedy.com
 adelement.com
 adelixir.com
 ademails.com
-ad-emea.doubleclick.net
 adenc.co.kr
 adengage.com
 adentifi.com
@@ -6231,7 +6229,6 @@ cmbestsrv.com
 cmcore.com
 cm-exchange.toast.com
 cmfads.com
-cm.g.doubleclick.net
 c.mgid.com
 cmllk1.info
 cmllk2.info
@@ -8482,6 +8479,7 @@ dnsseed.emzy.de
 dns.whatleaks.com
 dntrax.com
 do09.net
+do69ll745l27z.cloudfront.net
 doa1.immobilier-neuf.com
 doabqu.s3.com.tw
 doagpm.promart.pe
@@ -11711,7 +11709,6 @@ goodtag.it
 goofypismica.com
 googleadapis.l.google.com
 googleadservices.com
-googleads.g.doubleclick.net
 googleanalytcs.com
 googleapi.club
 googleoptimize.com
@@ -13015,6 +13012,7 @@ im.ov.yahoo.co.jp
 imp.accesstra.de
 impact-ad.jp
 impactaffirm.com
+impactify.io
 impactlaterhand.com
 impactradius.com
 impactradius-event.com
@@ -13073,7 +13071,6 @@ inboxanigas.com
 inboxtag.com
 incapabledroppingachievement.com
 incapablepublicityvolatile.com
-incapdns.net
 incarcererez.xyz
 incentaclick.com
 incentivesnetwork.net
@@ -21127,7 +21124,6 @@ ptwebcams.com
 ptwmjmp.com
 pub1.cope.es
 pub.admedia.io
-pubads.g.doubleclick.net
 pubdirecte.com
 pub.dreamboxcart.com
 pubdream.com
@@ -23331,6 +23327,8 @@ senzapudore.it
 seo-master.net
 seomonitor.ro
 seomoz.org
+seondnsresolve.com
+seon.io
 seoparts.net
 separatedcoffin.com
 separatesilver.com
@@ -26068,8 +26066,6 @@ sync.tv
 syncwowsails.com
 syndicatedsearchresults.com
 syndicate.payloadz.com
-syndication.dynsrvtbg.com
-syndication.exoclick.com
 syndication.jsadapi.com
 syndicpop.com
 syndopop.com
@@ -39091,6 +39087,7 @@ www.imonomy.com
 www.imounsos.com
 www.impact-ad.jp
 www.impactaffirm.com
+www.impactify.io
 www.impactlaterhand.com
 www.impactradius.com
 www.impactradius-event.com
@@ -39139,7 +39136,6 @@ www.inboxanigas.com
 www.inboxtag.com
 www.incapabledroppingachievement.com
 www.incapablepublicityvolatile.com
-www.incapdns.net
 www.incarcererez.xyz
 www.incentaclick.com
 www.incentivesnetwork.net
@@ -45840,6 +45836,8 @@ www.senzapudore.it
 www.seo-master.net
 www.seomonitor.ro
 www.seomoz.org
+www.seondnsresolve.com
+www.seon.io
 www.seoparts.net
 www.separatedcoffin.com
 www.separatesilver.com
