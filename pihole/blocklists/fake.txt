@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# Whitelist: 13645
-# Deadlist: 386808
-# Blacklist: 1688
+# Whitelist: 13660
+# Deadlist: 390160
+# Blacklist: 1689
 # 1. Source: 4282 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #
 # ---------------------------------------------
-# 9908 Domains - V2021.06.21-22:10:23
+# 9910 Domains - V2021.06.23-11:20:09
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -2837,6 +2837,7 @@ mein-europa.at
 mein-eversten.de
 mein-gaertner24.de
 meingartenhimmel.de
+mein-heimtrainer.de
 mein-hochzeit.de
 mein-karamel.de
 meinkleinerbaum.de
@@ -7662,6 +7663,7 @@ www.mein-europa.at
 www.mein-eversten.de
 www.mein-gaertner24.de
 www.meingartenhimmel.de
+www.mein-heimtrainer.de
 www.mein-hochzeit.de
 www.mein-karamel.de
 www.meinkleinerbaum.de
