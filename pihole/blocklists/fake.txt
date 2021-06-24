@@ -19,14 +19,14 @@
 # Statistik
 # ---------
 #
-# Whitelist: 14294
+# Whitelist: 45369
 # Deadlist: 399264
 # Blacklist: 1661
 # 1. Source: 4282 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1480 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10300 Domains - V2021.06.24-17:41:23
+# 10292 Domains - V2021.06.24-18:24:45
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -2297,7 +2297,6 @@ installateurmax.at
 installateurnotdienste.at
 installateur-notdienst-wien.co.at
 instametall.de
-instantcheckmate.com
 insvive.com
 inteltey.com
 intercamping-grossbreitenbach.com
@@ -2367,7 +2366,6 @@ jh-design.fr
 jieper.com
 jilg-market.de
 jjctrans.com
-jjshouse.com
 jkarnil.com
 jkbikesout.cc
 jkhckf.top
@@ -4110,7 +4108,6 @@ sheadora.com
 shebeautys.com
 sheheaven.com
 sheicloth.com
-shein.com
 sheinyci.com
 sheistyle.com
 shelanu.at
@@ -4613,7 +4610,6 @@ top-markts.de
 topmodareps.es
 topmultimediashop.com
 top-of-software.de
-top-password.com
 topservice-buende.de
 topshopdeal.com
 top-steroide-kaufen.com
@@ -7324,7 +7320,6 @@ www.installateur-hansi.at
 www.installateurmax.at
 www.installateurnotdienste.at
 www.instametall.de
-www.instantcheckmate.com
 www.insvive.com
 www.inteltey.com
 www.intercamping-grossbreitenbach.com
@@ -7394,7 +7389,6 @@ www.jh-design.fr
 www.jieper.com
 www.jilg-market.de
 www.jjctrans.com
-www.jjshouse.com
 www.jkarnil.com
 www.jkbikesout.cc
 www.jkhckf.top
@@ -9086,7 +9080,6 @@ www.sheadora.com
 www.shebeautys.com
 www.sheheaven.com
 www.sheicloth.com
-www.shein.com
 www.sheinyci.com
 www.sheistyle.com
 www.shelanu.at
@@ -9578,7 +9571,6 @@ www.top-markts.de
 www.topmodareps.es
 www.topmultimediashop.com
 www.top-of-software.de
-www.top-password.com
 www.topservice-buende.de
 www.topshopdeal.com
 www.top-steroide-kaufen.com
