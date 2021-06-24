@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# Whitelist: 13608
-# Deadlist: 399732
-# Blacklist: 1692
+# Whitelist: 14294
+# Deadlist: 396733
+# Blacklist: 1698
 # 1. Source: 4282 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #
 # ---------------------------------------------
-# 9916 Domains - V2021.06.24-03:17:02
+# 9928 Domains - V2021.06.24-10:10:29
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -154,6 +154,7 @@ all4you-fashion.com
 allaboutexhibition.de
 allconsumstore.com
 alleein.com
+alle-goldhandler-bewerten.de
 allenett.com
 allescasual.at
 allescasual.ch
@@ -1797,6 +1798,7 @@ golden-re.com
 goldenretrieverzuchter.de
 goldenwaters.de
 goldhandel-beratung-kauf.de
+goldhandel-clever-kaufen.de
 goldhandel-depot.de
 goldhandel-imperium.de
 goldhandel-markt.de
@@ -3300,6 +3302,7 @@ online.com
 onlinejobs2020.at
 online-mode-1.de
 onlineoutletsale2021.com
+onlineshops-bewerten-shopnr19382.de
 online-uggs.net
 onward.store
 optic-dias.ru
@@ -4509,6 +4512,9 @@ trusted-goldhandel-shops.de
 trusted-gold-shops.de
 trusted-goldshops-handel.de
 trusted-goldshops-liste.de
+trusted-goldshops-nr2183.de
+trusted-goldshops-nr3873.de
+trusted-goldshops-nr9813.de
 trusted-onlineshops-liste.de
 trusted-shops-goldlieferanten.de
 trusted-shops-in-deutschland.de
@@ -5048,6 +5054,7 @@ www.all4you-fashion.com
 www.allaboutexhibition.de
 www.allconsumstore.com
 www.alleein.com
+www.alle-goldhandler-bewerten.de
 www.allenett.com
 www.allescasual.at
 www.allescasual.ch
@@ -6640,6 +6647,7 @@ www.golden-re.com
 www.goldenretrieverzuchter.de
 www.goldenwaters.de
 www.goldhandel-beratung-kauf.de
+www.goldhandel-clever-kaufen.de
 www.goldhandel-depot.de
 www.goldhandel-imperium.de
 www.goldhandel-markt.de
@@ -8105,6 +8113,7 @@ www.online.com
 www.onlinejobs2020.at
 www.online-mode-1.de
 www.onlineoutletsale2021.com
+www.onlineshops-bewerten-shopnr19382.de
 www.online-uggs.net
 www.onward.store
 www.optic-dias.ru
@@ -9287,6 +9296,9 @@ www.trusted-goldhandel-shops.de
 www.trusted-gold-shops.de
 www.trusted-goldshops-handel.de
 www.trusted-goldshops-liste.de
+www.trusted-goldshops-nr2183.de
+www.trusted-goldshops-nr3873.de
+www.trusted-goldshops-nr9813.de
 www.trusted-onlineshops-liste.de
 www.trusted-shops-goldlieferanten.de
 www.trusted-shops-in-deutschland.de
