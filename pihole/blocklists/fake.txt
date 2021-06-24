@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# Whitelist: 13660
-# Deadlist: 390160
-# Blacklist: 1689
+# Whitelist: 13608
+# Deadlist: 399732
+# Blacklist: 1692
 # 1. Source: 4282 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #
 # ---------------------------------------------
-# 9910 Domains - V2021.06.23-11:20:09
+# 9916 Domains - V2021.06.24-03:17:02
 # ---------------------------------------------
 #
 100jahrehochbahn.de
@@ -981,6 +981,7 @@ daplay.de
 darhinos.com
 darkbodybuilding.net
 darkpods.at
+daschachten.de
 dasglobetrotterforum.de
 dashausimgarten.de
 das-home.com
@@ -2684,6 +2685,7 @@ lutona.de
 luvay.de
 luvpear.com
 luvyle.com
+luxfewo.de
 luxishop.de
 luxsofabezuege.com
 luxuryforcheapgermany.de
@@ -4097,6 +4099,7 @@ spareshop.at
 sparkauf24.com
 sparluchs.net
 spar-markt.de
+sparturn.de
 speaklife.at
 special-sports.at
 spedition-starodab.eu
@@ -5839,6 +5842,7 @@ www.daplay.de
 www.darhinos.com
 www.darkbodybuilding.net
 www.darkpods.at
+www.daschachten.de
 www.dasglobetrotterforum.de
 www.dashausimgarten.de
 www.das-home.com
@@ -7511,6 +7515,7 @@ www.lutona.de
 www.luvay.de
 www.luvpear.com
 www.luvyle.com
+www.luxfewo.de
 www.luxishop.de
 www.luxsofabezuege.com
 www.luxuryforcheapgermany.de
@@ -8879,6 +8884,7 @@ www.spareshop.at
 www.sparkauf24.com
 www.sparluchs.net
 www.spar-markt.de
+www.sparturn.de
 www.speaklife.at
 www.special-sports.at
 www.spedition-starodab.eu
