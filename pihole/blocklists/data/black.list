@@ -232,7 +232,6 @@ ad.onvista.de
 ads2.contentabc.com
 ads.aconnus.net
 ads.adthrive.com
-ad.samsungadhub.com
 ads-api.twitter.com
 ads.api.vungle.com
 ads.bundesanzeiger-verlag.de
@@ -369,7 +368,6 @@ api-location-prd.pelcro.com
 api.maccms.com
 api.mediaad.org
 api.mindbox.ru
-api.mixpanel.com
 api.opmnstr.com
 api.permutive.com
 api.phoenix-widget.com
@@ -377,7 +375,6 @@ api.picsart.com
 api.pubnative.net
 api.pushwoosh.com
 api.rlcdn.com
-api.segment.io
 api.stathat.com
 api.theadex.com
 api.userleap.com
@@ -387,7 +384,6 @@ ap.lijit.com
 app3.calltracks.com
 app-analytics-v2.snapchat.com
 app.cookiefirst.com
-app-measurement.com
 app.playstream.media
 app.plus500.com
 appround.net
@@ -425,7 +421,6 @@ backstory.ebay.it
 backstory.ebay.nl
 backtory.mediaad.org
 balanced-engage.deltadna.net
-bam.nr-data.net
 base64decode.cdn.fuseplatform.net
 bat-bing-com.a-0001.a-msedge.net
 bbs.2345.cn
@@ -490,7 +485,6 @@ cdn.ftd.agency
 cdn.funnelytics.io
 cdn.gotchosen.com
 cdn-header-bidding.snack-media.com
-cdn.heapanalytics.com
 cdn.kaizenplatform.net
 cdn.matomo.cloud
 cdn.mouseflow.com
@@ -526,7 +520,6 @@ c.finative.eu
 chat.chatra.io
 chaturbate.com
 chba-ssl.wemfbox.ch
-chimpstatic.com
 clevernt.com
 clickgate05.biz
 click.oneplus.cn
@@ -625,11 +618,9 @@ data-ed91a21bf0.dastelefonbuch.de
 data-fdb60ee122.hamburg.de
 data-fdbbf15b66.finanzen.at
 data-fdbbf15b66.finanzen.net
-data.flurry.com
 data.gblcdn.com
 datalayer.p7s1.io
 data.logentries.com
-data.mistat.india.xiaomi.com
 data.mistat.rus.xiaomi.com
 data.photorank.me
 dco.smartclip.net
@@ -766,7 +757,6 @@ init.supersonicads.com
 in-page-push.com
 insight.adsrvr.org
 insights-collector.newrelic.com
-insights.samsung.com
 intersc.igaming-service.io
 ios.bugly.qq.com
 iphoneapps.co.in
@@ -856,7 +846,6 @@ metrics5.data.hicloud.com
 metrics.agendamakers.nl
 metrics.data.hicloud.com
 metrics-dra.dt.hicloud.com
-metrics.mzstatic.com
 metrics.n-tv.de
 missguided-api.exponea.com
 mixern.sina.cn
@@ -890,7 +879,6 @@ nitrogensports.eu
 nizephoros-pom.com
 njrkf6rvmq.kameleoon.eu
 nkwintenc.biz
-nmetrics.samsung.com
 notify-bugs-fra1.rtl.de
 notino-api.exponea.com
 notorietycheerypositively.com
@@ -962,7 +950,6 @@ presearch.org
 prg.smartadserver.com
 prodlb.siteintercept.qualtrics.com.cdn.cloudflare.net
 profiles.tagger.opecloud.com
-proton.flurry.com
 pr-v2.prchecker.info
 pub-eu.p.otm-r.com
 pubmatic.mainroll.com
@@ -1021,7 +1008,6 @@ s2s.yieldlove-ad-serving.net
 s385.mxcdn.net
 s400.mxcdn.net
 s8t.teads.tv
-sa.api.intl.miui.com
 s.adroll.com
 sak.userreport.com
 salutationcheerlessdemote.com
@@ -1099,7 +1085,6 @@ staptephito.com
 startface.net
 startfenster.de
 static.ads-twitter.com
-static.criteo.net
 static-de.plista.com
 static.digidip.net
 static.doubleclick.net
@@ -1134,7 +1119,6 @@ t.contentsquare.net
 t.cotsta.ru
 technical-service.net
 telemetry.docusign.net
-telemetry-incoming.r53-2.services.mozilla.com
 tempest.services.disqus.com
 teranaire-fledister.com
 te.technical-service.net
