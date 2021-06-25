@@ -11,6 +11,7 @@
 9279323.fls.doubleclick.net
 a.adtng.com
 accounts.doubleclick.net
+acdn.adnxs.com
 ad3.adfarm1.adition.com
 ade.googlesyndication.com
 ad.impactify.io
@@ -47,6 +48,7 @@ af.stroeerdp.de
 a.hstrck.com
 a.klaviyo.com
 alb.reddit.com
+alive.github.com
 amplify.outbrain.com
 analytics-api.samsunghealthcn.com
 analytics.cnd-motionmedia.de
@@ -113,6 +115,7 @@ c.adsco.re
 ca.iadsdk.apple.com
 capture.trackjs.com
 c.bing.com
+cdn2.teads.tv
 cdn.adtriba.com
 cdn-a.yieldlove.com
 cdn.blueconic.net
@@ -136,7 +139,9 @@ cdn.taboola.com
 cdntrf.com
 cdn.tsyndicate.com
 cdn.yourwebbars.com
+celeritascdn.com
 cf.iadsdk.apple.com
+chaturbate.com
 chimpstatic.com
 clevernt.com
 click.oneplus.cn
@@ -151,7 +156,9 @@ collector.githubapp.com
 collector-pxikkul2rm.px-cdn.net
 collector-pxikkul2rm.pxchk.net
 collector-pxikkul2rm.px-cloud.net
+colonistnobilityheroic.com
 comcluster.cxense.com
+commercialvalue.org
 common.i12.de
 condles-temark.com
 confiant-integrations.global.ssl.fastly.net
@@ -169,6 +176,7 @@ cs.ns1p.net
 ct.pinterest.com
 customers.kameleoon.com
 cx.atdmt.com
+d1esebcdm6wx7j.cloudfront.net
 d1f05vr3sjsuy7.cloudfront.net
 d1fc8wv8zag5ca.cloudfront.net
 d2v02itv0y9u9t.cloudfront.net
@@ -201,6 +209,7 @@ dev.visualwebsiteoptimizer.com
 dialacrum.iad-03.braze.com
 disney.demdex.net
 dit.whatsapp.net
+dmmzkfd82wayn.cloudfront.net
 dmp.theadex.com
 d.nativendo.de
 dnhfi5nn2dt67.cloudfront.net
@@ -227,6 +236,7 @@ geolocation.stroeerdp.de
 get.s-onetag.com
 g.geogslb.com
 glb-ads.atwola.adtech.de
+glitter.services.disqus.com
 global.adserver.yahoo.com
 globalapi.ad.xiaomi.com
 global.in.ai.privatelink.monitor.azure.com
@@ -236,6 +246,7 @@ go.microsoft.com
 googleads.g.doubleclick.net
 gslb-2.demdex.net
 gum.criteo.com
+hadsans.com
 hbopenbid.pubmatic.com
 hbx.media.net
 h.df-srv.de
@@ -266,12 +277,14 @@ impression.appsflyer.com
 inapps.appsflyer.com
 incoming.telemetry.mozilla.org
 init.supersonicads.com
+in-page-push.com
 insight.adsrvr.org
 insights-collector.newrelic.com
 insights.samsung.com
 ios.bugly.qq.com
 irqs.ioam.de
 j7q313hy22.kameleoon.eu
+jeehathu.com
 join.livecamsgratis.com
 js.adara.com
 js.adscale.de
@@ -328,6 +341,7 @@ metrics.mzstatic.com
 metrics.n-tv.de
 mon.tiktokv.com
 mon-va.tiktokv.com
+mopsaups.net
 ms.applovin.com
 ms.applvn.com
 munchkin.marketo.net
@@ -335,6 +349,8 @@ neruglathy.com
 newlog.lilithgame.com
 newlog.overwolf.com
 nexusrules.officeapps.live.com
+nicmoomp.net
+nkwintenc.biz
 nmetrics.samsung.com
 notify-bugs-fra1.rtl.de
 notorietycheerypositively.com
@@ -344,6 +360,7 @@ o278969.ingest.sentry.io
 odb.outbrain.com
 ohcohz.stroeerdp.de
 open.oneplus.net
+open.spotify.com
 orbidder.otto.de
 ot.obi.de
 p16-ad-sg.ibyteimg.com
@@ -370,6 +387,7 @@ prebid.a-mo.net
 prebid-server.rubiconproject.com
 preferences.cid.samba.tv
 prg.smartadserver.com
+privatestats.whatsapp.net
 prodlb.siteintercept.qualtrics.com.cdn.cloudflare.net
 prod.nexusrules.live.com.akadns.net
 profiles.tagger.opecloud.com
@@ -395,6 +413,7 @@ rs.mail.ru
 rt.applovin.com
 rt.applvn.com
 rtb.d.adup-tech.com
+r.teads.tv
 rumcdn.geoedge.be
 s10.histats.com
 s1.adform.net
@@ -402,6 +421,7 @@ s240.mxcdn.net
 s2s.yieldlove-ad-serving.net
 s385.mxcdn.net
 s400.mxcdn.net
+s8t.teads.tv
 sa.api.intl.miui.com
 s.adroll.com
 sak.userreport.com
@@ -479,6 +499,7 @@ t.contentsquare.net
 teams.events.data.microsoft.com
 technical-service.net
 telemetry-incoming.r53-2.services.mozilla.com
+tempest.services.disqus.com
 te.technical-service.net
 tk6if76q.ab1n.net
 tlx.3lift.com
@@ -503,6 +524,7 @@ tr.iadsdk.apple.com
 trmads.eu
 tr.snapchat.com
 tsrid.cxense.com
+t.teads.tv
 udm.scorecardresearch.com
 u.heatmap.it
 ui2.awin.com
@@ -522,9 +544,11 @@ vrt.sc.omtrdc.net
 waz.met.vgwort.de
 webanalytics.btelligent.net
 web.hb.ad.cpe.dotomi.com
+web.wurfl.io
 widgets.getsitecontrol.com
 widgets.opinary.com
 widgets.outbrain.com
+wlplatincasino.adsrv.eacdn.com
 w.usabilla.com
 ww2.sqidsply.com
 www.adspredictiv.com
@@ -548,6 +572,7 @@ www.summerhamster.com
 www.tisoomi-adservice.com
 www.tisoomi-services.com
 www.tns-counter.ru
+xml.fastdlr.com
 xray.mail.ru
 yandexadexchange.net
 youtube.cleverads.vn
