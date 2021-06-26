@@ -26,6 +26,7 @@ device-metrics-us.amazon.com
 devicemessaging.us-east-1.amazon.com
 mobileanalytics.us-east-1.amazonaws.com
 notify.firetv.bugsnag.appstore.a2z.com
+prod.amcs-tachyon.com
 
 #
 # Apple
