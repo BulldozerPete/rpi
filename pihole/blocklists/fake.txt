@@ -19,14 +19,14 @@
 # Statistik
 # ---------
 #
-# Whitelist: 57360
-# Deadlist: 398653
-# Blacklist: 1662
+# Whitelist: 57375
+# Deadlist: 421368
+# Blacklist: 1657
 # 1. Source: 4282 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1480 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10292 Domains - V2021.06.25-21:37:50
+# 10258 Domains - V2021.06.26-13:52:38
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -259,7 +259,6 @@ appealady.com
 appenin.de
 appleiphoneunlock.uk
 appletogo.at
-approachmall.top
 approcket.pro
 apps.appshed.com
 appscem.com
@@ -969,7 +968,6 @@ creattrans.at
 creaturepuppetgallery.com
 croozer-fahren.de
 croozer-kids.de
-cryptesco.com
 crystalsoul.de
 csellich-ruso.at
 csg-timeoffice.de
@@ -1025,7 +1023,6 @@ daniadirectlogs.com
 daniel-fuhrerschein.de
 daniel-malorny.de
 dannispastelart.de
-danto-digitalmarkt.com
 daplay.de
 darhinos.com
 darkbodybuilding.net
@@ -1300,7 +1297,6 @@ ekomfort.de
 ekt-wohnhof.de
 elbe-baudienst.de
 eldond.club
-eldorado-store.de
 electrodeal24.de
 electro-deal.fr
 electro-deals.com
@@ -1546,7 +1542,6 @@ faster-shopping.com
 fastgamedownload.com
 fast-hotelbooking.com
 fastmoviedownloads.com
-fast-shoppy.com
 fasttvdownloads.com
 fatburner-1.com
 faugustino.com
@@ -1815,7 +1810,6 @@ gerhard-griessler.at
 gerhard-marquardt.de
 gerhardt-marquardt.de
 germany-wuf.de
-gerritse-online.de
 gesangverein-spittelstein.de
 geschenkzone.at
 gespannfahrer-online.de
@@ -1868,7 +1862,6 @@ gma-2015.de
 gmai.com
 gmasticks.com
 gmbh2go.de
-gmidraulica.de
 gmixnchic.com
 gnazrul.com
 gobrashop.com
@@ -2413,7 +2406,6 @@ juwelier-kiss.de
 juxqog.com
 jxaricde.com
 jxixiya.com
-kabpro-vitrinen.com
 kadonimo.de
 kaeour.com
 kaffee-binder.de
@@ -2909,7 +2901,6 @@ mediasmonster.com
 mediatempel.eu
 mediatools.at
 medibus.at
-medicine-online.org
 mediendeals.de
 medikamente-kaufen-24.net
 medikamente-rezeptfrei.shop
@@ -3133,7 +3124,6 @@ mongi.at
 monokompakt.de
 monostarscope.com
 monplay.de
-monsterstee.com
 montanahudson.com
 montblancpenseshop.co
 montedino.at
@@ -3222,7 +3212,6 @@ myshopwala.com
 mysneakz.com
 my-store.ch
 mystreetwear.ga
-mytech-market.com
 mytierhimmel.de
 myusenet.de
 mywedj.com
@@ -3355,7 +3344,6 @@ noweight.de
 nowflix.de
 now-re.com
 noxgame.de
-npnar.com
 npvfc.top
 nsmlabp.com
 nubn.shop
@@ -4307,7 +4295,6 @@ stellplatz-sachsen.de
 stephan-westerhoff.de
 stepwin.de
 sterilize-x.com
-sternen-boezberg.ch
 sternenschreiter.de
 sternestd.de
 steroide-kaufen.com
@@ -4643,7 +4630,6 @@ tr-assekuranz.de
 traumanau.at
 traumbedeutung.com
 traum-deko.de
-traumhaus-sucht.de
 traumtanzer.com
 travodo.net
 treasureboy.net
@@ -4779,7 +4765,6 @@ unserkleinesgeheimnis.ch
 unserkleinesgeheimnis.de
 unternehmer-2014.de
 untertnke.com
-upcomingmall.top
 upservices.de
 upsolutmv.com
 upup.at
@@ -4955,7 +4940,6 @@ waldnarra-sattaas.at
 waldundfeld.myshopify.com
 wallplay.de
 walter-riegler.at
-walther-electron.de
 waltraudkoch.de
 wanford.com
 warenhaus-becker.de
@@ -5099,7 +5083,6 @@ woodward-media.de
 woogoing.com
 word-ing.de
 worlddenimleague.com
-world-electrocenter.com
 worldfastcourier.site
 worlds-news.biz
 worldwidemoving.co.uk
@@ -5343,7 +5326,6 @@ www.appealady.com
 www.appenin.de
 www.appleiphoneunlock.uk
 www.appletogo.at
-www.approachmall.top
 www.approcket.pro
 www.appscem.com
 www.appstogo.de
@@ -6021,7 +6003,6 @@ www.creattrans.at
 www.creaturepuppetgallery.com
 www.croozer-fahren.de
 www.croozer-kids.de
-www.cryptesco.com
 www.crystalsoul.de
 www.csellich-ruso.at
 www.csg-timeoffice.de
@@ -6075,7 +6056,6 @@ www.daniadirectlogs.com
 www.daniel-fuhrerschein.de
 www.daniel-malorny.de
 www.dannispastelart.de
-www.danto-digitalmarkt.com
 www.daplay.de
 www.darhinos.com
 www.darkbodybuilding.net
@@ -6341,7 +6321,6 @@ www.ekomfort.de
 www.ekt-wohnhof.de
 www.elbe-baudienst.de
 www.eldond.club
-www.eldorado-store.de
 www.electrodeal24.de
 www.electro-deal.fr
 www.electro-deals.com
@@ -6581,7 +6560,6 @@ www.faster-shopping.com
 www.fastgamedownload.com
 www.fast-hotelbooking.com
 www.fastmoviedownloads.com
-www.fast-shoppy.com
 www.fasttvdownloads.com
 www.fatburner-1.com
 www.faugustino.com
@@ -6846,7 +6824,6 @@ www.gerhard-griessler.at
 www.gerhard-marquardt.de
 www.gerhardt-marquardt.de
 www.germany-wuf.de
-www.gerritse-online.de
 www.gesangverein-spittelstein.de
 www.geschenkzone.at
 www.gespannfahrer-online.de
@@ -6899,7 +6876,6 @@ www.gma-2015.de
 www.gmai.com
 www.gmasticks.com
 www.gmbh2go.de
-www.gmidraulica.de
 www.gmixnchic.com
 www.gnazrul.com
 www.gobrashop.com
@@ -7436,7 +7412,6 @@ www.juwelier-kiss.de
 www.juxqog.com
 www.jxaricde.com
 www.jxixiya.com
-www.kabpro-vitrinen.com
 www.kadonimo.de
 www.kaeour.com
 www.kaffee-binder.de
@@ -7924,7 +7899,6 @@ www.mediasmonster.com
 www.mediatempel.eu
 www.mediatools.at
 www.medibus.at
-www.medicine-online.org
 www.mediendeals.de
 www.medikamente-kaufen-24.net
 www.medikamente-rezeptfrei.shop
@@ -8128,7 +8102,6 @@ www.mongi.at
 www.monokompakt.de
 www.monostarscope.com
 www.monplay.de
-www.monsterstee.com
 www.montanahudson.com
 www.montblancpenseshop.co
 www.montedino.at
@@ -8216,7 +8189,6 @@ www.myshopwala.com
 www.mysneakz.com
 www.my-store.ch
 www.mystreetwear.ga
-www.mytech-market.com
 www.mytierhimmel.de
 www.myusenet.de
 www.mywedj.com
@@ -8348,7 +8320,6 @@ www.noweight.de
 www.nowflix.de
 www.now-re.com
 www.noxgame.de
-www.npnar.com
 www.npvfc.top
 www.nsmlabp.com
 www.nubn.shop
@@ -9274,7 +9245,6 @@ www.stellplatz-sachsen.de
 www.stephan-westerhoff.de
 www.stepwin.de
 www.sterilize-x.com
-www.sternen-boezberg.ch
 www.sternenschreiter.de
 www.sternestd.de
 www.steroide-kaufen.com
@@ -9603,7 +9573,6 @@ www.tr-assekuranz.de
 www.traumanau.at
 www.traumbedeutung.com
 www.traum-deko.de
-www.traumhaus-sucht.de
 www.traumtanzer.com
 www.travodo.net
 www.treasureboy.net
@@ -9729,7 +9698,6 @@ www.unserkleinesgeheimnis.ch
 www.unserkleinesgeheimnis.de
 www.unternehmer-2014.de
 www.untertnke.com
-www.upcomingmall.top
 www.upservices.de
 www.upsolutmv.com
 www.upup.at
@@ -9902,7 +9870,6 @@ www.waldemar-kunz.de
 www.waldnarra-sattaas.at
 www.wallplay.de
 www.walter-riegler.at
-www.walther-electron.de
 www.waltraudkoch.de
 www.wanford.com
 www.warenhaus-becker.de
@@ -10036,7 +10003,6 @@ www.woodward-media.de
 www.woogoing.com
 www.word-ing.de
 www.worlddenimleague.com
-www.world-electrocenter.com
 www.worldfastcourier.site
 www.worlds-news.biz
 www.worldwidemoving.sg
