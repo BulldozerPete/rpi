@@ -11,8 +11,6 @@
 9279323.fls.doubleclick.net
 a.adtng.com
 accounts.doubleclick.net
-acdn.adnxs.com
-activisionblizzardin.demdex.net
 ad3.adfarm1.adition.com
 ade.googlesyndication.com
 ad.impactify.io
@@ -68,7 +66,6 @@ a.optmnstr.com
 api2.amplitude.com
 api.feedad.com
 api.instabug.com
-api.mixpanel.com
 api.opmnstr.com
 api.permutive.com
 api.picsart.com
@@ -80,9 +77,7 @@ api.taboola.com
 api.theadex.com
 api.vungle.com
 ap.lijit.com
-app.adjust.com
 app-analytics-v2.snapchat.com
-app-measurement.com
 app.uptain.de
 aps.xplosion.de
 a.pub.network
@@ -98,7 +93,6 @@ axelspringerse.demdex.net
 balanced-engage.deltadna.net
 bam-cell.nr-data.net
 bang-4-buck.com
-bat.bing.com
 bat-bing-com.a-0001.a-msedge.net
 beacon.krxd.net
 bidder.criteo.com
@@ -114,7 +108,6 @@ c2.taboola.com
 c.adsco.re
 ca.iadsdk.apple.com
 capture.trackjs.com
-c.bing.com
 cdn2.teads.tv
 cdn.adtriba.com
 cdn-a.yieldlove.com
@@ -143,7 +136,6 @@ cdn.tsyndicate.com
 cdn.yourwebbars.com
 cdrvrs.com
 celeritascdn.com
-cf.iadsdk.apple.com
 chaturbate.com
 clevernt.com
 click.hooligapps.com
@@ -154,7 +146,6 @@ cm.mgid.com
 cms.analytics.yahoo.com
 collect21794pprsf.deltadna.net
 collector-7405.tvsquared.com
-collector.githubapp.com
 collector-pxikkul2rm.px-cdn.net
 collector-pxikkul2rm.pxchk.net
 collector-pxikkul2rm.px-cloud.net
@@ -198,14 +189,11 @@ data.logentries.com
 data.mistat.rus.xiaomi.com
 data.photorank.me
 dco.smartclip.net
-dc.services.visualstudio.com
 ddacn6pr5v0tl.cloudfront.net
 de-config.sensic.net
 default.exp-tas.com
 de-gmtdmp.mookie1.com
 deploy.mopinion.com
-device-metrics-us-2.amazon.com
-device-metrics-us.amazon.com
 dev.visualwebsiteoptimizer.com
 dialacrum.iad-03.braze.com
 disney.demdex.net
@@ -214,7 +202,6 @@ dmmzkfd82wayn.cloudfront.net
 dmp.theadex.com
 d.nativendo.de
 dnhfi5nn2dt67.cloudfront.net
-dpm.demdex.net
 dumontnet.tt.omtrdc.net
 dyn.emetriq.de
 eb2.3lift.com
@@ -222,7 +209,6 @@ edinburghemotionalalive.com
 e.maxtraffic.com
 engage21794pprsf.deltadna.net
 epnt.ebay.com
-etahub.com
 eu.dspultra.com
 eum.instana.io
 events.cid.samba.tv
@@ -244,7 +230,6 @@ glitter.services.disqus.com
 global.adserver.yahoo.com
 global.in.ai.privatelink.monitor.azure.com
 global.safebrowsing.service.amazonsilk.com
-global.stun.twilio.com
 go.flx1.com
 googleads.g.doubleclick.net
 gslb-2.demdex.net
@@ -258,18 +243,13 @@ helvetia.demdex.net
 hm.baidu.com
 hpd.baidu.com
 htlb.casalemedia.com
-ht.youporn.com
-hubt.pornhub.com
 hubtraffic.com
-iadsdk.apple.com
 ib.3lift.com
-ib.adnxs.com
 ib.anycast.adnxs.com
 ib.sin1.geoadnxs.com
 ic3.events.data.microsoft.com
 ice.360yield.com
 id.cxense.com
-id.google.com
 idm-d.openx.net
 idpt.360yield.com
 id.rlcdn.com
@@ -279,7 +259,6 @@ img.img-taboola.com
 imp.control.kochava.com
 impression.appsflyer.com
 inapps.appsflyer.com
-incoming.telemetry.mozilla.org
 init.supersonicads.com
 in-page-push.com
 insight.adsrvr.org
@@ -327,7 +306,6 @@ marketing.containers.piwik.pro
 marketing.net.home24.de
 match.adsrvr.org
 mc.yandex.com
-mc.yandex.ru
 media.ethicalads.io
 media.trafficjunky.com
 media.trafficjunky.net
@@ -352,7 +330,6 @@ my.rtmark.net
 neruglathy.com
 newlog.lilithgame.com
 newlog.overwolf.com
-nexusrules.officeapps.live.com
 nicmoomp.net
 nkwintenc.biz
 notify-bugs-fra1.rtl.de
@@ -367,7 +344,6 @@ orbidder.otto.de
 ot.obi.de
 p16-ad-sg.ibyteimg.com
 pagead2.googlesyndication.com
-pagead46.l.doubleclick.net
 pdw-usr.userreport.com
 ping.chartbeat.net
 ping.getadblock.com
@@ -395,7 +371,6 @@ prodlb.siteintercept.qualtrics.com.cdn.cloudflare.net
 profile.localytics.com
 profiles.tagger.opecloud.com
 propeller-tracking.com
-pubads.g.doubleclick.net
 pubnative.info
 pub-sdk-cfg.criteo.com
 p.vtracy.de
@@ -406,7 +381,6 @@ quartermedia.de
 radar.cedexis.com
 regulationprivilegescan.top
 relay-client-c01.iocnt.net
-remote-data.urbanairship.com
 rem-track.bild.de
 rereddit.com
 resources.xg4ken.com
@@ -456,7 +430,6 @@ secure-eu.nmrodam.com
 secure.make6pain.com
 securepubads.g.doubleclick.net
 secure.quantserve.com
-sentry.io
 servedby.flashtalking.com
 service.cmp.oath.com
 service.force.com
@@ -475,13 +448,11 @@ sp.analytics.yahoo.com
 sperans-beactor.com
 spl.zeotap.com
 srv.de.ebayrtm.com
-ssl.google-analytics.com
 ssl-t-online.met.vgwort.de
 ss.musthird.com
 stadtbremerhaven.digidip.net
 stan.xing.com
 static.ads-twitter.com
-static.criteo.net
 static-de.plista.com
 static.digidip.net
 static.doubleclick.net
@@ -490,7 +461,6 @@ static.newsletter2go.com
 static.showheroes.com
 static.trafficjunky.com
 static-v2.trbo.com
-stats.appsflyer.com
 stats.datawrapper.de
 stats.g.doubleclick.net
 stats.wp.com
@@ -525,7 +495,6 @@ traffic.emsservice.de
 trck.spoteffects.net
 tr.iadsdk.apple.com
 trmads.eu
-tr.snapchat.com
 tsrid.cxense.com
 tsyndicate.com
 t.teads.tv
@@ -570,7 +539,6 @@ www.cmadserver.de
 www.everestjs.net
 www.fastly-insights.com
 www.fdrptpyxchzjk.com
-www.google-analytics.com
 www.googleoptimize.com
 www.guvivqlbh.com
 www.performancetrustednetwork.com
