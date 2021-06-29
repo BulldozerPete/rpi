@@ -1,7 +1,23 @@
+# ---------------------------------------------
+# Zelo*s "Mini" Blockliste
+# ---------------------------------------------
+#
+# Erstellt zur rein persönlichen, privaten
+# Nutzung.
+#
+# Werbung, Tracking und Co, nur das Nötigste.
+#
+# ---------------------------------------------
+# GitHub: https://github.com/Zelo72
+# Mail:   zelo72@dismail.de
+# ---------------------------------------------
+# Telegram-Gruppe PiHole + Unbound Fans (DACH)
+#                 https://t.me/piholefans_DACH
+# ---------------------------------------------
 
-# Hosts /data/white.list: 101
+# Hosts /data/white.list: 102
 # Hosts /data/dead.list: 422718
-# Hosts: 422819
+# Hosts: 422820
 
 # Whitelist: 0
 # Deadlist: 0
@@ -9,13 +25,14 @@
 # Blacklist: 0
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
-# 2. Source: 8239 - https://adaway.org/hosts.txt
-# 3. Source: 15492 - https://someonewhocares.org/hosts/
-# 4. Source: 81030 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# #. Source: 105762
+# 2. Source: 71193 - https://dbl.oisd.nl/basic/
+# 3. Source: 8239 - https://adaway.org/hosts.txt
+# 4. Source: 15492 - https://someonewhocares.org/hosts/
+# 5. Source: 81030 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# #. Source: 176955
 
 Statistik mini.txt:
-== Source (unique): 81639
--- Hosts:           67179 (-14460)
-++ WWW-Domains:     73773 (+6594)
-++ FLD-Domains:     74770 (+997)
+== Source (unique): 127245
+-- Hosts:           112504 (-14741)
+++ WWW-Domains:     121541 (+9037)
+++ FLD-Domains:     122053 (+512)
