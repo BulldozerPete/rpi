@@ -1,6 +1,7 @@
 
-# Hosts data/white.list: 101
-# Hosts: 101
+# Hosts /data/white.list: 101
+# Hosts /data/dead.list: 422718
+# Hosts: 422819
 
 # Whitelist: 0
 # Deadlist: 0
@@ -15,6 +16,6 @@
 
 Statistik mini.txt:
 == Source (unique): 81639
--- Hosts:           81590 (-49)
-++ WWW-Domains:     90172 (+8582)
-++ FLD-Domains:     91390 (+1218)
+-- Hosts:           67179 (-14460)
+++ WWW-Domains:     73773 (+6594)
+++ FLD-Domains:     74770 (+997)
