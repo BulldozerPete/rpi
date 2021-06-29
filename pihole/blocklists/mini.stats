@@ -25,14 +25,13 @@
 # Blacklist: 0
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
-# 2. Source: 71193 - https://dbl.oisd.nl/basic/
-# 3. Source: 8239 - https://adaway.org/hosts.txt
-# 4. Source: 15492 - https://someonewhocares.org/hosts/
-# 5. Source: 81030 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# #. Source: 176955
+# 2. Source: 8239 - https://adaway.org/hosts.txt
+# 3. Source: 15492 - https://someonewhocares.org/hosts/
+# 4. Source: 81030 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# #. Source: 105762
 
 Statistik mini.txt:
-== Source (unique): 127245
--- Hosts:           112504 (-14741)
-++ WWW-Domains:     121541 (+9037)
-++ FLD-Domains:     122053 (+512)
+== Source (unique): 81639
+-- Hosts:           67178 (-14461)
+++ WWW-Domains:     73772 (+6594)
+++ FLD-Domains:     74769 (+997)
