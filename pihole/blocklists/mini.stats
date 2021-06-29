@@ -1,0 +1,20 @@
+
+# Hosts data/white.list: 101
+# Hosts: 101
+
+# Whitelist: 0
+# Deadlist: 0
+
+# Blacklist: 0
+
+# 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
+# 2. Source: 8239 - https://adaway.org/hosts.txt
+# 3. Source: 15492 - https://someonewhocares.org/hosts/
+# 4. Source: 81030 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# #. Source: 105762
+
+Statistik mini.txt:
+== Source (unique): 81639
+-- Hosts:           81590 (-49)
+++ WWW-Domains:     90172 (+8582)
+++ FLD-Domains:     91390 (+1218)
