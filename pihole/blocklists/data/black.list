@@ -216,11 +216,13 @@
 9lianmeng.com
 a11083715786.cdn-pci.optimizely.com
 a.adtng.com
+a.bf-ad.net
 accounts.doubleclick.net
 a.consensad.com
 a.cotsta.ru
 acq-3pas.admatrix.jp
 ad3.adfarm1.adition.com
+ad.71i.de
 ad.ad-arrow.com
 addstrap-ui.addshoppers.com
 ade.googlesyndication.com
@@ -277,6 +279,7 @@ advertising.amazon.es
 adx.adform.net
 ad.yieldlab.net
 aeeb3-12755.api.pushwoosh.com
+a-fds.youborafds01.com
 affil.alza.cz
 affiliate.alza.cz
 affiliate.nagios.com
@@ -406,6 +409,7 @@ assets.e-contenta.com
 assets.evolutionadv.it
 assets.recobell.io
 assets.slingshot.io
+as.welt.de
 a.teads.tv
 atonato.de
 audacity.de
@@ -473,6 +477,7 @@ cdn.activity.bdash-cloud.com
 cdn.adhouse.pro
 cdn.adnxs-simple.com
 cdn.adnz.co
+cdn.adsafeprotected.com
 cdn.adtarget.com.tr
 cdn.adtriba.com
 cdn.afp.ai
@@ -496,6 +501,7 @@ cdn.exmarketplace.com
 cdn-fr.jivosite.com
 cdn.ftd.agency
 cdn.funnelytics.io
+cdn-gl.nmrodam.com
 cdn.gotchosen.com
 cdn-header-bidding.snack-media.com
 cdn.instapagemetrics.com
@@ -548,6 +554,7 @@ cm.everesttech.net
 cm.mgid.com
 cms.analytics.yahoo.com
 cntuaokhks.kameleoon.eu
+code.etracker.com
 code-ya.jivosite.com
 codicepro.shinystat.it
 collect21794pprsf.deltadna.net
@@ -586,6 +593,9 @@ crm.ws.ctrip.com
 cs.ns1p.net
 csync.smilewanted.com
 customers.kameleoon.com
+cws-iad1.conviva.com
+cws-iad4.conviva.com
+cws-sjc2.conviva.com
 cx.atdmt.com
 cyad.nate.com
 c.zero.kz
@@ -620,6 +630,7 @@ data-6636e03c3f.linux-magazin.de
 data-7294bdf136.focus.de
 data-7462ea72ec.augsburger-allgemeine.de
 data-78961379fe.donaukurier.de
+data-8793ca6c7d.rpr1.de
 data-99329e3cb2.welt.de
 data-a98482617b.holidaycheck.ch
 data-a98482617b.holidaycheck.de
@@ -846,6 +857,7 @@ logs1413.xiti.com
 logservice1.hicloud.com
 logservice.hicloud.com
 logs.which.co.uk
+logx.optimizely.com
 lookers.calltracks.com
 lp.interwetten.de
 lr.zoosnet.net
@@ -885,6 +897,7 @@ missguided-api.exponea.com
 mixern.sina.cn
 mnn.zoosnet.net
 mobgolem-relay.iocnt.net
+mobileanalytics.us-east-1.amazonaws.com
 mobilezone-ch-2019.arc.epoq.de
 mod.calltouch.ru
 mon.tiktokv.com
@@ -899,6 +912,7 @@ myeasetrack.com
 my.rtmark.net
 my-store.ch
 na-tlp02.kameleoon.eu
+nats.xing.com
 ndc.performanceplay.co.kr
 neruglathy.com
 netmetrix-ssl.wemfbox.ch
@@ -915,6 +929,7 @@ nizephoros-pom.com
 njrkf6rvmq.kameleoon.eu
 nkwintenc.biz
 notify-bugs-fra1.rtl.de
+notify.firetv.bugsnag.appstore.a2z.com
 notino-api.exponea.com
 notix.io
 notorietycheerypositively.com
@@ -922,6 +937,7 @@ nsparket.top
 n-tv.met.vgwort.de
 nvidia.tt.omtrdc.net
 o278969.ingest.sentry.io
+o292998.ingest.sentry.io
 occultcreed.com
 odb.outbrain.com
 oe.wwa.wipe.de
@@ -1044,7 +1060,9 @@ rt.applovin.com
 rt.applvn.com
 rtb.d.adup-tech.com
 r.teads.tv
+rtr.innovid.com
 rumcdn.geoedge.be
+rum.optimizely.com
 run.ap-srv.net
 s10.histats.com
 s1.adform.net
@@ -1074,6 +1092,7 @@ sb.voicefive.com
 s.c-ctrip.com
 scdn.cxense.com
 sc.lfeeder.com
+scomcluster.cxense.com
 script.4dex.io
 script.fixel.ai
 scripts.webcontentassessor.com
@@ -1089,6 +1108,7 @@ sdk.iad-01.braze.com
 seal.beyondsecurity.com
 search.spotxchange.com
 secure.adnxs.com
+secure-adnxs.edgekey.net
 secure-eu.nmrodam.com
 secure.make6pain.com
 securepubads.g.doubleclick.net
@@ -1139,6 +1159,8 @@ startface.net
 startfenster.de
 static.addtoany.com
 static.ads-twitter.com
+static.am5.vip.prod.criteo.net
+static-cdn.hotjar.com
 static-de.plista.com
 static.digidip.net
 static.doubleclick.net
@@ -1148,6 +1170,7 @@ static.getback.ch
 static.myopenads.com
 static.newsletter2go.com
 static.olark.com
+static.par.vip.prod.criteo.net
 static.puffnetwork.com
 static.quant.jp
 static.showheroes.com
@@ -1332,6 +1355,7 @@ www.everestjs.net
 www.fastly-insights.com
 www.fdrptpyxchzjk.com
 www.gobck.com
+www-google-analytics.l.google.com
 www.googleoptimize.com
 www.guvivqlbh.com
 www.jbrpciuloi.com

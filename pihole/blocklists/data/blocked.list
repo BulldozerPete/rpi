@@ -11,8 +11,10 @@
 9240859.fls.doubleclick.net
 9279323.fls.doubleclick.net
 a.adtng.com
+a.bf-ad.net
 accounts.doubleclick.net
 ad3.adfarm1.adition.com
+ad.71i.de
 ade.googlesyndication.com
 ad.impactify.io
 ad-ipd.sxp.smartclip.net
@@ -42,6 +44,7 @@ ads.youtube.com
 adx.adform.net
 ad.yieldlab.net
 aeeb3-12755.api.pushwoosh.com
+a-fds.youborafds01.com
 af.opera.com
 af.stroeerdp.de
 a.hstrck.com
@@ -85,6 +88,7 @@ a.pub.network
 as.autobild.de
 as.bild.de
 as-sec.casalemedia.com
+as.welt.de
 a.teads.tv
 atonato.de
 audacity.de
@@ -111,6 +115,7 @@ c.adsco.re
 ca.iadsdk.apple.com
 capture.trackjs.com
 cdn2.teads.tv
+cdn.adsafeprotected.com
 cdn.adtriba.com
 cdn.amplitude.com
 cdn-a.yieldlove.com
@@ -122,6 +127,7 @@ cdn.contalyze.com
 cdn-eu.dynamicyield.com
 cdn.exactag.com
 cdn.funnelytics.io
+cdn-gl.nmrodam.com
 cdn.instapagemetrics.com
 cdn.matomo.cloud
 cdn.mookie1.com
@@ -150,6 +156,7 @@ click.oneplus.com
 cm.everesttech.net
 cm.mgid.com
 cms.analytics.yahoo.com
+code.etracker.com
 collect21794pprsf.deltadna.net
 collector-7405.tvsquared.com
 collector-pxikkul2rm.px-cdn.net
@@ -172,6 +179,9 @@ crashlyticsreports-pa.googleapis.com
 creativecdn.com
 cs.ns1p.net
 customers.kameleoon.com
+cws-iad1.conviva.com
+cws-iad4.conviva.com
+cws-sjc2.conviva.com
 cx.atdmt.com
 d1ac2du043ydir.cloudfront.net
 d1esebcdm6wx7j.cloudfront.net
@@ -187,8 +197,10 @@ d.applvn.com
 data-0c1a280f84.golem.de
 data-574debde52.bunte.de
 data-6636e03c3f.linux-magazin.de
+data-8793ca6c7d.rpr1.de
 data-bb21a2f11b.bild.de
 data-c53e1346fa.mein-mmo.de
+data-e4997adf31.welt.de
 datalayer.p7s1.io
 data.logentries.com
 data.mistat.rus.xiaomi.com
@@ -298,6 +310,7 @@ logs1407.xiti.com
 logs1413.xiti.com
 logservice1.hicloud.com
 logservice.hicloud.com
+logx.optimizely.com
 lp.interwetten.de
 ls.hit.gemius.pl
 luckyforbet.com
@@ -323,6 +336,7 @@ metrics5.data.hicloud.com
 metrics.data.hicloud.com
 metrics-dra.dt.hicloud.com
 metrics.n-tv.de
+mobileanalytics.us-east-1.amazonaws.com
 mon.tiktokv.com
 mon-va.tiktokv.com
 mopsaups.net
@@ -330,17 +344,20 @@ ms.applovin.com
 ms.applvn.com
 munchkin.marketo.net
 my.rtmark.net
+nats.xing.com
 neruglathy.com
 newlog.lilithgame.com
 newlog.overwolf.com
 nicmoomp.net
 nkwintenc.biz
 notify-bugs-fra1.rtl.de
+notify.firetv.bugsnag.appstore.a2z.com
 notorietycheerypositively.com
 nsparket.top
 n-tv.met.vgwort.de
 nvidia.tt.omtrdc.net
 o278969.ingest.sentry.io
+o292998.ingest.sentry.io
 odb.outbrain.com
 ohcohz.stroeerdp.de
 orbidder.otto.de
@@ -397,7 +414,9 @@ rt.applovin.com
 rt.applvn.com
 rtb.d.adup-tech.com
 r.teads.tv
+rtr.innovid.com
 rumcdn.geoedge.be
+rum.optimizely.com
 s10.histats.com
 s1.adform.net
 s240.mxcdn.net
@@ -418,6 +437,7 @@ sats.spiegel.de
 sb.voicefive.com
 scdn.cxense.com
 sc.lfeeder.com
+scomcluster.cxense.com
 script.4dex.io
 scripts.webcontentassessor.com
 s.d.adup-tech.com
@@ -428,6 +448,7 @@ sdk.fra-01.braze.eu
 sdk.iad-01.braze.com
 search.spotxchange.com
 secure.adnxs.com
+secure-adnxs.edgekey.net
 secure-eu.nmrodam.com
 secure.make6pain.com
 securepubads.g.doubleclick.net
@@ -459,11 +480,14 @@ stadtbremerhaven.digidip.net
 stan.xing.com
 static.addtoany.com
 static.ads-twitter.com
+static.am5.vip.prod.criteo.net
+static-cdn.hotjar.com
 static-de.plista.com
 static.digidip.net
 static.doubleclick.net
 static.emsservice.de
 static.newsletter2go.com
+static.par.vip.prod.criteo.net
 static.showheroes.com
 static.trafficjunky.com
 static-v2.trbo.com
@@ -546,6 +570,7 @@ www.cmadserver.de
 www.everestjs.net
 www.fastly-insights.com
 www.fdrptpyxchzjk.com
+www-google-analytics.l.google.com
 www.googleoptimize.com
 www.guvivqlbh.com
 www.performancetrustednetwork.com
