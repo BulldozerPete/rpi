@@ -16,8 +16,8 @@
 # ---------------------------------------------
 
 # Exclude /data/white.list: 102
-# Exclude /data/dead.list: 422718
-# Exclude: 422820
+# Exclude /data/dead.list: 422912
+# Exclude: 423014
 
 # Whitelist: 0
 # Deadlist: 0
@@ -33,6 +33,6 @@
 
 Statistik mini.txt:
 == Source (unique): 123839
--- Exclude:         107602 (-16237)
-++ WWW-Domains:     112550 (+4948)
-++ FLD-Domains:     113297 (+747)
+-- Exclude:         107460 (-16379)
+++ WWW-Domains:     112405 (+4945)
+++ FLD-Domains:     113152 (+747)
