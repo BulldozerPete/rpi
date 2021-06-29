@@ -19,14 +19,15 @@
 # Statistik
 # ---------
 #
-# Whitelist: 57363
-# Deadlist: 420448
-# Blacklist: 1657
+# Exclude: 0
+# Whitelist: 57426
+# Deadlist: 422718
+# Blacklist: 1669
 # 1. Source: 4282 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1480 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10258 Domains - V2021.06.27-19:38:20
+# 10270 Domains - V2021.06.29-14:07:31
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -1767,6 +1768,7 @@ gartencenter-horstmann.de
 garten-events.de
 garten-genial.de
 garten-hannes.de
+garten-karl.de
 garten-maestro.de
 garten-paule.de
 gartenwelt-lammerting.de
@@ -1870,6 +1872,7 @@ gocabsgoy.com
 godcontroller.de
 godwinkaluco.com
 gogplay.de
+gold-barren-muenzen.de
 goldbarren-munzen.kaufen.de
 goldchef.de
 goldene-erde.at
@@ -1882,6 +1885,7 @@ goldenwaters.de
 goldhandel-beratung-kauf.de
 goldhandel-clever-kaufen.de
 goldhandel-depot.de
+goldhandel-heute.de
 goldhandel-imperium.de
 goldhandel-markt.de
 goldhandel-preissieger.de
@@ -2095,6 +2099,7 @@ heosda.com
 hermann-schuetz.at
 hermann-sinn-band.de
 herrngarten.de
+herzensnotiz.de
 herzpraxis-benzer.at
 herzsache-hochzeitsplanungen.de
 hessen-wichtel.de
@@ -2900,6 +2905,7 @@ medias-markets.com
 mediasmonster.com
 mediatempel.eu
 mediatools.at
+media-voigt.de
 medibus.at
 mediendeals.de
 medikamente-kaufen-24.net
@@ -3822,6 +3828,7 @@ rbhgr.com
 rbkat.net
 rbtef.com
 rbuad.com
+rcesetc.com
 rcxtremehobbies.com
 rd-gewusstwie.at
 rdk-elektrohandel.de
@@ -6784,6 +6791,7 @@ www.gartencenter-horstmann.de
 www.garten-events.de
 www.garten-genial.de
 www.garten-hannes.de
+www.garten-karl.de
 www.garten-maestro.de
 www.garten-paule.de
 www.gartenwelt-lammerting.de
@@ -6884,6 +6892,7 @@ www.gocabsgoy.com
 www.godcontroller.de
 www.godwinkaluco.com
 www.gogplay.de
+www.gold-barren-muenzen.de
 www.goldchef.de
 www.goldene-erde.at
 www.goldengate-goldkaufen.de
@@ -6895,6 +6904,7 @@ www.goldenwaters.de
 www.goldhandel-beratung-kauf.de
 www.goldhandel-clever-kaufen.de
 www.goldhandel-depot.de
+www.goldhandel-heute.de
 www.goldhandel-imperium.de
 www.goldhandel-markt.de
 www.goldhandel-preissieger.de
@@ -7105,6 +7115,7 @@ www.heosda.com
 www.hermann-schuetz.at
 www.hermann-sinn-band.de
 www.herrngarten.de
+www.herzensnotiz.de
 www.herzpraxis-benzer.at
 www.herzsache-hochzeitsplanungen.de
 www.hessen-wichtel.de
@@ -7898,6 +7909,7 @@ www.medias-markets.com
 www.mediasmonster.com
 www.mediatempel.eu
 www.mediatools.at
+www.media-voigt.de
 www.medibus.at
 www.mediendeals.de
 www.medikamente-kaufen-24.net
@@ -8779,6 +8791,7 @@ www.rbhgr.com
 www.rbkat.net
 www.rbtef.com
 www.rbuad.com
+www.rcesetc.com
 www.rcxtremehobbies.com
 www.rd-gewusstwie.at
 www.rdk-elektrohandel.de
