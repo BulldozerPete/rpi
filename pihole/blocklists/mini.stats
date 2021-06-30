@@ -25,14 +25,14 @@
 # Blacklist: 0
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
-# 2. Source: 50979 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
+# 2. Source: 50980 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 3. Source: 8239 - https://adaway.org/hosts.txt
 # 4. Source: 15492 - https://someonewhocares.org/hosts/
 # 5. Source: 81030 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# #. Source: 156741
+# #. Source: 156742
 
 Statistik mini.txt:
-== Source (unique): 123839
--- Exclude:         107460 (-16379)
-++ WWW-Domains:     112405 (+4945)
-++ FLD-Domains:     113152 (+747)
+== Source (unique): 123840
+-- Exclude:         107461 (-16379)
+++ WWW-Domains:     112406 (+4945)
+++ FLD-Domains:     113153 (+747)

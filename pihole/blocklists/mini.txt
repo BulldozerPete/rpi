@@ -24,13 +24,13 @@
 # Deadlist: 0
 # Blacklist: 0
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
-# 2. Source: 50979 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
+# 2. Source: 50980 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 3. Source: 8239 - https://adaway.org/hosts.txt
 # 4. Source: 15492 - https://someonewhocares.org/hosts/
 # 5. Source: 81030 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 #
 # ---------------------------------------------
-# 113152 Domains - V2021.06.29-14:47:36
+# 113153 Domains - V2021.06.30-03:37:56
 # ---------------------------------------------
 #
 0.0.0.0.beeglivesex.com
@@ -15559,6 +15559,7 @@ camcrush.com
 cam.demdex.net
 camdough.com
 camduty.com
+camel.headfarming.com
 cameraprive.com
 camgeil.com
 camiliana.pl
