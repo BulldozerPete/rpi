@@ -20,7 +20,7 @@
 # ---------
 #
 # Exclude: 10464
-# Whitelist: 38812
+# Whitelist: 38813
 # Deadlist: 422707
 # Blacklist: 860
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
@@ -30,7 +30,7 @@
 # 5. Source: 81030 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 #
 # ---------------------------------------------
-# 113151 Domains - V2021.06.30-08:49:18
+# 113151 Domains - V2021.06.30-11:21:28
 # ---------------------------------------------
 #
 0.0.0.0.beeglivesex.com
