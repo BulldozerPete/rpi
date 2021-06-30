@@ -20,14 +20,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 57427
-# Deadlist: 422912
+# Whitelist: 38812
+# Deadlist: 422707
 # Blacklist: 1669
 # 1. Source: 4383 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1480 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10462 Domains - V2021.06.30-03:32:23
+# 10464 Domains - V2021.06.30-08:09:28
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -2750,6 +2750,7 @@ lifeworks-munich.de
 liftr.eu
 lighteu.de
 lightflix.de
+lightinthebox.com
 likelymore.com
 likelymorely.com
 lilabogen.de
@@ -7844,6 +7845,7 @@ www.lifeworks-munich.de
 www.liftr.eu
 www.lighteu.de
 www.lightflix.de
+www.lightinthebox.com
 www.likelymore.com
 www.likelymorely.com
 www.lilabogen.de

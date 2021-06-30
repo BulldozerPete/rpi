@@ -15,9 +15,9 @@
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
 
-# Exclude /data/white.list: 102
-# Exclude /data/dead.list: 422912
-# Exclude: 423014
+# Exclude /data/exclude.list: 38812
+# Exclude /data/dead.list: 422707
+# Exclude: 461503
 
 # Whitelist: 0
 # Deadlist: 0
@@ -25,14 +25,14 @@
 # Blacklist: 0
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
-# 2. Source: 50980 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
+# 2. Source: 51090 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 3. Source: 8239 - https://adaway.org/hosts.txt
 # 4. Source: 15492 - https://someonewhocares.org/hosts/
 # 5. Source: 81030 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# #. Source: 156742
+# #. Source: 156852
 
 Statistik mini.txt:
-== Source (unique): 123840
--- Exclude:         107461 (-16379)
-++ WWW-Domains:     112406 (+4945)
-++ FLD-Domains:     113153 (+747)
+== Source (unique): 123950
+-- Exclude:         106598 (-17352)
+++ WWW-Domains:     111508 (+4910)
+++ FLD-Domains:     112251 (+743)
