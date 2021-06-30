@@ -25,7 +25,7 @@
 # Telegram-Gruppe PiHole + Unbound Fans (DACH)
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
-# 68245 Domains - 2021.06.29-14:23:02
+# 68254 Domains - 2021.06.30-03:30:19
 # ---------------------------------------------
 #
 0024aaaa.com
@@ -4520,7 +4520,6 @@ analytics.scalemonk.com
 analytics.schoolwires.com
 analytics-script.ad-shield.io
 analytics-scripts.cablelabs.com
-analytics-sdk.yle.fi
 analytics-server.gimbal.com
 analytics.services.distractify.com
 analytics.servogram.io
@@ -5113,6 +5112,7 @@ arkalealb.site
 arkayne.com
 arketdiamon.space
 arkinhechershedt.info
+arkn81.com
 arlime.com
 arlottencert.club
 armaimapt.club
@@ -7642,6 +7642,7 @@ caithamo.net
 caiwanhui.top
 cajkov.ru
 cakjoytm.com
+calameo-beacon.global.ssl.fastly.net
 calamityfortuneaudio.com
 calculated.cn
 calculatingcircle.com
@@ -8793,6 +8794,7 @@ clubpenguinclub.com
 cluethydash.com
 cluffsilas.com
 cluodlfare.com
+cluster.awmdelivery.com
 clusterhurriedly.com
 clustrmaps.com
 clvk.viki.io
@@ -23829,7 +23831,6 @@ onetag.io
 onetag-sys.com
 onetouch4.com
 onetouch6.com
-one.toumppk.cn
 oneund.com
 oneund.ru
 onewastansepa.pro
@@ -27172,6 +27173,7 @@ recusticks.co
 recwy.com
 recyclesubsidedplight.com
 recyclingmaim.com
+red12flyw2.site
 red1r.com
 red88.com
 redads.biz
@@ -28216,6 +28218,7 @@ ryushare.com
 rywoments.info
 ryynoljdarrw.com
 rz261.cn
+r.z2.fm
 rzajohyjxff.com
 rzekbhnk.top
 rzhujam.com
@@ -32586,6 +32589,7 @@ toujing7.top
 toujing8.top
 toujing9.top
 toukeedo.com
+toumppk.cn
 touphipt.com
 toutiao.social
 toutiao.xn--fiqs8s
@@ -39974,6 +39978,7 @@ www.arkalealb.site
 www.arkayne.com
 www.arketdiamon.space
 www.arkinhechershedt.info
+www.arkn81.com
 www.arlime.com
 www.arlottencert.club
 www.armaimapt.club
@@ -58146,6 +58151,7 @@ www.recusticks.co
 www.recwy.com
 www.recyclesubsidedplight.com
 www.recyclingmaim.com
+www.red12flyw2.site
 www.red1r.com
 www.red88.com
 www.redads.biz
@@ -62395,6 +62401,7 @@ www.toujing7.top
 www.toujing8.top
 www.toujing9.top
 www.toukeedo.com
+www.toumppk.cn
 www.touphipt.com
 www.toutiao.social
 www.toutiao.xn--fiqs8s
@@ -65928,6 +65935,7 @@ www.yomedia.vn
 www.yomeno.xyz
 www.yonderplanner.com
 www.yongkang6.com
+www.yongshengtongda.com
 www.yoobest.cn
 www.yoochoose.net
 www.yoomanies.com
@@ -67508,6 +67516,7 @@ yomeno.xyz
 yonderplanner.com
 yong.chazidian.com
 yongkang6.com
+yongshengtongda.com
 yoobest.cn
 yoochoose.net
 yoomanies.com
