@@ -21,13 +21,13 @@
 #
 # Exclude: 0
 # Whitelist: 38822
-# Deadlist: 424018
-# Blacklist: 1641
+# Deadlist: 434962
+# Blacklist: 1675
 # 1. Source: 4383 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1482 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10346 Domains - V2021.07.01-09:34:38
+# 10414 Domains - V2021.07.01-11:28:06
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -131,6 +131,7 @@ agrece.com
 agru-paradis.com
 agsm.ch
 ah-niederfahrenhorst.de
+aicowatanabe.com
 aiksklep.pl
 airbow.at
 aircargo-logistics.com
@@ -436,6 +437,7 @@ beatsystem.at
 beauteousu.com
 beautinshe.com
 beauty365.ch
+beautyonmee.com
 bebarshoph.com
 becauseg.com
 bedbreakfastbruges.be
@@ -456,6 +458,7 @@ bellesasa.com
 belletaka.com
 belstaffofficial.com
 bemoplay.de
+benefamic.com
 bene-taichi.at
 beratungs-werkstatt-dortmund.de
 bercasa.de
@@ -483,6 +486,8 @@ bestbtcoffers.com
 bestbuymovie.de
 bestbuyselectro.com
 bestchooes.com
+bestdiscountsforyou.com
+bestdocumentstorage.com
 besteangebote24.de
 besteapotheke.com
 besteholzer.de
@@ -491,12 +496,14 @@ bestepreis.com
 besteuhren.io
 beste.wakesurf.at
 bestgifts.co.in
+besthomecleantools.com
 bestjackets.co.uk
 bestmobiledownloads.com
 bestnikekickssale.uk.com
 bestpreis-market.com
 bestpuppiesavailable.com
 bestrin.club
+bestsellon.com
 best-service.info
 bestshopping-voucher.com
 bestsindy.com
@@ -586,6 +593,7 @@ blauerhein.de
 blauermond.com
 blitzangebote24.de
 blitzschuhe.de
+bloomcroop.com
 bloomsocks.ca
 bl-shop.at
 bluecrate.de
@@ -781,6 +789,7 @@ casual-lust.com
 casuals.at
 casuals.ch
 catalia.de
+catwebh.com
 cb-photo.at
 cbremer.de
 ccdc2012.de
@@ -944,6 +953,7 @@ coodan.direct
 coodan.net
 coodan.online
 coodan.store
+cooksomeone.com
 coolrevo.com
 coolsmoke.at
 coolsnow.at
@@ -1051,6 +1061,7 @@ datingdeluxe.at
 datingdeluxe.ch
 datingdeluxe.de
 davishop.de
+daysupup.com
 daytee.de
 dazsistmeins.at
 dbazaarcheh.com
@@ -1067,6 +1078,7 @@ dealshopper.de
 dealviral.de
 decleaners.de
 dectty.com
+deevview.com
 de.fordeals24.com
 de-imex.de
 deinbaumarkt24.eu
@@ -2081,6 +2093,7 @@ headingwreck.store
 healing-rock.de
 healthbenefitsf.com
 healthfirst.at
+healthnomc.com
 health-socks.de
 healthyfit.at
 hebamme-sophie.de
@@ -2164,6 +2177,7 @@ holzbau-hunger.de
 holzpflegewachs.com
 holzti.com
 home-eilig.de
+homefuno.com
 homeinlay.com
 homepants.myshopify.com
 homepetd.com
@@ -2194,6 +2208,7 @@ hotliky.com
 hotmp3download.com
 hotpremiumdate.de
 hounony.com
+housepiging.com
 housetdi.com
 houssyn-store.com
 hoverboard-time.com
@@ -2269,6 +2284,7 @@ ilamparas.de
 illico.at
 illlucky.com
 ilybay.com
+imagesinteractivesome.com
 imaxdome.com
 imaxtime.com
 imeidoctor.com
@@ -2290,6 +2306,7 @@ imzauberstuebchen.de
 inayamseim.com
 individuell-geschneidert.de
 indonesiahotel24.com
+industrlc.com
 ines-westphal.de
 inetchip.de
 inetzteil.de
@@ -2507,8 +2524,10 @@ kfz-tiptop.at
 kg-treppchen.de
 kiatajhizd.com
 kickoutracism.de
+kickvee.com
 kiddiesstarkmachen.de
 kidimo.at
+kidsfunnyplace.com
 kids-transporter.de
 kieler-sternstunde.de
 kiesersportonline.com
@@ -3030,6 +3049,7 @@ michael-kors-taschen.com.de
 michaelkorsuk.com.co
 michaelzaehringer.de
 michlgoesvegan.de
+micotic.com
 midatlanticstore.com
 mietwagenvermietungweltweit.de
 mig-bergmannsfeld.de
@@ -3216,6 +3236,7 @@ myawward.com
 mycaboconcierge.com
 myclothes.shop
 mydealfinder.de
+mydigitfriend.com
 my-downloads.de
 myfaktory.com
 myheartboom.com
@@ -3335,6 +3356,7 @@ nirosun.at
 njeedecor.com
 nke.de
 nls-logistics.com
+nobabyshoulddo.com
 nodeplay.de
 noderecords.de
 nofatsurvey.com
@@ -3465,6 +3487,7 @@ osamigos.de
 osteland-z24.de
 ostrava.nl
 ouibayshop.fr
+outdoormus.com
 outdoorshopx.com
 outletbotastimberland.com
 outlet.com
@@ -3486,6 +3509,7 @@ pacificexpressservice.com
 packagekun.com
 pakabd.com
 paketmann.de
+palarbar.com
 pal-ed.com
 palmangelshop.com
 palmangelsshop.co
@@ -3815,6 +3839,7 @@ quantomator.de
 quaranti.de
 queeneva.com
 quick-ebuyer.com
+quickiller.com
 quintona.itriss.com
 quizkandidat.com
 qv-salzburg.at
@@ -4010,6 +4035,7 @@ samsfoon.eu
 sanception.de
 sanco-wt.at
 sandabody.com
+sanderdsun.com
 sanfter-kaffe.de
 sanfter-riese.at
 sansapoten.com
@@ -4143,6 +4169,7 @@ shhtnan.com
 shiatsu-shendao.at
 shinedolphin.com
 shinefitu.com
+shinemers.com
 shinnego.com
 shinypocket.com
 shoescheapest.com
@@ -4394,6 +4421,7 @@ sugex.de
 suli-bau.at
 summerbuyhot.com
 suna-design.de
+sunafterrainstorm.com
 sunbeatz.de
 sundr.at
 sun-market.eu
@@ -4536,6 +4564,7 @@ thecasualroom.ch
 thecasualroom.de
 thecathoodie.de
 thecrypto-genius.net
+thedesktopoffice.com
 thefunnysouls.com
 thegmbh.de
 thegooddeal.ch
@@ -4596,6 +4625,7 @@ timyllc.com
 tinalook.com
 tingnybaby.com
 tinnitus-losung.com
+tinvivid.com
 tinypawszuhause.de
 tipchico.com
 tirolerhuetten.at
@@ -4692,6 +4722,8 @@ trikotsale.de
 trimzy.de
 trinitop.com
 trivona.de
+trolert.com
+truckskill.com
 truefind-shop.com
 trusted-gold-shops.de
 trusted-goldshops-handel.de
@@ -4903,6 +4935,7 @@ villena.de
 vincenzosantoriello.it
 vintagemoncler.top
 vinusnow.com
+violeauty.com
 violetluck.com
 violta.de
 violta.net
@@ -5047,6 +5080,7 @@ whats-date.org
 whatsdating.org
 whatsexy.de
 whatstore.de
+wherehowyoufrom.com
 wherelinen.com
 where-to-surf.co.uk
 whfguxz.top
@@ -5235,6 +5269,7 @@ www.agrece.com
 www.agru-paradis.com
 www.agsm.ch
 www.ah-niederfahrenhorst.de
+www.aicowatanabe.com
 www.aiksklep.pl
 www.airbow.at
 www.aircargo-logistics.com
@@ -5534,6 +5569,7 @@ www.beatsystem.at
 www.beauteousu.com
 www.beautinshe.com
 www.beauty365.ch
+www.beautyonmee.com
 www.bebarshoph.com
 www.becauseg.com
 www.bedbreakfastbruges.be
@@ -5554,6 +5590,7 @@ www.bellesasa.com
 www.belletaka.com
 www.belstaffofficial.com
 www.bemoplay.de
+www.benefamic.com
 www.bene-taichi.at
 www.beratungs-werkstatt-dortmund.de
 www.bercasa.de
@@ -5581,16 +5618,20 @@ www.bestbtcoffers.com
 www.bestbuymovie.de
 www.bestbuyselectro.com
 www.bestchooes.com
+www.bestdiscountsforyou.com
+www.bestdocumentstorage.com
 www.besteangebote24.de
 www.besteapotheke.com
 www.besteholzer.de
 www.bestelektronicshop.de
 www.bestepreis.com
 www.besteuhren.io
+www.besthomecleantools.com
 www.bestmobiledownloads.com
 www.bestpreis-market.com
 www.bestpuppiesavailable.com
 www.bestrin.club
+www.bestsellon.com
 www.best-service.info
 www.bestshopping-voucher.com
 www.bestsindy.com
@@ -5678,6 +5719,7 @@ www.blauerhein.de
 www.blauermond.com
 www.blitzangebote24.de
 www.blitzschuhe.de
+www.bloomcroop.com
 www.bloomsocks.ca
 www.bl-shop.at
 www.bluecrate.de
@@ -5867,6 +5909,7 @@ www.casual-lust.com
 www.casuals.at
 www.casuals.ch
 www.catalia.de
+www.catwebh.com
 www.cb-photo.at
 www.cbremer.de
 www.ccdc2012.de
@@ -6017,6 +6060,7 @@ www.coodan.direct
 www.coodan.net
 www.coodan.online
 www.coodan.store
+www.cooksomeone.com
 www.coolrevo.com
 www.coolsmoke.at
 www.coolsnow.at
@@ -6120,6 +6164,7 @@ www.datingdeluxe.at
 www.datingdeluxe.ch
 www.datingdeluxe.de
 www.davishop.de
+www.daysupup.com
 www.daytee.de
 www.dazsistmeins.at
 www.dbazaarcheh.com
@@ -6136,6 +6181,7 @@ www.dealshopper.de
 www.dealviral.de
 www.decleaners.de
 www.dectty.com
+www.deevview.com
 www.de-imex.de
 www.deinbaumarkt24.eu
 www.deinbikeprofi.de
@@ -7127,6 +7173,7 @@ www.headingwreck.store
 www.healing-rock.de
 www.healthbenefitsf.com
 www.healthfirst.at
+www.healthnomc.com
 www.health-socks.de
 www.healthyfit.at
 www.hebamme-sophie.de
@@ -7210,6 +7257,7 @@ www.holzbau-hunger.de
 www.holzpflegewachs.com
 www.holzti.com
 www.home-eilig.de
+www.homefuno.com
 www.homeinlay.com
 www.homepetd.com
 www.homes-alpha.com
@@ -7238,6 +7286,7 @@ www.hotliky.com
 www.hotmp3download.com
 www.hotpremiumdate.de
 www.hounony.com
+www.housepiging.com
 www.housetdi.com
 www.houssyn-store.com
 www.hoverboard-time.com
@@ -7312,6 +7361,7 @@ www.ilamparas.de
 www.illico.at
 www.illlucky.com
 www.ilybay.com
+www.imagesinteractivesome.com
 www.imaxdome.com
 www.imaxtime.com
 www.imeidoctor.com
@@ -7333,6 +7383,7 @@ www.imzauberstuebchen.de
 www.inayamseim.com
 www.individuell-geschneidert.de
 www.indonesiahotel24.com
+www.industrlc.com
 www.ines-westphal.de
 www.inetchip.de
 www.inetzteil.de
@@ -7548,8 +7599,10 @@ www.kfz-tiptop.at
 www.kg-treppchen.de
 www.kiatajhizd.com
 www.kickoutracism.de
+www.kickvee.com
 www.kiddiesstarkmachen.de
 www.kidimo.at
+www.kidsfunnyplace.com
 www.kids-transporter.de
 www.kieler-sternstunde.de
 www.kiesersportonline.com
@@ -8049,6 +8102,7 @@ www.michaelkors-onlineshop.de
 www.michaelkorsoutletforsale.com
 www.michaelzaehringer.de
 www.michlgoesvegan.de
+www.micotic.com
 www.midatlanticstore.com
 www.mietwagenvermietungweltweit.de
 www.mig-bergmannsfeld.de
@@ -8229,6 +8283,7 @@ www.myawward.com
 www.mycaboconcierge.com
 www.myclothes.shop
 www.mydealfinder.de
+www.mydigitfriend.com
 www.my-downloads.de
 www.myfaktory.com
 www.myheartboom.com
@@ -8347,6 +8402,7 @@ www.nirosun.at
 www.njeedecor.com
 www.nke.de
 www.nls-logistics.com
+www.nobabyshoulddo.com
 www.nodeplay.de
 www.noderecords.de
 www.nofatsurvey.com
@@ -8473,6 +8529,7 @@ www.osamigos.de
 www.osteland-z24.de
 www.ostrava.nl
 www.ouibayshop.fr
+www.outdoormus.com
 www.outdoorshopx.com
 www.outletbotastimberland.com
 www.outlet.com
@@ -8488,6 +8545,7 @@ www.pacificexpressservice.com
 www.packagekun.com
 www.pakabd.com
 www.paketmann.de
+www.palarbar.com
 www.pal-ed.com
 www.palmangelshop.com
 www.palmangelsshop.co
@@ -8809,6 +8867,7 @@ www.quantomator.de
 www.quaranti.de
 www.queeneva.com
 www.quick-ebuyer.com
+www.quickiller.com
 www.quizkandidat.com
 www.qv-salzburg.at
 www.qxrorat.top
@@ -9002,6 +9061,7 @@ www.samsfoon.eu
 www.sanception.de
 www.sanco-wt.at
 www.sandabody.com
+www.sanderdsun.com
 www.sanfter-kaffe.de
 www.sanfter-riese.at
 www.sansapoten.com
@@ -9134,6 +9194,7 @@ www.shhtnan.com
 www.shiatsu-shendao.at
 www.shinedolphin.com
 www.shinefitu.com
+www.shinemers.com
 www.shinnego.com
 www.shinypocket.com
 www.shoescheapest.com
@@ -9378,6 +9439,7 @@ www.sugex.de
 www.suli-bau.at
 www.summerbuyhot.com
 www.suna-design.de
+www.sunafterrainstorm.com
 www.sunbeatz.de
 www.sundr.at
 www.sun-market.eu
@@ -9518,6 +9580,7 @@ www.thecasualroom.ch
 www.thecasualroom.de
 www.thecathoodie.de
 www.thecrypto-genius.net
+www.thedesktopoffice.com
 www.thefunnysouls.com
 www.thegmbh.de
 www.thegooddeal.ch
@@ -9576,6 +9639,7 @@ www.timyllc.com
 www.tinalook.com
 www.tingnybaby.com
 www.tinnitus-losung.com
+www.tinvivid.com
 www.tinypawszuhause.de
 www.tipchico.com
 www.tirolerhuetten.at
@@ -9671,6 +9735,8 @@ www.trikotsale.de
 www.trimzy.de
 www.trinitop.com
 www.trivona.de
+www.trolert.com
+www.truckskill.com
 www.truefind-shop.com
 www.trusted-gold-shops.de
 www.trusted-goldshops-handel.de
@@ -9870,6 +9936,7 @@ www.villena.de
 www.vincenzosantoriello.it
 www.vintagemoncler.top
 www.vinusnow.com
+www.violeauty.com
 www.violetluck.com
 www.violta.de
 www.violta.net
@@ -10010,6 +10077,7 @@ www.whats-date.org
 www.whatsdating.org
 www.whatsexy.de
 www.whatstore.de
+www.wherehowyoufrom.com
 www.wherelinen.com
 www.whfguxz.top
 www.wh-handelshaus.com
