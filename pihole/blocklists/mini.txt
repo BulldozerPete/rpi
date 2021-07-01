@@ -19,21 +19,21 @@
 # Statistik
 # ---------
 #
-# Exclude: 10468
-# Whitelist: 38813
-# Deadlist: 422707
+# Exclude: 10346
+# Whitelist: 38822
+# Deadlist: 424018
 # Blacklist: 860
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
-# 2. Source: 51134 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
+# 2. Source: 51135 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 3. Source: 11880 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-# 4. Source: 68415 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 4. Source: 68419 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 5. Source: 8238 - https://adaway.org/hosts.txt
 # 6. Source: 15492 - https://someonewhocares.org/hosts/
 # 7. Source: 81030 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # 8. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
 #
 # ---------------------------------------------
-# 131222 Domains - V2021.07.01-03:37:46
+# 131224 Domains - V2021.07.01-09:43:41
 # ---------------------------------------------
 #
 0.0.0.0.beeglivesex.com
@@ -14712,7 +14712,6 @@ bantex.ru
 banusdona.top
 banvar.com
 ban.xpays.com
-ban.xxxvid.ru
 ban.zab.ru
 baogia.vads.vn
 baolic.com
@@ -20053,6 +20052,7 @@ cilcountee.top
 cileni.seznam.cz
 cil.isotope.com
 c.il.msn.com
+cilxili.top
 ci-marketing.de
 c.imedia.cz
 cimoghuk.net
@@ -36050,6 +36050,7 @@ go.verymuchad.com
 go.vevox.com
 govgaungzhou.cn
 govgift.com
+govguilin.cn
 govhunan.cn
 go.viator.com
 go.villahomes.com
@@ -93511,6 +93512,7 @@ www.cike666.com
 www.cikelly.com
 www.ciksolre.net
 www.cilcountee.top
+www.cilxili.top
 www.ci-marketing.de
 www.cimoghuk.net
 www.ci-mpsnare.iesnare.com
@@ -95335,6 +95337,7 @@ www.d18c2mnk8xpfaf.cloudfront.net
 www.d18vyz60n8p6t2.cloudfront.net
 www.d18xeid0tdaswq.cloudfront.net
 www.d194f913ee63.com
+www.d19f6fxl5kn6k9.cloudfront.net
 www.d19yxrk3t8zs3e.cloudfront.net
 www.d1b0w12pg8lr8b.cloudfront.net
 www.d1b42iaez29svr.cloudfront.net
@@ -95388,6 +95391,7 @@ www.d20hr3rtnrxud2.cloudfront.net
 www.d20isuo4zumftr.cloudfront.net
 www.d21cegfx64ngj9.cloudfront.net
 www.d21dzntokiu6dl.cloudfront.net
+www.d22cujgt2tcui6.cloudfront.net
 www.d22e2i2ieoe5aa.cloudfront.net
 www.d23rs4y9qz21oq.cloudfront.net
 www.d24ak3f2b.top
@@ -101045,7 +101049,6 @@ www.getrank.net
 www.getrelator.com
 www.getrockerbox.com
 www.getrxhere.co
-www.get-safe.inpost.cam
 www.getscorecash.com
 www.getscriptjs.com
 www.get-sensation.blogspot.com
@@ -101682,6 +101685,7 @@ www.govertedlice.club
 www.goverua.com
 www.govgaungzhou.cn
 www.govgift.com
+www.govguilin.cn
 www.govhunan.cn
 www.goviral-content.com
 www.govjiangsu.cn
@@ -104615,7 +104619,6 @@ www.interia24.dfirma.pl
 www.interia-24-pl.livejournal.com
 www.interia-ek.ru
 www.interia-info.livejournal.com
-www.interianewsy24.medianewsonline.com
 www.interieurarchitect-maasdam.nl
 www.interimmicroscope.com
 www.interiordream.pl
@@ -112432,7 +112435,6 @@ www.olx-pl.org
 www.olxpl.org
 www.olxpl.page
 www.olx.pl-paidcash.club
-www.olx.pl-paidcosts.work
 www.olx.pl-paidgo.icu
 www.olx.pl-paidmoney.shop
 www.olx.pl-paidmoney.work
