@@ -34,11 +34,13 @@ notify.firetv.bugsnag.appstore.a2z.com
 books-analytics-events.apple.com
 books-analytics-events.news.apple-dns.net
 ca.iadsdk.apple.com
+cstat.apple.com
 cf.iadsdk.apple.com
 dzc-metrics.mzstatic.com
 iadsdk.apple.com
 metrics.apple.com
 metrics.icloud.com
+metrics-config.icloud.com
 metrics.mzstatic.com
 news.iadsdk.apple.com
 notes-analytics-events.apple.com
