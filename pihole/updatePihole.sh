@@ -141,7 +141,7 @@ status() {
 # Internetverbindung testen
 checkinet() {
    writeLog "[I] Teste Internetverbindung ..."
-   if ! (ping -c1 -w1 8.1.8.8 >/dev/null) && ! (ping -c1 -w1 1.1.1.1 >/dev/null); then
+   if ! (ping -c1 -w1 8.8.8.8 >/dev/null) && ! (ping -c1 -w1 1.1.1.1 >/dev/null); then
       writeLog "[E] Keine Internetverbindung! Das Script wird beendet!"
       inetTestStatus=1
       exit 1
