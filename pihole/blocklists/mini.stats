@@ -29,17 +29,21 @@
 # 2. Source: 51198 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 3. Source: 68486 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 4. Source: 72262 - https://dbl.oisd.nl/basic/
-# 5. Source: 81787 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 6. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 275192
+# 5. Source: 8238 - https://adaway.org/hosts.txt
+# 6. Source: 3629 - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+# 7. Source: 15492 - https://someonewhocares.org/hosts/
+# 8. Source: 81787 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# 9. Source: 1257 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 10. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
+# #. Source: 303808
 
 Statistik mini.txt:
-== Source (unique): 165654
-++ Black:           166505 (+851)
--- White:           165385 (-1120)
--- Dead:            141932 (-23453)
--- Exclude:         141883 (-49)
-++ Block:           141885 (+2)
--- Unblock:         141857 (-28)
-++ WWW-Domains:     144355 (+2498)
-++ FLD-Domains:     144718 (+363)
+== Source (unique): 165839
+++ Black:           166690 (+851)
+-- White:           165570 (-1120)
+-- Dead:            142117 (-23453)
+-- Exclude:         142068 (-49)
+++ Block:           142070 (+2)
+-- Unblock:         142042 (-28)
+++ WWW-Domains:     144645 (+2603)
+++ FLD-Domains:     145016 (+371)
