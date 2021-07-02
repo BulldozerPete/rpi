@@ -20,14 +20,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 38822
-# Deadlist: 434962
-# Blacklist: 1675
+# Whitelist: 38824
+# Deadlist: 432297
+# Blacklist: 1677
 # 1. Source: 4383 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1482 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10414 Domains - V2021.07.01-11:28:06
+# 10418 Domains - V2021.07.02-10:06:07
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -446,6 +446,7 @@ beergone.vip
 beesforlease.de
 befashion24.com
 befillus.com
+befinax.com
 behawelt.de
 beisimple.de
 bekos.at
@@ -2018,6 +2019,7 @@ haarpracht-clip.de
 haberfasher.com
 hadeery.com
 haden.at
+hagolos.de
 haladavidl.com
 haleybaby.com
 hallobh.de
@@ -5578,6 +5580,7 @@ www.beergone.vip
 www.beesforlease.de
 www.befashion24.com
 www.befillus.com
+www.befinax.com
 www.behawelt.de
 www.beisimple.de
 www.bekos.at
@@ -7098,6 +7101,7 @@ www.haarpracht-clip.de
 www.haberfasher.com
 www.hadeery.com
 www.haden.at
+www.hagolos.de
 www.haladavidl.com
 www.haleybaby.com
 www.hallobh.de
