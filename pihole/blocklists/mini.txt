@@ -19,23 +19,23 @@
 # Statistik
 # ---------
 #
-# Exclude: 10414
+# Exclude: 10418
 # Whitelist: 38824
 # Deadlist: 432297
 # Blacklist: 852
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 # 2. Source: 51198 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
-# 3. Source: 68486 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 3. Source: 68494 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 4. Source: 72262 - https://dbl.oisd.nl/basic/
 # 5. Source: 8238 - https://adaway.org/hosts.txt
 # 6. Source: 3629 - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 # 7. Source: 15492 - https://someonewhocares.org/hosts/
 # 8. Source: 81787 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 9. Source: 1257 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 9. Source: 1256 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 10. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
 #
 # ---------------------------------------------
-# 145016 Domains - V2021.07.02-09:31:32
+# 145021 Domains - V2021.07.02-10:15:22
 # ---------------------------------------------
 #
 0.0.0.0.beeglivesex.com
@@ -22415,6 +22415,7 @@ cjsab.com
 cjs.ptengine.com
 c.jsrdn.com
 cjt1.net
+cjv2gt.cn
 cjyjqw.cn
 ck.ads.heytapmobi.com
 ckaiv.com
@@ -32777,7 +32778,6 @@ emptyspaceads.com
 emrdnt.sumaity.com
 emrgods.com
 emrlogistics.com
-emshipservices.com
 em.siftscience.com
 emsservice.de
 em.touchtunes.com
@@ -57226,7 +57226,6 @@ msntest.serving-sys.com
 msn.tns-cs.net
 msntrademarketing.112.2o7.net
 msnwinonecare.112.2o7.net
-m.softsharks.com
 msonebox.com
 ms.onscroll.com
 msparktrk.com
@@ -75300,6 +75299,7 @@ shuangshiyihightgo.top
 shubadubadlskjfkf.com
 shucaihangjia.com
 shuccn.com
+shufan.club
 shuffele.com
 shufflewithdrawplanets.com
 shuhahom.net
@@ -87690,6 +87690,7 @@ tudnodkel.blogspot.com
 tudnodkell.info
 tudonumsonho.blogspot.com
 tudotecnologia.site
+tuezse.cn
 tuifish.com
 tuiguang.meitu.com
 tuiiu.com
@@ -103921,6 +103922,7 @@ www.cjlog.com
 www.cjlqwfpkwi.com
 www.cjsab.com
 www.cjt1.net
+www.cjv2gt.cn
 www.cjyjqw.cn
 www.ckaiv.com
 www.ck-cdn.com
@@ -108757,7 +108759,6 @@ www.emptyescort.com
 www.emptyspaceads.com
 www.emrgods.com
 www.emrlogistics.com
-www.emshipservices.com
 www.emsservice.de
 www.emuboosag.com
 www.emuwanflat.com
@@ -132268,6 +132269,7 @@ www.shuangshiyihightgo.top
 www.shubadubadlskjfkf.com
 www.shucaihangjia.com
 www.shuccn.com
+www.shufan.club
 www.shuffele.com
 www.shufflewithdrawplanets.com
 www.shuhahom.net
@@ -137030,6 +137032,7 @@ www.tudnodkel.blogspot.com
 www.tudnodkell.info
 www.tudonumsonho.blogspot.com
 www.tudotecnologia.site
+www.tuezse.cn
 www.tuifish.com
 www.tuiiu.com
 www.tuinfra.com
@@ -141959,6 +141962,7 @@ www.zgvvx.com
 www.zgxrht.com
 www.zgyemy.com
 www.zhaibei112.top
+www.zhangbaochang.top
 www.zhangdujia.com
 www.zhangguangzong.com
 www.zhangkc.com
@@ -144553,6 +144557,7 @@ zgxrht.com
 zgyemy.com
 zh1.zeroredirect11.com
 zhaibei112.top
+zhangbaochang.top
 zhangdujia.com
 zhangguangzong.com
 zhangkc.com
