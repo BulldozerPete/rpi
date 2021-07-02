@@ -23,7 +23,7 @@
 # Telegram-Gruppe PiHole + Unbound Fans (DACH)
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
-# 51197 Domains - 2021.07.01-16:46:33
+# 51198 Domains - 2021.07.02-03:30:08
 # ---------------------------------------------
 #
 006a039c957c142bb.com
@@ -15328,6 +15328,7 @@ logs.thebloggernetwork.com
 log.suchen.de
 log.superweb.ws
 log.suumo.jp
+logs.viadata.store
 logs.vmixcore.com
 log.sv.pandora.tv
 log.tagtic.cn
