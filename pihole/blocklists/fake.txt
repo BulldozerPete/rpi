@@ -21,13 +21,13 @@
 #
 # Exclude: 0
 # Whitelist: 38824
-# Deadlist: 432297
-# Blacklist: 1677
+# Deadlist: 423477
+# Blacklist: 1681
 # 1. Source: 4383 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1482 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10418 Domains - V2021.07.02-10:06:07
+# 10426 Domains - V2021.07.02-22:14:36
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -546,6 +546,7 @@ bike-himmel.de
 bike-hubo.de
 bike-radu.de
 bikerkoenig.de
+bikesporthauf.de
 bikingfirefighter.de
 bildertopf.de
 bilderwolke.de
@@ -1800,6 +1801,7 @@ gartencenter-horstmann.de
 garten-events.de
 garten-genial.de
 garten-hannes.de
+gartenhero.net
 garten-karl.de
 garten-maestro.de
 garten-paule.de
@@ -3746,6 +3748,7 @@ popwelle.com
 portags.com
 portplay.de
 poseidon-greven.de
+posttagesgeldbank.de
 posual.com
 potenz-kaufhaus.de
 powerfinanzen.de
@@ -5675,6 +5678,7 @@ www.bike-himmel.de
 www.bike-hubo.de
 www.bike-radu.de
 www.bikerkoenig.de
+www.bikesporthauf.de
 www.bikingfirefighter.de
 www.bildertopf.de
 www.bilderwolke.de
@@ -6889,6 +6893,7 @@ www.gartencenter-horstmann.de
 www.garten-events.de
 www.garten-genial.de
 www.garten-hannes.de
+www.gartenhero.net
 www.garten-karl.de
 www.garten-maestro.de
 www.garten-paule.de
@@ -8780,6 +8785,7 @@ www.popwelle.com
 www.portags.com
 www.portplay.de
 www.poseidon-greven.de
+www.posttagesgeldbank.de
 www.posual.com
 www.potenz-kaufhaus.de
 www.powerfinanzen.de
@@ -10192,6 +10198,7 @@ www.xn--schlsseldienst--24-p6b.at
 www.xonephonestore.com
 www.xo-trier.de
 www.xsalesport.online
+www.x-treme-multimedia.de
 www.xturulgroup.com
 www.xxl-posterprint.de
 www.yadaplay.de
@@ -10334,6 +10341,7 @@ xn--schlsseldienst--24-p6b.at
 xonephonestore.com
 xo-trier.de
 xsalesport.online
+x-treme-multimedia.de
 xturulgroup.com
 xxl-posterprint.de
 yadaplay.de
