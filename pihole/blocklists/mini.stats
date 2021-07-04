@@ -15,35 +15,35 @@
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
 
-# Exclude fake.txt: 10426
-# Exclude: 10426
+# Exclude fake.txt: 10496
+# Exclude: 10496
 
-# Whitelist: 38825
-# Deadlist: 423477
+# Whitelist: 38861
+# Deadlist: 424468
 
 # Blacklist global: 852
 # Blacklist source: 
 # Blacklist: 852
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
-# 2. Source: 51262 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
-# 3. Source: 68584 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
-# 4. Source: 71639 - https://dbl.oisd.nl/basic/
+# 2. Source: 51306 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
+# 3. Source: 68641 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 4. Source: 72172 - https://dbl.oisd.nl/basic/
 # 5. Source: 8238 - https://adaway.org/hosts.txt
 # 6. Source: 3622 - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 # 7. Source: 15492 - https://someonewhocares.org/hosts/
 # 8. Source: 81787 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 9. Source: 1730 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 9. Source: 1647 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 10. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 303813
+# #. Source: 304364
 
 Statistik mini.txt:
-== Source (unique): 166272
-++ Black:           167123 (+851)
--- White:           166003 (-1120)
--- Dead:            142170 (-23833)
--- Exclude:         142121 (-49)
-++ Block:           142123 (+2)
--- Unblock:         142095 (-28)
-++ WWW-Domains:     144915 (+2820)
-++ FLD-Domains:     145341 (+426)
+== Source (unique): 166548
+++ Black:           167399 (+851)
+-- White:           166279 (-1120)
+-- Dead:            142452 (-23827)
+-- Exclude:         142403 (-49)
+++ Block:           142405 (+2)
+-- Unblock:         142377 (-28)
+++ WWW-Domains:     145119 (+2742)
+++ FLD-Domains:     145555 (+436)
