@@ -18,7 +18,6 @@ a3391893108.cdn.optimizely.com
 a.adtng.com
 a.bf-ad.net
 accounts.doubleclick.net
-acdn.adnxs.com
 ad3.adfarm1.adition.com
 ad.71i.de
 ade.googlesyndication.com
@@ -47,7 +46,6 @@ adstax-cdn.adrtx.net
 ads.tiktok.com
 ads.trafficjunky.net
 ads-twitter.com
-ads.twitter.com
 ads.urban-media.com
 ads.yahoo.com
 ads.yap.yahoo.com
@@ -88,10 +86,8 @@ a.o333o.com
 a.optmnstr.com
 api2.amplitude.com
 api-cengine.forkcdn.com
-api.cxense.com
 api.feedad.com
 api.instabug.com
-api.mixpanel.com
 api.opmnstr.com
 api.permutive.com
 api.picsart.com
@@ -99,7 +95,6 @@ api.popin.cc
 api.pubnative.net
 api.pushwoosh.com
 api.rlcdn.com
-api.segment.io
 api.smoot.apple.com
 api.stathat.com
 api.taboola.com
@@ -110,7 +105,6 @@ app-ab46.marketo.com
 app.adjust.world
 app-analytics-v2.snapchat.com
 appleglobal.102.112.2o7.net
-app-measurement.com
 app.uptain.de
 aps.xplosion.de
 a.pub.network
@@ -129,10 +123,8 @@ audit-tcfv2.quantcast.mgr.consensu.org
 availablereschedulevicious.com
 axel-springer-d.openx.net
 axelspringerse.demdex.net
-az416426.vo.msecnd.net
 balanced-engage.deltadna.net
 bam-cell.nr-data.net
-bam.nr-data.net
 bang-4-buck.com
 bat-bing-com.a-0001.a-msedge.net
 beaconimages.netflix.net
@@ -145,8 +137,6 @@ bls.adalliance.io
 b.measuread.com
 bmedia.justservingfiles.net
 boot.pbstck.com
-browser.events.data.msn.com
-browser-update.org
 bs.eyeblaster.akadns.net
 btloader.com
 buyer.dspx.tv
@@ -168,9 +158,7 @@ cdn.braze.eu
 cdn.bunchbox.co
 cdn.c-i.as
 cdn.cloudimagesb.com
-cdn.consentmanager.mgr.consensu.org
 cdn.contalyze.com
-cdn.cxense.com.edgekey.net
 cdn.districtm.io
 cdn-eu.dynamicyield.com
 cdn.exactag.com
@@ -230,8 +218,6 @@ config.inmobi.com
 config.samsungads.com
 configuration-vending.service.amazonsilk.com
 consent.gutefrage.net
-consentmanager.mgr.consensu.org
-consent.trustarc.com
 conversions.appsflyer.com
 counter.yadro.ru
 cpx.golem.de
@@ -241,7 +227,6 @@ creativecdn.com
 cs.ns1p.net
 cstat.apple.com
 customers.kameleoon.com
-cws.conviva.com
 cws-iad1.conviva.com
 cws-iad4.conviva.com
 cws-sjc2.conviva.com
@@ -252,7 +237,6 @@ d1esebcdm6wx7j.cloudfront.net
 d1f05vr3sjsuy7.cloudfront.net
 d1fc8wv8zag5ca.cloudfront.net
 d2v02itv0y9u9t.cloudfront.net
-d2wy8f7a9ursnm.cloudfront.net
 d3g5ovfngjw9bw.cloudfront.net
 d81mfvml8p5ml.cloudfront.net
 d9.flashtalking.com
@@ -268,21 +252,18 @@ data-8793ca6c7d.rpr1.de
 data-bb21a2f11b.bild.de
 data-c53e1346fa.mein-mmo.de
 data-e4997adf31.welt.de
-data.flurry.com
 datalayer.p7s1.io
 data.logentries.com
 data.mistat.rus.xiaomi.com
 data.photorank.me
 dc.ads.linkedin.com
 dco.smartclip.net
-dc.services.visualstudio.com
 ddacn6pr5v0tl.cloudfront.net
 de-config.sensic.net
 default.exp-tas.com
 de-gmtdmp.mookie1.com
 delivery.contextads.live
 deploy.mopinion.com
-device-api.urbanairship.com
 dev.visualwebsiteoptimizer.com
 dialacrum.iad-03.braze.com
 disney.demdex.net
@@ -293,8 +274,6 @@ dmp.theadex.com
 dmx.districtm.io
 d.nativendo.de
 dnhfi5nn2dt67.cloudfront.net
-dnn506yrbagrg.cloudfront.net
-ds-aksb-a.akamaihd.net
 dualstack.beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 dualstack.beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com
 dumontnet.tt.omtrdc.net
@@ -305,7 +284,6 @@ e.maxtraffic.com
 engage21794pprsf.deltadna.net
 epnt.ebay.com
 errors.client.optimizely.com
-etahub.com
 eu-adsrv.rtbsuperhub.com
 eu.dspultra.com
 eum.instana.io
@@ -314,7 +292,6 @@ eu-tlp02.kameleoon.eu
 eu-tlp04.kameleoon.eu
 events.cid.samba.tv
 events.redditmedia.com
-events.split.io
 extmaps-api.yandex.net
 facesnotebook.com
 fastlane.rubiconproject.com
@@ -323,7 +300,6 @@ fbs.smoot.apple.com
 fdts.ebay-kleinanzeigen.de
 feed.baidu.com
 firebaselogging.googleapis.com
-firebaselogging-pa.googleapis.com
 firebase-settings.crashlytics.com
 flash.doubleclick-analytics.com
 fmdata.imgsmail.ru
@@ -382,7 +358,6 @@ img.img-taboola.com
 imp.control.kochava.com
 impression.appsflyer.com
 impulse.forkcdn.com
-in.appcenter.ms
 inapps.appsflyer.com
 ing-district.clicktale.net
 init.supersonicads.com
@@ -402,7 +377,6 @@ jsc.mgid.com
 js.hscta.net
 js.monitor.azure.com
 json.geoiplookup.io
-js-sec.casalemedia.com.edgekey.net
 ksta.met.vgwort.de
 l96jc26jvj.kameleoon.eu
 launches.appsflyer.com
@@ -441,7 +415,6 @@ marketing.net.home24.de
 match.adsrvr.org
 mc.webvisor.org
 mc.yandex.com
-mc.yandex.ru
 md-i-s.apptimize.com
 media.ethicalads.io
 media.trafficjunky.com
@@ -492,7 +465,6 @@ ot.obi.de
 p16-ad-sg.ibyteimg.com
 p.adsymptotic.com
 pagead2.googlesyndication.com
-pagead46.l.doubleclick.net
 payingnoodlescam.com
 pdw-usr.userreport.com
 ping.chartbeat.net
@@ -514,7 +486,6 @@ player-telemetry.vimeo.com
 pool-pebblemedia.adhese.com
 pottervark.stroeerdp.de
 pp.lp4.io
-prd.jwpltx.com
 pre.ads.justpremium.com
 prebid.a-mo.net
 prebid-server.rubiconproject.com
@@ -523,12 +494,10 @@ prg.smartadserver.com
 privatestats.whatsapp.net
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 prodlb.siteintercept.qualtrics.com.cdn.cloudflare.net
-prod.nexusrules.live.com.akadns.net
 profile.localytics.com
 profiles.tagger.opecloud.com
 propeller-tracking.com
 prophet.heise.de
-p.typekit.net-v3.edgekey.net
 pubnative.info
 pub-sdk-cfg.criteo.com
 p.vtracy.de
@@ -540,7 +509,6 @@ radar.cedexis.com
 radiantskilled.com
 regulationprivilegescan.top
 relay-client-c01.iocnt.net
-remote-data.urbanairship.com
 rem-track.bild.de
 rereddit.com
 resources.xg4ken.com
@@ -558,7 +526,6 @@ r.teads.tv
 rtr.innovid.com
 rumcdn.geoedge.be
 rum.optimizely.com
-s0-2mdn-net.l.google.com
 s10.histats.com
 s1.adform.net
 s240.mxcdn.net
@@ -566,7 +533,6 @@ s2s.adjust.com
 s2s.yieldlove-ad-serving.net
 s385.mxcdn.net
 s400.mxcdn.net
-s7.addthis.com
 s8t.teads.tv
 s.adroll.com
 sak.userreport.com
@@ -636,7 +602,6 @@ static.addtoany.com
 static.ads-twitter.com
 static.am5.vip.prod.criteo.net
 static-cdn.hotjar.com
-static.cloudflareinsights.com
 static.criteo.net
 static-de.plista.com
 static.digidip.net
@@ -668,7 +633,6 @@ target.microsoft.com
 t.contentsquare.net
 teams.events.data.microsoft.com
 technical-service.net
-telemetry-incoming.r53-2.services.mozilla.com
 tempest.services.disqus.com
 te.technical-service.net
 thebestgame2020.com
@@ -680,9 +644,7 @@ top-fwz1.mail.ru
 toplist.raidrush.ws
 top.nydus.org
 tpc.googlesyndication.com
-tp-emea.exactag.com
 tp-rtb-adserver-eu.eu-west-1.elasticbeanstalk.com
-track.adform.net
 tracker-api.my.com
 track.express.de
 tracking.adalliance.io
@@ -723,13 +685,11 @@ vc.hotjar.io
 vd.7vid.net
 venetrigni.com
 vg04.met.vgwort.de
-via.batch.com
 videointelligence-d.openx.net
 vidsply.com
 visitor.omnitagjs.com
 vitals.vercel-insights.com
 vlc.de
-vortex.data.microsoft.com
 vrtbe.demdex.net
 vrt.sc.omtrdc.net
 waisheph.com
@@ -738,16 +698,12 @@ waz.met.vgwort.de
 weather-analytics-events.apple.com
 webanalytics.btelligent.net
 web.hb.ad.cpe.dotomi.com
-webhook.logentries.com
-web.vortex.data.microsoft.com
 web.wurfl.io
 widgets.getsitecontrol.com
 widgets.opinary.com
 widgets.outbrain.com
-wildcard.cdn.optimizely.com.edgekey.net
 windychinese.com
 wlplatincasino.adsrv.eacdn.com
-wl.spotify.com
 w.usabilla.com
 ww2.sqidsply.com
 www3.smartadserver.com
@@ -766,7 +722,6 @@ www.fastly-insights.com
 www.fdrptpyxchzjk.com
 www-google-analytics.l.google.com
 www.googleoptimize.com
-www-googletagmanager.l.google.com
 www.guvivqlbh.com
 www.performancetrustednetwork.com
 www.tisoomi-adservice.com
