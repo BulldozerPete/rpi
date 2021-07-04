@@ -20,14 +20,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 38824
-# Deadlist: 423477
+# Whitelist: 38861
+# Deadlist: 424468
 # Blacklist: 1681
-# 1. Source: 4383 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+# 1. Source: 4421 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1482 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10426 Domains - V2021.07.02-22:14:36
+# 10496 Domains - V2021.07.04-03:35:02
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -127,6 +127,7 @@ aff.mobilejmp.com
 afm-electronics.com
 agentur-bang.de
 agentur-heaven.at
+ag-europe.com
 agrece.com
 agru-paradis.com
 agsm.ch
@@ -540,6 +541,7 @@ bigostream.com
 bigpizza-fuerth.de
 bigusenet.de
 bikebox-market.com
+bikefamily-gmbh.de
 bike-hager.de
 bike-hagers.de
 bike-himmel.de
@@ -625,6 +627,7 @@ bolada.de
 bold-estate.com
 boldmatters.de
 bolitrans.com
+bomcacadors.com
 bonnyin.at
 bonoplay.de
 bonviviale.shop
@@ -1184,6 +1187,7 @@ dkamilcar.com
 dkirmizu.com
 dmmltdb.com
 d-moerking.de
+dmotruth.com
 dnewssyi.com
 dnsaustria.com
 dnsdeutschland.com
@@ -1192,6 +1196,7 @@ dnsschweiz.com
 dnsswitzerland.com
 docmou.com
 doctorbrew.de
+dodo-markts.com
 dodplay.de
 doflix.de
 dogarta.de
@@ -1535,6 +1540,7 @@ facyline.de
 fahrradbekleidungdeu.com
 fahrradbekleidung-onlines.de
 fahrradbekleidungs.de
+fahrrad-expert.de
 fahrradhaus-zeyen.de
 fahrschule-seefeldt.de
 fairchartervote.at
@@ -1805,13 +1811,17 @@ gartenhero.net
 garten-karl.de
 garten-maestro.de
 garten-paule.de
+gartenstorch.de
 gartenwelt-lammerting.de
 gartenwerker-sascha-kolic.de
+garten-willi.de
+garuplay.de
 gasteinerhodalumpn.at
 gasthaus-kaar.at
 gasthaus-schuetz.at
 gate-international.com
 gatewaygss.de
+gatticlub.com
 gaysingleparty.de
 gccbannux.com
 gc-reiting.at
@@ -1981,6 +1991,7 @@ gregor-friedl.at
 grillario.de
 grillen-mit-willen.de
 grillflix.de
+grillico.de
 grillmatte.at
 grill-place.de
 grinsebuch.de
@@ -2091,6 +2102,7 @@ haustechnik-kant-pfeiler.de
 haustechnik-kraemer.de
 hawalili.com
 hbb31.com
+h-birds.store
 hdvguenther.de
 hdwelt.de
 headingwreck.store
@@ -2128,6 +2140,7 @@ helens-nacht.de
 helizo.de
 hellenen-gde.at
 hellomarkt.com
+hellostella.de
 helperlo24.de
 helpthebees.net
 henlenhebe.com
@@ -2423,6 +2436,7 @@ joinyourss.com
 joinyous.com
 jojolikes.com
 jokoelite.com
+jomvon-trans.com
 jonas-wilken.de
 jonny-boston.de
 jonnycoca.com
@@ -2594,6 +2608,7 @@ koalasale.com
 kochrezepte-server.com
 kochsalon.at
 kock-am-brink.de
+koenig-handel.de
 koenig-naturfriseur.de
 koffer-store.com
 koichat.de
@@ -2611,6 +2626,7 @@ konsolenparadies.de
 konsolen-point.com
 konsolen-shops.com
 konsolen-stube.de
+konsoleshopdeat.com
 konstilo.de
 konzept-raum.de
 koolt-mediaonline.com
@@ -2748,6 +2764,7 @@ lifestyle-gastronomie.de
 lifetime-deals-zone.com
 lifeworks-munich.de
 liftr.eu
+ligaplay.de
 lighteu.de
 lightflix.de
 lightinthebox.com
@@ -2789,6 +2806,7 @@ lobstermusic.de
 lockpickingstore.de
 loco-outlet.de
 lodiro.de
+lodoplay.de
 loebbert-immobilien.de
 loesungsmittelfrei.at
 logaplay.de
@@ -2852,6 +2870,7 @@ lvsevnas.com
 lwjohnson.net
 lybra-market.com
 lyricsgridf.com
+maanshiill.com
 mabupix.de
 mabuspix.com
 machart-durlach.de
@@ -2861,6 +2880,7 @@ made.com
 madhukaal.com
 madixa.com
 mad-max-vd-brunnengaerten.de
+maehercenter.de
 magiczoomco.com
 magiedinge.com
 magikbody.de
@@ -2932,6 +2952,7 @@ mayplay.de
 mayrhofen-hotels.at
 mayr-vertrieb.at
 mblacktux.com
+mbtaustria.at
 mb-training.net
 mcdonalds-com.de
 mcolumnist.com
@@ -3094,6 +3115,7 @@ mitbote.de
 mixfilms.de
 mixmedia.store
 mket-haus.com
+mkgarrisone.com
 mkleider.de
 mlgatoj.com
 mmeny.com
@@ -3212,6 +3234,7 @@ mri-am-arlberg.at
 mrphonedeals.com
 msc-transglobal.com
 msp24.at
+ms-shippings.net
 mtseurologistics.com
 muama.com
 mudanzas-al-extranjero.es
@@ -3605,6 +3628,7 @@ pinvige.com
 pinzga.at
 piramida-e.de
 piselectro.com
+piufashionlook.com
 pivht-supplements.com
 pizza-milano-gf.at
 pizza-telefon.at
@@ -3718,6 +3742,7 @@ playvidy.de
 playviva.de
 playvox.de
 pleasurelounge.at
+pletanf.com
 plex-elektrostore.com
 plinkereule.de
 pltechsarl.top
@@ -3973,6 +3998,7 @@ rledarius.com
 rlhfirmh.com
 robolectro.de
 robuxforyou.info
+rocalin.com
 rockkelp.com
 rocolee.com
 rohrreinigung--24.at
@@ -4067,6 +4093,7 @@ scheuregger.de
 schlafewo.de
 schlafhimmelshop.de
 schlaftabletten-ohne-rezept.com
+schlaftabletten-rezeptfrei.net
 schlau-versand.site
 schlenker-gutbrod.de
 schloss-pichler.at
@@ -4270,6 +4297,7 @@ sofa-sauber.com
 sofawunsch.de
 sofort-kredite.online
 softwaresammler.de
+sohab-coswig.de
 sokatech.de
 solamyc.com
 soleo-deal.de
@@ -4333,6 +4361,7 @@ sportalm-kirchschlag.at
 sportalo24.de
 sport-amount.de
 sporthotel-schwerin.de
+sport-lay.de
 sport-modul.de
 sport-monkey.de
 sportolymp.de
@@ -4469,6 +4498,7 @@ tablet-restposten.club
 tablet-restposten.shop
 tacocood.com
 taddeutschland.com
+tagaplay.de
 tago-gewuerzplanet.de
 tailorfactory.com
 taktischewelt.com
@@ -4616,6 +4646,7 @@ thomassabosales.com
 thomassabosuk.com
 thomassabouksale.com
 thomeifoods.com
+thorshipping.net
 tidebuy.com
 tieker-versandhandel.de
 tiere.at
@@ -4673,6 +4704,7 @@ top-velos.com
 torbianelli.com
 totalausverkauf-multimedia.eu
 total-organisiert.de
+touchwonr.com
 touchy.at
 toyota-bestellung.de
 toyxworld.com
@@ -4852,6 +4884,7 @@ ureines.com
 urhair.co.uk
 urkoolwear.com
 urlaubsmenschen.at
+usa-food-store.de
 usantluxe.com
 uscapitalfundingii.com
 usoucho.com
@@ -5094,6 +5127,7 @@ white-goose.de
 whiteningbrites.com
 white-smiles.com
 whlshop.com
+whoeashop.com
 wholesale-burberry.com
 whs-shop.ru
 wiadveronatrento.it
@@ -5134,6 +5168,7 @@ wirlaufenzurschule.de
 wir-sind-ihre-goldscheideanstalt.de
 wirt-zleithen.at
 wishallgood.com
+witchrabi.com
 withbinaryoptions.com
 wittenberger-hof.de
 wj-tag.de
@@ -5270,6 +5305,7 @@ www.affirmfind.com
 www.afm-electronics.com
 www.agentur-bang.de
 www.agentur-heaven.at
+www.ag-europe.com
 www.agrece.com
 www.agru-paradis.com
 www.agsm.ch
@@ -5672,6 +5708,7 @@ www.bigostream.com
 www.bigpizza-fuerth.de
 www.bigusenet.de
 www.bikebox-market.com
+www.bikefamily-gmbh.de
 www.bike-hager.de
 www.bike-hagers.de
 www.bike-himmel.de
@@ -5755,6 +5792,7 @@ www.bolada.de
 www.bold-estate.com
 www.boldmatters.de
 www.bolitrans.com
+www.bomcacadors.com
 www.bonnyin.at
 www.bonoplay.de
 www.bonviviale.shop
@@ -6285,6 +6323,7 @@ www.dkamilcar.com
 www.dkirmizu.com
 www.dmmltdb.com
 www.d-moerking.de
+www.dmotruth.com
 www.dnewssyi.com
 www.dnsaustria.com
 www.dnsdeutschland.com
@@ -6293,6 +6332,7 @@ www.dnsschweiz.com
 www.dnsswitzerland.com
 www.docmou.com
 www.doctorbrew.de
+www.dodo-markts.com
 www.dodplay.de
 www.doflix.de
 www.dogarta.de
@@ -6629,6 +6669,7 @@ www.facyline.de
 www.fahrradbekleidungdeu.com
 www.fahrradbekleidung-onlines.de
 www.fahrradbekleidungs.de
+www.fahrrad-expert.de
 www.fahrradhaus-zeyen.de
 www.fahrschule-seefeldt.de
 www.fairchartervote.at
@@ -6897,13 +6938,17 @@ www.gartenhero.net
 www.garten-karl.de
 www.garten-maestro.de
 www.garten-paule.de
+www.gartenstorch.de
 www.gartenwelt-lammerting.de
 www.gartenwerker-sascha-kolic.de
+www.garten-willi.de
+www.garuplay.de
 www.gasteinerhodalumpn.at
 www.gasthaus-kaar.at
 www.gasthaus-schuetz.at
 www.gate-international.com
 www.gatewaygss.de
+www.gatticlub.com
 www.gaysingleparty.de
 www.gccbannux.com
 www.gc-reiting.at
@@ -7069,6 +7114,7 @@ www.gregor-friedl.at
 www.grillario.de
 www.grillen-mit-willen.de
 www.grillflix.de
+www.grillico.de
 www.grillmatte.at
 www.grill-place.de
 www.grinsebuch.de
@@ -7176,6 +7222,7 @@ www.haustechnik-kant-pfeiler.de
 www.haustechnik-kraemer.de
 www.hawalili.com
 www.hbb31.com
+www.h-birds.store
 www.hdvguenther.de
 www.hdwelt.de
 www.headingwreck.store
@@ -7213,6 +7260,7 @@ www.helens-nacht.de
 www.helizo.de
 www.hellenen-gde.at
 www.hellomarkt.com
+www.hellostella.de
 www.helperlo24.de
 www.helpthebees.net
 www.henlenhebe.com
@@ -7504,6 +7552,7 @@ www.joinyourss.com
 www.joinyous.com
 www.jojolikes.com
 www.jokoelite.com
+www.jomvon-trans.com
 www.jonas-wilken.de
 www.jonny-boston.de
 www.jonnycoca.com
@@ -7672,6 +7721,7 @@ www.koalasale.com
 www.kochrezepte-server.com
 www.kochsalon.at
 www.kock-am-brink.de
+www.koenig-handel.de
 www.koenig-naturfriseur.de
 www.koffer-store.com
 www.koichat.de
@@ -7689,6 +7739,7 @@ www.konsolenparadies.de
 www.konsolen-point.com
 www.konsolen-shops.com
 www.konsolen-stube.de
+www.konsoleshopdeat.com
 www.konstilo.de
 www.konzept-raum.de
 www.koolt-mediaonline.com
@@ -7823,6 +7874,7 @@ www.lifestyle-gastronomie.de
 www.lifetime-deals-zone.com
 www.lifeworks-munich.de
 www.liftr.eu
+www.ligaplay.de
 www.lighteu.de
 www.lightflix.de
 www.lightinthebox.com
@@ -7863,6 +7915,7 @@ www.lobstermusic.de
 www.lockpickingstore.de
 www.loco-outlet.de
 www.lodiro.de
+www.lodoplay.de
 www.loebbert-immobilien.de
 www.loesungsmittelfrei.at
 www.logaplay.de
@@ -7926,6 +7979,7 @@ www.lvsevnas.com
 www.lwjohnson.net
 www.lybra-market.com
 www.lyricsgridf.com
+www.maanshiill.com
 www.mabupix.de
 www.mabuspix.com
 www.machart-durlach.de
@@ -7935,6 +7989,7 @@ www.made.com
 www.madhukaal.com
 www.madixa.com
 www.mad-max-vd-brunnengaerten.de
+www.maehercenter.de
 www.magiczoomco.com
 www.magiedinge.com
 www.magikbody.de
@@ -8005,6 +8060,7 @@ www.mayplay.de
 www.mayrhofen-hotels.at
 www.mayr-vertrieb.at
 www.mblacktux.com
+www.mbtaustria.at
 www.mb-training.net
 www.mcdonalds-com.de
 www.mcolumnist.com
@@ -8152,6 +8208,7 @@ www.mitbote.de
 www.mixfilms.de
 www.mixmedia.store
 www.mket-haus.com
+www.mkgarrisone.com
 www.mkleider.de
 www.mlgatoj.com
 www.mmeny.com
@@ -8265,6 +8322,7 @@ www.mri-am-arlberg.at
 www.mrphonedeals.com
 www.msc-transglobal.com
 www.msp24.at
+www.ms-shippings.net
 www.mtseurologistics.com
 www.muama.com
 www.mudanzas-al-extranjero.es
@@ -8642,6 +8700,7 @@ www.pinvige.com
 www.pinzga.at
 www.piramida-e.de
 www.piselectro.com
+www.piufashionlook.com
 www.pivht-supplements.com
 www.pizza-milano-gf.at
 www.pizza-telefon.at
@@ -8755,6 +8814,7 @@ www.playvidy.de
 www.playviva.de
 www.playvox.de
 www.pleasurelounge.at
+www.pletanf.com
 www.plex-elektrostore.com
 www.plinkereule.de
 www.pltechsarl.top
@@ -9004,6 +9064,7 @@ www.rledarius.com
 www.rlhfirmh.com
 www.robolectro.de
 www.robuxforyou.info
+www.rocalin.com
 www.rockkelp.com
 www.rocolee.com
 www.rohrreinigung--24.at
@@ -9098,6 +9159,7 @@ www.scheuregger.de
 www.schlafewo.de
 www.schlafhimmelshop.de
 www.schlaftabletten-ohne-rezept.com
+www.schlaftabletten-rezeptfrei.net
 www.schlau-versand.site
 www.schlenker-gutbrod.de
 www.schloss-pichler.at
@@ -9295,6 +9357,7 @@ www.sofa-sauber.com
 www.sofawunsch.de
 www.sofort-kredite.online
 www.softwaresammler.de
+www.sohab-coswig.de
 www.sokatech.de
 www.solamyc.com
 www.soleo-deal.de
@@ -9358,6 +9421,7 @@ www.sportalm-kirchschlag.at
 www.sportalo24.de
 www.sport-amount.de
 www.sporthotel-schwerin.de
+www.sport-lay.de
 www.sport-modul.de
 www.sport-monkey.de
 www.sportolymp.de
@@ -9491,6 +9555,7 @@ www.tablet-restposten.club
 www.tablet-restposten.shop
 www.tacocood.com
 www.taddeutschland.com
+www.tagaplay.de
 www.tago-gewuerzplanet.de
 www.tailorfactory.com
 www.taktischewelt.com
@@ -9635,6 +9700,7 @@ www.thomassabosales.com
 www.thomassabosuk.com
 www.thomassabouksale.com
 www.thomeifoods.com
+www.thorshipping.net
 www.tidebuy.com
 www.tieker-versandhandel.de
 www.tiere.at
@@ -9692,6 +9758,7 @@ www.top-velos.com
 www.torbianelli.com
 www.totalausverkauf-multimedia.eu
 www.total-organisiert.de
+www.touchwonr.com
 www.touchy.at
 www.toyota-bestellung.de
 www.toyxworld.com
@@ -9859,6 +9926,7 @@ www.urbanpodspro.com
 www.ureines.com
 www.urkoolwear.com
 www.urlaubsmenschen.at
+www.usa-food-store.de
 www.usantluxe.com
 www.uscapitalfundingii.com
 www.usoucho.com
@@ -10095,6 +10163,7 @@ www.white-goose.de
 www.whiteningbrites.com
 www.white-smiles.com
 www.whlshop.com
+www.whoeashop.com
 www.wholesale-burberry.com
 www.whs-shop.ru
 www.wiadveronatrento.it
@@ -10129,6 +10198,7 @@ www.wirlaufenzurschule.de
 www.wir-sind-ihre-goldscheideanstalt.de
 www.wirt-zleithen.at
 www.wishallgood.com
+www.witchrabi.com
 www.withbinaryoptions.com
 www.wittenberger-hof.de
 www.wj-tag.de
