@@ -62,6 +62,7 @@ www.iadsdk.apple.com
 crashlytics.com
 crashlyticsreports-pa.googleapis.com
 firebase-settings.crashlytics.com
+firebaselogging-pa.googleapis.com
 
 #
 # Google
