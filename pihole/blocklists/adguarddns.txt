@@ -25,7 +25,7 @@
 # Telegram-Gruppe PiHole + Unbound Fans (DACH)
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
-# 68748 Domains - 2021.07.05-13:18:58
+# 68769 Domains - 2021.07.05-18:17:51
 # ---------------------------------------------
 #
 0024aaaa.com
@@ -2014,6 +2014,7 @@ adbukaserver.com
 adbull.com
 adbureau.net
 adbutler.com
+adbutler.costco.com
 adbutler.de
 adbutler-fermion.com
 adbutton.net
@@ -2769,7 +2770,6 @@ ads.1thegioi.vn
 ads.211.ru
 ads2-adnow.com
 ads2ads.net
-ads2.contentabc.com
 ads2srv.com
 ads3-adnow.com
 ads4cheap.com
@@ -4527,6 +4527,7 @@ analytics.rechtslupe.org
 analytics.rever.vn
 analytics.reyrey.net
 analytics-rhwg.rhcloud.com
+analytics.robinhood.com
 analytics.rogersmedia.com
 analytics.rotapost.ru
 analytics.salesanalytics.io
@@ -4536,6 +4537,7 @@ analytics.scalemonk.com
 analytics.schoolwires.com
 analytics-script.ad-shield.io
 analytics-scripts.cablelabs.com
+analytics.seekxr.com
 analytics-server.gimbal.com
 analytics.services.distractify.com
 analytics.servogram.io
@@ -5194,6 +5196,7 @@ asasfasdf.xyz
 asccdn.com
 ascend.ai
 ascertainedfortnight.com
+asce.xyz
 ascraftan.com
 asdasdad.net
 asdfix.com
@@ -6231,6 +6234,7 @@ beacon.nuskin.com
 beacon.qq.com
 beacon.riskified.com
 beacon.rum.dynapis.com
+beacon.samsclub.com
 beacon.searchspring.io
 beacon.search.yahoo.com
 beacon.shazam.com
@@ -9049,6 +9053,7 @@ coinzilla.io
 coinzillatag.com
 cojia.net
 cokeseeming.com
+colchaguino.com
 cold-cold-freezing.com
 coldhardcash.com
 colimavdar.ru
@@ -9466,6 +9471,7 @@ cosmopolitisiez.website
 cosmosjackson.com
 cost1action.com
 costaction.com
+costco-adbutler.com
 costumecollartrustworthy.com
 cotchaug.com
 cotdrollback.com
@@ -10025,6 +10031,7 @@ customerconversio.com
 customer.heartinternet.co.uk
 customer.io
 customerlabs.co
+cutechin.com
 cutecushion.com
 cutepopcorn.com
 cuterbond.com
@@ -12246,6 +12253,7 @@ ec-concier.com
 ece8c2alhz.ru
 ecgawdakfa.biz
 ecgopezooczg.com
+echnolog.club
 echo.12cpm.com
 echo.andumb.com
 echoazou.com
@@ -15423,6 +15431,7 @@ gorselpanel.com
 gorskprof2it8og09.com
 goryachie-foto.net
 go.schjmp.com
+goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com
 goshooph.com
 gos-kanal.ru
 goslavispro.info
@@ -20319,6 +20328,7 @@ logua.com
 log.umsns.com
 logupdate.avlyun.sec.miui.com
 logv2.mp3.zing.vn
+log.vava.com
 log.vdn.apps.cntv.cn
 log.vietnamdaily.net.vn
 log.vietnamfinance.vn
@@ -24373,6 +24383,7 @@ owlsr.us
 owlsyumducal.com
 owltiphem.club
 ownadne.ru
+ownandthaiho.biz
 owncutone.com
 owndata.network
 owneriq.net
@@ -29209,7 +29220,6 @@ sghmho.com
 s.giaoducthoidai.vn
 sgolden.site
 sgood.ru
-sgp1.cdn.digitaloceanspaces.com
 sgphctileh-a.akamaihd.net
 sgqmhpqrstwzwd.com
 sgr1.com
@@ -33082,6 +33092,7 @@ tracking.cat898.com
 tracking.chacha.com
 tracking.cirrusinsight.com
 tracking.conduit.com
+tracking-config-service.glority.com
 tracking.customerly.io
 tracking.dantri.com.vn
 tracking.deluxe-marketing.com
@@ -33181,6 +33192,7 @@ tracking.scenepass.com
 tracking.searchmarketing.com
 tracking.sembox.it
 tracking-server-prod-1.zenmxapps.com
+tracking-service.glority.com
 tracking.sezzle.com
 tracking.sharplink.us
 trackingshipment.apple.com
@@ -36241,6 +36253,7 @@ womenchop.com
 womenclick.ru
 womens-insider.info
 womentheli.club
+wompanalytics.azurewebsites.net
 womtp.com
 wonclick.com
 wonderfuladults.com
@@ -40301,6 +40314,7 @@ www.asasfasdf.xyz
 www.asccdn.com
 www.ascend.ai
 www.ascertainedfortnight.com
+www.asce.xyz
 www.ascraftan.com
 www.asdasdad.net
 www.asdfix.com
@@ -43429,6 +43443,7 @@ www.coinzilla.io
 www.coinzillatag.com
 www.cojia.net
 www.cokeseeming.com
+www.colchaguino.com
 www.cold-cold-freezing.com
 www.coldhardcash.com
 www.colimavdar.ru
@@ -43745,6 +43760,7 @@ www.cosmopolitisiez.website
 www.cosmosjackson.com
 www.cost1action.com
 www.costaction.com
+www.costco-adbutler.com
 www.costumecollartrustworthy.com
 www.cotchaug.com
 www.cotdrollback.com
@@ -44145,6 +44161,7 @@ www.cussixia.de
 www.customerconversio.com
 www.customer.io
 www.customerlabs.co
+www.cutechin.com
 www.cutecushion.com
 www.cutepopcorn.com
 www.cuterbond.com
@@ -45580,6 +45597,7 @@ www.ec-concier.com
 www.ece8c2alhz.ru
 www.ecgawdakfa.biz
 www.ecgopezooczg.com
+www.echnolog.club
 www.echoazou.com
 www.echuanglm1.com
 www.ecjkroklyxvod.com
@@ -56021,6 +56039,7 @@ www.owlsr.us
 www.owlsyumducal.com
 www.owltiphem.club
 www.ownadne.ru
+www.ownandthaiho.biz
 www.owncutone.com
 www.owndata.network
 www.owneriq.net
@@ -66972,6 +66991,7 @@ www.zoujuhonglawyer.com
 www.zouloafi.net
 www.zouphail.com
 www.zoupsudy.com
+www.zouxinyan.xyz
 www.zouzun.top
 www.zowary.com
 www.zowinvn.vip
@@ -68611,6 +68631,7 @@ zoujuhonglawyer.com
 zouloafi.net
 zouphail.com
 zoupsudy.com
+zouxinyan.xyz
 zouzun.top
 zowary.com
 zowinvn.vip
