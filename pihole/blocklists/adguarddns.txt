@@ -25,7 +25,7 @@
 # Telegram-Gruppe PiHole + Unbound Fans (DACH)
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
-# 68736 Domains - 2021.07.05-03:30:21
+# 68748 Domains - 2021.07.05-13:18:58
 # ---------------------------------------------
 #
 0024aaaa.com
@@ -9565,6 +9565,7 @@ counter.sparklit.com
 counter.star.lg.ua
 counterstation.de
 counterstatistik.de
+counter.theconversation.com
 counter.theconversation.edu.au
 counter.tianjimedia.com
 counter.tldw.me
@@ -13881,6 +13882,7 @@ fitfatdeals.com
 fitfulrigorous.com
 five88.biz
 five88.com
+five88.me
 five88.net
 fivecdm.com
 fivevn.net
@@ -14957,7 +14959,6 @@ getsmartcontent.com
 getsmartlook.com
 getstatistics.se
 getstat.net
-getsupernova.com
 get.tfiph.com
 get.thisisvegas.com
 gettopup.com
@@ -22918,6 +22919,7 @@ news.fangdaijisuanqi.com
 news.fark.com
 newsfeed.net.ua
 newsforbest.net
+news-good.net
 news.govorjat.ru
 news-headlines.co
 newsinform.net
@@ -29222,6 +29224,7 @@ shadowlegends.pro
 shaidolt.com
 shaimsoo.net
 shakamech.com
+shakegoldfish.com
 shakensuspendsaxophone.com
 shakentherepasta.com
 shakesea.com
@@ -31674,6 +31677,7 @@ taimacau.club
 taiphaib.net
 taishijian.com
 taiv8.com
+taiv8.info
 taiwhups.net
 taj1.ebis.ne.jp
 taj2.ebis.ne.jp
@@ -31728,6 +31732,8 @@ tapad.com
 tapcreatives.host
 tapcreatives.net
 tapdaq-adverts.global.ssl.fastly.net
+tapdb.com
+tapdb.net
 tapfiliate.com
 tapinfluence.com
 tapit.com
@@ -33235,6 +33241,7 @@ track.libii.cn
 track.list-finder.jp
 track.mailerlite.com
 trackmethod.com
+track.miro.com
 track-mixer.ru
 track.mobshark.net
 track.mopo.de
@@ -46962,6 +46969,7 @@ www.fitfatdeals.com
 www.fitfulrigorous.com
 www.five88.biz
 www.five88.com
+www.five88.me
 www.five88.net
 www.fivecdm.com
 www.fivevn.net
@@ -47895,7 +47903,6 @@ www.getsmartcontent.com
 www.getsmartlook.com
 www.getstatistics.se
 www.getstat.net
-www.getsupernova.com
 www.gettopup.com
 www.gettraff.com
 www.getuplinks.ru
@@ -54679,6 +54686,7 @@ www.newscurve.com
 www.news-easy.org
 www.newseek.org
 www.newsforbest.net
+www.news-good.net
 www.news-headlines.co
 www.newsinform.net
 www.news-jupiter.com
@@ -60125,6 +60133,7 @@ www.shadowlegends.pro
 www.shaidolt.com
 www.shaimsoo.net
 www.shakamech.com
+www.shakegoldfish.com
 www.shakensuspendsaxophone.com
 www.shakentherepasta.com
 www.shakesea.com
@@ -61892,6 +61901,7 @@ www.taimacau.club
 www.taiphaib.net
 www.taishijian.com
 www.taiv8.com
+www.taiv8.info
 www.taiwhups.net
 www.tajxgs.com
 www.takeslobsgel.com
@@ -61939,6 +61949,8 @@ www.taoyuay.top
 www.tapad.com
 www.tapcreatives.host
 www.tapcreatives.net
+www.tapdb.com
+www.tapdb.net
 www.tapfiliate.com
 www.tapinfluence.com
 www.tapit.com
