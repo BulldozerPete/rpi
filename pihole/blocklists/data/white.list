@@ -2,25 +2,24 @@
 script.ioam.de
 tagger.opecloud.com
 tags.tiqcdn.com
-asadcdn.com
 www.asadcdn.com
 
 # Amazon
+aan.amazon.com
+aax-eu-retail-direct.amazon-adsystem.com
+aax-eu.amazon-adsystem.com
+aax.amazon-adsystem.com
+c.amazon-adsystem.com
 fls-eu.amazon.com
 fls-eu.amazon.de
-aan.amazon.com
-aax.amazon-adsystem.com
-aax-eu.amazon-adsystem.com
-aax-eu-retail-direct.amazon-adsystem.com
-c.amazon-adsystem.com
 
 # Apps (Mobile)
-app.link
-mobilesdk-us.kampyle.com
-sdk.split.io
 #app-measurement.com
-sb.scorecardresearch.com
+app.link
 fundingchoicesmessages.google.com
+mobilesdk-us.kampyle.com
+sb.scorecardresearch.com
+sdk.split.io
 
 # Apple
 iphone-ld.apple.com
@@ -31,28 +30,28 @@ stats.gc.apple.com
 token.safebrowsing.apple
 
 # Cookies (Spiegel/...)
+aggregator.service.usercentrics.eu
 cdn.cookielaw.org
 cdn.privacy-mgmt.com
 consentcdn.cookiebot.com
 consentcdn.cookiebot.com-v1.edgekey.net
-test.quantcast.mgr.consensu.org
-aggregator.service.usercentrics.eu
 graphql.usercentrics.eu
 message331.sp-prod.net
 spiegel-de.spiegel.de
+test.quantcast.mgr.consensu.org
 
 # Disney+
-js-agent.newrelic.com
 akamai-san39.exacttarget.com.edgekey.net
 image.mail.disneyplus.com
+js-agent.newrelic.com
 
 # DNS
 whoami.akamai.net
 
 # Facebook
+connect.facebook.com
 graph.facebook.com
 graph.instagram.com
-connect.facebook.com
 
 # FAZ
 consent.faz.net
@@ -63,29 +62,31 @@ user-images.githubusercontent.com
 # Google
 #analytics.google.com
 #google-analytics.com
-#www.google-analytics.com
 #googletagmanager.com
-#www.googletagmanager.com
 #googletagservices.com
-#www.googletagservices.com
 #ssl-google-analytics.l.google.com
 #ssl.google-analytics.com
 #www-google-analytics.l.google.com
 #www-googletagmanager.l.google.com
+#www.google-analytics.com
+#www.googletagmanager.com
+#www.googletagservices.com
 
 # Kicker Mobile App
-interaction.apester.com
-img.apester.com
-static.apester.com
-events.apester.com
 display.apester.com
+events.apester.com
+img.apester.com
+interaction.apester.com
 renderer.apester.com
+static.apester.com
 
 # Microsoft
 arc.msn.com
 browser.pipe.aria.microsoft.com
+dc.services.visualstudio.com
 g.live.com
 g.msn.com
+global.in.ai.privatelink.monitor.azure.com
 mobile.pipe.aria.microsoft.com
 self-events-data.trafficmanager.net
 self.events.data.microsoft.com
@@ -94,16 +95,16 @@ v10.events.data.microsoft.com
 v20.events.data.microsoft.com
 
 # Netflix
+#dualstack.beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
+customerevents.netflix.com
 ichnaea.netflix.com
 nrdp.prod.ftl.netflix.com
 push.prod.netflix.com
-customerevents.netflix.com
-#dualstack.beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 
 # Nintendo
-image.ccg.nintendo.net
-image.ccg.nintendo.com
 a1843.g.akamai.net
+image.ccg.nintendo.com
+image.ccg.nintendo.net
 
 # NVidia
 events.gfe.nvidia.com
@@ -119,40 +120,40 @@ tag.aticdn.net
 t.paypal.com
 
 # Referral Clicks
+a.nonstoppartner.net
 ad.doubleclick.net
-googleadservices.com
-www.googleadservices.com
 adservice.google.com
 adservice.google.de
 clickserve.dartsearch.net
+googleadservices.com
+mydealz.digidip.net
 pixel.everesttech.net
 promo.mobile.de
-mydealz.digidip.net
 trk.klclick.com
-a.nonstoppartner.net
+www.googleadservices.com
 
 # Shopping
 widgets.trustedshops.com
 
 # Streaming/Videos
 cdn2.cam-content.com
-hw-cdn2.adtng.com
+cws-eu.conviva.com
 hw-cdn.trafficjunky.net
+hw-cdn2.adtng.com
 hw-cdn2.trafficjunky.net
+js-sec.indexww.com
 redefine.hit.stat24.com
 s2.static.cfgr3.com
-vz-cdn2.adtng.com
-vz-cdn.trafficjunky.net
-vz-cdn2.trafficjunky.net
-videos-fms.jwpsrv.com
-js-sec.indexww.com
 uim.tifbs.net
-cws-eu.conviva.com
+videos-fms.jwpsrv.com
+vz-cdn.trafficjunky.net
+vz-cdn2.adtng.com
+vz-cdn2.trafficjunky.net
 
 # Twitch
+countess.twitch.tv
 static-cdn.jtvnw.net
 supervisor.ext-twitch.tv
-countess.twitch.tv
 
 # Twitter
 analytics.twitter.com
@@ -162,8 +163,8 @@ syndication.twitter.com
 cdn.optimizely.com
 
 # XBox
-image.engage.xbox.com
 click.engage.xbox.com
+image.engage.xbox.com
 
 # Youtube
 s.youtube.com
@@ -172,6 +173,6 @@ s.youtube.com
 r3.o.lencr.org
 
 # Zoom
-logfiles.zoom.us
-log.zoom.us
 click.zoom.us
+log.zoom.us
+logfiles.zoom.us
