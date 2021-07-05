@@ -42,18 +42,17 @@
 # 15. Source: 15494 - https://someonewhocares.org/hosts/
 # 16. Source: 3548 - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 # 17. Source: 81739 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 18. Source: 253336 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-# 19. Source: 1441 - https://urlhaus.abuse.ch/downloads/hostfile/
-# 20. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 578250
+# 18. Source: 1445 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 19. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
+# #. Source: 324918
 
 Statistik mini.txt:
-== Source (unique): 311282
-++ Black:           312135 (+853)
--- White:           309205 (-2930)
--- Dead:            259477 (-49728)
--- Exclude:         259421 (-56)
-++ Block:           259424 (+3)
--- Unblock:         257887 (-1537)
-++ WWW-Domains:     287255 (+29368)
-++ FLD-Domains:     288924 (+1669)
+== Source (unique): 216782
+++ Black:           217635 (+853)
+-- White:           214833 (-2802)
+-- Dead:            165676 (-49157)
+-- Exclude:         165620 (-56)
+++ Block:           165623 (+3)
+-- Unblock:         164493 (-1130)
+++ WWW-Domains:     193865 (+29372)
+++ FLD-Domains:     194639 (+774)
