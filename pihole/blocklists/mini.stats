@@ -18,7 +18,7 @@
 # Exclude fake.txt: 10458
 # Exclude: 10458
 
-# Whitelist: 49598
+# Whitelist: 49662
 # Deadlist: 433897
 
 # Blacklist global: 865
@@ -26,29 +26,24 @@
 # Blacklist: 865
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
-# 2. Source: 15013 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-# 3. Source: 51485 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
-# 4. Source: 12922 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-# 5. Source: 68826 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
-# 6. Source: 72000 - https://dbl.oisd.nl/basic/
-# 7. Source: 334 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-# 8. Source: 40027 - https://phishing.army/download/phishing_army_blocklist_extended.txt
-# 9. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
-# 10. Source: 8224 - https://adaway.org/hosts.txt
-# 11. Source: 755 - https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
-# 12. Source: 15494 - https://someonewhocares.org/hosts/
-# 13. Source: 3548 - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
-# 14. Source: 81739 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 15. Source: 1110 - https://urlhaus.abuse.ch/downloads/hostfile/
-# 16. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 381090
+# 2. Source: 51485 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
+# 3. Source: 12922 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
+# 4. Source: 68826 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 5. Source: 72000 - https://dbl.oisd.nl/basic/
+# 6. Source: 40027 - https://phishing.army/download/phishing_army_blocklist_extended.txt
+# 7. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+# 8. Source: 8224 - https://adaway.org/hosts.txt
+# 9. Source: 81739 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# 10. Source: 1115 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 11. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
+# #. Source: 345951
 
 Statistik mini.txt:
-== Source (unique): 222917
-++ Black:           223773 (+856)
--- White:           222534 (-1239)
--- Dead:            176533 (-46001)
--- Exclude:         176478 (-55)
--- Unblock:         174836 (-1657)
-++ WWW-Domains:     199592 (+24756)
-++ FLD-Domains:     199940 (+348)
+== Source (unique): 206978
+++ Black:           207834 (+856)
+-- White:           206714 (-1120)
+-- Dead:            162759 (-43955)
+-- Exclude:         162704 (-55)
+-- Unblock:         161070 (-1648)
+++ WWW-Domains:     173802 (+12732)
+++ FLD-Domains:     174175 (+373)
