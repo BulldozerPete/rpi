@@ -30,9 +30,9 @@
 # 5. Source: 9922 - https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains
 # 6. Source: 1486 - https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains
 # 7. Source: 898 - https://v.firebog.net/hosts/static/w3kbl.txt
-# 8. Source: 51471 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
+# 8. Source: 51473 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 9. Source: 12922 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-# 10. Source: 68773 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 10. Source: 68856 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 11. Source: 72004 - https://dbl.oisd.nl/basic/
 # 12. Source: 334 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 # 13. Source: 39712 - https://phishing.army/download/phishing_army_blocklist_extended.txt
@@ -43,11 +43,11 @@
 # 18. Source: 15494 - https://someonewhocares.org/hosts/
 # 19. Source: 3548 - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 # 20. Source: 81739 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 21. Source: 1142 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 21. Source: 1154 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 22. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
 #
 # ---------------------------------------------
-# 207839 Domains - V2021.07.06-13:20:00
+# 207851 Domains - V2021.07.06-13:45:30
 # ---------------------------------------------
 #
 0.0.0.0.beeglivesex.com
@@ -33908,6 +33908,7 @@ dcclaa.bunte.de
 dcclaa.daskochrezept.de
 dcclaa.freundin.de
 dccss.banggood.com
+dc.cuberoot.co
 dcdilhaybpzkvj.com
 dcdn.adnxs.com
 dcdz5xfv4nws.com
@@ -33953,6 +33954,7 @@ dco-pix.mathtag.com
 d.corpns.emailvision.net.daraz.com
 dco.urekamedia.com
 dc.plussizetech.com
+dcpub.cuberoot.co
 dcqsvxuetj.com
 dc.railgun.works
 dcrecycle.top
@@ -64401,6 +64403,7 @@ lp.sharelive.net
 lpsnmedia.net
 lp.solaredge.com
 lp.sophos.com
+lps.qantas.com
 lptag.liveperson.net
 lp.takeo.co.jp
 lp.titanpoker.com
@@ -91676,6 +91679,7 @@ ping-fast.com
 pingfore.qq.com
 pingfore.soso.com
 ping.getadblock.com
+ping.hashnode.com
 ping.hellobar.com
 ping-hqx-1.go2speed.media
 ping.hungama.com
@@ -99292,7 +99296,6 @@ restroyhyt.club
 rest.sharethis.com
 rest.zzn.com
 resu8.hjfile.cn
-res.uf1.cn
 resulticks.com
 resultlinks.com
 resultplus.jp
@@ -104103,6 +104106,7 @@ sentry.mba
 sentry.mediacdn.vn
 sentry.nullrefexcep.com
 sentry-proxy.hotjar.com
+senxiaopang.top
 senzapudore.it
 seo1011.vip
 seo4india.com
@@ -105176,6 +105180,7 @@ shirohanastaff.org
 shiroyui.blogspot.com
 shishishiguixinfangfuzhuangshanghan.cn
 shisuh.com
+shitao.xyz
 shitiphu.com
 shivajischools.com
 shivakunwar.com.np
@@ -112126,6 +112131,7 @@ stattds.club
 stat.teleport.media
 stat.thestartmagazine.com
 stat.tianya.cn
+stat.tiara.daum.net
 stat.tiara.kakao.com
 stat.tiara.kakaocorp.com
 stat.tildacdn.com
@@ -190246,6 +190252,7 @@ www.sentrapromosi.com
 www.sentrol.cl
 www.sentry-cdn.com
 www.sentry.mba
+www.senxiaopang.top
 www.senzapudore.it
 www.seo1011.vip
 www.seo4india.com
@@ -190867,6 +190874,7 @@ www.shirohanastaff.org
 www.shiroyui.blogspot.com
 www.shishishiguixinfangfuzhuangshanghan.cn
 www.shisuh.com
+www.shitao.xyz
 www.shitiphu.com
 www.shivajischools.com
 www.shivbazarmarketing.com
@@ -203387,6 +203395,7 @@ www.york-oddam.dnsrobotuptime.ru
 www.yormedia.com
 www.yosemitemanagement.com
 www.yoshatia.com
+www.yosjob.cn
 www.yotafiles.com
 www.yotefiles.com
 www.yotraff.com
@@ -203709,6 +203718,7 @@ www.yumylunchbox.com
 www.yumylunchbox.restaurants-hiring.com
 www.yun999.top
 www.yunchong6.cn
+www.yundad.com
 www.yundingmap.com
 www.yun.ir
 www.yunit.org
@@ -206288,6 +206298,7 @@ yormedia.com
 yormedia-isr-gbp-d.openx.net
 yosemitemanagement.com
 yoshatia.com
+yosjob.cn
 yotafiles.com
 yotefiles.com
 yoto-d.openx.net
@@ -206688,6 +206699,7 @@ yumylunchbox.com
 yun999.top
 yunali.gtacomputer.com
 yunchong6.cn
+yundad.com
 yundingmap.com
 yun.ir
 yunit.org
