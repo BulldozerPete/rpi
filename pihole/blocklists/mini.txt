@@ -20,7 +20,7 @@
 # ---------
 #
 # Exclude: 10460
-# Whitelist: 49639
+# Whitelist: 49598
 # Deadlist: 433897
 # Blacklist: 865
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
@@ -37,11 +37,11 @@
 # 12. Source: 15494 - https://someonewhocares.org/hosts/
 # 13. Source: 3548 - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 # 14. Source: 81739 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 15. Source: 1122 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 15. Source: 1119 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 16. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
 #
 # ---------------------------------------------
-# 199879 Domains - V2021.07.06-20:20:22
+# 199886 Domains - V2021.07.06-20:29:04
 # ---------------------------------------------
 #
 0.0.0.0.beeglivesex.com
@@ -5819,6 +5819,7 @@ adc.9news.com.au
 adcache.nymag.com
 adc-ad-assets.adtilt.com
 adcade.com
+ad.ca.doubleclick.net
 adcaffe.com
 adcalm.com
 adcampaigns.sharewood.org
@@ -8714,6 +8715,7 @@ ads.iknowthatgirl.com
 ads.illuminatednation.com
 ads.imagistica.com
 ads.imarketservices.com
+ads.imeem.com
 ad.simflight.com
 ad.simgames.net
 ads.img.co.za
@@ -11509,6 +11511,7 @@ a.kidstaff.net
 akihabaranews.us.intellitxt.com
 akiko.f9.co.uk
 ak.imgaft.com
+ak.imgfarm.com
 akingsslativ.club
 akirasushi.com.vn
 akirkpatrick.com
@@ -25457,6 +25460,7 @@ cimcpatna.com
 c.imedia.cz
 cimme-sodimat.fr
 cimoghuk.net
+ci-mpsnare.iovation.com
 c.imrk.net
 cinac.ru
 cinamuse.com
@@ -26040,7 +26044,6 @@ clickgate05.biz
 clickgate.biz
 click.get-answers-fast.com
 click.glamsquad.com
-click.google-analytics.com
 click.googleanalytics.com
 click.goraps.com
 click.gospect.com
@@ -32685,7 +32688,6 @@ dexplatform.com
 dexpredict.com
 dextersolutions.actonservice.com
 deyidesign.com
-dezcom.com
 de.zettle.com
 dezinsectiederatizare.ro
 dezlive.com
@@ -44600,6 +44602,7 @@ globalmaxis.com
 globalmed.actonservice.com
 global-mobile-apps-repository.life
 globalmodels.pl
+global.msads.net
 global.msmtrakk06d.com
 global.netcoresmartech.com
 globalnetinternet.com
@@ -65517,6 +65520,7 @@ metrics.three.co.uk
 metrics.three.ie
 metrics.thrivent.com
 metrics.tiaa-cref.org
+metrics.ticketmaster.com
 metrics.timeinc.net
 metrics.timewarnercable.com
 metrics.tim.it
@@ -85654,7 +85658,6 @@ page99group.com
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
 pagead46.googlesyndication.com
-pagead46.l.doubleclick.net
 pagead-googlehosted.l.google.com
 pagead.l.google.com
 pagead.topobiavi.com
@@ -91112,6 +91115,7 @@ progressive.lp.mydas.mobi
 progresso.am.br
 pro-hacks.com
 prohibited.cn
+pro.hit.gemius.pl
 pro.hit.stat24.com
 prohoster.biz
 proindianews.in
@@ -91889,6 +91893,7 @@ pub.adflex.vn
 pub.admanmedia.com
 pub.admedia.io
 pubadmin.adpone.com
+pubads.g.doubleclick.net
 pubaka5.com
 pub-api.supersonicads.com
 pub.automatad.com
@@ -97754,7 +97759,6 @@ sand.api.adnxs.com
 sandbella.com
 sandbox.car10.net.daraz.com
 sandbox.duapps.com
-sandbox.google-analytics.com
 sandbox.googleanalytics.com
 sandbox.ht.indexexchange.com
 sandbox.livejasmin.com
@@ -98991,6 +98995,7 @@ secure.anz.click
 secure-asia.imrworldwide.com
 secure-assets.rubiconproject.com
 secure.audienceinsights.net
+secure-au.imrworldwide.com
 secure-auth-personal-device.com
 secure.ayads.co
 secure.badb5refl.com
@@ -100131,6 +100136,7 @@ services.hearstmags.com
 serviceshelpers.com
 services.hmhost.co.uk
 services.insurads.com
+services.krxd.net
 services.net.daraz.com
 service.sponsorpay.com
 services.runescape.com-ak.ru
@@ -101246,6 +101252,7 @@ silver-ring.ru
 silverupload.com
 silvervescence.co.uk
 silvets.pl
+sim1.bluecrushe.com
 simage2.pubmatic.com
 simaoer.com
 simba.6.cn
@@ -120888,6 +120895,7 @@ webspectator.com
 webspiration.de
 websponsors.com
 webstag.kplus.vn
+webstat.channel4.com
 web-stat.com
 webstat.com
 webstat.freaks4u.com
@@ -139339,7 +139347,6 @@ www.dexlerholdings.com
 www.dexplatform.com
 www.dexpredict.com
 www.deyidesign.com
-www.dezcom.com
 www.dezinsectiederatizare.ro
 www.dezlive.com
 www.dezuiderzee.org

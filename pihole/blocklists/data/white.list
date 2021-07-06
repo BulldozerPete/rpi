@@ -14,7 +14,7 @@ fls-eu.amazon.com
 fls-eu.amazon.de
 
 # Apps (Mobile)
-app-measurement.com
+# app-measurement.com
 app.link
 fundingchoicesmessages.google.com
 mobilesdk-us.kampyle.com
@@ -60,17 +60,17 @@ consent.faz.net
 user-images.githubusercontent.com
 
 # Google
-analytics.google.com
-google-analytics.com
-googletagmanager.com
-googletagservices.com
-ssl-google-analytics.l.google.com
-ssl.google-analytics.com
-www-google-analytics.l.google.com
-www-googletagmanager.l.google.com
-www.google-analytics.com
-www.googletagmanager.com
-www.googletagservices.com
+# analytics.google.com
+# google-analytics.com
+# googletagmanager.com
+# googletagservices.com
+# ssl-google-analytics.l.google.com
+# ssl.google-analytics.com
+# www-google-analytics.l.google.com
+# www-googletagmanager.l.google.com
+# www.google-analytics.com
+# www.googletagmanager.com
+# www.googletagservices.com
 id.google.com
 
 # Kicker Mobile App
@@ -133,6 +133,7 @@ trk.klclick.com
 www.googleadservices.com
 m.exactag.com
 tp-emea.exactag.com
+pagead46.l.doubleclick.net
 
 # Shopping
 widgets.trustedshops.com
