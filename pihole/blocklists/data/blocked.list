@@ -32,6 +32,7 @@ ads-api.twitter.com
 ads.api.vungle.com
 adsco.re
 adsdk.yandex.ru
+adserver.71i.de
 ads.facebook.com
 ads.flurry.com
 ads.golem.de
@@ -128,6 +129,7 @@ axelspringerse.demdex.net
 balanced-engage.deltadna.net
 bam-cell.nr-data.net
 bang-4-buck.com
+bat.bing.com
 bat-bing-com.a-0001.a-msedge.net
 beaconimages.netflix.net
 beacon.krxd.net
@@ -150,6 +152,7 @@ ca.iadsdk.apple.com
 capture.trackjs.com
 cdn10.trafficjunky.net
 cdn2.teads.tv
+cdn.adnxs.com
 cdn.adsafeprotected.com
 cdn.adtriba.com
 cdn.amplitude.com
@@ -162,6 +165,7 @@ cdn.bunchbox.co
 cdn.c-i.as
 cdn.cloudimagesb.com
 cdn.contalyze.com
+cdn.cxense.com
 cdn.districtm.io
 cdn-eu.dynamicyield.com
 cdn.exactag.com
@@ -187,6 +191,7 @@ cdn.trackjs.com
 cdntrf.com
 cdn.trustcommander.net
 cdn.tsyndicate.com
+cdn.userreport.com
 cdn.yourwebbars.com
 cdrvrs.com
 celeritascdn.com
@@ -208,6 +213,7 @@ cms.analytics.yahoo.com
 code.etracker.com
 collect21794pprsf.deltadna.net
 collector-7405.tvsquared.com
+collector.githubapp.com
 collector-pxikkul2rm.px-cdn.net
 collector-pxikkul2rm.pxchk.net
 collector-pxikkul2rm.px-cloud.net
@@ -247,6 +253,7 @@ d3g5ovfngjw9bw.cloudfront.net
 d81mfvml8p5ml.cloudfront.net
 d9.flashtalking.com
 d.adup-tech.com
+d.agkn.com
 d.applovin.com
 d.applvn.com
 data-0c1a280f84.golem.de
@@ -280,10 +287,12 @@ dmp.theadex.com
 dmx.districtm.io
 d.nativendo.de
 dnhfi5nn2dt67.cloudfront.net
+dpm.demdex.net
 dualstack.beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 dualstack.beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com
 dumontnet.tt.omtrdc.net
 dyn.emetriq.de
+e1cd4958785f7e0dcfaee56d57a7db4096b34051.cws.conviva.com
 eb2.3lift.com
 edinburghemotionalalive.com
 e.maxtraffic.com
@@ -297,6 +306,7 @@ eum.instana.io
 eu-tlp01.kameleoon.eu
 eu-tlp02.kameleoon.eu
 eu-tlp04.kameleoon.eu
+eu-tlp07.kameleoon.eu
 events.cid.samba.tv
 events.redditmedia.com
 extmaps-api.yandex.net
@@ -311,10 +321,12 @@ firebase-settings.crashlytics.com
 flash.doubleclick-analytics.com
 fmdata.imgsmail.ru
 fp.msedge.net
+fra1-ib.adnxs.com
 fsb.hextom.com
 fti.d3.sc.omtrdc.net
 fti.demdex.net
 funke.amp.permutive.com
+gcdn.2mdn.net
 generaltracking.de
 geolocation.stroeerdp.de
 get.s-onetag.com
@@ -350,6 +362,7 @@ ht.tube8.com
 ht.xtube.com
 hubtraffic.com
 ib.3lift.com
+ib.adnxs.com
 ib.anycast.adnxs.com
 ib.sin1.geoadnxs.com
 ic3.events.data.microsoft.com
@@ -380,11 +393,13 @@ join.livecamsgratis.com
 js.adara.com
 js.adscale.de
 js.adsrvr.org
+js.agkn.com
 js.appboycdn.com
 jsc.mgid.com
 js.hscta.net
 js.monitor.azure.com
 json.geoiplookup.io
+js-sec.casalemedia.com.edgekey.net
 ksta.met.vgwort.de
 l96jc26jvj.kameleoon.eu
 launches.appsflyer.com
@@ -474,6 +489,7 @@ ot.obi.de
 p16-ad-sg.ibyteimg.com
 p.adsymptotic.com
 pagead2.googlesyndication.com
+pagead46.l.doubleclick.net
 payingnoodlescam.com
 pdw-usr.userreport.com
 ping.chartbeat.net
@@ -507,11 +523,13 @@ profile.localytics.com
 profiles.tagger.opecloud.com
 propeller-tracking.com
 prophet.heise.de
+p.typekit.net-v3.edgekey.net
 pubnative.info
 pub-sdk-cfg.criteo.com
 p.vtracy.de
 px1.vtrtl.de
 px.ads.linkedin.com
+px.moatads.com
 pyxis.iad.appboy.com
 quartermedia.de
 radar.cedexis.com
@@ -561,6 +579,7 @@ scomcluster.cxense.com
 script.4dex.io
 scripts.jixie.io
 scripts.webcontentassessor.com
+sc-static.net
 s.d.adup-tech.com
 sdk-api-v1.singular.net
 sdkconfig.ad.intl.xiaomi.com
@@ -570,6 +589,8 @@ sdk.iad-01.braze.com
 search.spotxchange.com
 secure.adnxs.com
 secure-adnxs.edgekey.net
+secure-dcr.imrworldwide.com
+secure-ds.serving-sys.com
 secure-eu.nmrodam.com
 secure.make6pain.com
 securepubads.g.doubleclick.net
@@ -608,9 +629,11 @@ ssum-sec.casalemedia.com
 stadtbremerhaven.digidip.net
 stan.xing.com
 static.addtoany.com
+static.adsafeprotected.com
 static.ads-twitter.com
 static.am5.vip.prod.criteo.net
 static-cdn.hotjar.com
+static.cleverpush.com
 static.criteo.net
 static-de.plista.com
 static.digidip.net
@@ -732,7 +755,10 @@ www.econda-monitor.de
 www.everestjs.net
 www.fastly-insights.com
 www.fdrptpyxchzjk.com
+www.google-analytics.com
 www.googleoptimize.com
+www.googletagmanager.com
+www.googletagservices.com
 www.guvivqlbh.com
 www.imglnke.com
 www.performancetrustednetwork.com
