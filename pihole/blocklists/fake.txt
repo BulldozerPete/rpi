@@ -20,14 +20,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 49240
-# Deadlist: 424204
-# Blacklist: 1681
+# Whitelist: 40357
+# Deadlist: 432986
+# Blacklist: 1674
 # 1. Source: 4421 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1482 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10494 Domains - V2021.07.05-22:03:52
+# 10460 Domains - V2021.07.06-08:06:42
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -186,7 +186,6 @@ allianz-oberstdorf.de
 allsoccer.co
 alltogether.shop
 alltvb.com
-allunias.com
 almacoco.org
 almighty-offers.com
 alo-car.com
@@ -455,7 +454,6 @@ belacova.com
 belkbabgi.com
 belladde.com
 bellas-viecherlseite.de
-bellecot.com
 bellesasa.com
 belletaka.com
 belstaffofficial.com
@@ -563,7 +561,6 @@ biofroh.at
 bioherby.de
 bio-kammerjaeger.at
 biologichealing.com
-biologischestation.de
 biomedizin-voelker.de
 bios-batterie-cmos.de
 biotaix.de
@@ -844,10 +841,8 @@ cheshiry.com
 chesterfiel.de
 chestnutfive.com
 chicanti.com
-chicbm.com
 chichandbagsshop.com
 chicladdy.com
-chicrina.com
 chicsoda.de
 chicsoso.com
 chiliaug.com
@@ -931,7 +926,6 @@ collstein.com
 colorinko.com
 colorjoey.com
 colorkenken.shop
-comblazei.com
 comeyour.com
 comforttaxi.at
 comfy-bra.store
@@ -1076,9 +1070,7 @@ dctp-mw.de
 de2021.com
 de2021.ru
 de24tech.website
-dealix-corporation.com
 deal-plaza.com
-dealsbymike.com
 dealshopper.de
 dealviral.de
 decleaners.de
@@ -1127,7 +1119,6 @@ designer-second-hand-shop.com
 design-hollenstein.de
 designtalks.se
 desiree-wilhelm.at
-de-smart-financing.com
 destockforlife.com
 detempleshop.com
 detoxic.net
@@ -1174,7 +1165,6 @@ discom.at
 discount-bazar.com
 discounter24shop.com
 discountmade.store
-discount-zigaretten24.com
 diskretetreffen69.de
 diskretetreffen.at
 diskretetreffen.ch
@@ -1405,7 +1395,6 @@ eliteflirt.de
 elixir-of-life.at
 elke-stillberatung.at
 ellaclothy.com
-elladays.com
 ellalady.com
 ellalily.com
 ellecloset.com
@@ -1509,7 +1498,6 @@ ewoufhvow.myshopify.com
 exclusivekicks.co.uk
 exclusivekicks.shop
 excom-exergy.de
-exdreamy.com
 exklusif.de
 exklusivedates.at
 exklusiv-treffen.com
@@ -1537,7 +1525,6 @@ fabulous-k.com
 faburabrandworld.com
 factory2021.ru
 facyline.de
-fahrradbekleidungdeu.com
 fahrradbekleidung-onlines.de
 fahrradbekleidungs.de
 fahrrad-expert.de
@@ -1635,7 +1622,6 @@ fidvu.de
 fiercehealthfinance.com
 fighters-outlet.com
 fila-norge.com
-filastore.club
 fileusenet.de
 fillamoda.com
 filmado.de
@@ -1874,11 +1860,9 @@ gewinnerglueck.de
 ggv-tk.de
 ghostarmy.de
 gh-stadtwald.at
-ghyifellowe.site
 giabardi.shop
 gifnme.com
 giftrewards.me
-gigantos.store
 gigantwebhost.de
 gigausenet.de
 gigilovely.co
@@ -1896,7 +1880,6 @@ glanz-weinstrasse.at
 gletta.com
 globalcfdservice.com
 globaler-markt.com
-global-expressdelivery.com
 globallogisticltd.com
 globmedcent.com
 gloplay.de
@@ -2110,7 +2093,6 @@ healing-rock.de
 healthbenefitsf.com
 healthfirst.at
 healthnomc.com
-health-socks.de
 healthyfit.at
 hebamme-sophie.de
 hederich-co.de
@@ -2767,6 +2749,7 @@ liftr.eu
 ligaplay.de
 lighteu.de
 lightflix.de
+lightinthebox.com
 likelymore.com
 likelymorely.com
 lilabogen.de
@@ -5363,7 +5346,6 @@ www.allianz-oberstdorf.de
 www.allsoccer.co
 www.alltogether.shop
 www.alltvb.com
-www.allunias.com
 www.almacoco.org
 www.almighty-offers.com
 www.alo-car.com
@@ -5626,7 +5608,6 @@ www.belacova.com
 www.belkbabgi.com
 www.belladde.com
 www.bellas-viecherlseite.de
-www.bellecot.com
 www.bellesasa.com
 www.belletaka.com
 www.belstaffofficial.com
@@ -5729,7 +5710,6 @@ www.biofroh.at
 www.bioherby.de
 www.bio-kammerjaeger.at
 www.biologichealing.com
-www.biologischestation.de
 www.biomedizin-voelker.de
 www.bios-batterie-cmos.de
 www.biotaix.de
@@ -5999,10 +5979,8 @@ www.cheshiry.com
 www.chesterfiel.de
 www.chestnutfive.com
 www.chicanti.com
-www.chicbm.com
 www.chichandbagsshop.com
 www.chicladdy.com
-www.chicrina.com
 www.chicsoda.de
 www.chicsoso.com
 www.chiliaug.com
@@ -6077,7 +6055,6 @@ www.collstein.com
 www.colorinko.com
 www.colorjoey.com
 www.colorkenken.shop
-www.comblazei.com
 www.comeyour.com
 www.comforttaxi.at
 www.comfy-bra.store
@@ -6218,9 +6195,7 @@ www.dctp-mw.de
 www.de2021.com
 www.de2021.ru
 www.de24tech.website
-www.dealix-corporation.com
 www.deal-plaza.com
-www.dealsbymike.com
 www.dealshopper.de
 www.dealviral.de
 www.decleaners.de
@@ -6266,7 +6241,6 @@ www.designer-second-hand-shop.com
 www.design-hollenstein.de
 www.designtalks.se
 www.desiree-wilhelm.at
-www.de-smart-financing.com
 www.destockforlife.com
 www.detempleshop.com
 www.detoxic.net
@@ -6309,7 +6283,6 @@ www.discom.at
 www.discount-bazar.com
 www.discounter24shop.com
 www.discountmade.store
-www.discount-zigaretten24.com
 www.diskretetreffen69.de
 www.diskretetreffen.at
 www.diskretetreffen.ch
@@ -6538,7 +6511,6 @@ www.eliteflirt.de
 www.elixir-of-life.at
 www.elke-stillberatung.at
 www.ellaclothy.com
-www.elladays.com
 www.ellalady.com
 www.ellalily.com
 www.ellecloset.com
@@ -6638,7 +6610,6 @@ www.evo-house.com
 www.evo-pharmacy.com
 www.exclusivekicks.shop
 www.excom-exergy.de
-www.exdreamy.com
 www.exklusif.de
 www.exklusivedates.at
 www.exklusiv-treffen.com
@@ -6665,7 +6636,6 @@ www.fabulous-k.com
 www.faburabrandworld.com
 www.factory2021.ru
 www.facyline.de
-www.fahrradbekleidungdeu.com
 www.fahrradbekleidung-onlines.de
 www.fahrradbekleidungs.de
 www.fahrrad-expert.de
@@ -6762,7 +6732,6 @@ www.fidvu.de
 www.fiercehealthfinance.com
 www.fighters-outlet.com
 www.fila-norge.com
-www.filastore.club
 www.fileusenet.de
 www.fillamoda.com
 www.filmado.de
@@ -6997,11 +6966,9 @@ www.gewinnerglueck.de
 www.ggv-tk.de
 www.ghostarmy.de
 www.gh-stadtwald.at
-www.ghyifellowe.site
 www.giabardi.shop
 www.gifnme.com
 www.giftrewards.me
-www.gigantos.store
 www.gigantwebhost.de
 www.gigausenet.de
 www.gigilovely.co
@@ -7019,7 +6986,6 @@ www.glanz-weinstrasse.at
 www.gletta.com
 www.globalcfdservice.com
 www.globaler-markt.com
-www.global-expressdelivery.com
 www.globallogisticltd.com
 www.globmedcent.com
 www.gloplay.de
@@ -7229,7 +7195,6 @@ www.healing-rock.de
 www.healthbenefitsf.com
 www.healthfirst.at
 www.healthnomc.com
-www.health-socks.de
 www.healthyfit.at
 www.hebamme-sophie.de
 www.hederich-co.de
@@ -7876,6 +7841,7 @@ www.liftr.eu
 www.ligaplay.de
 www.lighteu.de
 www.lightflix.de
+www.lightinthebox.com
 www.likelymore.com
 www.likelymorely.com
 www.lilabogen.de
