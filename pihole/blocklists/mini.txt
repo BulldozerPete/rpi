@@ -20,7 +20,7 @@
 # ---------
 #
 # Exclude: 10460
-# Whitelist: 52553
+# Whitelist: 52582
 # Deadlist: 433897
 # Blacklist: 865
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
@@ -37,11 +37,11 @@
 # 12. Source: 15494 - https://someonewhocares.org/hosts/
 # 13. Source: 3548 - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 # 14. Source: 81739 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 15. Source: 1120 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 15. Source: 1115 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 16. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
 #
 # ---------------------------------------------
-# 198623 Domains - V2021.07.06-20:07:42
+# 198613 Domains - V2021.07.06-20:13:39
 # ---------------------------------------------
 #
 0.0.0.0.beeglivesex.com
@@ -1289,6 +1289,7 @@
 2host.me
 2iiyrxk0.com
 2in1pill.com
+2.indexsinas.me
 2ip.ua
 2kata.ru
 2kl08cd74f.com
@@ -5786,7 +5787,6 @@ adc.9news.com.au
 adcache.nymag.com
 adc-ad-assets.adtilt.com
 adcade.com
-ad.ca.doubleclick.net
 adcaffe.com
 adcalm.com
 adcampaigns.sharewood.org
@@ -8658,7 +8658,6 @@ ads.iknowthatgirl.com
 ads.illuminatednation.com
 ads.imagistica.com
 ads.imarketservices.com
-ads.imeem.com
 ad.simflight.com
 ad.simgames.net
 ads.img.co.za
@@ -11435,7 +11434,6 @@ a.kidstaff.net
 akihabaranews.us.intellitxt.com
 akiko.f9.co.uk
 ak.imgaft.com
-ak.imgfarm.com
 akingsslativ.club
 akirasushi.com.vn
 akirkpatrick.com
@@ -25229,7 +25227,6 @@ cimcpatna.com
 c.imedia.cz
 cimme-sodimat.fr
 cimoghuk.net
-ci-mpsnare.iovation.com
 c.imrk.net
 cinac.ru
 cinamuse.com
@@ -44209,7 +44206,6 @@ globalmaxis.com
 globalmed.actonservice.com
 global-mobile-apps-repository.life
 globalmodels.pl
-global.msads.net
 global.msmtrakk06d.com
 global.netcoresmartech.com
 globalnetinternet.com
@@ -64998,7 +64994,6 @@ metrics.three.co.uk
 metrics.three.ie
 metrics.thrivent.com
 metrics.tiaa-cref.org
-metrics.ticketmaster.com
 metrics.timeinc.net
 metrics.timewarnercable.com
 metrics.tim.it
@@ -91256,7 +91251,6 @@ pub.adflex.vn
 pub.admanmedia.com
 pub.admedia.io
 pubadmin.adpone.com
-pubads.g.doubleclick.net
 pubaka5.com
 pub-api.supersonicads.com
 pub.automatad.com
@@ -94458,6 +94452,7 @@ restrictedsuccessive.com
 restroyhyt.club
 rest.sharethis.com
 resu8.hjfile.cn
+res.uf1.cn
 resulticks.com
 resultlinks.com
 resultplus.jp
@@ -98309,7 +98304,6 @@ secure.anz.click
 secure-asia.imrworldwide.com
 secure-assets.rubiconproject.com
 secure.audienceinsights.net
-secure-au.imrworldwide.com
 secure-auth-personal-device.com
 secure.ayads.co
 secure.badb5refl.com
@@ -99438,7 +99432,6 @@ services.hearstmags.com
 serviceshelpers.com
 services.hmhost.co.uk
 services.insurads.com
-services.krxd.net
 services.net.daraz.com
 service.sponsorpay.com
 services.runescape.com-ak.ru
@@ -104958,9 +104951,7 @@ ssl.dotpay.club
 ssl.eroscomix.com
 ssl.exelator.com
 ssl-geizhals.oewabox.at
-ssl.google-analytics.com
 ssl.googleanalytics.com
-ssl-google-analytics.l.google.com
 ssl.gridsumdissector.com
 ssl-helpgvat.oewabox.at
 ssl.hit.stat24.com
@@ -120071,7 +120062,6 @@ webspectator.com
 webspiration.de
 websponsors.com
 webstag.kplus.vn
-webstat.channel4.com
 web-stat.com
 webstat.com
 webstat.freaks4u.com
