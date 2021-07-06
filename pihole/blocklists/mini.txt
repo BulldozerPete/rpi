@@ -19,15 +19,15 @@
 # Statistik
 # ---------
 #
-# Exclude: 10460
+# Exclude: 10458
 # Whitelist: 49598
 # Deadlist: 433897
 # Blacklist: 865
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 # 2. Source: 15013 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-# 3. Source: 51473 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
+# 3. Source: 51485 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 4. Source: 12922 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-# 5. Source: 68856 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 5. Source: 68826 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 6. Source: 72000 - https://dbl.oisd.nl/basic/
 # 7. Source: 334 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 # 8. Source: 40027 - https://phishing.army/download/phishing_army_blocklist_extended.txt
@@ -37,11 +37,11 @@
 # 12. Source: 15494 - https://someonewhocares.org/hosts/
 # 13. Source: 3548 - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 # 14. Source: 81739 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 15. Source: 1119 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 15. Source: 1110 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 16. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
 #
 # ---------------------------------------------
-# 199886 Domains - V2021.07.06-20:29:04
+# 199940 Domains - V2021.07.06-20:55:25
 # ---------------------------------------------
 #
 0.0.0.0.beeglivesex.com
@@ -6020,6 +6020,7 @@ addkt.com
 addkt-d.openx.net
 ad.dlbooks.to
 ad.dl.dewezet.de
+a.ddli.jp
 addlog.thuvienphapluat.vn
 addme.com
 ad.dmm.com
@@ -20468,6 +20469,7 @@ bmbaike.cn
 bmbclayworks.ca
 bmcdn1.com
 bmcm.pw
+bmddea.com
 b.measuread.com
 bmedia.justservingfiles.net
 b.medtronic.com
@@ -24716,6 +24718,7 @@ cfirst.co.in
 cfjump.com
 cf.kampyle.com
 c.flx1.com
+cf-native.karte.io
 cformanalytics.com
 cf.overblog.com
 cfpsacademy.lk
@@ -26044,6 +26047,7 @@ clickgate05.biz
 clickgate.biz
 click.get-answers-fast.com
 click.glamsquad.com
+click.google-analytics.com
 click.googleanalytics.com
 click.goraps.com
 click.gospect.com
@@ -26290,6 +26294,7 @@ click-us.mppmnetwork.com
 click.vacasa.com
 clickvalidator.net
 click.vgnett.no
+click.vieon.vn
 clickvip.ru
 click.virt.exacttarget.com
 clickwallads.s3.amazonaws.com
@@ -30529,6 +30534,7 @@ cxgfq.pinlue.com
 cxgh.net
 cxi-api-staging.wootric.com
 cxi-api.wootric.com
+cxjju.cn
 cxjrsb.com
 cxmob.net
 cxmolk.com
@@ -34568,6 +34574,7 @@ drasticdifferentfoetus.com
 draulinehandon.info
 drawbacksubdue.com
 drawbrid.ge
+drawenjoy.cn
 drawnfrail.com
 drawnperink.com
 d.raw-ns.emailvision.net.daraz.com
@@ -39775,10 +39782,12 @@ fb0c32d2f28c.com
 fb202022.tcp4.me
 fb88club.com
 fb88.com
+fb88cup.com
 fb88en.com
 fb88go.com
 fb88.link
 fb88live.com
+fb88max.com
 fb88sports.com
 fb88viet.com
 fb-account-page.realdumpspdf.com
@@ -42395,6 +42404,7 @@ f.staticlp.com
 fstats.xyz
 fstrk.net
 fstsrv.com
+fsxzbs.cn
 fsyft.net
 fsyzcs.com
 fsz1.francoisesaget.com
@@ -45997,6 +46007,7 @@ googleadsrotterdam.com
 googleailesi.com
 googleanalytcs.com
 google-analyticals.com
+google-analytics.com
 googleanalytics.com
 googleapi.club
 googleapls.ru
@@ -46028,7 +46039,9 @@ google-search-bangladesh.ga
 google-shopping.sapoapps.vn
 googleshopping.sapoapps.vn
 googlesyndication.com
+googletagmanager.com
 googletagnamager.com
+googletagservices.com
 googlo.com
 googloe.com
 googlpe.com
@@ -46992,6 +47005,7 @@ greatviator.xyz
 greatviews.de
 greatwineideas.com
 grebibablo.com
+grecmaru.com
 gredinatib.biz
 gredinatib.info
 gredinatib.org
@@ -49886,6 +49900,7 @@ hpyrdr.com
 hpyue.com
 hpyx365.cn
 hq1.appsflyer.com
+hq33333.com
 hq3x.com
 hqae.cn
 hq.appsflyer.com
@@ -56425,6 +56440,7 @@ k8dl08.cc
 k8s2.testcentre.vn
 k8s.dable.io
 k8s-mock-server-2.hb-api.omtrdc.net
+k8sport.com
 k8vina17.com
 k8vn03.com
 k99k.com.pl
@@ -61061,6 +61077,7 @@ lovercash.com
 loverlampos.vzpla.net
 loverlywigs.com
 love.romanticcollection.ru
+loverzhou.club
 lovesickchild.blogspot.com
 lovestyl.com
 lovetk-d.openx.net
@@ -77209,6 +77226,7 @@ mlbsanfrancisco.112.2o7.net
 mlbstlouis.112.2o7.net
 mlbtoronto.112.2o7.net
 mlclick.com
+mlddvji.cn
 m.leadbolt.net
 mlfolu.nabava.net
 mlgrtn.com
@@ -90716,6 +90734,7 @@ priesty.com
 priiceline.com
 prijavi.net
 prijspakkertje.nl
+prikachi.net
 prikany.com
 pr.ikovrov.ru
 prilosec.1.p2l.info
@@ -92065,6 +92084,7 @@ pubstr.acspubs.org
 pub.sv2.biz
 pubs.xl.pt
 pubted.com
+pub.toku-tag.jp
 pub.trads.io
 pub.tx-hit.com
 pub.vacanceo.com
@@ -92769,6 +92789,7 @@ qhdfxkj.com
 qhdmqzc.cn
 qhdop.com
 qhfcsd.rastaclat.com
+qhgbkr.cn
 qhkhchjqawst.com
 qhmrasvwzbwjpz.com
 qhnwj.com
@@ -93199,6 +93220,7 @@ qumaef.conects.com
 qumagee.com
 quoashei.com
 quoinon.com
+quotedimpressive.com
 quote.renewmywarranty.com
 quotes.com
 quotex.io
@@ -97759,6 +97781,7 @@ sand.api.adnxs.com
 sandbella.com
 sandbox.car10.net.daraz.com
 sandbox.duapps.com
+sandbox.google-analytics.com
 sandbox.googleanalytics.com
 sandbox.ht.indexexchange.com
 sandbox.livejasmin.com
@@ -98417,6 +98440,7 @@ scrippsrecipezaar.112.2o7.net
 scrippswfts.112.2o7.net
 scrippswxyz.112.2o7.net
 scripsjeermint.com
+script-ad.mobadme.jp
 script.ag
 scriptall.ml
 script.bangdom.com
@@ -105685,7 +105709,9 @@ ssl.dotpay.club
 ssl.eroscomix.com
 ssl.exelator.com
 ssl-geizhals.oewabox.at
+ssl.google-analytics.com
 ssl.googleanalytics.com
+ssl-google-analytics.l.google.com
 ssl.gridsumdissector.com
 ssl-helpgvat.oewabox.at
 ssl.hit.stat24.com
@@ -112200,6 +112226,7 @@ tl2go.com
 tl813.com
 tlanddissipate.at
 tlauder.f9.co.uk
+tlccqcko.com
 tldtgs.com
 t.leady.com
 t.leady.cz
@@ -116306,7 +116333,6 @@ ububyiw6655.xyz
 ubvsjh.pointtown.com
 ubxvdx.accuweather.com
 uc4a.cn
-uc-56.ru
 uc610.com
 ucads.ucweb.com
 ucaii.com
@@ -118895,6 +118921,7 @@ vidyp.com
 vidzi.tv
 vienen.gblix.srv.br
 viensvoircesite.com
+vieon-tracking.vieon.vn
 viestra.com
 vietalle.com
 vietbet.eu
@@ -119889,6 +119916,7 @@ vytmrwglkink.wcnv20.cn
 vyule.com
 vyvoacademy.com
 vyyikx.sixt.ch
+vz681.com
 vzarabotke.ru
 vz-cdn2.contentabc.com
 vz-cdn.contentabc.com
@@ -120206,6 +120234,7 @@ wangmingsort.cn
 wangqing7.top
 wangqipu.com
 wangyuekun.xyz
+wangzibo.top
 w.anmeihe.cn
 wannawatch.com
 want7feed.com
@@ -122029,6 +122058,7 @@ woezon.agency
 wofjhs.com
 wogaa.sg
 wogoods.com
+wohchuuemjs.com
 woierkgjlfzsdurfofjsda.buzz
 woixov.elyts.ru
 woja-punktowa.eu
@@ -132986,6 +133016,7 @@ www.bmbaike.cn
 www.bmbclayworks.ca
 www.bmcdn1.com
 www.bmcm.pw
+www.bmddea.com
 www.bmfads.com
 www.bmfeed.ru
 www.bmgan.com
@@ -138158,6 +138189,7 @@ www.cxense.com
 www.cxepp.com
 www.cxfzw.cn
 www.cxgh.net
+www.cxjju.cn
 www.cxjrsb.com
 www.cxmob.net
 www.cxmolk.com
@@ -140485,6 +140517,7 @@ www.drasticdifferentfoetus.com
 www.draulinehandon.info
 www.drawbacksubdue.com
 www.drawbrid.ge
+www.drawenjoy.cn
 www.drawnfrail.com
 www.drawnperink.com
 www.drawservant.com
@@ -140862,7 +140895,6 @@ www.dziennik.warszawa.pl
 www.dziennik.waw.pl
 www.dziennikwschodni.ct8.pl
 www.dziewczyn.pl
-www.dzinestudio87.co.uk
 www.dzja119.com
 www.dzjv9gbu8a.com
 www.dzjzg.com
@@ -143481,10 +143513,12 @@ www.fb0c32d2f28c.com
 www.fb202022.tcp4.me
 www.fb88club.com
 www.fb88.com
+www.fb88cup.com
 www.fb88en.com
 www.fb88go.com
 www.fb88.link
 www.fb88live.com
+www.fb88max.com
 www.fb88sports.com
 www.fb88viet.com
 www.fbaccountrecoverer.com
@@ -145400,6 +145434,7 @@ www.fst360.com
 www.fstats.xyz
 www.fstrk.net
 www.fstsrv.com
+www.fsxzbs.cn
 www.fsyft.net
 www.fsyzcs.com
 www.fszhxd.com
@@ -147234,7 +147269,9 @@ www.googleadsrotterdam.com
 www.googleailesi.com
 www.googleanalytcs.com
 www.google-analyticals.com
+www.google-analytics.com
 www.googleanalytics.com
+www-google-analytics.l.google.com
 www.googleapi.club
 www.googleapls.ru
 www.google-apps.cz
@@ -147256,7 +147293,9 @@ www.googles-analytics.com
 wwwgoogles.com
 www.google-search-bangladesh.ga
 www.googlesyndication.com
+www.googletagmanager.com
 www.googletagnamager.com
+www.googletagservices.com
 www.googlo.com
 www.googloe.com
 www.googlpe.com
@@ -147595,6 +147634,7 @@ www.greatviator.xyz
 www.greatviews.de
 www.greatwineideas.com
 www.grebibablo.com
+www.grecmaru.com
 www.gredinatib.biz
 www.gredinatib.info
 www.gredinatib.org
@@ -149682,6 +149722,7 @@ www.hpyjmp.com
 www.hpyrdr.com
 www.hpyue.com
 www.hpyx365.cn
+www.hq33333.com
 www.hq3x.com
 www.hqae.cn
 www.hq-films.ws
@@ -153242,6 +153283,7 @@ www.k5rlzvkzwy.com
 www.k5zoom.com
 www.k77hof1z7k.com
 www.k8dl08.cc
+www.k8sport.com
 www.k8vina17.com
 www.k8vn03.com
 www.k99k.pl
@@ -156187,6 +156229,7 @@ www.loveplanets.space
 www.loverayeyard.com
 www.lovercash.com
 www.loverlywigs.com
+www.loverzhou.club
 www.lovesickchild.blogspot.com
 www.lovestyl.com
 www.lovett5.com
@@ -169296,6 +169339,7 @@ www.ml44.cn
 www.ml-attr.com
 www.mlbb732.ga
 www.mlclick.com
+www.mlddvji.cn
 www.mlgrtn.com
 www.mlib.browsermine.com
 www.mlion.cn
@@ -178060,6 +178104,7 @@ www.priesty.com
 www.priiceline.com
 www.prijavi.net
 www.prijspakkertje.nl
+www.prikachi.net
 www.prikany.com
 www.primalscreen.com.au
 www.primalsuper.com
@@ -179271,6 +179316,7 @@ www.qhdbfjx.com
 www.qhdfxkj.com
 www.qhdmqzc.cn
 www.qhdop.com
+www.qhgbkr.cn
 www.qhkhchjqawst.com
 www.qhmrasvwzbwjpz.com
 www.qhnwj.com
@@ -179596,6 +179642,7 @@ www.qujishu.com
 www.qumagee.com
 www.quoashei.com
 www.quoinon.com
+www.quotedimpressive.com
 www.quotes.com
 www.quotex.io
 www.quqizo.com
@@ -188662,6 +188709,7 @@ www.tl2go.com
 www.tl813.com
 www.tlanddissipate.at
 www.tlauder.f9.co.uk
+www.tlccqcko.com
 www.tldtgs.com
 www.tle.ru
 www.tljivh.com
@@ -190451,7 +190499,6 @@ www.ubsdashboardsmg.com
 www.ubt573.org
 www.ububyiw6655.xyz
 www.uc4a.cn
-www.uc-56.ru
 www.uc610.com
 www.ucaii.com
 www.ucatedcanc.top
@@ -192601,6 +192648,7 @@ www.vyhezucha.pro
 www.vystakugry.pro
 www.vyule.com
 www.vyvoacademy.com
+www.vz681.com
 www.vzarabotke.ru
 www.vznntmjdb.com
 www.vzpla.net
@@ -192746,6 +192794,7 @@ www.wangmingsort.cn
 www.wangqing7.top
 www.wangqipu.com
 www.wangyuekun.xyz
+www.wangzibo.top
 www.wannawatch.com
 www.want7feed.com
 www.wantaico.com
@@ -193877,6 +193926,7 @@ www.woezon.agency
 www.wofjhs.com
 www.wogaa.sg
 www.wogoods.com
+www.wohchuuemjs.com
 www.woierkgjlfzsdurfofjsda.buzz
 www.woja-punktowa.eu
 www.wojdn.com
@@ -194767,6 +194817,7 @@ www.xilemiao.com
 www.ximad.com
 www.ximupea.ru
 www.xineday.com
+www.xingchenweb.top
 www.xinghao89.com
 www.xingjuhe.com
 www.xingnu.site
@@ -195866,6 +195917,7 @@ www.yuanyanglw.com
 www.yudexjr.com
 www.yuebofa.cc
 www.yueduyy.com
+www.yueli101.xyz
 www.yueyuelao.cn
 www.yufuyan.cn
 www.yugaley.info
@@ -197236,6 +197288,7 @@ ximad.com
 ximupea.ru
 x.imwx.com
 xineday.com
+xingchenweb.top
 xinghao89.com
 xingjuhe.com
 xingnu.site
@@ -198741,6 +198794,7 @@ yubico.actonservice.com
 yudexjr.com
 yuebofa.cc
 yueduyy.com
+yueli101.xyz
 yueyuelao.cn
 yufuyan.cn
 yugaley.info
