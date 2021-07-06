@@ -20,7 +20,7 @@
 # ---------
 #
 # Exclude: 10460
-# Whitelist: 40357
+# Whitelist: 40358
 # Deadlist: 432986
 # Blacklist: 866
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
@@ -33,7 +33,7 @@
 # 8. Source: 51471 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 9. Source: 12922 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 # 10. Source: 68773 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
-# 11. Source: 72005 - https://dbl.oisd.nl/basic/
+# 11. Source: 72004 - https://dbl.oisd.nl/basic/
 # 12. Source: 334 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 # 13. Source: 39704 - https://phishing.army/download/phishing_army_blocklist_extended.txt
 # 14. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
@@ -43,11 +43,11 @@
 # 18. Source: 15494 - https://someonewhocares.org/hosts/
 # 19. Source: 3548 - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 # 20. Source: 81739 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 21. Source: 1440 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 21. Source: 1143 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 22. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
 #
 # ---------------------------------------------
-# 207799 Domains - V2021.07.06-08:15:26
+# 207801 Domains - V2021.07.06-11:04:24
 # ---------------------------------------------
 #
 0.0.0.0.beeglivesex.com
@@ -1354,6 +1354,7 @@
 2host.me
 2iiyrxk0.com
 2in1pill.com
+2.indexsinas.me
 2ip.ua
 2jm.com
 2kata.ru
@@ -13508,6 +13509,7 @@ allyes.com
 allyopenetic.info
 allywhistledpostman.com
 almacendecamping.com
+almacigoschile.cl
 almasatten.com
 almetasteyu.info
 almiranazelia.blogspot.com
@@ -14961,6 +14963,7 @@ andesrank.com
 andibringto.biz
 andishenegah.ir
 an.districtm.ca
+andmaindance.art
 andmlb.kshwtj.com
 and.noahapps.jp
 andohs.net
@@ -17106,7 +17109,6 @@ a.ria.ru
 ariatpl.top
 ariba.112.2o7.net
 ariboo.com
-aricamobilestore.cl
 aricilar.net
 arielpri2nce8ss09.com
 arielsmallartstudio.com
@@ -17136,6 +17138,7 @@ ark.aeriagames.us
 arka-gallery.ru
 arkalealb.site
 arkayne.com
+arkemagrup.com
 arkena.hb.omtrdc.net
 arketdiamon.space
 arkhadi.com
@@ -21989,7 +21992,6 @@ blis.com
 blisldgsqk.com
 blismedia.com
 blissfuldes.com
-blissfulnorth.com
 blissfulonline.com
 blissinstalls.com
 blissnet.net
@@ -30338,7 +30340,6 @@ content.adriver.ru
 content-ads.de
 content.adspynet.com
 contentagenda.pl
-content.aimatch.com
 content.allsafe.nl
 contentapi.celltick.com
 content.awaze.com
@@ -55122,6 +55123,7 @@ induglamour.com
 indumag.oewabox.at
 indus.iad-01.braze.com
 industriasecurity.com
+industriasyuli.com
 industrybrains.com
 industry.promo.skf.com
 indyscribe.com
@@ -57140,6 +57142,7 @@ ip193.cn
 ip1.ads.stickyadstv.com.akadns.net
 ip1.cdn.stickyadstv.com.akadns.net
 ip-208-109-15-233.ip.secureserver.net
+ip21.ip-142-44-224.net
 ip2.ads.stickyadstv.com.akadns.net
 ip2c.landscape.co.jp
 ip2location.com
@@ -59547,7 +59550,6 @@ kaishist.top
 kaitystein.com
 kaiu-marketing.com
 kaiyiluye.com
-kaizenjanitorial.com
 kaizenplatform.net
 kaizentraffic.com
 kakam.info
@@ -86045,6 +86047,7 @@ nzme-ads.co.nz
 nzmkzl.mytheresa.com
 nzopiswswp.com
 nzphoenix.com
+nz-prosthodontists.org.nz
 nz-ssl.effectivemeasure.net
 nztrimhg5fd1.com
 nztv.netzero.net
@@ -88826,6 +88829,7 @@ other.xxxcounter.com
 othesarialiber.club
 otheve.beacon.qq.com
 othyightmare.club
+otiasc01.top
 oticasviavisaojoinville.com.br
 otik.de
 otinekocin.com
@@ -104882,6 +104886,7 @@ sh.adingo.jp
 shadowfiend.info
 shadowharn.com
 shadowlegends.pro
+shadow-vpn.com
 shael.org
 shaexowi.com
 shafou.com
@@ -105191,6 +105196,7 @@ shoizifjwosvk.com
 shojovuptu.pro
 shokala.com
 s.holder.com.ua
+shomalhouse.com
 s.homedy.com
 shome.sca.samsung.com
 shoo5woop.com
@@ -105646,7 +105652,6 @@ silver-ring.ru
 silverupload.com
 silvervescence.co.uk
 silvets.pl
-sim1.bluecrushe.com
 simage2.pubmatic.com
 simaoer.com
 simba.6.cn
@@ -115118,7 +115123,6 @@ tdxbovmh.buzz
 td.yieldify.com
 t.dynad.net
 tdzvm.pw
-tea1047.cn
 te.about.com
 teachaboutpets.com
 teachcoexist.com
@@ -121277,7 +121281,6 @@ ububyiw6655.xyz
 ubvsjh.pointtown.com
 ubxvdx.accuweather.com
 uc4a.cn
-uc-56.ru
 uc610.com
 ucads.ucweb.com
 ucaii.com
@@ -134494,6 +134497,7 @@ www.allyes.com
 www.allyopenetic.info
 www.allywhistledpostman.com
 www.almacendecamping.com
+www.almacigoschile.cl
 www.almasatten.com
 www.almetasteyu.info
 www.almiranazelia.blogspot.com
@@ -134961,6 +134965,7 @@ www.andersondiamonds.com
 www.andesrank.com
 www.andibringto.biz
 www.andishenegah.ir
+www.andmaindance.art
 www.andohs.net
 www.andomedia.com
 www.andomediagroup.com
@@ -135691,7 +135696,6 @@ www.arianbco.ir
 www.arianelab.com
 www.ariatpl.top
 www.ariboo.com
-www.aricamobilestore.cl
 www.aricilar.net
 www.arielpri2nce8ss09.com
 www.arielsmallartstudio.com
@@ -135716,6 +135720,7 @@ www.arizonapuzzle.com
 www.arka-gallery.ru
 www.arkalealb.site
 www.arkayne.com
+www.arkemagrup.com
 www.arketdiamon.space
 www.arkhadi.com
 www.arkinhechershedt.info
@@ -138504,7 +138509,6 @@ www.blis.com
 www.blisldgsqk.com
 www.blismedia.com
 www.blissfuldes.com
-www.blissfulnorth.com
 www.blissfulonline.com
 www.blissinstalls.com
 www.blissnet.net
@@ -146897,7 +146901,6 @@ www.dziennik.warszawa.pl
 www.dziennik.waw.pl
 www.dziennikwschodni.ct8.pl
 www.dziewczyn.pl
-www.dzinestudio87.co.uk
 www.dzja119.com
 www.dzjv9gbu8a.com
 www.dzjzg.com
@@ -157211,6 +157214,7 @@ www.indpolice.com
 www.indrasbikaner.com
 www.induglamour.com
 www.industriasecurity.com
+www.industriasyuli.com
 www.industrybrains.com
 www.indyscribe.com
 www.inebuse.pl
@@ -159724,7 +159728,6 @@ www.kaishist.top
 www.kaitystein.com
 www.kaiu-marketing.com
 www.kaiyiluye.com
-www.kaizenjanitorial.com
 www.kaizenplatform.net
 www.kaizentraffic.com
 www.kakam.info
@@ -181437,6 +181440,7 @@ www.otherprofit.com
 www.othersonline.com
 www.othesarialiber.club
 www.othyightmare.club
+www.otiasc01.top
 www.oticasviavisaojoinville.com.br
 www.otik.de
 www.otinekocin.com
@@ -190608,6 +190612,7 @@ www.shadigipay.com
 www.shadowfiend.info
 www.shadowharn.com
 www.shadowlegends.pro
+www.shadow-vpn.com
 www.shael.org
 www.shaexowi.com
 www.shafou.com
@@ -190858,6 +190863,7 @@ www.shofteph.com
 www.shoizifjwosvk.com
 www.shojovuptu.pro
 www.shokala.com
+www.shomalhouse.com
 www.shoo5woop.com
 www.shoofgoal.com
 www.shoofle.tv
@@ -194928,7 +194934,6 @@ www.tdtsd.com
 www.tdugvspdnq.com
 www.tdxbovmh.buzz
 www.tdzvm.pw
-www.tea1047.cn
 www.teachaboutpets.com
 www.teachcoexist.com
 www.teachinc.org
@@ -197996,7 +198001,6 @@ www.ubsdashboardsmg.com
 www.ubt573.org
 www.ububyiw6655.xyz
 www.uc4a.cn
-www.uc-56.ru
 www.uc610.com
 www.ucaii.com
 www.ucatedcanc.top
@@ -204078,7 +204082,6 @@ www.zetadeo.com
 www.zetamm.com
 www.zeti.com
 www.zetreview.com
-www.zetsurinbusho.net
 www.zettapetta.com
 www.zettole.com
 www.zeusclicks.com
@@ -207198,7 +207201,6 @@ zetadeo.com
 zetamm.com
 zeti.com
 zetreview.com
-zetsurinbusho.net
 zettapetta.com
 zettole.com
 zeulo.anime-extremo.com
