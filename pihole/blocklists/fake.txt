@@ -20,14 +20,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 40357
-# Deadlist: 432986
+# Whitelist: 49598
+# Deadlist: 433897
 # Blacklist: 1674
 # 1. Source: 4421 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1482 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10460 Domains - V2021.07.06-08:06:42
+# 10458 Domains - V2021.07.06-20:47:18
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -2749,7 +2749,6 @@ liftr.eu
 ligaplay.de
 lighteu.de
 lightflix.de
-lightinthebox.com
 likelymore.com
 likelymorely.com
 lilabogen.de
@@ -7841,7 +7840,6 @@ www.liftr.eu
 www.ligaplay.de
 www.lighteu.de
 www.lightflix.de
-www.lightinthebox.com
 www.likelymore.com
 www.likelymorely.com
 www.lilabogen.de
