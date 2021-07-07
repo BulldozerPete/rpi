@@ -20,14 +20,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 49598
-# Deadlist: 433897
-# Blacklist: 1674
+# Whitelist: 49666
+# Deadlist: 429893
+# Blacklist: 1689
 # 1. Source: 4421 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1482 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10458 Domains - V2021.07.06-20:47:18
+# 10484 Domains - V2021.07.07-21:42:57
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -542,6 +542,7 @@ bikebox-market.com
 bikefamily-gmbh.de
 bike-hager.de
 bike-hagers.de
+bike-heller.de
 bike-himmel.de
 bike-hubo.de
 bike-radu.de
@@ -3090,6 +3091,7 @@ misshiny.com
 misslook.com
 misslook.net
 missmoana.com
+mister24bike.de
 misterjoux.com
 mister-tech.shop
 mitbote.de
@@ -3587,6 +3589,7 @@ pettitore.com
 pfaffe3000.de
 pfm-magazin.at
 pfotenschule-bremen.de
+pfs-bestemarkte.com
 pgr-hbg.de
 pharmagloveswholesale.com
 philippoehler.de
@@ -4743,16 +4746,25 @@ trivona.de
 trolert.com
 truckskill.com
 truefind-shop.com
+trusted-gold-shop-nr827133.de
 trusted-gold-shops.de
 trusted-goldshops-handel.de
 trusted-goldshops-liste.de
+trusted-goldshops-nr398273.de
+trusted-gold-shops-nr83582.de
 trusted-goldshops-nr9813.de
 trusted-immediate-edge.com
+trusted-onlineshop-nr18253.de
+trusted-onlineshop-nr29381.de
+trusted-onlineshop-nr9937.de
 trusted-onlineshops-liste.de
+trusted-onlineshops-nr773892.de
+trusted-shop-nr18373.de
 trusted-shops-goldlieferanten.de
 trusted-shops-in-deutschland.de
 trusted-shops-jetzt-bewerten.de
 trusted-shops-liste.de
+trusted-shops-nr3929.de
 trustfast.co
 truuly.de
 t-shirt811.webs.com
@@ -4973,6 +4985,7 @@ vivibay.com
 vividpretty.com
 vivilass.com
 vivishop.de
+vivomarkt.com
 vizoa.de
 vlshaulage.com
 vmeetang.com
@@ -5690,6 +5703,7 @@ www.bikebox-market.com
 www.bikefamily-gmbh.de
 www.bike-hager.de
 www.bike-hagers.de
+www.bike-heller.de
 www.bike-himmel.de
 www.bike-hubo.de
 www.bike-radu.de
@@ -8164,6 +8178,7 @@ www.misshiny.com
 www.misslook.com
 www.misslook.net
 www.missmoana.com
+www.mister24bike.de
 www.misterjoux.com
 www.mister-tech.shop
 www.mitbote.de
@@ -8640,6 +8655,7 @@ www.pettitore.com
 www.pfaffe3000.de
 www.pfm-magazin.at
 www.pfotenschule-bremen.de
+www.pfs-bestemarkte.com
 www.pgr-hbg.de
 www.pharmagloveswholesale.com
 www.philippoehler.de
@@ -9777,16 +9793,25 @@ www.trivona.de
 www.trolert.com
 www.truckskill.com
 www.truefind-shop.com
+www.trusted-gold-shop-nr827133.de
 www.trusted-gold-shops.de
 www.trusted-goldshops-handel.de
 www.trusted-goldshops-liste.de
+www.trusted-goldshops-nr398273.de
+www.trusted-gold-shops-nr83582.de
 www.trusted-goldshops-nr9813.de
 www.trusted-immediate-edge.com
+www.trusted-onlineshop-nr18253.de
+www.trusted-onlineshop-nr29381.de
+www.trusted-onlineshop-nr9937.de
 www.trusted-onlineshops-liste.de
+www.trusted-onlineshops-nr773892.de
+www.trusted-shop-nr18373.de
 www.trusted-shops-goldlieferanten.de
 www.trusted-shops-in-deutschland.de
 www.trusted-shops-jetzt-bewerten.de
 www.trusted-shops-liste.de
+www.trusted-shops-nr3929.de
 www.trustfast.co
 www.truuly.de
 www.tsh-rohlinge.at
@@ -9995,6 +10020,7 @@ www.vivibay.com
 www.vividpretty.com
 www.vivilass.com
 www.vivishop.de
+www.vivomarkt.com
 www.vizoa.de
 www.vlshaulage.com
 www.vmeetang.com
