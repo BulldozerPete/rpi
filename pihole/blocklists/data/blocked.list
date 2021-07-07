@@ -46,6 +46,7 @@ ads.rubiconproject.com
 ads.servebom.com
 ads.stickyadstv.com
 adstax-cdn.adrtx.net
+adstax-match.adrtx.net
 ads.tiktok.com
 ads.trafficjunky.net
 ads-twitter.com
@@ -89,6 +90,7 @@ a.o333o.com
 a.optmnstr.com
 api2.amplitude.com
 api-cengine.forkcdn.com
+api.cxense.com
 api.feedad.com
 api.instabug.com
 api.opmnstr.com
@@ -306,11 +308,13 @@ eum.instana.io
 eu-tlp01.kameleoon.eu
 eu-tlp02.kameleoon.eu
 eu-tlp04.kameleoon.eu
+eu-tlp05.kameleoon.eu
 eu-tlp07.kameleoon.eu
 events.cid.samba.tv
 events.redditmedia.com
 extmaps-api.yandex.net
 facesnotebook.com
+farm-de.plista.com
 fastlane.rubiconproject.com
 favourableencampmentdecency.com
 fbs.smoot.apple.com
@@ -577,6 +581,7 @@ sc.lfeeder.com
 scomcluster.cxense.com
 script.4dex.io
 scripts.jixie.io
+scripts.sophus3.com
 scripts.webcontentassessor.com
 sc-static.net
 s.d.adup-tech.com
@@ -638,6 +643,8 @@ static-de.plista.com
 static.digidip.net
 static.doubleclick.net
 static.emsservice.de
+static.hotjar.com
+static.mediarithmics.com
 static.newsletter2go.com
 static.par.vip.prod.criteo.net
 static.showheroes.com
@@ -690,7 +697,9 @@ track.ksta.de
 tracksrv.zdf.de
 track.wattpad.com
 traffic.emsservice.de
+trc-events.taboola.com
 trck.spoteffects.net
+trc.taboola.com
 tr.iadsdk.apple.com
 trmads.eu
 tsp.stats.urban-media.com
@@ -732,6 +741,7 @@ weather-analytics-events.apple.com
 webanalytics.btelligent.net
 web.hb.ad.cpe.dotomi.com
 web.wurfl.io
+widget.perfectmarket.com
 widgets.getsitecontrol.com
 widgets.opinary.com
 widgets.outbrain.com
@@ -740,6 +750,7 @@ wlplatincasino.adsrv.eacdn.com
 w.usabilla.com
 ww2.sqidsply.com
 www3.smartadserver.com
+www6.smartadserver.com
 www.adspredictiv.com
 www.arminius.io
 www.beusable.net
