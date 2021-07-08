@@ -19,7 +19,7 @@
 # Exclude fake.txt: 10484
 # Exclude: 10484
 
-# Whitelist: 49666
+# Whitelist: 49830
 # Deadlist: 429893
 
 # Blacklist global: 865
@@ -39,13 +39,13 @@
 # 11. Source: 50597 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 12. Source: 12922 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 # 13. Source: 67971 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
-# 14. Source: 71431 - https://dbl.oisd.nl/basic/
+# 14. Source: 71080 - https://dbl.oisd.nl/basic/
 # 15. Source: 2046 - https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 # 16. Source: 122584 - https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
 # 17. Source: 325 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 # 18. Source: 1348 - https://orca.pet/notonmyshift/domains.txt
 # 19. Source: 59 - https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-# 20. Source: 40315 - https://phishing.army/download/phishing_army_blocklist_extended.txt
+# 20. Source: 40253 - https://phishing.army/download/phishing_army_blocklist_extended.txt
 # 21. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 # 22. Source: 18454 - https://raw.githubusercontent.com/cbuijs/shallalist/master/spyware/domains
 # 23. Source: 398 - https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA551/domains.txt
@@ -80,16 +80,16 @@
 # 52. Source: 59 - https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
 # 53. Source: 1207 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 54. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 55. Source: 1106 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 55. Source: 1112 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 56. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1249538
+# #. Source: 1249131
 
 Statistik multi.txt:
-== Source (unique): 590139
-++ Black:           590991 (+852)
--- White:           588820 (-2171)
--- Dead:            413854 (-174966)
--- Exclude:         413788 (-66)
--- Unblock:         413754 (-34)
-++ WWW-Domains:     470715 (+56961)
-++ FLD-Domains:     471780 (+1065)
+== Source (unique): 589826
+++ Black:           590678 (+852)
+-- White:           588507 (-2171)
+-- Dead:            413555 (-174952)
+-- Exclude:         413489 (-66)
+-- Unblock:         413455 (-34)
+++ WWW-Domains:     470407 (+56952)
+++ FLD-Domains:     471470 (+1063)
