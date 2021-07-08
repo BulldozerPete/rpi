@@ -20,14 +20,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 49666
-# Deadlist: 429893
-# Blacklist: 1689
+# Whitelist: 49830
+# Deadlist: 450205
+# Blacklist: 1681
 # 1. Source: 4421 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1482 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10484 Domains - V2021.07.07-21:42:57
+# 10457 Domains - V2021.07.08-07:01:28
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -963,7 +963,6 @@ corebux.com
 coresystem.at
 cosgos.de
 cosmeticotwoo.com
-cosmopoint.de
 cosmorent.at
 cosmosix.de
 cosplayshow.com
@@ -1028,7 +1027,6 @@ daftarpltk.com
 dahl-versand.de
 dahme-baustoff.de
 dailyforu.com
-dailymetcon.it
 dailywish43.com
 dalaline.com
 dalea-stuck.at
@@ -1072,6 +1070,7 @@ de2021.com
 de2021.ru
 de24tech.website
 deal-plaza.com
+dealsbymike.com
 dealshopper.de
 dealviral.de
 decleaners.de
@@ -2747,14 +2746,12 @@ lifestyle-gastronomie.de
 lifetime-deals-zone.com
 lifeworks-munich.de
 liftr.eu
-ligaplay.de
 lighteu.de
 lightflix.de
 likelymore.com
 likelymorely.com
 lilabogen.de
 lilistay.com
-lilisus.com
 limassolrealestate.com
 limetree.at
 limited-bitcoin-generator.org
@@ -3130,7 +3127,6 @@ modellbahnhandel-deutschland.de
 modellbahn-versandhaus.de
 modell-eisenbahn.shop
 modell-spielzeuge.club
-modern-home24.de
 modernindigo.com
 modern-technik.de
 modern-technik.icu
@@ -4161,7 +4157,6 @@ sergey-mavrodi.ms
 serienwelt.to
 serindipiti.com
 serishirts.com
-seriyada.com
 serkon.at
 services-limited.com
 sesselina.eu
@@ -4176,7 +4171,6 @@ shauntapparel.com
 sheadora.com
 shebeautys.com
 sheheaven.com
-sheinyci.com
 sheistyle.com
 shelanu.at
 shell-dbr.de
@@ -4438,7 +4432,6 @@ sugex.at
 sugex.de
 suli-bau.at
 summerbuyhot.com
-suna-design.de
 sunafterrainstorm.com
 sunbeatz.de
 sundr.at
@@ -4552,7 +4545,6 @@ tenda-markts.com
 tennisvillase.com
 terapixel.at
 terkbike-store.com
-terriberri.de
 terrific.de
 tesdola.com
 tesento.com
@@ -4748,7 +4740,6 @@ truckskill.com
 truefind-shop.com
 trusted-gold-shop-nr827133.de
 trusted-gold-shops.de
-trusted-goldshops-handel.de
 trusted-goldshops-liste.de
 trusted-goldshops-nr398273.de
 trusted-gold-shops-nr83582.de
@@ -4857,7 +4848,6 @@ unlimitedgamedownloads.com
 unlimitedsoftwaredownloads.com
 unoplay.de
 unousenet.de
-unread-notification.xyz
 unserkleinesgeheimnis.at
 unserkleinesgeheimnis.ch
 unserkleinesgeheimnis.de
@@ -4915,7 +4905,6 @@ veganfoodie.de
 velenza.de
 veloberlin.de
 vendial.de
-veneracrea.com
 ventelo-media.com
 venusbicycle.com
 veonaskincare.com
@@ -5139,7 +5128,6 @@ willhaben24.com
 willhaben.at.04300.id
 willhaben.at.09532.id
 willhaben.at.12804.id
-willhaben.at.3d-secure.cc
 willhaben-at.app
 willhaben.at.hbb31.com
 willhaben.company
@@ -5159,7 +5147,6 @@ wipideal.de
 wireplay.de
 wirhabenglueck.de
 wirlaufenzurschule.de
-wir-sind-ihre-goldscheideanstalt.de
 wirt-zleithen.at
 wishallgood.com
 witchrabi.com
@@ -6104,7 +6091,6 @@ www.corebux.com
 www.coresystem.at
 www.cosgos.de
 www.cosmeticotwoo.com
-www.cosmopoint.de
 www.cosmorent.at
 www.cosmosix.de
 www.cosplayshow.com
@@ -6165,7 +6151,6 @@ www.daftarpltk.com
 www.dahl-versand.de
 www.dahme-baustoff.de
 www.dailyforu.com
-www.dailymetcon.it
 www.dailywish43.com
 www.dalaline.com
 www.dalea-stuck.at
@@ -6209,6 +6194,7 @@ www.de2021.com
 www.de2021.ru
 www.de24tech.website
 www.deal-plaza.com
+www.dealsbymike.com
 www.dealshopper.de
 www.dealviral.de
 www.decleaners.de
@@ -7851,14 +7837,12 @@ www.lifestyle-gastronomie.de
 www.lifetime-deals-zone.com
 www.lifeworks-munich.de
 www.liftr.eu
-www.ligaplay.de
 www.lighteu.de
 www.lightflix.de
 www.likelymore.com
 www.likelymorely.com
 www.lilabogen.de
 www.lilistay.com
-www.lilisus.com
 www.limassolrealestate.com
 www.limetree.at
 www.limited-bitcoin-generator.org
@@ -8216,7 +8200,6 @@ www.modellbahnhandel-deutschland.de
 www.modellbahn-versandhaus.de
 www.modell-eisenbahn.shop
 www.modell-spielzeuge.club
-www.modern-home24.de
 www.modernindigo.com
 www.modern-technik.de
 www.modern-technik.icu
@@ -9220,7 +9203,6 @@ www.sergey-mavrodi.ms
 www.serienwelt.to
 www.serindipiti.com
 www.serishirts.com
-www.seriyada.com
 www.serkon.at
 www.services-limited.com
 www.sesselina.eu
@@ -9235,7 +9217,6 @@ www.shauntapparel.com
 www.sheadora.com
 www.shebeautys.com
 www.sheheaven.com
-www.sheinyci.com
 www.sheistyle.com
 www.shelanu.at
 www.shell-dbr.de
@@ -9490,7 +9471,6 @@ www.sugex.at
 www.sugex.de
 www.suli-bau.at
 www.summerbuyhot.com
-www.suna-design.de
 www.sunafterrainstorm.com
 www.sunbeatz.de
 www.sundr.at
@@ -9602,7 +9582,6 @@ www.tenda-markts.com
 www.tennisvillase.com
 www.terapixel.at
 www.terkbike-store.com
-www.terriberri.de
 www.terrific.de
 www.tesdola.com
 www.tesento.com
@@ -9795,7 +9774,6 @@ www.truckskill.com
 www.truefind-shop.com
 www.trusted-gold-shop-nr827133.de
 www.trusted-gold-shops.de
-www.trusted-goldshops-handel.de
 www.trusted-goldshops-liste.de
 www.trusted-goldshops-nr398273.de
 www.trusted-gold-shops-nr83582.de
@@ -9894,7 +9872,6 @@ www.unlimitedgamedownloads.com
 www.unlimitedsoftwaredownloads.com
 www.unoplay.de
 www.unousenet.de
-www.unread-notification.xyz
 www.unserkleinesgeheimnis.at
 www.unserkleinesgeheimnis.ch
 www.unserkleinesgeheimnis.de
@@ -9951,7 +9928,6 @@ www.veganfoodie.de
 www.velenza.de
 www.veloberlin.de
 www.vendial.de
-www.veneracrea.com
 www.ventelo-media.com
 www.venusbicycle.com
 www.veonaskincare.com
@@ -10183,7 +10159,6 @@ www.wipideal.de
 www.wireplay.de
 www.wirhabenglueck.de
 www.wirlaufenzurschule.de
-www.wir-sind-ihre-goldscheideanstalt.de
 www.wirt-zleithen.at
 www.wishallgood.com
 www.witchrabi.com
@@ -10352,7 +10327,6 @@ www.zopcar-gmbh.com
 www.zpermapi.com
 www.zpohi.com
 www.z-rims.com
-www.zserslicenx.site
 www.zshopgez.com
 www.zubehorgeschaft.com
 www.zukunftshelden.shop
@@ -10496,7 +10470,6 @@ zopcar-gmbh.com
 zpermapi.com
 zpohi.com
 z-rims.com
-zserslicenx.site
 zshopgez.com
 zubehorgeschaft.com
 zukunftshelden.shop

@@ -16,11 +16,11 @@
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
 
-# Exclude fake.txt: 10484
-# Exclude: 10484
+# Exclude fake.txt: 10457
+# Exclude: 10457
 
 # Whitelist: 49830
-# Deadlist: 429893
+# Deadlist: 450205
 
 # Blacklist global: 865
 # Blacklist source: 
@@ -36,7 +36,7 @@
 # 8. Source: 9922 - https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains
 # 9. Source: 1486 - https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains
 # 10. Source: 898 - https://v.firebog.net/hosts/static/w3kbl.txt
-# 11. Source: 50597 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
+# 11. Source: 50530 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 12. Source: 12922 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 # 13. Source: 67971 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 14. Source: 71080 - https://dbl.oisd.nl/basic/
@@ -45,7 +45,7 @@
 # 17. Source: 325 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 # 18. Source: 1348 - https://orca.pet/notonmyshift/domains.txt
 # 19. Source: 59 - https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-# 20. Source: 40253 - https://phishing.army/download/phishing_army_blocklist_extended.txt
+# 20. Source: 40044 - https://phishing.army/download/phishing_army_blocklist_extended.txt
 # 21. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 # 22. Source: 18454 - https://raw.githubusercontent.com/cbuijs/shallalist/master/spyware/domains
 # 23. Source: 398 - https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA551/domains.txt
@@ -62,8 +62,8 @@
 # 34. Source: 1286 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
 # 35. Source: 755 - https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
 # 36. Source: 42096 - https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-# 37. Source: 72549 - https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
-# 38. Source: 17397 - https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+# 37. Source: 72498 - https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
+# 38. Source: 17372 - https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 # 39. Source: 184 - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 # 40. Source: 328 - https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
 # 41. Source: 15494 - https://someonewhocares.org/hosts/
@@ -73,23 +73,23 @@
 # 45. Source: 3548 - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 # 46. Source: 22786 - https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 # 47. Source: 81739 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 48. Source: 255680 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+# 48. Source: 255652 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 # 49. Source: 543 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 # 50. Source: 2556 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
 # 51. Source: 73 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 # 52. Source: 59 - https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
-# 53. Source: 1207 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
+# 53. Source: 1208 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 54. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 55. Source: 1112 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 55. Source: 1100 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 56. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1249131
+# #. Source: 1248740
 
 Statistik multi.txt:
-== Source (unique): 589826
-++ Black:           590678 (+852)
--- White:           588507 (-2171)
--- Dead:            413555 (-174952)
--- Exclude:         413489 (-66)
--- Unblock:         413455 (-34)
-++ WWW-Domains:     470407 (+56952)
-++ FLD-Domains:     471470 (+1063)
+== Source (unique): 589470
+++ Black:           590322 (+852)
+-- White:           588152 (-2170)
+-- Dead:            411985 (-176167)
+-- Exclude:         411919 (-66)
+-- Unblock:         411885 (-34)
+++ WWW-Domains:     468198 (+56313)
+++ FLD-Domains:     469253 (+1055)
