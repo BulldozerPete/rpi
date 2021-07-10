@@ -20,14 +20,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 49830
-# Deadlist: 450205
+# Whitelist: 49877
+# Deadlist: 448773
 # Blacklist: 1681
-# 1. Source: 4421 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+# 1. Source: 4451 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1482 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10457 Domains - V2021.07.08-07:01:28
+# 10511 Domains - V2021.07.10-03:34:11
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -41,6 +41,7 @@
 24things.de
 2rad-hanke.de
 2rad-kern.de
+2rad-schwarz.de
 2rad-xxl.de
 30netzteil.de
 365ersatzteile.de
@@ -242,6 +243,7 @@ anniecloth.com
 annivett.com
 annmiyac.com
 annonsfilm.se
+annurifsm.com
 anssi-antila.de
 antijob.me
 antiwurm.de
@@ -460,6 +462,7 @@ belstaffofficial.com
 bemoplay.de
 benefamic.com
 bene-taichi.at
+benzodiazepine-kaufen.com
 beratungs-werkstatt-dortmund.de
 bercasa.de
 bergmannsschach.at
@@ -717,6 +720,7 @@ butowomen.com
 buttons-shop.de
 buxto.me
 buycircaknee.com
+buying-zones.com
 buyneckrelaxofficial.com
 buyoshenwatch.com
 bwbeat.com
@@ -985,6 +989,8 @@ creativity-partnership.de
 creattrans.at
 creaturepuppetgallery.com
 cremcofy.com
+crocsat.at
+crocsat.top
 croozer-fahren.de
 croozer-kids.de
 crystalsoul.de
@@ -1152,6 +1158,7 @@ differenta.com
 diggedidope.de
 digitalakku.de
 digitale-einreiseanmeldung.de
+digitalmarkts.com
 digital-restock.com
 dignitasolution.com
 direcasn.com
@@ -1192,6 +1199,7 @@ doflix.de
 dogarta.de
 doggybagg.at
 dohahotel24.com
+doloplay.de
 domako.de
 domel-us.de
 dom-feldkirch.at
@@ -1237,6 +1245,7 @@ dressyin.de
 drevalg.com
 drgimborn.at
 drive2u.de
+drivesafeo.com
 drk-herrstein.de
 dr-kopfhoerer.de
 drkuzbari.at
@@ -1537,6 +1546,7 @@ falinas.at
 falinas.com
 falinas.de
 familie-laux.de
+family-bikes.de
 family-tirol.at
 famous-enterprise.de
 fancyclothing.de
@@ -1790,6 +1800,7 @@ garminworldmaps.com
 garnettli.com
 gartenbau-schuetz.de
 gartencenter-horstmann.de
+gartencenter-pursch.de
 garten-events.de
 garten-genial.de
 garten-hannes.de
@@ -2286,6 +2297,7 @@ ilybay.com
 imagesinteractivesome.com
 imaxdome.com
 imaxtime.com
+imbocoltdac.com
 imeidoctor.com
 imfocus.at
 imhfit.com
@@ -2365,6 +2377,7 @@ isocals.com
 italiadesigns.com
 itcloth.net
 itc-schwarz.de
+itecsure.com
 i-translogistics.com
 itvdownload.com
 iued.ch
@@ -2394,6 +2407,7 @@ jekinpet.com
 jellylight.at
 je-marketing.de
 jensger.de
+je-pro.at
 jetlegs.at
 jetztvergleichen.org
 jfitwork.com
@@ -2566,6 +2580,7 @@ kkiste.io
 kkiste.su
 kkmodern.com
 klaiyoba.com
+klakers.com
 klangvollelektro.de
 klangvoll-events.at
 klaralust.de
@@ -2583,6 +2598,7 @@ klitepro.com
 k-litetk.com
 kl-metall.de
 kl-westerntraining.de
+kmedapp.com
 kn95-atemmaske.com
 knightsgoneby.co.uk
 knobbyonline.de
@@ -2672,6 +2688,7 @@ landeoo.com
 landidyll.at
 landiscount.fr
 landkreis-nordhausen.de
+lane-properties.com
 lanetech.de
 laneyea.com
 laolaevents.de
@@ -2831,6 +2848,7 @@ lutona.de
 luvay.de
 luvpear.com
 luvyle.com
+luxdentala.com
 luxfewo.de
 luxishop.de
 luxsofabezuege.com
@@ -3293,6 +3311,7 @@ nblaufschuhe.de
 nbspek.top
 nbynicole.com
 nct-elektronik.de
+ndm-faustball.de
 neary.de
 neckcorrect.de
 neckcrack.de
@@ -3835,6 +3854,7 @@ pyroxtrem.com
 qakppo.top
 qbzdq.shop
 qfucktalk.com
+qgripsearwax.com
 qiundgong.at
 qmypalm.com
 qnethini.com
@@ -3922,6 +3942,7 @@ rehm-baumarkt.de
 reichwahl.de
 reidkanem.top
 reifen-market.com
+reiligs.de
 reinestimme.de
 reisefex.at
 reisen-engler.de
@@ -3981,6 +4002,7 @@ robuxforyou.info
 rocalin.com
 rockkelp.com
 rocolee.com
+rodoplay.de
 rohrreinigung--24.at
 rohrreinigung-24h.at
 rohrsanierungen24.de
@@ -4031,6 +4053,7 @@ sabineseidl.at
 sabines-laden.com
 sabine-und-markus.at
 saboconfreewifi.de
+sadoplay.de
 sadplay.de
 sahoorey.com
 saitnewsj.com
@@ -4275,6 +4298,7 @@ sofa-sauber.com
 sofawunsch.de
 sofort-kredite.online
 softwaresammler.de
+sogoplay.de
 sohab-coswig.de
 sokatech.de
 solamyc.com
@@ -4396,6 +4420,7 @@ storkwersborg.de
 strassenware.de
 strausskoeln.de
 streamago.de
+streamcloud-deutsch.com
 streamday.de
 streamex.de
 streamflix.de
@@ -4657,6 +4682,7 @@ tobiflix.de
 toceanswide.com
 todos-lala.com
 tollfinance.com
+tomex-agro-spedition.com
 tonfeld-freiburg.de
 toni-greif.de
 tonobi.de
@@ -4814,6 +4840,7 @@ uhren-ludwig.de
 uhren-schmitt.de
 uhrhaus24.de
 uhrhaus-kramlich.de
+uhrzentrale24.com
 ujmixf.com
 ukmoneya.cn
 ukmoneyaq.cn
@@ -5203,6 +5230,7 @@ www.21-willhaben.at
 www.24things.de
 www.2rad-hanke.de
 www.2rad-kern.de
+www.2rad-schwarz.de
 www.2rad-xxl.de
 www.30netzteil.de
 www.365ersatzteile.de
@@ -5400,6 +5428,7 @@ www.anniecloth.com
 www.annivett.com
 www.annmiyac.com
 www.annonsfilm.se
+www.annurifsm.com
 www.anssi-antila.de
 www.antijob.me
 www.antiwurm.de
@@ -5613,6 +5642,7 @@ www.belstaffofficial.com
 www.bemoplay.de
 www.benefamic.com
 www.bene-taichi.at
+www.benzodiazepine-kaufen.com
 www.beratungs-werkstatt-dortmund.de
 www.bercasa.de
 www.bergmannsschach.at
@@ -5860,6 +5890,7 @@ www.butowomen.com
 www.buttons-shop.de
 www.buxto.me
 www.buycircaknee.com
+www.buying-zones.com
 www.buyneckrelaxofficial.com
 www.buyoshenwatch.com
 www.bwbeat.com
@@ -6111,6 +6142,8 @@ www.creativity-partnership.de
 www.creattrans.at
 www.creaturepuppetgallery.com
 www.cremcofy.com
+www.crocsat.at
+www.crocsat.top
 www.croozer-fahren.de
 www.croozer-kids.de
 www.crystalsoul.de
@@ -6270,6 +6303,7 @@ www.differenta.com
 www.diggedidope.de
 www.digitalakku.de
 www.digitale-einreiseanmeldung.de
+www.digitalmarkts.com
 www.digital-restock.com
 www.dignitasolution.com
 www.direcasn.com
@@ -6309,6 +6343,7 @@ www.doflix.de
 www.dogarta.de
 www.doggybagg.at
 www.dohahotel24.com
+www.doloplay.de
 www.domako.de
 www.domel-us.de
 www.dom-feldkirch.at
@@ -6352,6 +6387,7 @@ www.dressyin.de
 www.drevalg.com
 www.drgimborn.at
 www.drive2u.de
+www.drivesafeo.com
 www.drk-herrstein.de
 www.dr-kopfhoerer.de
 www.drkuzbari.at
@@ -6647,6 +6683,7 @@ www.falinas.at
 www.falinas.com
 www.falinas.de
 www.familie-laux.de
+www.family-bikes.de
 www.family-tirol.at
 www.famous-enterprise.de
 www.fancyclothing.de
@@ -6898,6 +6935,7 @@ www.garminworldmaps.com
 www.garnettli.com
 www.gartenbau-schuetz.de
 www.gartencenter-horstmann.de
+www.gartencenter-pursch.de
 www.garten-events.de
 www.garten-genial.de
 www.garten-hannes.de
@@ -7384,6 +7422,7 @@ www.ilybay.com
 www.imagesinteractivesome.com
 www.imaxdome.com
 www.imaxtime.com
+www.imbocoltdac.com
 www.imeidoctor.com
 www.imfocus.at
 www.imhfit.com
@@ -7462,6 +7501,7 @@ www.isocals.com
 www.italiadesigns.com
 www.itcloth.net
 www.itc-schwarz.de
+www.itecsure.com
 www.i-translogistics.com
 www.itvdownload.com
 www.iued.ch
@@ -7491,6 +7531,7 @@ www.jekinpet.com
 www.jellylight.at
 www.je-marketing.de
 www.jensger.de
+www.je-pro.at
 www.jetlegs.at
 www.jetztvergleichen.org
 www.jfitwork.com
@@ -7661,6 +7702,7 @@ www.kkiste.io
 www.kkiste.su
 www.kkmodern.com
 www.klaiyoba.com
+www.klakers.com
 www.klangvollelektro.de
 www.klangvoll-events.at
 www.klaralust.de
@@ -7678,6 +7720,7 @@ www.klitepro.com
 www.k-litetk.com
 www.kl-metall.de
 www.kl-westerntraining.de
+www.kmedapp.com
 www.kn95-atemmaske.com
 www.knobbyonline.de
 www.koalasale.com
@@ -7765,6 +7808,7 @@ www.landeoo.com
 www.landidyll.at
 www.landiscount.fr
 www.landkreis-nordhausen.de
+www.lane-properties.com
 www.lanetech.de
 www.laneyea.com
 www.laolaevents.de
@@ -7921,6 +7965,7 @@ www.lutona.de
 www.luvay.de
 www.luvpear.com
 www.luvyle.com
+www.luxdentala.com
 www.luxfewo.de
 www.luxishop.de
 www.luxsofabezuege.com
@@ -8361,6 +8406,7 @@ www.nblaufschuhe.de
 www.nbspek.top
 www.nbynicole.com
 www.nct-elektronik.de
+www.ndm-faustball.de
 www.neary.de
 www.neckcorrect.de
 www.neckcrack.de
@@ -8884,6 +8930,7 @@ www.pyroxtrem.com
 www.qakppo.top
 www.qbzdq.shop
 www.qfucktalk.com
+www.qgripsearwax.com
 www.qiundgong.at
 www.qmypalm.com
 www.qnethini.com
@@ -8970,6 +9017,7 @@ www.rehm-baumarkt.de
 www.reichwahl.de
 www.reidkanem.top
 www.reifen-market.com
+www.reiligs.de
 www.reinestimme.de
 www.reisefex.at
 www.reisen-engler.de
@@ -9028,6 +9076,7 @@ www.robuxforyou.info
 www.rocalin.com
 www.rockkelp.com
 www.rocolee.com
+www.rodoplay.de
 www.rohrreinigung--24.at
 www.rohrreinigung-24h.at
 www.rohrsanierungen24.de
@@ -9078,6 +9127,7 @@ www.sabineseidl.at
 www.sabines-laden.com
 www.sabine-und-markus.at
 www.saboconfreewifi.de
+www.sadoplay.de
 www.sadplay.de
 www.sahoorey.com
 www.saitnewsj.com
@@ -9316,6 +9366,7 @@ www.sofa-sauber.com
 www.sofawunsch.de
 www.sofort-kredite.online
 www.softwaresammler.de
+www.sogoplay.de
 www.sohab-coswig.de
 www.sokatech.de
 www.solamyc.com
@@ -9437,6 +9488,7 @@ www.storkwersborg.de
 www.strassenware.de
 www.strausskoeln.de
 www.streamago.de
+www.streamcloud-deutsch.com
 www.streamday.de
 www.streamex.de
 www.streamflix.de
@@ -9692,6 +9744,7 @@ www.tobiflix.de
 www.toceanswide.com
 www.todos-lala.com
 www.tollfinance.com
+www.tomex-agro-spedition.com
 www.tonfeld-freiburg.de
 www.toni-greif.de
 www.tonobi.de
@@ -9838,6 +9891,7 @@ www.uhren-ludwig.de
 www.uhren-schmitt.de
 www.uhrhaus24.de
 www.uhrhaus-kramlich.de
+www.uhrzentrale24.com
 www.ujmixf.com
 www.ukmoneya.cn
 www.ukmoneyaq.cn
