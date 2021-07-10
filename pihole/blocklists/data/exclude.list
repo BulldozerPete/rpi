@@ -13,6 +13,7 @@
 0.cn.pool.ntp.org
 0.com
 0.coreos.pool.ntp.org
+0.datadog.pool.ntp.org
 0daydown.com
 0.debian.pool.ntp.org
 0.de.pool.ntp.org
@@ -7257,6 +7258,7 @@ clickserve.cc-dt.com
 clickserve.dartsearch.net
 clicksfly.com
 click.simba.taobao.com
+clickspeeder.com
 clicktale.net
 click.trafficguard.ai
 click.txn-email.playstation.com
@@ -7707,6 +7709,7 @@ commerce.np.ac.playstation.net
 commerce.pinterest.com
 commercialtrucktrader.com
 commission-junction.com
+commissions.leg.state.mn.us
 commitstrip.com
 common.csnimages.com
 commondatastorage.googleapis.com
@@ -8600,6 +8603,7 @@ cresg.waze.com
 crestcapital.com
 cricbuzz.com
 cricket.com.au
+cricut.com
 cricut.imgix.net
 cricut.io
 cricut.zendesk.com
@@ -8903,6 +8907,7 @@ d11j15s5geoh80.cloudfront.net
 d120-a.sdn.cz
 d122jm2j6hzuzv.cloudfront.net
 d125tdjigxzobs.cloudfront.net
+d12mivgeuoigbq.cloudfront.net
 d12uj65dsn9ho1.cloudfront.net
 d152r6bf9d8lvk.cloudfront.net
 d15-a.sdn.cz
@@ -10780,6 +10785,7 @@ dygtyjqp7pi0m.cloudfront.net
 d.yimg.com
 dyinglightgame.com
 dymo.com
+dymo.com.cdn.cloudflare.net
 dyn1.heritagestatic.com
 dynabook.com
 dynaimage.cdn.cnn.com
@@ -10801,6 +10807,7 @@ dynupdate.no-ip.com
 dyo.gs
 dysoncanada.ca
 dyson.ch
+dyson.com
 dyson.com.au
 dyson-h.assetsadobe2.com
 dyson.nl
@@ -12394,6 +12401,7 @@ fluentin3months.com
 fluidplayer.com
 flukenetworks.com
 fluxdefense.com
+fluxometer.com
 flxt.tmsimg.com
 fly2houston.com
 flychicago.com
@@ -13648,6 +13656,7 @@ girlsaskguys.com
 girlschase.com
 gisgeography.com
 gis.gnome.org
+gis.leg.mn
 gist.github.com
 gist.githubusercontent.com
 git.ameliorated.info
@@ -14960,6 +14969,7 @@ hls.ted.com
 hlstimeinc-a.akamaihd.net
 hls.vidible.tv
 hlsvod-akc.media.net.wwe.com
+hlz.blinkist.io
 hm.com
 hmnimages.hemmings.com
 hmv.com
@@ -15006,6 +15016,7 @@ homedepotmeasures.com
 homedepot.ugc.bazaarvoice.com
 home-designing.com
 homedics.com
+home.edweb.net
 homeentertainment.engadget.com
 homefacts.com
 homegymr.com
@@ -15134,6 +15145,7 @@ hotwire.com
 hotwirefoamfactory.com
 house-cloudfront.us-east-1.prod.boltdns.net
 house.gov
+house.leg.state.mn.us
 housemanfuneralhome.com
 housemanfuneralhome.secure.tributecenteronline.com
 houseoftaga.com
@@ -15566,6 +15578,7 @@ idealnetworks.net
 idealo.de
 ideas.fandom.com
 ideasonemktg.com
+ideas.ted.com
 ideausa.com
 i.dell.com
 identifix.com
@@ -15937,6 +15950,7 @@ images.binaryfortress.com
 images.bitmoji.com
 images.bit-tech.net
 images.blackmagicdesign.com
+images.blinkist.com
 images.blu-ray.com
 images.blz-contentstack.com
 images.boldchat.com
@@ -17774,6 +17788,7 @@ justanswer.com
 justanswer.com.cdn.cloudflare.net
 justanswer.sjv.io
 justbeamit.com
+justgetflux.com
 justgiving.com
 justice.gov
 justjared.com
@@ -19445,6 +19460,7 @@ malwarebytes.com
 malwarebytes.com.ssopt.net
 malwarebytes.invisionmanaged.net
 malwarebytes.org
+malwaredecoder.com
 malwaredomainblacklist.org
 malwaredomainlist.com
 malwaredomains.com
@@ -20478,6 +20494,7 @@ miniwebtool.com
 minixperiment.twitch.tv
 minnbid.org
 minneapolis.craigslist.org
+minnehahacounty.hireclick.com
 minnesota.cbslocal.com
 minnesota.etaxes.state.mn.us
 minnesota-scores.net
@@ -22549,6 +22566,7 @@ offers.adobe.com
 offers.com
 offerup.com
 offgridsurvival.com
+offgridtec.com
 offgridweb.com
 office14client.microsoft.com
 office15client.microsoft.com
@@ -24854,6 +24872,7 @@ pwrdown.com
 px.spiceworks.com
 px.srvcs.tumblr.com
 py6.ru
+pyimagesearch.com
 pypa.io
 pypi.org
 pypi.python.org
@@ -25059,7 +25078,6 @@ r6pcaddons.azureedge.net
 r6s1.battleye.com
 r6statuspc.azureedge.net
 r7.com
-r9sjd13s1zsp.statuspage.io
 raas-assets.autodesk.com
 racefans.net
 racinehonda.com
@@ -25123,6 +25141,7 @@ rambler.ru
 ramelectronics.net
 rampleyandco.com
 ramp.purch.com
+ramseycounty.us
 ramseytactical.com
 ramtrucks.com
 ram.userbenchmark.com
@@ -26119,8 +26138,10 @@ s6-1.trafficdeposit.com
 s6.ezgif.com
 s6.trafficdeposit.com
 s7-1.trafficdeposit.com
+s7d1.scene7.com
 s7d2.scene7.com
 s7d4.scene7.com
+s7d9.scene7.com
 s7.filecat.net
 s7.trafficdeposit.com
 s8-1.trafficdeposit.com
@@ -26406,6 +26427,7 @@ schnittberichte.com
 scholarshippoints.com
 scholastic.com
 schomackerclean.com
+schomackers.com
 schoolhouseconnect.com
 schoolhousereviewcrew.com
 schoolhouseteachers.com
@@ -27105,6 +27127,7 @@ shootingandsafety.com
 shootingillustrated.com
 shootingmadeeasy.com
 shootingmystery.com
+shootingshed.co.uk
 shootingtargets7.com
 shootingtimes.com
 shootinguk.co.uk
@@ -28977,6 +29000,7 @@ store-iabcxn7btr.mybigcommerce.com
 store-images.microsoft.com
 store-images.s-microsoft.com
 store.imgur.com
+store.irobot.com
 store.kaspersky.com
 store.kaspersky.ro
 store.kleientertainment.com
@@ -30414,6 +30438,7 @@ themusterstation.com
 thenationalpulse.com
 thenation.com
 thenewdaily.com.au
+thenewswheel.com
 thenextweb.com
 thenorthface.com.au
 thenypost.files.wordpress.com
@@ -30713,6 +30738,7 @@ time.nist.gov
 time-nw.nist.gov
 time-osx.g.aaplimg.com
 timeout.com
+timepiecesusa.com
 time.samsungcloudsolution.com
 timesfreepress.com
 timesofindia.com
@@ -31472,6 +31498,7 @@ ucsd.edu
 ucweb.com
 udemy.com
 udimg.com
+udiscovermusic.com
 udl-api.sonymobile.com
 ud.me
 uds.licenses.adobe.com
@@ -33502,6 +33529,7 @@ womenslaw.org
 womensoutdoornews.com
 wonderfulengineering.com
 wonderopolis.org
+wondersign.com
 woodburyoutfitters.com
 woodfarmbarns.com
 woodlandrealtyinc.com
@@ -36884,6 +36912,7 @@ www.clicknupload.link
 www.clicknupload.org
 www.clickorlando.com
 www.clicksfly.com
+www.clickspeeder.com
 www.clicktale.net
 www.clideo.com
 www.clien.net
@@ -37509,6 +37538,7 @@ www.creditonebank.com
 www.creedmoorsports.com
 www.crestcapital.com
 www.cricbuzz.com
+www.cricut.com
 www.cricut.io
 www.crimeonline.com
 www.crimsontrace.com
@@ -38290,6 +38320,7 @@ www.dyncdn.me
 www.dyo.gs
 www.dysoncanada.ca
 www.dyson.ch
+www.dyson.com
 www.dyson.nl
 www.dzone.com
 www.e1.net
@@ -39072,6 +39103,7 @@ www.fluentin3months.com
 www.fluidplayer.com
 www.flukenetworks.com
 www.fluxdefense.com
+www.fluxometer.com
 www.fly2houston.com
 www.flychicago.com
 www.flydenver.com
@@ -41451,6 +41483,7 @@ www.juno.com
 www.jurrensfuneralhome.com
 www.justanswer.com
 www.justbeamit.com
+www.justgetflux.com
 www.justgiving.com
 www.justice.gov
 www.justjared.com
@@ -42348,6 +42381,7 @@ www.maltiverse.com
 www.malware-board.com
 www.malwarebytes.com
 www.malwarebytes.org
+www.malwaredecoder.com
 www.malwaredomainblacklist.org
 www.malwaredomainlist.com
 www.malwaredomains.com
@@ -43715,6 +43749,7 @@ www.offbeat.com
 www.offers.com
 www.offerup.com
 www.offgridsurvival.com
+www.offgridtec.com
 www.offgridweb.com
 www.office365.com
 www.office.com
@@ -44894,6 +44929,7 @@ www.puzz.com
 www.pw2.ro
 www.pwrdown.com
 www.py6.ru
+www.pyimagesearch.com
 www.pypa.io
 www.pypi.org
 www.pyramexsafety.com
@@ -45034,6 +45070,7 @@ www.ramamississauga.com
 www.rambler.ru
 www.ramelectronics.net
 www.rampleyandco.com
+www.ramseycounty.us
 www.ramseytactical.com
 www.ramtrucks.com
 www.ranchers.net
@@ -45699,6 +45736,7 @@ www.schnittberichte.com
 www.scholarshippoints.com
 www.scholastic.com
 www.schomackerclean.com
+www.schomackers.com
 www.schoolhouseconnect.com
 www.schoolhousereviewcrew.com
 www.schoolhouseteachers.com
@@ -47246,6 +47284,7 @@ www.themoviedb.org
 www.themusterstation.com
 www.thenationalpulse.com
 www.thenation.com
+www.thenewswheel.com
 www.thenextweb.com
 www.theofficedealer.com
 www.theohiostar.com
@@ -47432,6 +47471,7 @@ www.time.google.com
 www.time.nist.com
 www.time.nist.gov
 www.timeout.com
+www.timepiecesusa.com
 www.timesfreepress.com
 www.timesofindia.com
 www.timesofisrael.com
@@ -47905,6 +47945,7 @@ www.ucsd.edu
 www.ucweb.com
 www.udemy.com
 www.udimg.com
+www.udiscovermusic.com
 www.ud.me
 www.udurl.com
 www.ueb.eu
@@ -48872,6 +48913,7 @@ www.womenslaw.org
 www.womensoutdoornews.com
 www.wonderfulengineering.com
 www.wonderopolis.org
+www.wondersign.com
 www.woodburyoutfitters.com
 www.woodfarmbarns.com
 www.woodlandrealtyinc.com
