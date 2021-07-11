@@ -21,9 +21,9 @@
 # Whitelist: 49877
 # Deadlist: 452673
 
-# Blacklist global: 865
+# Blacklist global: 867
 # Blacklist source: 
-# Blacklist: 865
+# Blacklist: 867
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 # 2. Source: 52787 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
@@ -34,16 +34,16 @@
 # 7. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 # 8. Source: 8224 - https://adaway.org/hosts.txt
 # 9. Source: 81739 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 10. Source: 1082 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 10. Source: 1085 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 11. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 352195
+# #. Source: 352198
 
 Statistik mini.txt:
 == Source (unique): 205907
-++ Black:           206758 (+851)
--- White:           205639 (-1119)
--- Dead:            162001 (-43638)
--- Exclude:         161945 (-56)
--- Unblock:         160352 (-1593)
-++ WWW-Domains:     173342 (+12990)
-++ FLD-Domains:     173544 (+202)
+++ Black:           206760 (+853)
+-- White:           205641 (-1119)
+-- Dead:            162003 (-43638)
+-- Exclude:         161947 (-56)
+-- Unblock:         160354 (-1593)
+++ WWW-Domains:     173346 (+12992)
+++ FLD-Domains:     173548 (+202)
