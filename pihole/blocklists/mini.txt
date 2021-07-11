@@ -27,16 +27,16 @@
 # 2. Source: 52787 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 3. Source: 12922 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 # 4. Source: 68049 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
-# 5. Source: 77154 - https://dbl.oisd.nl/basic/
+# 5. Source: 77153 - https://dbl.oisd.nl/basic/
 # 6. Source: 40625 - https://phishing.army/download/phishing_army_blocklist_extended.txt
 # 7. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 # 8. Source: 8224 - https://adaway.org/hosts.txt
 # 9. Source: 81739 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 10. Source: 1085 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 10. Source: 1137 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 11. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
 #
 # ---------------------------------------------
-# 173548 Domains - V2021.07.11-08:10:10
+# 173537 Domains - V2021.07.11-11:55:20
 # ---------------------------------------------
 #
 0.0.0.0.beeglivesex.com
@@ -3081,6 +3081,7 @@
 8hdp.cn
 8hj500ro4t7.groovepages.com
 8hrscash.com
+8ink.com.sg
 8ixrxa2tnr.com
 8jkx.com
 8khmer.com
@@ -12040,8 +12041,6 @@ als-svc.nytimes.com
 alsterbrueder.de
 alstrome9riya10.com
 alsultanah.com
-alt2.googleanalytics.com
-alt4.googleanalytics.com
 altabold1.com
 altadefinizione.blue
 altaevolution.com.br
@@ -25632,8 +25631,6 @@ clickgate05.biz
 clickgate.biz
 click.get-answers-fast.com
 click.glamsquad.com
-click.google-analytics.com
-click.googleanalytics.com
 click.goraps.com
 click.gospect.com
 click.gowadogo.com
@@ -45100,8 +45097,6 @@ googleadsrotterdam.com
 googleailesi.com
 googleanalytcs.com
 google-analyticals.com
-google-analytics.com
-googleanalytics.com
 googleapi.club
 googleapls.ru
 google-apps.cz
@@ -45130,9 +45125,7 @@ google-search-bangladesh.ga
 google-shopping.sapoapps.vn
 googleshopping.sapoapps.vn
 googlesyndication.com
-googletagmanager.com
 googletagnamager.com
-googletagservices.com
 googlo.com
 googloe.com
 googlpe.com
@@ -49953,6 +49946,7 @@ ideamaster.com.my
 idearc.tt.omtrdc.net
 ideas.360factors.com
 ideas.com.uy
+ideasenstickers.com
 idea-tech.eu
 ideatur.pl
 ideawheel.com
@@ -85199,8 +85193,6 @@ sandalci.com.tr
 sandbella.com
 sandbox.car10.net.daraz.com
 sandbox.duapps.com
-sandbox.google-analytics.com
-sandbox.googleanalytics.com
 sandbox.ht.indexexchange.com
 sandbox.livejasmin.com
 sandbox.outbrain.com
@@ -92636,9 +92628,6 @@ ssl.dotpay.club
 ssl.eroscomix.com
 ssl.exelator.com
 ssl-geizhals.oewabox.at
-ssl.google-analytics.com
-ssl.googleanalytics.com
-ssl-google-analytics.l.google.com
 ssl.gridsumdissector.com
 ssl-helpgvat.oewabox.at
 ssl.hit.stat24.com
@@ -97240,6 +97229,7 @@ techiwant.com
 tech.jiukang.org
 techlab-cdn.com
 techlake.com.ng
+techlik.com
 techlinxpakistan.com
 techlivegen.com
 techms-shop.su
@@ -132873,9 +132863,6 @@ www.googleadsrotterdam.com
 www.googleailesi.com
 www.googleanalytcs.com
 www.google-analyticals.com
-www.google-analytics.com
-www.googleanalytics.com
-www-google-analytics.l.google.com
 www.googleapi.club
 www.googleapls.ru
 www.google-apps.cz
@@ -132896,9 +132883,7 @@ www.googlerssreader.com
 wwwgoogles.com
 www.google-search-bangladesh.ga
 www.googlesyndication.com
-www.googletagmanager.com
 www.googletagnamager.com
-www.googletagservices.com
 www.googlo.com
 www.googloe.com
 www.googlpe.com
@@ -135882,6 +135867,7 @@ www.ideal-prizezone.life
 www.idealtits.net
 www.ideamaster.com.my
 www.ideas.com.uy
+www.ideasenstickers.com
 www.idea-tech.eu
 www.ideatur.pl
 www.ideawheel.com
@@ -161623,6 +161609,7 @@ www.techie-nomad.com
 www.techietricks.net
 www.techiwant.com
 www.techlab-cdn.com
+www.techlik.com
 www.techlinxpakistan.com
 www.techlivegen.com
 www.techms-shop.su
@@ -169994,6 +169981,7 @@ www.zetadeo.com
 www.zetamm.com
 www.zeti.com
 www.zetreview.com
+www.zetsurinbusho.net
 www.zettapetta.com
 www.zeusclicks.com
 www.zeusfinancialtrades.com
@@ -172966,6 +172954,7 @@ zetadeo.com
 zetamm.com
 zeti.com
 zetreview.com
+zetsurinbusho.net
 zettapetta.com
 zeulo.anime-extremo.com
 zeus.ad.xiaomi.com
