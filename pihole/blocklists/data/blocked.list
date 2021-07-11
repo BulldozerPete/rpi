@@ -102,6 +102,7 @@ api-cengine.forkcdn.com
 api.cxense.com
 api-esp.piano.io
 api.feedad.com
+api.gameanalytics.com
 api.instabug.com
 api.opmnstr.com
 api.permutive.com
@@ -225,6 +226,7 @@ cdn.viglink.com
 cdn.yourwebbars.com
 cdn.ywxi.net
 cdn.zomap.de
+cdp.cloud.unity3d.com
 cdrvrs.com
 celeritascdn.com
 certify.alexametrics.com
@@ -261,6 +263,7 @@ condles-temark.com
 confiant-integrations.global.ssl.fastly.net
 config.inmobi.com
 config.samsungads.com
+config.uca.cloud.unity3d.com
 configuration-vending.service.amazonsilk.com
 consent.dumont.de
 consent.gutefrage.net
@@ -319,11 +322,13 @@ default.exp-tas.com
 de-gmtdmp.mookie1.com
 delivery.contextads.live
 deploy.mopinion.com
+desktop-assistant-sub.osp.opera.software
 dev.visualwebsiteoptimizer.com
 dialacrum.iad-03.braze.com
 disney.demdex.net
 disney.my.sentry.io
 disparagethence.com
+distillery.wistia.com
 dit.whatsapp.net
 dmmzkfd82wayn.cloudfront.net
 dmp.theadex.com
@@ -366,6 +371,7 @@ express.met.vgwort.de
 extmaps-api.yandex.net
 facesnotebook.com
 farm-de.plista.com
+fast.a.klaviyo.com
 fastlane.rubiconproject.com
 favourableencampmentdecency.com
 fbs.smoot.apple.com
@@ -376,6 +382,7 @@ firebaselogging-pa.googleapis.com
 firebase-settings.crashlytics.com
 firetvcaptiveportal.com
 flash.doubleclick-analytics.com
+flury-ycpi.gycpi.b.yahoodns.net
 fmdata.imgsmail.ru
 fp.msedge.net
 fra1-ib.adnxs.com
@@ -450,6 +457,7 @@ init.supersonicads.com
 in-page-push.com
 insight.adsrvr.org
 insights-collector.newrelic.com
+insights.sitesearch360.com
 ios.bugly.qq.com
 iqdigital-ams.gscontxt.net
 iqdigital.demdex.net
@@ -531,6 +539,7 @@ mobgolem-relay.iocnt.net
 mobileanalytics.us-east-1.amazonaws.com
 mon.tiktokv.com
 monumenteducategem.com
+mon-va.byteoversea.com
 mon-va.tiktokv.com
 mopo.met.vgwort.de
 mopsaups.net
@@ -570,6 +579,7 @@ payingnoodlescam.com
 pdw-usr.userreport.com
 ping.chartbeat.net
 ping.getadblock.com
+pipedream.wistia.com
 piwik.itzbund.de
 piwik.pro
 pixel.adsafeprotected.com
@@ -673,6 +683,7 @@ screenshotfactory.com
 script.4dex.io
 script-at.iocnt.net
 scripts.jixie.io
+scripts.psyma.com
 scripts.sophus3.com
 scripts.webcontentassessor.com
 sc-static.net
@@ -700,6 +711,7 @@ service.force.com
 service.maxymiser.net
 sessions.bugsnag.com
 sex-and-flirt.com
+sf16-ttcdn-tos.ipstatp.com
 s.go-mpulse.net
 shield.sitelock.com
 sickmakes.com
@@ -718,6 +730,7 @@ sourcepoint.mgr.consensu.org
 sp.analytics.yahoo.com
 sperans-beactor.com
 spl.zeotap.com
+spotsetcpar.com
 src.ebay-us.com
 srtb.msn.com
 srv.de.ebayrtm.com
@@ -753,11 +766,13 @@ static.par.vip.prod.criteo.net
 static.showheroes.com
 static.trafficjunky.com
 static-v2.trbo.com
+stats.appsflyer.com
 stats.appsflyer.com.akamaized.net
 stats.datawrapper.de
 stats.g.doubleclick.net
 stats.glb.paypal.com
 stats.wp.com
+submit-target.osp.opera.software
 supportmetrics.apple.com
 sync.search.spotxchange.com
 sync.sxp.smartclip.net
@@ -771,11 +786,13 @@ tag.idsync.analytics.yahoo.com
 tags.bluekai.com
 tags-eu.tiqcdn.com
 tag.userreport.com
+t.appsflyer.com
 target.microsoft.com
 tb.turbocap.net
 t.contentsquare.net
 teams.events.data.microsoft.com
 technical-service.net
+telemetrics.klaviyo.com
 tempest.services.disqus.com
 te.technical-service.net
 thebestgame2020.com
@@ -820,6 +837,7 @@ u.heatmap.it
 ui2.awin.com
 uipglob.semasio.net
 uip.semasio.net
+umwatson.events.data.microsoft.com
 u.openx.net
 upgulpinon.com
 upload2.fp.measure.office.com
@@ -836,6 +854,7 @@ vd.7vid.net
 venetrigni.com
 verticalperiodicdirectory.com
 vg04.met.vgwort.de
+vg05.met.vgwort.de
 vg09.met.vgwort.de
 videointelligence-d.openx.net
 video-library.showheroes.com
