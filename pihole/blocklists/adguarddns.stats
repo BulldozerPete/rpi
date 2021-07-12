@@ -26,12 +26,12 @@
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
 
-Downloade adguarddns                --> 49779 adguarddns.raw
-Extrahiere gültige Domains          --> 37732 adguarddns.domains
-Erstelle Domainliste für WWW Zusatz --> 30313 adguarddns.domains.www
-Erweitere Domains durch WWW         --> 30313 adguarddns.www
+Downloade adguarddns                --> 49680 adguarddns.raw
+Extrahiere gültige Domains          --> 37626 adguarddns.domains
+Erstelle Domainliste für WWW Zusatz --> 30210 adguarddns.domains.www
+Erweitere Domains durch WWW         --> 30210 adguarddns.www
 Erstelle Domainliste für FLD        --> 6 adguarddns.www.fld
-Erstelle adguarddns                 --> 68049 adguarddns.txt.tmp
+Erstelle adguarddns                 --> 67840 adguarddns.txt.tmp
 
 Extrahiere Whitelist Domains        --> 79
 Extrahiere Exclusion Domains        --> 292
