@@ -16,8 +16,10 @@
 9240859.fls.doubleclick.net
 9279323.fls.doubleclick.net
 a15321630321.cdn.optimizely.com
+a17126690382.cdn.optimizely.com
 a2129670914.cdn.optimizely.com
 a3391893108.cdn.optimizely.com
+aa.agkn.com
 a.ad.gt
 a.adtng.com
 aa.online-metrix.net
@@ -37,6 +39,7 @@ ads.adthrive.com
 ads-api.twitter.com
 ads.api.vungle.com
 adsco.re
+ads.creative-serving.com
 adsdk.yandex.ru
 adserver.71i.de
 ads.facebook.com
@@ -71,6 +74,7 @@ aff.bstatic.com
 af.opera.com
 af.stroeerdp.de
 a.hstrck.com
+ak.sail-horizon.com
 alive.github.com
 amazon.partners.tremorhub.com
 amp.casalemedia.com
@@ -94,6 +98,7 @@ analytics.pointdrive.linkedin.com
 analytics.samsungknox.com
 analytics-static.ugc.bazaarvoice.com
 analytics.tiktok.com
+analytics.webgains.io
 analytics.yahoo.com
 a.o333o.com
 a.optmnstr.com
@@ -151,6 +156,7 @@ bam-cell.nr-data.net
 bang-4-buck.com
 bat.bing.com
 bat-bing-com.a-0001.a-msedge.net
+bcp.crwdcntrl.net
 beaconimages.netflix.net
 beacon.krxd.net
 beacon.wikia-services.com
@@ -208,6 +214,7 @@ cdn.o333o.com
 cdn.onthe.io
 cdn-pci.optimizely.com
 cdn.permutive.com
+cdn.pushwoosh.com
 cdn.scarabresearch.com
 cdn-settings.segment.com
 cdn.snigelweb.com
@@ -332,11 +339,13 @@ distillery.wistia.com
 dit.whatsapp.net
 dmmzkfd82wayn.cloudfront.net
 dmp.theadex.com
+dmp.v.fwmrm.net
 dmx.districtm.io
 d.nativendo.de
 dnhfi5nn2dt67.cloudfront.net
 dpm.demdex.net
 ds-aksb-a.akamaihd.net
+dsp.adfarm1.adition.com
 dualstack.beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 dualstack.beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com
 dumontnet.tt.omtrdc.net
@@ -363,6 +372,7 @@ eu-tlp01.kameleoon.eu
 eu-tlp02.kameleoon.eu
 eu-tlp04.kameleoon.eu
 eu-tlp05.kameleoon.eu
+eu-tlp06.kameleoon.eu
 eu-tlp07.kameleoon.eu
 events.cid.samba.tv
 events.redditmedia.com
@@ -390,6 +400,7 @@ fsb.hextom.com
 fti.d3.sc.omtrdc.net
 fti.demdex.net
 funke.amp.permutive.com
+g13v.prd.ads.aws.fwmrm.net
 g2.gumgum.com
 gastar-relay.iocnt.net
 gcdn.2mdn.net
@@ -487,6 +498,7 @@ licensing.bitmovin.com
 links.service.ernstings-family.com
 links.services.disqus.com
 lngtd.com
+loadeu.exelator.com
 loadus.exelator.com
 location.l.force.com
 log16-normal-c-useast1a.tiktokv.com
@@ -567,6 +579,8 @@ o278969.ingest.sentry.io
 o292998.ingest.sentry.io
 obviousmanipulate.com
 odb.outbrain.com
+oddsserve-wqps7yvkz.stackpathdns.com
+odr.mookie1.com
 ohcohz.stroeerdp.de
 oms.expedia.com
 orbidder.otto.de
@@ -587,6 +601,7 @@ pixel.advertising.com
 pixel.app.returnpath.net
 pixel-geo.prfct.co
 pixel.inforsea.com
+pixel.mathtag.com
 pixel.onaudience.com
 pixel.spotify.com
 pixel-static.spotify.com
@@ -682,6 +697,7 @@ scomcluster.cxense.com
 screenshotfactory.com
 script.4dex.io
 script-at.iocnt.net
+script.crazyegg.com
 scripts.jixie.io
 scripts.psyma.com
 scripts.sophus3.com
@@ -752,7 +768,9 @@ static.adsafeprotected.com
 static.ads-twitter.com
 static.am5.vip.prod.criteo.net
 static-cdn.hotjar.com
+static.chartbeat.com
 static.cleverpush.com
+static.clicktripz.com
 static.cloudflareinsights.com
 static.criteo.net
 static-de.plista.com
@@ -769,13 +787,19 @@ static-v2.trbo.com
 stats.appsflyer.com
 stats.appsflyer.com.akamaized.net
 stats.datawrapper.de
+statse.webtrendslive.com
 stats.g.doubleclick.net
 stats.glb.paypal.com
+stats.sxp.smartclip.net
 stats.wp.com
 submit-target.osp.opera.software
 supportmetrics.apple.com
+survey.survicate.com
 sync.search.spotxchange.com
 sync.sxp.smartclip.net
+sync.tidaltv.com
+sync.tidaltv.com.akadns.net
+sync-tm.everesttech.net
 syndication.exdynsrv.com
 syndication.traffichaus.com
 sz.met.vgwort.de
@@ -829,6 +853,7 @@ tsrid.cxense.com
 tsyndicate.com
 t.teads.tv
 tubemov.com
+t.uimserv.net
 tulipinventpins.com
 t.vi-serve.com
 t.visx.net
@@ -846,6 +871,7 @@ ups.analytics.yahoo.com
 upsettingcrescentwig.com
 ups.xplosion.de
 usenetnl.download
+usermatch.krxd.net
 uss.xplosion.de
 us-u.openx.net
 v1.addthisedge.com
