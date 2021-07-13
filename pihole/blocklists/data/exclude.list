@@ -29,6 +29,7 @@
 0.fr.pool.ntp.org
 0.gravatar.com
 0.hk.pool.ntp.org
+0.irobot.pool.ntp.org
 0.jp.pool.ntp.org
 0.kr.pool.ntp.org
 0ksrg8-ydazfwt7lrh2.cloudmaestro.com
@@ -278,6 +279,7 @@
 1-images.motorcar.com
 1.img-dpreview.com
 1inch.exchange
+1.irobot.pool.ntp.org
 1.jp.pool.ntp.org
 1kbb.com
 1.lede.pool.ntp.org
@@ -460,6 +462,7 @@
 3gunstuff.com
 3-images.motorcar.com
 3.img-dpreview.com
+3.irobot.pool.ntp.org
 3.jp.pool.ntp.org
 3.lede.pool.ntp.org
 3m.com
@@ -4709,6 +4712,7 @@ birkenstock.com
 birkenstockexpress.com
 bisontactical.com
 bissell.com
+bissell.com.cdn.cloudflare.net
 bistromd.com
 bitbucket.io
 bitbucket.org
@@ -5472,6 +5476,7 @@ buy.logitech.com
 buymeacoffee.com
 buy.mi.com
 buy.moonpay.io
+buy.norton.com
 buypcgame.eu
 buythebest10.com
 buytwowayradios.com
@@ -8610,6 +8615,7 @@ cricut.zendesk.com
 crime.denverpost.com
 crimeonline.com
 crimsontrace.com
+crimsontrace.com.cdn.cloudflare.net
 crimsontrace.resultspage.com
 crisal.io
 crisp.chat
