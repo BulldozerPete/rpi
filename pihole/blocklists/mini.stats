@@ -39,16 +39,16 @@
 # 12. Source: 3631 - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 # 13. Source: 15495 - https://someonewhocares.org/hosts/
 # 14. Source: 82478 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 15. Source: 1134 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 15. Source: 1123 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 16. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 389933
+# #. Source: 389922
 
 Statistik mini.txt:
-== Source (unique): 214838
-++ Black:           215690 (+852)
--- White:           214489 (-1201)
--- Dead:            166561 (-47928)
--- Exclude:         166500 (-61)
--- Unblock:         164755 (-1745)
-++ WWW-Domains:     179736 (+14981)
-++ FLD-Domains:     179862 (+126)
+== Source (unique): 214827
+++ Black:           215679 (+852)
+-- White:           214478 (-1201)
+-- Dead:            166550 (-47928)
+-- Exclude:         166489 (-61)
+-- Unblock:         164744 (-1745)
+++ WWW-Domains:     179717 (+14973)
+++ FLD-Domains:     179842 (+125)
