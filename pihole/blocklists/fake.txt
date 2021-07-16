@@ -22,12 +22,12 @@
 # Exclude: 0
 # Whitelist: 49912
 # Deadlist: 454615
-# Blacklist: 1676
+# Blacklist: 1697
 # 1. Source: 4508 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1482 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10530 Domains - V2021.07.16-03:34:15
+# 10554 Domains - V2021.07.16-11:38:28
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -37,6 +37,7 @@
 123moviedownload.com
 12streetwings.com
 12-suchen.de
+1superkredit.com
 21-willhaben.at
 24things.de
 2rad-hanke.de
@@ -565,6 +566,7 @@ bioherby.de
 bio-kammerjaeger.at
 biologichealing.com
 biomedizin-voelker.de
+biopedics.de
 bios-batterie-cmos.de
 biotaix.de
 bipolartshirts.com
@@ -662,6 +664,7 @@ bravo-autotrucks.com
 breaking-newse.com
 break-out-festival.de
 breenlogistics.com
+breitenbacher.shop
 breitlingreplika.com
 brendmsk.ru
 brethrrenj.com
@@ -1928,6 +1931,7 @@ goldhandel-depot.de
 goldhandel-heute.de
 goldhandel-imperium.de
 goldhandel-markt.de
+goldhandel-pacht.de
 goldhandel-preissieger.de
 goldhandel-seit-1981.de
 goldhandel-seit1986.de
@@ -1937,6 +1941,7 @@ goldhandel-testsieger.de
 goldhandel-testsieger-seit1972.de
 goldhandel-und-beratung.de
 goldhandel-vorsorge.de
+goldhandel-welt.de
 goldhandel-zertifiziert.de
 golding-house.com
 gold-kaufen24.com
@@ -2294,6 +2299,7 @@ illico.at
 illlucky.com
 ilybay.com
 imagesinteractivesome.com
+imalent.net
 imaxdome.com
 imaxtime.com
 imbocoltdac.com
@@ -2396,6 +2402,7 @@ jakobi-herbern.de
 jakobo-tech.com
 jalousien-neufend.de
 jamunto.de
+janyproblem.com
 jasadoty.com
 jastella.at
 jaygeesj.com
@@ -2642,6 +2649,7 @@ kperitia.com
 krabihotelsthailand.net
 kraemerhandel.com
 kratomstore.de
+kredit-united.com
 kreis-verlag.de
 kriminalberatung.at
 kristall-leutasch.at
@@ -4279,6 +4287,7 @@ slimdangdoo.com
 slothyear.uk
 slutmedtandlaegeskraek.dk
 smartbuyglasses.at
+smartfit-pro.de
 smart-market-online.com
 smartstech24.online
 smart-tech48.space
@@ -4778,7 +4787,10 @@ trusted-gold-shops-nr83582.de
 trusted-goldshops-nr9813.de
 trusted-immediate-edge.com
 trusted-onlineshop-nr18253.de
+trusted-onlineshop-nr24283.de
 trusted-onlineshop-nr29381.de
+trusted-onlineshop-nr38742.de
+trusted-onlineshop-nr82122.de
 trusted-onlineshop-nr9937.de
 trusted-onlineshops-liste.de
 trusted-onlineshops-nr773892.de
@@ -5233,6 +5245,7 @@ www.123brennholz.com
 www.123moviedownload.com
 www.12streetwings.com
 www.12-suchen.de
+www.1superkredit.com
 www.21-willhaben.at
 www.24things.de
 www.2rad-hanke.de
@@ -5748,6 +5761,7 @@ www.bioherby.de
 www.bio-kammerjaeger.at
 www.biologichealing.com
 www.biomedizin-voelker.de
+www.biopedics.de
 www.bios-batterie-cmos.de
 www.biotaix.de
 www.bipolartshirts.com
@@ -5843,6 +5857,7 @@ www.bravo-autotrucks.com
 www.breaking-newse.com
 www.break-out-festival.de
 www.breenlogistics.com
+www.breitenbacher.shop
 www.breitlingreplika.com
 www.brendmsk.ru
 www.brethrrenj.com
@@ -7067,6 +7082,7 @@ www.goldhandel-depot.de
 www.goldhandel-heute.de
 www.goldhandel-imperium.de
 www.goldhandel-markt.de
+www.goldhandel-pacht.de
 www.goldhandel-preissieger.de
 www.goldhandel-seit-1981.de
 www.goldhandel-seit1986.de
@@ -7076,6 +7092,7 @@ www.goldhandel-testsieger.de
 www.goldhandel-testsieger-seit1972.de
 www.goldhandel-und-beratung.de
 www.goldhandel-vorsorge.de
+www.goldhandel-welt.de
 www.goldhandel-zertifiziert.de
 www.golding-house.com
 www.gold-kaufen24.com
@@ -7427,6 +7444,7 @@ www.illico.at
 www.illlucky.com
 www.ilybay.com
 www.imagesinteractivesome.com
+www.imalent.net
 www.imaxdome.com
 www.imaxtime.com
 www.imbocoltdac.com
@@ -7528,6 +7546,7 @@ www.jakobi-herbern.de
 www.jakobo-tech.com
 www.jalousien-neufend.de
 www.jamunto.de
+www.janyproblem.com
 www.jasadoty.com
 www.jastella.at
 www.jaygeesj.com
@@ -7770,6 +7789,7 @@ www.kperitia.com
 www.krabihotelsthailand.net
 www.kraemerhandel.com
 www.kratomstore.de
+www.kredit-united.com
 www.kreis-verlag.de
 www.kriminalberatung.at
 www.kristall-leutasch.at
@@ -9355,6 +9375,7 @@ www.slimdangdoo.com
 www.slothyear.uk
 www.slutmedtandlaegeskraek.dk
 www.smartbuyglasses.at
+www.smartfit-pro.de
 www.smart-market-online.com
 www.smartstech24.online
 www.smart-tech48.space
@@ -9847,7 +9868,10 @@ www.trusted-gold-shops-nr83582.de
 www.trusted-goldshops-nr9813.de
 www.trusted-immediate-edge.com
 www.trusted-onlineshop-nr18253.de
+www.trusted-onlineshop-nr24283.de
 www.trusted-onlineshop-nr29381.de
+www.trusted-onlineshop-nr38742.de
+www.trusted-onlineshop-nr82122.de
 www.trusted-onlineshop-nr9937.de
 www.trusted-onlineshops-liste.de
 www.trusted-onlineshops-nr773892.de
