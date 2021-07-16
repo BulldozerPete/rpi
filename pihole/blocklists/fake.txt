@@ -20,14 +20,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 49898
-# Deadlist: 450416
-# Blacklist: 1684
+# Whitelist: 49912
+# Deadlist: 454615
+# Blacklist: 1676
 # 1. Source: 4508 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1482 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10620 Domains - V2021.07.15-03:34:17
+# 10530 Domains - V2021.07.16-03:34:15
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -41,7 +41,6 @@
 24things.de
 2rad-hanke.de
 2rad-kern.de
-2radmarkt.com
 2rad-schwarz.de
 2rad-xxl.de
 30netzteil.de
@@ -163,7 +162,6 @@ aku-vital.de
 alamode.ru
 alarm-video.at
 alberta-mall.com
-aldatma.de
 ale-gratka.pl
 alexkulik-kunst.de
 alistir-inkasso.eu
@@ -202,7 +200,6 @@ alpinejb.blogspot.com
 altayyabab.com
 alter48.fr
 alternzuhause.at
-altersarmut-ohne-mich.de
 alters-coaching.at
 altes-bahnhoefli.de
 altraschuhe.de
@@ -291,7 +288,6 @@ ardivine.com
 aredfoods.com
 arena-jeux.com
 aresc.de
-ariacosmetics.co.uk
 arjav-bids.com
 arkaspirit.com
 arktofil.de
@@ -632,7 +628,6 @@ bold-estate.com
 boldmatters.de
 bolitrans.com
 bolt-courier.com
-bomcacadors.com
 bonnyin.at
 bonoplay.de
 bonviviale.shop
@@ -763,7 +758,6 @@ capitalxf.com
 caraboo.at
 cara-wahnsinn.de
 carethy.at
-cargadgetss.com
 cargservicesdelnc.com
 carhirenice.co.uk
 carmen-video.at
@@ -846,7 +840,6 @@ checkra1n-windows.com
 checkrain.com
 checkrain.org
 cheento.net
-ch-elektrotechnic.de
 chenkkbusiness.com
 cherrycome.com
 cheshiry.com
@@ -900,7 +893,6 @@ clotmyths.com
 cloudflix.de
 cloudschuhesale.de
 clubestyle.com
-clumpling.com
 cmdserver.at
 cmlipay.com
 cmsbooku.com
@@ -936,7 +928,6 @@ codefree-bluray.de
 cokodive.com
 collectingprofits.com
 collstein.com
-colorinko.com
 colorjoey.com
 colorkenken.shop
 comeyour.com
@@ -985,7 +976,6 @@ counterclockwise.page.link
 countryattire.at
 courier-go.com
 coverlastic.com
-coxycode.com
 cozyp.at
 cozyplaner.com
 cpgtstream4.com
@@ -1117,7 +1107,6 @@ deplacer.com
 der-achenwirt.at
 deraloralift.com
 deral-shops.nl
-der.fuehrerscheincheck.com
 derprofitmaximizer.co
 derschlusselanhanger.de
 der-sparfuchs.net
@@ -1296,7 +1285,6 @@ easyclothco.com
 easy-ltd.eu
 e-belil.de
 ebikedragon.com
-e-bikeexperten.de
 ebopeep.com
 ebusiness-challenge.at
 eccoschuhefabrikverkauf.at
@@ -1368,7 +1356,6 @@ elektro-ecke.de
 elektro-fest.org
 elektro-geldsparer.com
 elektro-gerber.de
-elektrogott.net
 elektro-handel.store
 elektrohandler.com
 elektro-haus24.com
@@ -1561,14 +1548,12 @@ falinas.de
 familie-laux.de
 family-bikes.de
 family-tirol.at
-famous-enterprise.de
 fancyclothing.de
 fancyclothings-com.myshopify.com
 fancynic.com
 fanogo.de
 fanpages4you.at
 farazero.com
-farbigregen.de
 fasebook.com
 fash-brand.shop
 fashincs.com
@@ -1607,7 +1592,6 @@ fedenz.de
 feetpuzzle.com
 feforideo.com
 feher-buch.de
-feiimmobiliare.it
 feililon.com
 feinidee.de
 feinstaubbindung.de
@@ -1824,8 +1808,6 @@ gartencenter-horstmann.de
 gartencenter-pursch.de
 garten-events.de
 garten-genial.de
-garten-hannes.de
-gartenhero.net
 garten-karl.de
 garten-maestro.de
 garten-paule.de
@@ -1874,7 +1856,6 @@ gerhard-eggenreich.at
 gerhard-griessler.at
 gerhard-marquardt.de
 gerhardt-marquardt.de
-germany-wuf.de
 gesangverein-spittelstein.de
 geschenkzone.at
 gespannfahrer-online.de
@@ -1967,7 +1948,6 @@ goldscheideanstalt-aus-leidenschaft.de
 goldscheideanstalt-de-shop.de
 goldscheideanstalt-in-takt.de
 goldscheideanstalt-seit1962.de
-goldscheideanstalt-solidus.de
 goldscheideanstalt-wert.de
 goldsouk.de
 gold-versandhandel.com
@@ -2127,7 +2107,6 @@ healing-rock.de
 healthbenefitsf.com
 healthfirst.at
 healthnomc.com
-healthyfit.at
 hebamme-sophie.de
 hederich-co.de
 heide-riders.de
@@ -2155,7 +2134,6 @@ helektrozon.de
 helens-nacht.de
 helizo.de
 hellenen-gde.at
-hellomarkt.com
 hellostella.de
 helperlo24.de
 helpthebees.net
@@ -2191,7 +2169,6 @@ hmd-braun.de
 hmsls.shop
 hmsplatform.nl
 hobbyshop-gossert.de
-hobelle.com
 hochgothe.de
 hockerty.de
 hockeyinvest.de
@@ -2296,7 +2273,6 @@ iconstoretv.com
 icrtec.at
 ideal-elektro.de
 idealshopyy.com
-ideationtriz.at
 idiscountq.com
 idlcareo.com
 idownloadall.com
@@ -2690,7 +2666,6 @@ kzemtra.com
 kzultrack.com
 labelito.com
 lacastagna.ch
-la-class.com
 ladplay.de
 lady-coat.com
 ladydemofashion.com
@@ -2748,7 +2723,6 @@ leibnizgym.de
 leipzig-cityguide.de
 leitneraviation.at
 lenanena.com
-lenas-boutique.com
 lenoma.ru
 lensivy.com
 leonardo-essen.de
@@ -2770,7 +2744,6 @@ lfidsor.com
 lfimicc.com
 lfs-neusiedl.at
 lgfzpa.myshopify.com
-licht-hof.at
 lichtkontraste.at
 lidora.de
 lidoras.com
@@ -2996,7 +2969,6 @@ medias-markets.com
 mediasmonster.com
 mediatempel.eu
 mediatools.at
-media-voigt.de
 medibus.at
 mediendeals.de
 medikamente-kaufen-24.net
@@ -3100,7 +3072,6 @@ michaelkorsuk.com.co
 michaelzaehringer.de
 michlgoesvegan.de
 micotic.com
-midatlanticstore.com
 mietwagenvermietungweltweit.de
 mig-bergmannsfeld.de
 mih-luehr.de
@@ -3398,7 +3369,6 @@ nicole-trenker.at
 niedrige-preise.com
 nigger.ch
 nikebillig.com
-nikee.club
 nikeoutlets.net
 nikeschuhes.de
 nikiluwa.com
@@ -3582,7 +3552,6 @@ panzer-industriebedarf.de
 papskenya.com
 papsttasche.de
 parabound.de
-parakazansana.com
 parazax.com
 parker-and-williams.com
 partner-gw.de
@@ -3618,7 +3587,6 @@ peppesbutik.se
 perfectclub.shop
 perfectcrer.com
 perfektegeschenke.co.uk
-perfektwelt.de
 performance-gloves.at
 performingleads.com
 personal24.shop
@@ -3627,7 +3595,6 @@ personalisiertefotodecke.de
 perspective-apptest.com
 perueckensale.com
 perureisen.at
-peter-b-band.de
 peterhuetter.at
 petersdorf2.at
 petruchor.myshopify.com
@@ -3985,7 +3952,6 @@ reiseweltat6.wixsite.com
 reitinstitut.at
 reitpferd-vollblut.de
 relaxify.de
-reminitive.com
 remoplay.de
 rennradbekleidung.com
 rent-a-sandman.de
@@ -4077,7 +4043,6 @@ royalpomskyhome.com
 rsk-handel.de
 rsotecpro.com
 rspfans.at
-rtinternational-handelsbolag.com
 rtxshop.de
 rubycloth.com
 rubyrin.com
@@ -4359,7 +4324,6 @@ sonja-kosmetik.at
 sonkehj.com
 sonnenflohmarkt.at
 sonnenstuebchen.at
-sonnenzeit24.life
 sonnesucht.de
 sonoransurplus.com
 soscot.at
@@ -4399,7 +4363,6 @@ spitzepoch.de
 spitz-ik.at
 spohrfrielendorf.de
 sponsorgesucht.com
-sport24.world
 sportalm-kirchschlag.at
 sportalo24.de
 sport-amount.de
@@ -4433,7 +4396,6 @@ starrynights.uk
 statuskelidmode.de
 steak-haus-elpaso.de
 stefanieschwarz.at
-steinberg-handel.de
 steinmusic-store.com
 steinroesler.at
 steinstore24.de
@@ -4577,7 +4539,6 @@ team-gamma.de
 teamlevelsix.com
 team-soundprojekt.de
 teamsportdeal.de
-team-wachau.at
 tech4mation.at
 tech-angebot-shop.com
 techech.de
@@ -4681,7 +4642,6 @@ thielebuch.de
 thielesiedlung.de
 thinkingonofthestage.de
 thomasabocharme.com
-thomaskowar.at
 thomasostermann.de
 thomassaboonline.de
 thomassabooutlet.de
@@ -4887,7 +4847,6 @@ uhren-ludwig.de
 uhren-schmitt.de
 uhrhaus24.de
 uhrhaus-kramlich.de
-uhrzentrale24.com
 ujmixf.com
 ukmoneya.cn
 ukmoneyaq.cn
@@ -5010,7 +4969,6 @@ veryvoga.com
 veryvoga.de
 veryvoga.es
 veryvoga.fr
-vespin.de
 vetcoco.com
 vetola.de
 vevor.de
@@ -5047,7 +5005,6 @@ vite-envogue.de
 vivabrush.de
 vivaiacollection.com
 viva-med.de
-vivibay.com
 vividpretty.com
 vivilass.com
 vivishop.de
@@ -5062,7 +5019,6 @@ vnhome.de
 vnr.de
 voc-zwettl.at
 vodplay.de
-vogeltransltd.com
 vogelwild-coaching.de
 vogelzwitschern.at
 volina.de
@@ -5078,7 +5034,6 @@ vonia-media.com
 vonpundl.de
 vooglabor.com
 vookiz.com
-vop-bau.at
 vorlagen-archiv.com
 vpetron.com
 vsahiltd.com
@@ -5282,7 +5237,6 @@ www.21-willhaben.at
 www.24things.de
 www.2rad-hanke.de
 www.2rad-kern.de
-www.2radmarkt.com
 www.2rad-schwarz.de
 www.2rad-xxl.de
 www.30netzteil.de
@@ -5401,7 +5355,6 @@ www.aku-vital.de
 www.alamode.ru
 www.alarm-video.at
 www.alberta-mall.com
-www.aldatma.de
 www.ale-gratka.pl
 www.alexkulik-kunst.de
 www.alistir-inkasso.eu
@@ -5439,7 +5392,6 @@ www.alpincenterbelalp.ch
 www.altayyabab.com
 www.alter48.fr
 www.alternzuhause.at
-www.altersarmut-ohne-mich.de
 www.alters-coaching.at
 www.altes-bahnhoefli.de
 www.altraschuhe.de
@@ -5857,7 +5809,6 @@ www.bold-estate.com
 www.boldmatters.de
 www.bolitrans.com
 www.bolt-courier.com
-www.bomcacadors.com
 www.bonnyin.at
 www.bonoplay.de
 www.bonviviale.shop
@@ -5985,7 +5936,6 @@ www.capitalxf.com
 www.caraboo.at
 www.cara-wahnsinn.de
 www.carethy.at
-www.cargadgetss.com
 www.cargservicesdelnc.com
 www.carmen-video.at
 www.carola-stauche.de
@@ -6062,7 +6012,6 @@ www.checkra1n-windows.com
 www.checkrain.com
 www.checkrain.org
 www.cheento.net
-www.ch-elektrotechnic.de
 www.chenkkbusiness.com
 www.cherrycome.com
 www.cheshiry.com
@@ -6114,7 +6063,6 @@ www.clotmyths.com
 www.cloudflix.de
 www.cloudschuhesale.de
 www.clubestyle.com
-www.clumpling.com
 www.cmdserver.at
 www.cmlipay.com
 www.cmsbooku.com
@@ -6143,7 +6091,6 @@ www.codefree-bluray.de
 www.cokodive.com
 www.collectingprofits.com
 www.collstein.com
-www.colorinko.com
 www.colorjoey.com
 www.colorkenken.shop
 www.comeyour.com
@@ -6190,7 +6137,6 @@ www.cotosen.com
 www.countryattire.at
 www.courier-go.com
 www.coverlastic.com
-www.coxycode.com
 www.cozyp.at
 www.cozyplaner.com
 www.cpgtstream4.com
@@ -6490,7 +6436,6 @@ www.easyclothco.com
 www.easy-ltd.eu
 www.e-belil.de
 www.ebikedragon.com
-www.e-bikeexperten.de
 www.ebopeep.com
 www.ebusiness-challenge.at
 www.eccoschuhefabrikverkauf.at
@@ -6562,7 +6507,6 @@ www.elektro-ecke.de
 www.elektro-fest.org
 www.elektro-geldsparer.com
 www.elektro-gerber.de
-www.elektrogott.net
 www.elektro-handel.store
 www.elektrohandler.com
 www.elektro-haus24.com
@@ -6750,13 +6694,11 @@ www.falinas.de
 www.familie-laux.de
 www.family-bikes.de
 www.family-tirol.at
-www.famous-enterprise.de
 www.fancyclothing.de
 www.fancynic.com
 www.fanogo.de
 www.fanpages4you.at
 www.farazero.com
-www.farbigregen.de
 www.fasebook.com
 www.fash-brand.shop
 www.fashincs.com
@@ -6795,7 +6737,6 @@ www.fedenz.de
 www.feetpuzzle.com
 www.feforideo.com
 www.feher-buch.de
-www.feiimmobiliare.it
 www.feililon.com
 www.feinidee.de
 www.feinstaubbindung.de
@@ -7010,8 +6951,6 @@ www.gartencenter-horstmann.de
 www.gartencenter-pursch.de
 www.garten-events.de
 www.garten-genial.de
-www.garten-hannes.de
-www.gartenhero.net
 www.garten-karl.de
 www.garten-maestro.de
 www.garten-paule.de
@@ -7057,7 +6996,6 @@ www.gerhard-eggenreich.at
 www.gerhard-griessler.at
 www.gerhard-marquardt.de
 www.gerhardt-marquardt.de
-www.germany-wuf.de
 www.gesangverein-spittelstein.de
 www.geschenkzone.at
 www.gespannfahrer-online.de
@@ -7149,7 +7087,6 @@ www.goldscheideanstalt-aus-leidenschaft.de
 www.goldscheideanstalt-de-shop.de
 www.goldscheideanstalt-in-takt.de
 www.goldscheideanstalt-seit1962.de
-www.goldscheideanstalt-solidus.de
 www.goldscheideanstalt-wert.de
 www.goldsouk.de
 www.gold-versandhandel.com
@@ -7306,7 +7243,6 @@ www.healing-rock.de
 www.healthbenefitsf.com
 www.healthfirst.at
 www.healthnomc.com
-www.healthyfit.at
 www.hebamme-sophie.de
 www.hederich-co.de
 www.heide-riders.de
@@ -7334,7 +7270,6 @@ www.helektrozon.de
 www.helens-nacht.de
 www.helizo.de
 www.hellenen-gde.at
-www.hellomarkt.com
 www.hellostella.de
 www.helperlo24.de
 www.helpthebees.net
@@ -7370,7 +7305,6 @@ www.hmd-braun.de
 www.hmsls.shop
 www.hmsplatform.nl
 www.hobbyshop-gossert.de
-www.hobelle.com
 www.hochgothe.de
 www.hockerty.de
 www.hockeyinvest.de
@@ -7473,7 +7407,6 @@ www.iconstoretv.com
 www.icrtec.at
 www.ideal-elektro.de
 www.idealshopyy.com
-www.ideationtriz.at
 www.idiscountq.com
 www.idlcareo.com
 www.idownloadall.com
@@ -7861,7 +7794,6 @@ www.kzemtra.com
 www.kzultrack.com
 www.labelito.com
 www.lacastagna.ch
-www.la-class.com
 www.ladplay.de
 www.lady-coat.com
 www.ladydemofashion.com
@@ -7919,7 +7851,6 @@ www.leibnizgym.de
 www.leipzig-cityguide.de
 www.leitneraviation.at
 www.lenanena.com
-www.lenas-boutique.com
 www.lenoma.ru
 www.lensivy.com
 www.leonardo-essen.de
@@ -7939,7 +7870,6 @@ www.lexflix.de
 www.lfidsor.com
 www.lfimicc.com
 www.lfs-neusiedl.at
-www.licht-hof.at
 www.lichtkontraste.at
 www.lidora.de
 www.lidoras.com
@@ -8163,7 +8093,6 @@ www.medias-markets.com
 www.mediasmonster.com
 www.mediatempel.eu
 www.mediatools.at
-www.media-voigt.de
 www.medibus.at
 www.mediendeals.de
 www.medikamente-kaufen-24.net
@@ -8252,7 +8181,6 @@ www.michaelkorsoutletforsale.com
 www.michaelzaehringer.de
 www.michlgoesvegan.de
 www.micotic.com
-www.midatlanticstore.com
 www.mietwagenvermietungweltweit.de
 www.mig-bergmannsfeld.de
 www.mih-luehr.de
@@ -8543,7 +8471,6 @@ www.nicole-trenker.at
 www.niedrige-preise.com
 www.nigger.ch
 www.nikebillig.com
-www.nikee.club
 www.nikeoutlets.net
 www.nikeschuhes.de
 www.nikiluwa.com
@@ -8716,7 +8643,6 @@ www.panzer-industriebedarf.de
 www.papskenya.com
 www.papsttasche.de
 www.parabound.de
-www.parakazansana.com
 www.parazax.com
 www.parker-and-williams.com
 www.partner-gw.de
@@ -8750,7 +8676,6 @@ www.pepes-weltreisen.de
 www.peppesbutik.se
 www.perfectclub.shop
 www.perfectcrer.com
-www.perfektwelt.de
 www.performance-gloves.at
 www.performingleads.com
 www.personal24.shop
@@ -8759,7 +8684,6 @@ www.personalisiertefotodecke.de
 www.perspective-apptest.com
 www.perueckensale.com
 www.perureisen.at
-www.peter-b-band.de
 www.peterhuetter.at
 www.petersdorf2.at
 www.pets-home24.com
@@ -9110,7 +9034,6 @@ www.reisen-engler.de
 www.reitinstitut.at
 www.reitpferd-vollblut.de
 www.relaxify.de
-www.reminitive.com
 www.remoplay.de
 www.rennradbekleidung.com
 www.rent-a-sandman.de
@@ -9202,7 +9125,6 @@ www.royalpomskyhome.com
 www.rsk-handel.de
 www.rsotecpro.com
 www.rspfans.at
-www.rtinternational-handelsbolag.com
 www.rtxshop.de
 www.rubycloth.com
 www.rubyrin.com
@@ -9478,7 +9400,6 @@ www.sonja-kosmetik.at
 www.sonkehj.com
 www.sonnenflohmarkt.at
 www.sonnenstuebchen.at
-www.sonnenzeit24.life
 www.sonnesucht.de
 www.sonoransurplus.com
 www.soscot.at
@@ -9518,7 +9439,6 @@ www.spitzepoch.de
 www.spitz-ik.at
 www.spohrfrielendorf.de
 www.sponsorgesucht.com
-www.sport24.world
 www.sportalm-kirchschlag.at
 www.sportalo24.de
 www.sport-amount.de
@@ -9552,7 +9472,6 @@ www.starrynights.uk
 www.statuskelidmode.de
 www.steak-haus-elpaso.de
 www.stefanieschwarz.at
-www.steinberg-handel.de
 www.steinmusic-store.com
 www.steinroesler.at
 www.steinstore24.de
@@ -9693,7 +9612,6 @@ www.team-gamma.de
 www.teamlevelsix.com
 www.team-soundprojekt.de
 www.teamsportdeal.de
-www.team-wachau.at
 www.tech4mation.at
 www.tech-angebot-shop.com
 www.techech.de
@@ -9795,7 +9713,6 @@ www.thielebuch.de
 www.thielesiedlung.de
 www.thinkingonofthestage.de
 www.thomasabocharme.com
-www.thomaskowar.at
 www.thomasostermann.de
 www.thomassaboonline.de
 www.thomassabooutlet.de
@@ -9989,7 +9906,6 @@ www.uhren-ludwig.de
 www.uhren-schmitt.de
 www.uhrhaus24.de
 www.uhrhaus-kramlich.de
-www.uhrzentrale24.com
 www.ujmixf.com
 www.ukmoneya.cn
 www.ukmoneyaq.cn
@@ -10111,7 +10027,6 @@ www.veryvoga.com
 www.veryvoga.de
 www.veryvoga.es
 www.veryvoga.fr
-www.vespin.de
 www.vetcoco.com
 www.vetola.de
 www.vevor.de
@@ -10147,7 +10062,6 @@ www.vite-envogue.de
 www.vivabrush.de
 www.vivaiacollection.com
 www.viva-med.de
-www.vivibay.com
 www.vividpretty.com
 www.vivilass.com
 www.vivishop.de
@@ -10162,7 +10076,6 @@ www.vnhome.de
 www.vnr.de
 www.voc-zwettl.at
 www.vodplay.de
-www.vogeltransltd.com
 www.vogelwild-coaching.de
 www.vogelzwitschern.at
 www.volina.de
@@ -10178,7 +10091,6 @@ www.vonia-media.com
 www.vonpundl.de
 www.vooglabor.com
 www.vookiz.com
-www.vop-bau.at
 www.vorlagen-archiv.com
 www.vpetron.com
 www.vsahiltd.com
@@ -10396,7 +10308,6 @@ www.yagaplay.de
 www.yagoplay.de
 www.yagotexp.com
 www.yahalom.de
-www.yangonesen.com
 www.yanillalogistics.com
 www.yaweg.shop
 www.ycidium.com
@@ -10541,7 +10452,6 @@ yagaplay.de
 yagoplay.de
 yagotexp.com
 yahalom.de
-yangonesen.com
 yanillalogistics.com
 yaweg.shop
 ycidium.com
