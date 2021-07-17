@@ -20,14 +20,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 49912
-# Deadlist: 454615
+# Whitelist: 49964
+# Deadlist: 453145
 # Blacklist: 1697
-# 1. Source: 4508 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+# 1. Source: 4520 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1482 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10554 Domains - V2021.07.16-11:38:28
+# 10578 Domains - V2021.07.17-03:33:17
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -38,6 +38,7 @@
 12streetwings.com
 12-suchen.de
 1superkredit.com
+2021storeoutlet.com
 21-willhaben.at
 24things.de
 2rad-hanke.de
@@ -247,6 +248,7 @@ anssi-antila.de
 antijob.me
 antiwurm.de
 antminerfarm.com
+anuchka.store
 anwalt-wendelmuth.de
 anycubic.com
 aok-campus.de
@@ -1170,6 +1172,7 @@ directzs.com
 direkt-routenplaner.de
 dirndlliebes.myshopify.com
 dirndlzeit.de
+diroplay.de
 discom.at
 discount-bazar.com
 discounter24shop.com
@@ -1244,6 +1247,7 @@ dresse.at
 dressfirst.com
 dresslily.com
 dressyin.de
+dr-estate.com
 drevalg.com
 drgimborn.at
 drive2u.de
@@ -1444,6 +1448,7 @@ energiekick.at
 energie-zum-leben.at
 engelbert-versand.de
 engelhardt-ses.de
+engeliebe.de
 enginelover.com
 engllischebulldogge.com
 enix-ai.net
@@ -1457,6 +1462,7 @@ epicura.at
 equapulia.it
 equsi0n.com
 erdbau-niederwieser.at
+erdbeerblase.de
 erektslim.com
 eremea.de
 ericdress.com
@@ -1987,6 +1993,7 @@ grauschwarzbrillen.de
 gravelmac.com
 grazerraeumung.at
 greenbiday.com
+greencardorganization.com
 greenforladies.com
 gregor-friedl.at
 grillario.de
@@ -3146,6 +3153,7 @@ modefee.at
 modefinds.com
 mode-forum.cjb.net
 mode-friedl.at
+modeis24.shop
 modeish.com
 modelines.nl
 modellbahnhandel-deutschland.de
@@ -3840,6 +3848,7 @@ pronb.de.com
 pronewbalance.de.com
 proschuhen.de.com
 proseccotrex.de
+pro-trends.co
 protronika.de
 proxysong.com
 prozess-profi.de
@@ -3903,6 +3912,7 @@ raisvillau.com
 ralando24.com
 ramonlabrador.de
 random-markets.com
+ranoplay.de
 rapid-life-insurance.com
 rapidoelectroniks.com
 raplay.de
@@ -4031,6 +4041,7 @@ ronuldo.com
 roombrand.ru
 rosedoris.com
 rosegal.com
+roselinlin.com
 rosenkrieg-magazin.de
 rosenzeit-koeln.de
 rosetata.com
@@ -4915,6 +4926,7 @@ urlaubsmenschen.at
 usa-food-store.de
 usantluxe.com
 uscapitalfundingii.com
+us-eur.com
 usoucho.com
 utorrent.de
 utriadci.com
@@ -5246,6 +5258,7 @@ www.123moviedownload.com
 www.12streetwings.com
 www.12-suchen.de
 www.1superkredit.com
+www.2021storeoutlet.com
 www.21-willhaben.at
 www.24things.de
 www.2rad-hanke.de
@@ -5451,6 +5464,7 @@ www.anssi-antila.de
 www.antijob.me
 www.antiwurm.de
 www.antminerfarm.com
+www.anuchka.store
 www.anwalt-wendelmuth.de
 www.anycubic.com
 www.aok-campus.de
@@ -6335,6 +6349,7 @@ www.directunlocks.com
 www.directzs.com
 www.direkt-routenplaner.de
 www.dirndlzeit.de
+www.diroplay.de
 www.discom.at
 www.discount-bazar.com
 www.discounter24shop.com
@@ -6407,6 +6422,7 @@ www.dresse.at
 www.dressfirst.com
 www.dresslily.com
 www.dressyin.de
+www.dr-estate.com
 www.drevalg.com
 www.drgimborn.at
 www.drive2u.de
@@ -6607,6 +6623,7 @@ www.energiekick.at
 www.energie-zum-leben.at
 www.engelbert-versand.de
 www.engelhardt-ses.de
+www.engeliebe.de
 www.enginelover.com
 www.engllischebulldogge.com
 www.enix-ai.net
@@ -6620,6 +6637,7 @@ www.epicura.at
 www.equapulia.it
 www.equsi0n.com
 www.erdbau-niederwieser.at
+www.erdbeerblase.de
 www.erektslim.com
 www.eremea.de
 www.ericdress.com
@@ -7138,6 +7156,7 @@ www.grauschwarzbrillen.de
 www.gravelmac.com
 www.grazerraeumung.at
 www.greenbiday.com
+www.greencardorganization.com
 www.greenforladies.com
 www.gregor-friedl.at
 www.grillario.de
@@ -8266,6 +8285,7 @@ www.mode-1.eu
 www.modefee.at
 www.modefinds.com
 www.mode-friedl.at
+www.modeis24.shop
 www.modeish.com
 www.modelines.nl
 www.modellbahnhandel-deutschland.de
@@ -8937,6 +8957,7 @@ www.promenader.top
 www.promo-maket.com
 www.prom.ua
 www.proseccotrex.de
+www.pro-trends.co
 www.protronika.de
 www.proxysong.com
 www.prozess-profi.de
@@ -8998,6 +9019,7 @@ www.raisvillau.com
 www.ralando24.com
 www.ramonlabrador.de
 www.random-markets.com
+www.ranoplay.de
 www.rapid-life-insurance.com
 www.rapidoelectroniks.com
 www.raplay.de
@@ -9125,6 +9147,7 @@ www.ronuldo.com
 www.roombrand.ru
 www.rosedoris.com
 www.rosegal.com
+www.roselinlin.com
 www.rosenkrieg-magazin.de
 www.rosenzeit-koeln.de
 www.rosetata.com
@@ -9985,6 +10008,7 @@ www.urlaubsmenschen.at
 www.usa-food-store.de
 www.usantluxe.com
 www.uscapitalfundingii.com
+www.us-eur.com
 www.usoucho.com
 www.utorrent.de
 www.utriadci.com
