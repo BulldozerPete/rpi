@@ -19,11 +19,13 @@
 8468614.fls.doubleclick.net
 9240859.fls.doubleclick.net
 9279323.fls.doubleclick.net
+9523400.fls.doubleclick.net
 a15321630321.cdn.optimizely.com
 a17126690382.cdn.optimizely.com
 a1.adform.net
 a2129670914.cdn.optimizely.com
 a3391893108.cdn.optimizely.com
+a8270235338.cdn.optimizely.com
 aa.agkn.com
 a.ad.gt
 a.adtng.com
@@ -33,10 +35,13 @@ a.bf-ad.net
 a.bf-tools.net
 abservinean.com
 accounts.doubleclick.net
+ad13.adfarm1.adition.com
 ad1.adfarm1.adition.com
 ad3.adfarm1.adition.com
+ad4.adfarm1.adition.com
 ad.71i.de
 ade.googlesyndication.com
+ad.foxitsoftware.com
 adfpoint.com
 ad.impactify.io
 ad-ipd.sxp.smartclip.net
@@ -84,7 +89,9 @@ af.stroeerdp.de
 a.hstrck.com
 ak.sail-horizon.com
 alive.github.com
+a.mailmunch.co
 amazon.partners.tremorhub.com
+amazonwebservices.d2.sc.omtrdc.net
 amp.casalemedia.com
 ampcid.google.com
 amplify.outbrain.com
@@ -95,6 +102,7 @@ analytics.audionow.de
 analytics.cnd-motionmedia.de
 analytics-collector-28944298.us-east-1.elb.amazonaws.com
 analytics.developer.riotgames.com
+analytics.dpd.com
 analytics.facebook.com
 analytics.idfnet.net
 analytics-ingress-global.bitmovin.com
@@ -168,6 +176,7 @@ balanced-engage.deltadna.net
 bam-cell.nr-data.net
 bam.eu01.nr-data.net
 bang-4-buck.com
+baseendpoint.stern.de
 bat.bing.com
 bat-bing-com.a-0001.a-msedge.net
 bcp.crwdcntrl.net
@@ -380,6 +389,7 @@ dyn.emetriq.de
 e1cd4958785f7e0dcfaee56d57a7db4096b34051.cws.conviva.com
 e69896.dscapi6.akamaiedge.net
 eb2.3lift.com
+ecommerce.iap.unity3d.com
 edinburghemotionalalive.com
 e.maxtraffic.com
 end.scorecardresearch.com
@@ -418,6 +428,7 @@ firebaselogging-pa.googleapis.com
 firebase-settings.crashlytics.com
 firetvcaptiveportal.com
 flash.doubleclick-analytics.com
+fls.doubleclick.net
 flury-ycpi.gycpi.b.yahoodns.net
 fmdata.imgsmail.ru
 fp.msedge.net
@@ -499,6 +510,7 @@ impression.link
 impulse.forkcdn.com
 inapps.appsflyer.com
 ing-district.clicktale.net
+in.hotjar.com
 init.supersonicads.com
 in-page-push.com
 insight.adsrvr.org
@@ -629,6 +641,7 @@ oms.expedia.com
 orbidder.otto.de
 ot.obi.de
 p16-ad-sg.ibyteimg.com
+p1.zemanta.com
 p.adsymptotic.com
 pad-v3.presage.io
 pagead2.googlesyndication.com
@@ -638,6 +651,7 @@ payingnoodlescam.com
 pdw-usr.userreport.com
 ping.chartbeat.net
 ping.getadblock.com
+pinpoll.com
 pipedream.wistia.com
 piwik.itzbund.de
 piwik.pro
@@ -648,6 +662,7 @@ pixel-geo.prfct.co
 pixel.inforsea.com
 pixel.mathtag.com
 pixel.onaudience.com
+pixels.omnitagjs.com
 pixel.spotify.com
 pixel-static.spotify.com
 pixel.tapad.com
@@ -662,6 +677,7 @@ pottervark.stroeerdp.de
 pp.lp4.io
 pr-bh.ybp.yahoo.com
 pre.ads.justpremium.com
+prebid.adnxs.com
 prebid.a-mo.net
 prebid-server.rubiconproject.com
 preferences.cid.samba.tv
@@ -745,6 +761,7 @@ screenshotfactory.com
 script.4dex.io
 script-at.iocnt.net
 script.crazyegg.com
+script.hotjar.com
 scripts.jixie.io
 scripts.psyma.com
 scripts.sophus3.com
@@ -785,8 +802,10 @@ siteintercept.qualtrics.com
 sjrtp3-cdn.marketo.com
 skadsdk.appsflyer.com
 sm4xqadz4o.kameleoon.eu
+smart-widget-assets.ekomiapps.de
 smetrics.helvetia.com
 smetrics.samsung.com
+smetrics.seat.de
 smetric.volkswagen.com
 smp-device-content.apple.com
 smpop.icfcdn.com
@@ -941,12 +960,14 @@ usermatch.krxd.net
 uss.xplosion.de
 us-u.openx.net
 v1.addthisedge.com
+vars.hotjar.com
 vc.hotjar.io
 vd.7vid.net
 venetrigni.com
 verticalperiodicdirectory.com
 vg04.met.vgwort.de
 vg05.met.vgwort.de
+vg08.met.vgwort.de
 vg09.met.vgwort.de
 videointelligence-d.openx.net
 video-library.showheroes.com
@@ -976,6 +997,7 @@ widgets.outbrain.com
 widow5blackfr.com
 wikia-d.openx.net
 wildcard.bkrtx.com.edgekey.net
+wildcard.cdn.optimizely.com.edgekey.net
 wildcard.evidon.com.edgekey.net
 windychinese.com
 wlplatincasino.adsrv.eacdn.com
@@ -985,6 +1007,7 @@ ww251.smartadserver.com
 ww2.sqidsply.com
 www3.smartadserver.com
 www6.smartadserver.com
+www.adpmbtj.com
 www.adspredictiv.com
 www.arminius.io
 www.beusable.net
