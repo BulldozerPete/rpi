@@ -77,6 +77,7 @@ ads.un-iq.de
 ads.urban-media.com
 ads.yahoo.com
 ads.yap.yahoo.com
+ads.yieldmo.com
 ads.youtube.com
 adtm.chip.de
 adx.adform.net
@@ -123,6 +124,7 @@ a.o333o.com
 a.optmnstr.com
 api2.amplitude.com
 api-cengine.forkcdn.com
+api.cooladata.com
 api.cxense.com
 api-esp.piano.io
 api.feedad.com
@@ -183,6 +185,7 @@ bcp.crwdcntrl.net
 beaconimages.netflix.net
 beacon.krxd.net
 beacon.wikia-services.com
+bh.contextweb.com
 bidder.criteo.com
 bid.sxp.smartclip.net
 bild-relay.iocnt.net
@@ -195,6 +198,7 @@ boot.pbstck.com
 boot.pubstack.io
 browser.events.data.microsoft.com
 browser.events.data.msn.com
+browser-http-intake.logs.datadoghq.eu
 bs.eyeblaster.akadns.net
 bs.showheroes.com
 btloader.com
@@ -276,6 +280,7 @@ clevernt.com
 click.hooligapps.com
 click.oneplus.cn
 click.oneplus.com
+clientcdn.pushengage.com
 clix.superclix.de
 cloudfront-labs.amazonaws.com
 clusava.fra-01.braze.eu
@@ -306,12 +311,14 @@ configuration-vending.service.amazonsilk.com
 consent.dumont.de
 consent.gutefrage.net
 consentmanager.mgr.consensu.org
+contextual.media.net
 conversions.appsflyer.com
 counter.yadro.ru
 cpx.golem.de
 cpxl.golem.de
 crashlyticsreports-pa.googleapis.com
 creativecdn.com
+cs.emxdgt.com
 cs.ns1p.net
 cstat.apple.com
 customers.kameleoon.com
@@ -499,6 +506,7 @@ id.cxense.com
 idm-d.openx.net
 idpt.360yield.com
 id.rlcdn.com
+id.sharedid.org
 ih.adscale.de
 image6.pubmatic.com
 image8.pubmatic.com
@@ -646,6 +654,7 @@ p.adsymptotic.com
 pad-v3.presage.io
 pagead2.googlesyndication.com
 pagead-googlehosted.l.google.com
+pandg.tapad.com
 partner.googleadservices.com
 payingnoodlescam.com
 pdw-usr.userreport.com
@@ -665,6 +674,7 @@ pixel.onaudience.com
 pixels.omnitagjs.com
 pixel.spotify.com
 pixel-static.spotify.com
+pixel-sync.sitescout.com
 pixel.tapad.com
 pix.telekom.de
 platform-api.sharethis.com
@@ -725,6 +735,7 @@ r.srvtrck.com
 rt.applovin.com
 rt.applvn.com
 rtb.d.adup-tech.com
+rtb.gumgum.com
 r.teads.tv
 rtr.innovid.com
 rules.quantcount.com
@@ -777,6 +788,7 @@ sdk.qikify.com
 search.spotxchange.com
 secure.adnxs.com
 secure-adnxs.edgekey.net
+secure-assets.rubiconproject.com
 secure-dcr.imrworldwide.com
 secure-ds.serving-sys.com
 secure-eu.imrworldwide.com
@@ -821,6 +833,7 @@ src.ebay-us.com
 srtb.msn.com
 srv.clickfuse.com
 srv.de.ebayrtm.com
+ssbsync.smartadserver.com
 ssc.33across.com
 ssl-chip.met.vgwort.de
 ssl.gft2.de
@@ -849,6 +862,7 @@ static-de.plista.com
 static.digidip.net
 static.doubleclick.net
 static.emsservice.de
+static.etracker.com
 static.hotjar.com
 static.mediarithmics.com
 static.newsletter2go.com
@@ -868,6 +882,7 @@ stats.wp.com
 submit-target.osp.opera.software
 supportmetrics.apple.com
 survey.survicate.com
+sync.1rx.io
 synchrobox.adswizz.com
 sync.mathtag.com
 sync.search.spotxchange.com
