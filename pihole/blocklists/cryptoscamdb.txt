@@ -26,7 +26,7 @@
 # Telegram-Gruppe PiHole + Unbound Fans (DACH)
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
-# 4088 Domains - 2021.07.20-03:31:30
+# 4078 Domains - 2021.07.21-03:31:32
 # ---------------------------------------------
 #
 0978f655-465b-4434-99fb-f8357c7bca4b.htmlpasta.com
@@ -1850,9 +1850,7 @@ paraetherwallet.com
 paveldurov.bitballoon.com
 paxful.com.ng
 paxful.com.pl
-paxful-fra.com
 paxful-ns.com
-paxfulsecured.com
 paxful-sl.com
 paxfulverify.com
 payetherer20.000webhostapp.com
@@ -1920,7 +1918,6 @@ rebellios.com
 reblogiz.blogspot.com
 receiveuniswap.com
 recovermycoins.com
-redpulsetoken.co
 reeveclancy.wixsite.com
 renairdrop.com
 reobit.com
@@ -2136,7 +2133,6 @@ transaction-accelerator.com
 transaction-authorization.droppages.com
 transfer-address-confirmation.droppages.com
 transfer-eth.neocities.org
-trez0r.com
 trezorapp.com
 trezor-io.com
 trezors-wallets.com
@@ -3592,9 +3588,7 @@ www.pancakeswap-airdropcampaign.finance
 www.pancakeswapconnect.com
 www.pancakeswapwalletsvalidation.finance
 www.paraetherwallet.com
-www.paxful-fra.com
 www.paxful-ns.com
-www.paxfulsecured.com
 www.paxful-sl.com
 www.paxfulverify.com
 www.paypal-btc.com
@@ -3638,7 +3632,6 @@ www.rafbit.com
 www.rebellios.com
 www.receiveuniswap.com
 www.recovermycoins.com
-www.redpulsetoken.co
 www.renairdrop.com
 www.reobit.com
 www.republic-protocol.net
@@ -3797,7 +3790,6 @@ www.tortoken.io
 www.tradergrove.space
 www.trading-binance.com
 www.transaction-accelerator.com
-www.trez0r.com
 www.trezorapp.com
 www.trezor-io.com
 www.trezors-wallets.com
@@ -3958,7 +3950,6 @@ www.xn--stllar-q3a.com
 www.xn--stllar-x4a.org
 www.xn--treor-7hb.io
 www.xn--treor-wib.com
-www.xn--tro-k5y.com
 www.xn--ttrex-ysa9423c.com
 www.xn--uiswap-ieb.com
 www.xn--unswap-4va.com
@@ -4060,7 +4051,6 @@ xn--stllar-q3a.com
 xn--stllar-x4a.org
 xn--treor-7hb.io
 xn--treor-wib.com
-xn--tro-k5y.com
 xn--ttrex-ysa9423c.com
 xn--uiswap-ieb.com
 xn--unswap-4va.com
