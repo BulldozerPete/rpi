@@ -20,14 +20,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 50137
-# Deadlist: 460714
-# Blacklist: 1735
+# Whitelist: 50219
+# Deadlist: 456479
+# Blacklist: 1736
 # 1. Source: 4565 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1482 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10674 Domains - V2021.07.21-21:20:49
+# 10676 Domains - V2021.07.23-03:34:10
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -2700,6 +2700,7 @@ kswfp.top
 kuaicmn.com
 kuechenblume.net
 kuechen-sommer.de
+kukkesc.com
 kunstamt.at
 kunstzeit-ruhr.de
 kupfermaehne.at
@@ -7900,6 +7901,7 @@ www.kswfp.top
 www.kuaicmn.com
 www.kuechenblume.net
 www.kuechen-sommer.de
+www.kukkesc.com
 www.kunstamt.at
 www.kunstzeit-ruhr.de
 www.kupfermaehne.at
