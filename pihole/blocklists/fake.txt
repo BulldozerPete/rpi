@@ -20,14 +20,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 50219
-# Deadlist: 456479
-# Blacklist: 1736
+# Whitelist: 50236
+# Deadlist: 457081
+# Blacklist: 1740
 # 1. Source: 4565 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1482 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10676 Domains - V2021.07.23-03:34:10
+# 10682 Domains - V2021.07.24-22:27:53
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -686,6 +686,7 @@ bringwish.com
 british-columbia-hotels.com
 brodyjeane.com
 brookfieldassets.eu
+brothers-bike.de
 brownbest.club
 brs-biogas.at
 brtechi.com
@@ -2364,6 +2365,7 @@ inetchip.de
 inetzteil.de
 infinite-electronic.de
 inflix.de
+infodir.net
 infox24.de
 infunnelg.com
 ingbert-unruh.de
@@ -2771,6 +2773,7 @@ leibnizgym.de
 leipzig-cityguide.de
 leitneraviation.at
 lenanena.com
+lendiano.com
 lenoma.ru
 lensivy.com
 leonardo-essen.de
@@ -5940,6 +5943,7 @@ www.bringwish.com
 www.british-columbia-hotels.com
 www.brodyjeane.com
 www.brookfieldassets.eu
+www.brothers-bike.de
 www.brownbest.club
 www.brs-biogas.at
 www.brtechi.com
@@ -7570,6 +7574,7 @@ www.inetchip.de
 www.inetzteil.de
 www.infinite-electronic.de
 www.inflix.de
+www.infodir.net
 www.infox24.de
 www.infunnelg.com
 www.ingbert-unruh.de
@@ -7972,6 +7977,7 @@ www.leibnizgym.de
 www.leipzig-cityguide.de
 www.leitneraviation.at
 www.lenanena.com
+www.lendiano.com
 www.lenoma.ru
 www.lensivy.com
 www.leonardo-essen.de
