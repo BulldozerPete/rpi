@@ -20,14 +20,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 50236
-# Deadlist: 457081
-# Blacklist: 1740
+# Whitelist: 50298
+# Deadlist: 461662
+# Blacklist: 1741
 # 1. Source: 4565 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1482 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10682 Domains - V2021.07.24-22:27:53
+# 10684 Domains - V2021.07.26-11:03:58
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -5196,6 +5196,7 @@ wendario.de
 weo-germany.de
 werbeagentur-idstein.de
 werkzeug-maier.de
+werkzeugshop-wagner.de
 wernsingfggmbh.com
 westchili.myshopify.com
 wets-elektrotechnik.de
@@ -10326,6 +10327,7 @@ www.wendario.de
 www.weo-germany.de
 www.werbeagentur-idstein.de
 www.werkzeug-maier.de
+www.werkzeugshop-wagner.de
 www.wernsingfggmbh.com
 www.wets-elektrotechnik.de
 www.wewbay.com
