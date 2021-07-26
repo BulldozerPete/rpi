@@ -1,0 +1,42 @@
+# ---------------------------------------------
+# Zelo*s "NSO Pegasus Spyware" Blockliste
+# ---------------------------------------------
+#
+# Erstellt zur rein persönlichen, privaten
+# Nutzung.
+#
+# NSO Group Pegasus Spyware Domains
+#
+# https://www.amnesty.org/en/latest/news/2021/07/the-pegasus-project/ 
+#
+# ---------------------------------------------
+# GitHub: https://github.com/Zelo72
+# Mail:   zelo72@dismail.de
+# ---------------------------------------------
+# Telegram-Gruppe PiHole + Unbound Fans (DACH)
+#                 https://t.me/piholefans_DACH
+# ---------------------------------------------
+
+# Exclude: 0
+
+# Whitelist: 50299
+# Deadlist: 457852
+
+# Blacklist: 0
+
+# 1. Source: 1406 - https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt
+# 2. Source: 95 - https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/v2_domains.txt
+# 3. Source: 601 - https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/v3_domains.txt
+# 4. Source: 688 - https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/v4_domains.txt
+# 5. Source: 26 - https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/v4_validation_domains.txt
+# 6. Source: 1406 - https://raw.githubusercontent.com/jjjxu/NSO_Pegasus_Blocklist/main/Pegasus-Hosts-Formatted.txt
+# 7. Source: 627 - https://raw.githubusercontent.com/0n1cOn3/nso-blacklist/main/hosts.txt
+# #. Source: 4849
+
+Statistik nso-pegasus.txt:
+== Source (unique): 1981
+-- White:           1980 (-1)
+-- Dead:            1470 (-510)
+-- Unblock:         1470 (-0)
+++ WWW-Domains:     2361 (+891)
+++ FLD-Domains:     2362 (+1)
