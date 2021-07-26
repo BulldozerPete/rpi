@@ -15,7 +15,6 @@
 # ******************
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 #
-# - Tote Domains entfernt.
 # + Erweitert um mögliche WWW/FLD-Domains.
 #
 # ---------------------------------------------
@@ -25,7 +24,7 @@
 # Telegram-Gruppe PiHole + Unbound Fans (DACH)
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
-# 68374 Domains - 2021.07.26-09:15:45
+# 68387 Domains - 2021.07.26-14:35:59
 # ---------------------------------------------
 #
 0024aaaa.com
@@ -10916,6 +10915,7 @@ delivery-cdn-cf.adswizz.com
 delivery.contextads.live
 delivery-dev.thebloggernetwork.com
 delivery.fabrouter.com
+delivery.hunterycity.com
 deliverymodo.com
 delivery.playallvideos.com
 delivery.porn.com
@@ -12250,6 +12250,7 @@ eduad.baidu.com
 educatedeggnog.com
 educatednicer.com
 educationdemotediabete.com
+educedsteeped.com
 edugrampromo.com
 edu.jiukang.org
 edumsys.com
@@ -22709,6 +22710,7 @@ netsled.net
 netsolads.com
 netstats.dk
 netszex.com
+nettierbrakier.com
 netund.com
 netupdater.info
 netvigie.com
@@ -24864,6 +24866,7 @@ pgcode.org
 pgebqmezguxz.com
 pgeejqisao.com
 pge.unityads.unity3d.com
+pghub.io
 p.gm99.com
 pgmcdn.com
 pgmediaserve.com
@@ -27468,6 +27471,7 @@ replase.ml
 reporo.net
 report.appmetrica.yandex.net
 reporting.aatkit.com
+reporting.cdndex.io
 reporting.handll.net
 reportionbreedy.pro
 reportions.club
@@ -27553,6 +27557,7 @@ restoring.club
 restrictbench.com
 restrictedsuccessive.com
 restroyhyt.club
+rest.wildstar-online.com
 resu8.hjfile.cn
 resulticks.com
 resultlinks.com
@@ -31669,6 +31674,7 @@ tatdunsit.com
 tathitch.net
 tatjhh.cn
 ta.toprework.vn
+tatpek.com
 ta.trs.cn
 tatsumi-sys.jp
 tattle.api.osano.com
@@ -34943,6 +34949,7 @@ viraladnetwork.net
 viralbeat.com
 viral-cdn.ru
 viralcpm.com
+viralize.tv
 viralltopics.com
 viralmails.de
 viralmediatech.com
@@ -45397,6 +45404,7 @@ www.edtp.de
 www.educatedeggnog.com
 www.educatednicer.com
 www.educationdemotediabete.com
+www.educedsteeped.com
 www.edugrampromo.com
 www.edumsys.com
 www.eduzzjy.com
@@ -54301,6 +54309,7 @@ www.netsled.net
 www.netsolads.com
 www.netstats.dk
 www.netszex.com
+www.nettierbrakier.com
 www.netund.com
 www.netupdater.info
 www.netvigie.com
@@ -56224,6 +56233,7 @@ www.pgbxrigvbmdz.com
 www.pgcode.org
 www.pgebqmezguxz.com
 www.pgeejqisao.com
+www.pghub.io
 www.pgmcdn.com
 www.pgmediaserve.com
 www.pgmrko89prom.com
@@ -61666,6 +61676,7 @@ www.tastishi.ru
 www.tatdunsit.com
 www.tathitch.net
 www.tatjhh.cn
+www.tatpek.com
 www.tatsumi-sys.jp
 www.tattomedia.com
 www.tauntdoctrineestablishment.com
@@ -64074,6 +64085,7 @@ www.viraladnetwork.net
 www.viralbeat.com
 www.viral-cdn.ru
 www.viralcpm.com
+www.viralize.tv
 www.viralltopics.com
 www.viralmails.de
 www.viralmediatech.com

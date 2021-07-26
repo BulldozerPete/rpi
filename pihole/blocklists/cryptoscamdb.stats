@@ -15,7 +15,6 @@
 # **********
 # https://api.cryptoscamdb.org/v1/whitelist
 #
-# - Tote Doamins entfernt.
 # - Falsch positive Domains entfernt.
 # + Erweitert um mögliche WWW/FLD-Domains.
 #
@@ -30,9 +29,8 @@
 Downloade cryptoscamdb              --> 9254 cryptoscamdb.raw
 Extrahiere gültige Domains          --> 9215 cryptoscamdb.domains
 Bereinige WHITE cryptoscamdb        --> 9202 cryptoscamdb.domains
-Bereinige DEAD cryptoscamdb         --> 2365 cryptoscamdb.domains
-Erstelle Domainliste für WWW Zusatz --> 1711 cryptoscamdb.domains.www
-Erweitere Domains durch WWW         --> 1711 cryptoscamdb.www
-Erstelle Domainliste für FLD        --> 2 cryptoscamdb.www.fld
-Erstelle cryptoscamdb               --> 4078 cryptoscamdb.txt.tmp
+Erstelle Domainliste für WWW Zusatz --> 7976 cryptoscamdb.domains.www
+Erweitere Domains durch WWW         --> 7976 cryptoscamdb.www
+Erstelle Domainliste für FLD        --> 7 cryptoscamdb.www.fld
+Erstelle cryptoscamdb               --> 17185 cryptoscamdb.txt.tmp
 

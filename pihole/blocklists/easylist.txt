@@ -13,7 +13,6 @@
 # https://easylist.to/easylist/easyprivacy.txt
 # https://easylist.to/easylistgermany/easylistgermany.txt
 #
-# - Tote Domains entfernt.
 # + Erweitert um mögliche WWW/FLD-Domains.
 #
 # ---------------------------------------------
@@ -23,7 +22,7 @@
 # Telegram-Gruppe PiHole + Unbound Fans (DACH)
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
-# 52508 Domains - 2021.07.26-09:15:35
+# 52517 Domains - 2021.07.26-14:35:51
 # ---------------------------------------------
 #
 006a039c957c142bb.com
@@ -8107,6 +8106,7 @@ delivery49.com
 delivery51.com
 delivery-dev.thebloggernetwork.com
 deliverydom.com
+delivery.hunterycity.com
 deliverymodo.com
 delivery.satr.jp
 delivery.smashing.services
@@ -20657,6 +20657,7 @@ p.gazeta.pl
 pgbxrigvbmdz.com
 pgebqmezguxz.com
 pgeejqisao.com
+pghub.io
 pgmcdn.com
 pgmediaserve.com
 pgmrko89prom.com
@@ -28522,6 +28523,7 @@ topeuro.biz
 topflownews.com
 topfox.co.uk
 top-fwz1.mail.ru
+tophitbit.com
 tophits4u.de
 tophotbanan.com
 topiaserv.net
@@ -29888,6 +29890,7 @@ twp0g1fch5yr.com
 twpasol.com
 twqiqiang.com
 twtad.com
+twus-mms.theweek.com
 txcmjo.com
 txeemx.aritaum.com
 txt.eu
@@ -29921,6 +29924,7 @@ u47.pnc.com
 u595sebqih.com
 u5c93.com
 u5e.com
+u989.theweek.com
 u9oxdnxk8b.com
 uadx.com
 uagopaamgcxme.com
@@ -30292,6 +30296,7 @@ utoyoufio.fun
 utpgxaylxurhbc.com
 utq55kl9vyqv.com
 utrack.hexun.com
+utraff.com
 uts.auction.co.kr
 utteredhandicappedsomebody.com
 utteroccupied.com
@@ -45016,6 +45021,7 @@ www.pfzzgurflf.com
 www.pgbxrigvbmdz.com
 www.pgebqmezguxz.com
 www.pgeejqisao.com
+www.pghub.io
 www.pgmcdn.com
 www.pgmediaserve.com
 www.pgmrko89prom.com
@@ -49305,6 +49311,7 @@ www.topdisplaycontent.com
 www.topdisplaynetwork.com
 www.topeuro.biz
 www.topflownews.com
+www.tophitbit.com
 www.tophits4u.de
 www.tophotbanan.com
 www.topiaserv.net
@@ -50148,6 +50155,7 @@ www.utoumine.net
 www.utoyoufio.fun
 www.utpgxaylxurhbc.com
 www.utq55kl9vyqv.com
+www.utraff.com
 www.utteredhandicappedsomebody.com
 www.utteroccupied.com
 www.utubeconverter.com

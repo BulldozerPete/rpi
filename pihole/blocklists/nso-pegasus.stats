@@ -10,7 +10,6 @@
 #
 # https://www.amnesty.org/en/latest/news/2021/07/the-pegasus-project/ 
 #
-# - Tote Domains entfernt.
 # - Falsch positive Domains entfernt.
 # + Erweitert um mögliche WWW/FLD-Domains.
 #
@@ -25,7 +24,7 @@
 # Exclude: 0
 
 # Whitelist: 50298
-# Deadlist: 461662
+# Deadlist: 259489
 
 # Blacklist: 0
 
@@ -41,7 +40,7 @@
 Statistik nso-pegasus.txt:
 == Source (unique): 1981
 -- White:           1980 (-1)
--- Dead:            1053 (-927)
--- Unblock:         1053 (-0)
-++ WWW-Domains:     1569 (+516)
-++ FLD-Domains:     1570 (+1)
+-- Dead:            1493 (-487)
+-- Unblock:         1493 (-0)
+++ WWW-Domains:     2408 (+915)
+++ FLD-Domains:     2409 (+1)

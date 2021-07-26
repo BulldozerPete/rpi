@@ -15,7 +15,6 @@
 # ******************
 # https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 #
-# - Tote Domains entfernt.
 # + Erweitert um mögliche WWW/FLD-Domains.
 #
 # ---------------------------------------------
@@ -26,12 +25,12 @@
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
 
-Downloade adguarddns                --> 50060 adguarddns.raw
-Extrahiere gültige Domains          --> 37923 adguarddns.domains
-Erstelle Domainliste für WWW Zusatz --> 30447 adguarddns.domains.www
-Erweitere Domains durch WWW         --> 30447 adguarddns.www
+Downloade adguarddns                --> 50069 adguarddns.raw
+Extrahiere gültige Domains          --> 37931 adguarddns.domains
+Erstelle Domainliste für WWW Zusatz --> 30452 adguarddns.domains.www
+Erweitere Domains durch WWW         --> 30452 adguarddns.www
 Erstelle Domainliste für FLD        --> 6 adguarddns.www.fld
-Erstelle adguarddns                 --> 68374 adguarddns.txt.tmp
+Erstelle adguarddns                 --> 68387 adguarddns.txt.tmp
 
 Extrahiere Whitelist Domains        --> 79
 Extrahiere Exclusion Domains        --> 292
