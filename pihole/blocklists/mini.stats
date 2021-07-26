@@ -15,40 +15,43 @@
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
 
-# Exclude fake.txt: 10682
-# Exclude: 10682
+# Exclude fake.txt: 10684
+# Exclude: 10684
 
 # Whitelist: 50298
-# Deadlist: 460903
+# Deadlist: 461662
 
 # Blacklist global: 873
 # Blacklist source: 
 # Blacklist: 873
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
-# 2. Source: 6027 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/prigentads.txt
-# 3. Source: 9922 - https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains
-# 4. Source: 1486 - https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains
-# 5. Source: 52508 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
-# 6. Source: 8082 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-# 7. Source: 68374 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
-# 8. Source: 71663 - https://dbl.oisd.nl/basic/
-# 9. Source: 41989 - https://phishing.army/download/phishing_army_blocklist_extended.txt
-# 10. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
-# 11. Source: 8224 - https://adaway.org/hosts.txt
-# 12. Source: 3629 - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# 13. Source: 15510 - https://someonewhocares.org/hosts/
-# 14. Source: 78596 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 15. Source: 1138 - https://urlhaus.abuse.ch/downloads/hostfile/
-# 16. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 376761
+# 2. Source: 619 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/ads_tracking.txt
+# 3. Source: 6027 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/prigentads.txt
+# 4. Source: 555 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/privacy.txt
+# 5. Source: 9922 - https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains
+# 6. Source: 1486 - https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains
+# 7. Source: 52508 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
+# 8. Source: 8082 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
+# 9. Source: 68374 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 10. Source: 71663 - https://dbl.oisd.nl/basic/
+# 11. Source: 1570 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nso-pegasus.txt
+# 12. Source: 41989 - https://phishing.army/download/phishing_army_blocklist_extended.txt
+# 13. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+# 14. Source: 8224 - https://adaway.org/hosts.txt
+# 15. Source: 3629 - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+# 16. Source: 15510 - https://someonewhocares.org/hosts/
+# 17. Source: 78596 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# 18. Source: 1137 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 19. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
+# #. Source: 379504
 
 Statistik mini.txt:
-== Source (unique): 208221
-++ Black:           209079 (+858)
--- White:           207924 (-1155)
--- Dead:            159328 (-48596)
--- Exclude:         159267 (-61)
--- Unblock:         159252 (-15)
-++ WWW-Domains:     174330 (+15078)
-++ FLD-Domains:     174452 (+122)
+== Source (unique): 210469
+++ Black:           211327 (+858)
+-- White:           210086 (-1241)
+-- Dead:            161481 (-48605)
+-- Exclude:         161420 (-61)
+-- Unblock:         161405 (-15)
+++ WWW-Domains:     176478 (+15073)
+++ FLD-Domains:     176600 (+122)
