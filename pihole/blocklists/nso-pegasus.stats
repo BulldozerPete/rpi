@@ -19,8 +19,8 @@
 
 # Exclude: 0
 
-# Whitelist: 50299
-# Deadlist: 457852
+# Whitelist: 50298
+# Deadlist: 460903
 
 # Blacklist: 0
 
@@ -36,7 +36,7 @@
 Statistik nso-pegasus.txt:
 == Source (unique): 1981
 -- White:           1980 (-1)
--- Dead:            1470 (-510)
--- Unblock:         1470 (-0)
-++ WWW-Domains:     2361 (+891)
-++ FLD-Domains:     2362 (+1)
+-- Dead:            1453 (-527)
+-- Unblock:         1453 (-0)
+++ WWW-Domains:     2328 (+875)
+++ FLD-Domains:     2329 (+1)

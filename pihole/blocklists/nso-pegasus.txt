@@ -22,8 +22,8 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 50299
-# Deadlist: 457852
+# Whitelist: 50298
+# Deadlist: 460903
 # Blacklist: 0
 # 1. Source: 1406 - https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt
 # 2. Source: 95 - https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/v2_domains.txt
@@ -34,11 +34,10 @@
 # 7. Source: 627 - https://raw.githubusercontent.com/0n1cOn3/nso-blacklist/main/hosts.txt
 #
 # ---------------------------------------------
-# 2362 Domains - V2021.07.26-09:04:07
+# 2329 Domains - V2021.07.26-09:17:51
 # ---------------------------------------------
 #
 24-7clinic.com
-301-redirecting.com
 365redirect.co
 911hig11carcay959454.com
 accomodation-tastes.net
@@ -49,7 +48,6 @@ accounts.mx
 active-folders.com
 actu24.online
 add-client.com
-additional-costs.com
 addresstimeframe.com
 adeal4u.co
 ad-generator.net
@@ -68,19 +66,16 @@ alldaycooking.co
 allergiesandcooking.com
 allfadiha.co
 alljazeera.co
-alpharythme.com
 api1r3f4.redirectweburl.com
 apigraphs.net
 apiweb248.theappanalytics.com
 appleleaveit.co
 applicationcreation.net
-appsgratis.com.mx
 appsjuegos.com.mx
 arabnews365.com
 a-redirect.com
 a-resolver.com
 around-theglobe.co
-arrowowner.com
 asrararabiya.co
 assembled-battery.com
 auditorcast.com
@@ -90,7 +85,6 @@ authlovebirth.com
 autodiscover.documentpro.org
 autodiscover.tahmilmilafate.com
 autoredirect.net
-avocadofight.com
 av-scanner.com
 awardpractice.com
 axis-indication.net
@@ -105,15 +99,11 @@ becomeiguana.com
 behindaquarium.com
 benjamin-taganga.info
 bestcandyever.com
-bestday-sales.com
 bestfoods.co
 bestheadphones4u.com
 bestpresents4all.net
 bestsalesaroundme.com
-betterapplesearch.com
-betterhandsblack.com
 bigseatsout.net
-billednorth.com
 birdbathmorning.com
 biscuit-taste.net
 bitanalysis.net
@@ -140,7 +130,6 @@ buildingcarpet.com
 buildyourdata.com
 bulksender.info
 bulktheft.com
-bulk-theft.net
 bullgame.net
 bundlestofear.com
 businesssupportme.com
@@ -151,26 +140,20 @@ buypresent4me.net
 bytlo.com
 cablegirls.net
 calculatesymbols.com
-candlealbum.com
 carpetdignity.com
 cars-to-buy.com
 cartsafer.com
 cashandlife.com
-cashtowebmail.com
 catbrushcable.com
 cdn19be2.reloadinput.com
 cdn42js666.manydnsnow.com
 cdnwa.com
 celebrateyourdaynow.com
 cell-mcel.info
-cellphone-inside.org
 cellular-updates.com
 centersession.com
-changesstarted.net
 chatresponses.com
 cheapcardonline.com
-checkboxcart.com
-checkboxfee.com
 chickenwaves.com
 chistedeldia.mx
 chormnet3.com
@@ -1497,7 +1480,6 @@ working-online.net
 workshopmanager.net
 wraptext.net
 www.24-7clinic.com
-www.301-redirecting.com
 www.365redirect.co
 www.911hig11carcay959454.com
 www.accomodation-tastes.net
@@ -1508,7 +1490,6 @@ www.accounts.mx
 www.active-folders.com
 www.actu24.online
 www.add-client.com
-www.additional-costs.com
 www.addresstimeframe.com
 www.adeal4u.co
 www.ad-generator.net
@@ -1527,7 +1508,6 @@ www.alldaycooking.co
 www.allergiesandcooking.com
 www.allfadiha.co
 www.alljazeera.co
-www.alpharythme.com
 www.apigraphs.net
 www.appleleaveit.co
 www.applicationcreation.net
@@ -1535,7 +1515,6 @@ www.arabnews365.com
 www.a-redirect.com
 www.a-resolver.com
 www.around-theglobe.co
-www.arrowowner.com
 www.asrararabiya.co
 www.assembled-battery.com
 www.auditorcast.com
@@ -1543,7 +1522,6 @@ www.authenticangry.com
 www.authenticated-origin.com
 www.authlovebirth.com
 www.autoredirect.net
-www.avocadofight.com
 www.av-scanner.com
 www.awardpractice.com
 www.axis-indication.net
@@ -1558,15 +1536,11 @@ www.becomeiguana.com
 www.behindaquarium.com
 www.benjamin-taganga.info
 www.bestcandyever.com
-www.bestday-sales.com
 www.bestfoods.co
 www.bestheadphones4u.com
 www.bestpresents4all.net
 www.bestsalesaroundme.com
-www.betterapplesearch.com
-www.betterhandsblack.com
 www.bigseatsout.net
-www.billednorth.com
 www.birdbathmorning.com
 www.biscuit-taste.net
 www.bitanalysis.net
@@ -1592,7 +1566,6 @@ www.buildingcarpet.com
 www.buildyourdata.com
 www.bulksender.info
 www.bulktheft.com
-www.bulk-theft.net
 www.bullgame.net
 www.bundlestofear.com
 www.businesssupportme.com
@@ -1603,24 +1576,18 @@ www.buypresent4me.net
 www.bytlo.com
 www.cablegirls.net
 www.calculatesymbols.com
-www.candlealbum.com
 www.carpetdignity.com
 www.cars-to-buy.com
 www.cartsafer.com
 www.cashandlife.com
-www.cashtowebmail.com
 www.catbrushcable.com
 www.cdnwa.com
 www.celebrateyourdaynow.com
 www.cell-mcel.info
-www.cellphone-inside.org
 www.cellular-updates.com
 www.centersession.com
-www.changesstarted.net
 www.chatresponses.com
 www.cheapcardonline.com
-www.checkboxcart.com
-www.checkboxfee.com
 www.chickenwaves.com
 www.chistedeldia.mx
 www.chormnet3.com
