@@ -48,6 +48,7 @@ ad-ipd.sxp.smartclip.net
 ad.mail.ru
 ads2.contentabc.com
 ads.adthrive.com
+ad.samsungads.com
 ads-api.twitter.com
 ads.api.vungle.com
 ads.bullionyield.com
@@ -55,6 +56,7 @@ adsco.re
 ads.creative-serving.com
 adsdk.yandex.ru
 adserver.71i.de
+adservetx.media.net
 ads.facebook.com
 ads.flurry.com
 ads.golem.de
@@ -94,6 +96,7 @@ alive.github.com
 a.mailmunch.co
 amazon.partners.tremorhub.com
 amazonwebservices.d2.sc.omtrdc.net
+a.mouseflow.com
 amp.casalemedia.com
 ampcid.google.com
 amplify.outbrain.com
@@ -152,6 +155,7 @@ app.adjust.net.in
 app.adjust.world
 app-analytics-v2.snapchat.com
 appleglobal.102.112.2o7.net
+appmetrica.yandex.com
 app.uptain.de
 aps.xplosion.de
 a.pub.network
@@ -190,6 +194,7 @@ beacon.wikia-services.com
 bh.contextweb.com
 bidder.criteo.com
 bid.sxp.smartclip.net
+bigdata.ssp.samsung.com
 bild-relay.iocnt.net
 blastcahs.com
 bls.adalliance.io
@@ -204,6 +209,7 @@ browser-http-intake.logs.datadoghq.eu
 bs.eyeblaster.akadns.net
 bs.showheroes.com
 btloader.com
+business.samsungusa.com
 buyer.dspx.tv
 buy.tinypass.com
 c1.adform.net
@@ -236,10 +242,12 @@ cdn.cxense.com
 cdn.districtm.io
 cdn-eu.dynamicyield.com
 cdn.exactag.com
+cdn.fastclick.net
 cdn.flashtalking.com
 cdn.funnelytics.io
 cdn-gl.nmrodam.com
 cdn.instapagemetrics.com
+cdn.luckyorange.com
 cdn.marphezis.com
 cdn.matomo.cloud
 cdn.moengage.com
@@ -315,6 +323,7 @@ congressaffrayghosts.com
 consent.dumont.de
 consent.gutefrage.net
 consentmanager.mgr.consensu.org
+console.e-bot7.de
 contextual.media.net
 conversions.appsflyer.com
 counter.yadro.ru
@@ -323,6 +332,7 @@ cpxl.golem.de
 crashlyticsreports-pa.googleapis.com
 creativecdn.com
 cs.emxdgt.com
+cs.luckyorange.net
 cs.ns1p.net
 cstat.apple.com
 customers.kameleoon.com
@@ -358,6 +368,7 @@ data-8793ca6c7d.rpr1.de
 data-bb21a2f11b.bild.de
 data-c53e1346fa.mein-mmo.de
 data-c5925d7d99.pcgameshardware.de
+data-c69aa33f02.linux-community.de
 data-e4997adf31.welt.de
 datalayer.p7s1.io
 data.logentries.com
@@ -414,6 +425,7 @@ entitlements.jwplayer.com
 epnt.ebay.com
 errors.client.optimizely.com
 errors.nmrodam.com
+ersatzbild.images.dvbdata.com
 eu-adsrv.rtbsuperhub.com
 eu.dspultra.com
 eu-library.klarnaservices.com
@@ -449,6 +461,7 @@ flury-ycpi.gycpi.b.yahoodns.net
 fmdata.imgsmail.ru
 fp.msedge.net
 fra1-ib.adnxs.com
+freshmarketer.com
 fsalfrwdr.com
 fsb.hextom.com
 fti.d3.sc.omtrdc.net
@@ -464,6 +477,7 @@ gcdn.2mdn.net
 gcdsdk.appsflyer.com
 generaltracking.de
 geolocation.stroeerdp.de
+get.mirando.de
 get.s-onetag.com
 g.geogslb.com
 glb-ads.atwola.adtech.de
@@ -480,6 +494,7 @@ golem-relay.iocnt.net
 go.leojmp.com
 googleads4.g.doubleclick.net
 googleads.g.doubleclick.net
+google-analytics.com
 grid.bidswitch.net
 gslb-2.demdex.net
 gum.criteo.com
@@ -492,6 +507,7 @@ hb.vntsm.com
 hbx.media.net
 h.df-srv.de
 hdrbd.ivstracker.net
+hdredirect-lb7-5a03e1c2772e1c9c.elb.us-east-1.amazonaws.com
 heatmap-events-collector.instapage.com
 helpster.met.vgwort.de
 helvetia.demdex.net
@@ -532,6 +548,7 @@ impression.link
 improving.duckduckgo.com
 impulse.forkcdn.com
 inapps.appsflyer.com
+infinity-c1.youboranqs01.com
 ing-district.clicktale.net
 in.hotjar.com
 init.supersonicads.com
@@ -570,8 +587,10 @@ l.getsitecontrol.com
 licensing.bitmovin.com
 links.service.ernstings-family.com
 links.services.disqus.com
+linuxcom-relay.iocnt.net
 lngtd.com
 loadeu.exelator.com
+load.sumo.com
 loadus.exelator.com
 location.l.force.com
 log16-normal-c-useast1a.tiktokv.com
@@ -597,6 +616,7 @@ mads.amazon-adsystem.com
 mads-eu.amazon.com
 mafo.adalliance.io
 mail-ads.google.com
+main-botconsole.production.e-bot7.de
 manifest.localytics.com
 marketing.containers.piwik.pro
 marketing.net.home24.de
@@ -608,6 +628,9 @@ mc.yandex.com
 mc.yandex.ru
 md-i-s.apptimize.com
 media.ethicalads.io
+media.fastclick.net
+media.net
+media.oadts.com
 media.trafficjunky.com
 media.trafficjunky.net
 merchandise.opera-api.com
@@ -617,6 +640,7 @@ metrics2.data.hicloud.com
 metrics3.data.hicloud.com
 metrics4.data.hicloud.com
 metrics5.data.hicloud.com
+metrics.apple.com
 metrics-config.icloud.com
 metrics.data.hicloud.com
 metrics-dra.dt.hicloud.com
@@ -636,6 +660,7 @@ mraid.presage.io
 ms.applovin.com
 ms.applvn.com
 munchkin.marketo.net
+mwtw.presage.io
 my.rtmark.net
 na-library.klarnaservices.com
 nats.xing.com
@@ -649,6 +674,7 @@ njrkf6rvmq.kameleoon.eu
 nkwintenc.biz
 notes-analytics-events.apple.com
 notify-bugs-fra1.rtl.de
+notify.bugsnag.com
 notify.firetv.bugsnag.appstore.a2z.com
 notorietycheerypositively.com
 nsparket.top
@@ -668,8 +694,10 @@ p16-ad-sg.ibyteimg.com
 p1.zemanta.com
 p.adsymptotic.com
 pad-v3.presage.io
+pagead2.googleadservices.com
 pagead2.googlesyndication.com
 pagead-googlehosted.l.google.com
+pagead.googlesyndication.com
 pandg.tapad.com
 partner.googleadservices.com
 payingnoodlescam.com
@@ -683,6 +711,7 @@ piwik.pro
 pixel.adsafeprotected.com
 pixel.advertising.com
 pixel.app.returnpath.net
+pixel.facebook.com
 pixel-geo.prfct.co
 pixel.inforsea.com
 pixel.mathtag.com
@@ -821,6 +850,7 @@ service.cmp.oath.com
 service.force.com
 service.maxymiser.net
 sessions.bugsnag.com
+settings.luckyorange.net
 sex-and-flirt.com
 sf16-ttcdn-tos.ipstatp.com
 s.go-mpulse.net
@@ -882,6 +912,7 @@ static.doubleclick.net
 static.emsservice.de
 static.etracker.com
 static.hotjar.com
+static.media.net
 static.mediarithmics.com
 static.newsletter2go.com
 static.par.vip.prod.criteo.net
@@ -969,6 +1000,7 @@ trc-events.taboola.com
 trck.spoteffects.net
 trc.taboola.com
 tr.iadsdk.apple.com
+trk.pinterest.com
 trmads.eu
 tr.outbrain.com
 tsp.stats.urban-media.com
@@ -991,6 +1023,7 @@ u.openx.net
 upgulpinon.com
 upload2.fp.measure.office.com
 upload.fp.measure.office.com
+upload.luckyorange.net
 ups.analytics.yahoo.com
 upsettingcrescentwig.com
 ups.xplosion.de
@@ -1019,6 +1052,8 @@ vortex.data.microsoft.com
 vrtbe.demdex.net
 vrt.sc.omtrdc.net
 v.vfgte.com
+vwj3o45y6f.kameleoon.eu
+w1.luckyorange.com
 waisheph.com
 wa.sportschau.de
 wa.wdr.de
@@ -1082,6 +1117,7 @@ www.uciservice.com
 www.vfthr.com
 www.xadsmart.com
 www.yext-pixel.com
+www.zigann.com
 x.bidswitch.net
 xml.fastdlr.com
 xray.mail.ru
@@ -1091,6 +1127,7 @@ youtube.cleverads.vn
 yssads.ddc.com
 zdwidget3-bs.sphereup.com
 zem.outbrainimg.com
+zigann.com
 zipservice.adalliance.io
 z.moatads.com
 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
