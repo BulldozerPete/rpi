@@ -23,11 +23,11 @@
 # Whitelist: 50298
 # Deadlist: 259489
 # Blacklist: 1741
-# 1. Source: 4565 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+# 1. Source: 4573 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1482 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 15223 Domains - V2021.07.26-14:39:16
+# 15239 Domains - V2021.07.27-03:33:09
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -2078,6 +2078,8 @@ fahrradbekleidungs.de
 fahrrad-expert.de
 fahrradhaus-zeyen.de
 fahrrad-manuzello.com
+fahrradwelt-online.com
+fahrradwelt-shop.com
 fahrschule-seefeldt.de
 failux.com
 fairchartervote.at
@@ -2709,6 +2711,7 @@ gosmartwatch.de
 go-tests.net
 gowest-frankfurt.de
 goxflix.de
+goxplay.de
 gplate.de
 gqkgb.top
 graces-buy.com
@@ -3024,7 +3027,6 @@ home-eilig.de
 homefuno.com
 homeinlay.com
 homemomjobs.info
-home-office123.de
 homepants.myshopify.com
 homepetd.com
 homes-alpha.com
@@ -3075,6 +3077,7 @@ hrehwald.at
 hroudra.com
 hrs-lassnitzhoehe.at
 hsd-installationstechnik.at
+hsn-logistik.com
 hstar.shop
 htansys.top
 huboflix.de
@@ -3973,6 +3976,7 @@ loxostream.de
 loyaltrend-de.com
 lozano-agro-spedition.com
 lpstransport.com
+lss-transport.com
 ls-works.de
 ltehnovar.com
 ltripxd.top
@@ -5560,6 +5564,7 @@ quizkandidat.com
 qv-salzburg.at
 qxrorat.top
 r2.com
+rabattdisney.com
 rabenspil.at
 racing-palace.at
 racingteam-hunger.de
@@ -5644,6 +5649,7 @@ regenmantel24.de
 regional-fernsehen.com
 registerwegweiser.info
 regplay.de
+rehauevents.de
 rehm-baumarkt.de
 reichwahl.de
 reidkanem.top
@@ -5903,6 +5909,7 @@ scswarmer.de
 sdmndpkrec.com
 sdm-sensory.de
 seabear.at
+seagulltrans.com
 secredir.com
 secretcasual.at
 secretcasual.ch
@@ -6747,6 +6754,7 @@ tobiflix.de
 toceanswide.com
 todos-lala.com
 toflix.de
+toijoshd.com
 tollfinance.com
 tomex-agro-spedition.com
 tomflix.de
@@ -9532,6 +9540,8 @@ www.fahrradbekleidungs.de
 www.fahrrad-expert.de
 www.fahrradhaus-zeyen.de
 www.fahrrad-manuzello.com
+www.fahrradwelt-online.com
+www.fahrradwelt-shop.com
 www.fahrschule-seefeldt.de
 www.failux.com
 www.fairchartervote.at
@@ -10153,6 +10163,7 @@ www.gosmartwatch.de
 www.go-tests.net
 www.gowest-frankfurt.de
 www.goxflix.de
+www.goxplay.de
 www.gplate.de
 www.gqkgb.top
 www.graces-buy.com
@@ -10465,7 +10476,6 @@ www.home-eilig.de
 www.homefuno.com
 www.homeinlay.com
 www.homemomjobs.info
-www.home-office123.de
 www.homepetd.com
 www.homes-alpha.com
 www.homeseven.de
@@ -10514,6 +10524,7 @@ www.hrehwald.at
 www.hroudra.com
 www.hrs-lassnitzhoehe.at
 www.hsd-installationstechnik.at
+www.hsn-logistik.com
 www.hstar.shop
 www.htansys.top
 www.huboflix.de
@@ -11400,6 +11411,7 @@ www.loxostream.de
 www.loyaltrend-de.com
 www.lozano-agro-spedition.com
 www.lpstransport.com
+www.lss-transport.com
 www.ls-works.de
 www.ltehnovar.com
 www.ltripxd.top
@@ -12943,6 +12955,7 @@ www.quizkandidat.com
 www.qv-salzburg.at
 www.qxrorat.top
 www.r2.com
+www.rabattdisney.com
 www.rabenspil.at
 www.racing-palace.at
 www.racingteam-hunger.de
@@ -13027,6 +13040,7 @@ www.regenmantel24.de
 www.regional-fernsehen.com
 www.registerwegweiser.info
 www.regplay.de
+www.rehauevents.de
 www.rehm-baumarkt.de
 www.reichwahl.de
 www.reidkanem.top
@@ -13283,6 +13297,7 @@ www.scswarmer.de
 www.sdmndpkrec.com
 www.sdm-sensory.de
 www.seabear.at
+www.seagulltrans.com
 www.secredir.com
 www.secretcasual.at
 www.secretcasual.ch
@@ -14114,6 +14129,7 @@ www.tobiflix.de
 www.toceanswide.com
 www.todos-lala.com
 www.toflix.de
+www.toijoshd.com
 www.tollfinance.com
 www.tomex-agro-spedition.com
 www.tomflix.de
