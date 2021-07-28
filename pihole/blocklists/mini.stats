@@ -31,27 +31,27 @@
 # 4. Source: 558 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/privacy.txt
 # 5. Source: 9922 - https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains
 # 6. Source: 1486 - https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains
-# 7. Source: 52468 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
+# 7. Source: 52471 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 8. Source: 12381 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-# 9. Source: 68367 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
-# 10. Source: 71632 - https://dbl.oisd.nl/basic/
+# 9. Source: 68395 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 10. Source: 85448 - https://dbl.oisd.nl/basic/
 # 11. Source: 3376 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nso-pegasus.txt
-# 12. Source: 42046 - https://phishing.army/download/phishing_army_blocklist_extended.txt
+# 12. Source: 42264 - https://phishing.army/download/phishing_army_blocklist_extended.txt
 # 13. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 # 14. Source: 8224 - https://adaway.org/hosts.txt
 # 15. Source: 3628 - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 # 16. Source: 15510 - https://someonewhocares.org/hosts/
 # 17. Source: 83654 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 18. Source: 1016 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 18. Source: 1029 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 19. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 390527
+# #. Source: 404605
 
 Statistik mini.txt:
-== Source (unique): 215511
-++ Black:           216368 (+857)
--- White:           215120 (-1248)
--- Dead:            166024 (-49096)
--- Exclude:         165963 (-61)
--- Unblock:         165948 (-15)
-++ WWW-Domains:     181316 (+15368)
-++ FLD-Domains:     181449 (+133)
+== Source (unique): 216016
+++ Black:           216873 (+857)
+-- White:           215624 (-1249)
+-- Dead:            166534 (-49090)
+-- Exclude:         166473 (-61)
+-- Unblock:         166458 (-15)
+++ WWW-Domains:     181918 (+15460)
+++ FLD-Domains:     182051 (+133)
