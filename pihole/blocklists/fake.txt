@@ -20,14 +20,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 50298
-# Deadlist: 450843
+# Whitelist: 50541
+# Deadlist: 431654
 # Blacklist: 1704
 # 1. Source: 4573 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1482 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10565 Domains - V2021.07.27-10:11:56
+# 10569 Domains - V2021.07.29-03:34:13
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -1182,6 +1182,7 @@ discom.at
 discount-bazar.com
 discounter24shop.com
 discountmade.store
+discount-zigaretten24.com
 diskretetreffen69.de
 diskretetreffen.at
 diskretetreffen.ch
@@ -4959,6 +4960,7 @@ vejaschweiz.com
 velenza.de
 veloberlin.de
 vendial.de
+veneracrea.com
 ventelo-media.com
 venusbicycle.com
 veonaskincare.com
@@ -6355,6 +6357,7 @@ www.discom.at
 www.discount-bazar.com
 www.discounter24shop.com
 www.discountmade.store
+www.discount-zigaretten24.com
 www.diskretetreffen69.de
 www.diskretetreffen.at
 www.diskretetreffen.ch
@@ -10036,6 +10039,7 @@ www.vejaschweiz.com
 www.velenza.de
 www.veloberlin.de
 www.vendial.de
+www.veneracrea.com
 www.ventelo-media.com
 www.venusbicycle.com
 www.veonaskincare.com
