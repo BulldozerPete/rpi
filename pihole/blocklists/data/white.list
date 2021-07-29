@@ -100,6 +100,7 @@ customerevents.netflix.com
 ichnaea.netflix.com
 nrdp.prod.ftl.netflix.com
 push.prod.netflix.com
+dualstack.beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 
 # Nintendo
 a1843.g.akamai.net

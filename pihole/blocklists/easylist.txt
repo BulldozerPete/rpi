@@ -22,7 +22,7 @@
 # Telegram-Gruppe PiHole + Unbound Fans (DACH)
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
-# 52471 Domains - 2021.07.28-03:30:12
+# 52438 Domains - 2021.07.29-03:30:09
 # ---------------------------------------------
 #
 006a039c957c142bb.com
@@ -4903,6 +4903,7 @@ b.lyst.com
 blziha.intimissimi.com
 bm23.com
 bm324.com
+bmcdn1.com
 bmcm.pw
 b.medtronic.com
 bmfeed.ru
@@ -5988,6 +5989,7 @@ cil.isotope.com
 cimage.adobe.com
 ci-marketing.de
 c.imedia.cz
+cimg.co
 cinarra.com
 cineplex.hb.omtrdc.net
 cint.com
@@ -6494,7 +6496,6 @@ collect.allianzdriveincinema.ch
 collect.cap.ch
 collect.elvia.ch
 collect.helsana.ch
-collect.igodigital.com
 collecting.click
 collection-day.com
 collection.saga.co.uk
@@ -8992,6 +8993,7 @@ e18a97eee94d0f2519.com
 e1bl1t39c4.com
 e1c.curtisswrightds.com
 e1ed050f62.com
+e1e.io
 e1f95201b19594.site
 e21b1642db801b2a.com
 e2b9jbowv7.com
@@ -11502,6 +11504,7 @@ geo-idm.fr
 geoinventory.com
 geoip.ativo.com
 geoip.boredpanda.com
+geoip.cookieyes.com
 geoip-db.com
 geoip.hmageo.com
 geoip.ifunny.co
@@ -14891,6 +14894,7 @@ lddt.de
 ldfr-cloud.net
 ldgvxuhg.com
 ldiscdnkbg.com
+ldnlyap.com
 ldqbuy.sport-express.ru
 ldqtdd.peing.net
 ldrummaroise.club
@@ -19183,6 +19187,7 @@ nrnma.com
 nrrxxpvgtf.com
 nryceuula.com
 ns1p.net
+ns8.com
 ns8ds.com
 nsaudience.pl
 nscash.com
@@ -19416,7 +19421,6 @@ odc.weather.com
 oddertabrhino.com
 oddsserve-wqps7yvkz.stackpathdns.com
 odichaly.space
-odin.mic.com
 odiumdrawlip.com
 odoscope.cloud
 odoscope.com
@@ -19502,7 +19506,6 @@ oicssiq.com
 oidah.com
 oidaio.com
 oihudydlsvxsi.com
-oimg.m.cnbc.com
 oimg.mobile.cnbc.com
 oimg.nbcsports.com
 oimg.nbcuni.com
@@ -19857,7 +19860,6 @@ openguid.org
 openhit.com
 openlog.in
 openmindedisabella.com
-open.mkt1397.com
 open.oneplus.net
 openstat.net
 opentracker.net
@@ -19954,10 +19956,8 @@ oribi.io
 oriel.io
 origer.info
 originalcharactercausing.com
-origin.chron.com
 originedreting.site
 originhermichermicpros.com
-origin-tracking.trulia.com
 orionis.techradar.com
 orisapple.top
 orkonavariet.biz
@@ -20208,7 +20208,6 @@ page.evergage.com
 pagefair.com
 pagefair.net
 page-hit.de
-pageinfo.motorsport.com
 pagejunky.com
 pagerank-backlink.eu
 pagerankfree.com
@@ -20332,12 +20331,10 @@ partnermktg.symantec.com
 partner.premiumdomains.com
 partnerprogramm.e-wie-einfach.de
 partners.autotrader.co.uk
-partners.badongo.com
 partners.betus.com
 partner.schalke04.de
 partners.hostgator.com
 partner.simplytel.de
-partners.mysavings.com
 partners.pornerbros.com
 partners.rochen.com
 partnersuccess.cisco.com
@@ -20444,7 +20441,6 @@ pcash.imlive.com
 pcdnlt.com
 pcdodues.com
 pcgamer-gb.pcgamer.com
-pci3oo5mg4mn-a.akamaihd.net
 pciidk.shopee.vn
 p.classroombookings.com
 pclicks.com
@@ -20569,7 +20565,6 @@ performance-netzwerk.de
 performanceonclick.com
 performanceplay.co.kr
 performancerevenues.com
-performances.bestofmedia.com
 performancetrustednetwork.com
 performancingads.com
 performantcorp.actonservice.com
@@ -20773,7 +20768,6 @@ pingil.com
 pingjs.qq.com
 pingomatic.com
 ping.richardtaylor.dev
-pings.blip.tv
 pings.conviva.com
 ping.smyte.com
 ping.staticmoly.me
@@ -20789,7 +20783,6 @@ pio.fabianfett.de
 pipeaota.com
 pipe-collect.ebu.io
 pipedream.wistia.com
-pipeline.realtime.active.com
 piper.amocrm.ru
 pipeteesundid.com
 pipfire.com
@@ -20802,7 +20795,6 @@ pirtecho.net
 pisism.com
 pi-stats.com
 pistraving.co
-pistyll.bleacherreport.com
 pitatagata.com
 pi.technik3d.com
 pitegirlfridg.top
@@ -20824,6 +20816,9 @@ pixel-a.basis.net
 pixel.ad
 pixel.ampry.com
 pixel.anyclip.com
+pixel.archive.is
+pixel.archive.ph
+pixel.archive.vn
 pixel.augsburger-allgemeine.de
 pixel.bild.de
 pixel.blivenyc.com
@@ -20831,7 +20826,6 @@ pixel.cdnwidget.com
 pixel.condenastdigital.com
 pixel.cpex.cz
 pixel.digitalspy.co.uk
-pixel.dorehernowi.pro
 pixel.europapress.net
 pixeleze.com
 pixel.facebook.com
@@ -20844,14 +20838,9 @@ pixel.ionos.fr
 pixellitomedia.com
 pixel.mintigo.com
 pixel.mtrcs.samba.tv
-pixel.naij.com
-pixel.newscgp.com
 pixel.newscred.com
-pixel.newsdiscover.com.au
 pixel.nine.com.au
-pixel.pcworld.com
 pixelpop.co
-pixel.propublica.org
 pixel.prosieben.de
 pixelrevenue.com
 pixel.roymorgan.com
@@ -20860,14 +20849,10 @@ pixels.afcdn.com
 pixel.safe-installation.com
 pixels.boxberry.ru
 pixelsfighting.co
-pixels.livingsocial.com
 pixel.smartmedia.tj
 pixel.snapsmedia.io
 pixel.solvemedia.com
-pixel.spotify.com
 pixel.sprinklr.com
-pixel.staging.tree.com
-pixel-static.spotify.com
 pixeltrack66.com
 pixel.tree.com
 pixel.tuko.co.ke
@@ -20882,11 +20867,9 @@ pixel.yola.com
 pixel.zumby.io
 pixfuture.com
 pixfuture.net
-pix.gfycat.com
 pixiedust.buzzfeed.com
 piximedia.com
 pixiv.org
-pix.nbcuni.com
 pix.revjet.com
 pix.speedbit.com
 pix.telekom.de
@@ -21469,7 +21452,7 @@ prism.pandora.tv
 pritesol.com
 privacy4browsers.com
 privacy-api.9gag.com
-privacyfriendly.brainbits.in
+privacyfriendly.netlify.app
 privacyheelvest.com
 privacy.outdoorsg.com
 privacy-policy.truste.com
@@ -21492,7 +21475,6 @@ prmtracking.com
 prnetwork.de
 prnx.net
 pro6e.com
-proac.nationwide.com
 proactive.base.de
 proadscdn.com
 pro-advert.de
@@ -21508,7 +21490,6 @@ producebreed.com
 producecopy.com
 producingsavourestablish.com
 producthub.info
-production.airswap.io
 production.mcs.delve.cust.lldns.net
 production-mcs.lvp.llnw.net
 productorsy.pro
@@ -21649,7 +21630,6 @@ prowlerz.com
 prownl.com
 proximic.com
 proxy.dzeio.com
-proxypage.msn.com
 proxyreducing.com
 prpops.com
 prpopss.com
@@ -21678,7 +21658,6 @@ psaukrik.net
 psazamajy.pro
 psbiaf.converse.com
 psclicks.com
-ps.ecosia.org
 pseepsie.com
 psekesheva.pro
 psensuds.net
@@ -21980,7 +21959,6 @@ pv.pjtsu.com
 pvptwhhkfmog.com
 pvrugd.nieruchomosci-online.pl
 pv.sohu.com
-pvstat.china.cn
 pvtag.yahoo.co.jp
 pv.udn.com
 pv.xcar.com.cn
@@ -22004,14 +21982,12 @@ pxl2015x1.com
 pxlgnpgecom-a.akamaihd.net
 pxlqyrteuuh.com
 px.marchex.io
-px.mvfglobal.com
 pxmyjxebxgv.com
 px.owneriq.net
 pxptpv.jobup.ch
 px.spiceworks.com
 px.staticfiles.at
 pxt.daz3d.com
-px.wayfair.com
 px.wp.pl
 pyeditingpro.biz
 pymx5.com
@@ -22501,10 +22477,8 @@ reckinbuttiten.pro
 recklessmarine.com
 recloturames.xyz
 recognified.net
-reco.hardsextube.com
 recollectionmallet.com
 recomendedsite.com
-recommendation.24.com
 recommendedscenery.com
 recommerdal.club
 reconditerake.com
@@ -22534,7 +22508,6 @@ redd7liod.com
 red-direct-n.com
 redeemcodes.me
 redewdit.pro
-redeye.williamhill.com
 redfastlabs.com
 redfunlob.casa
 redintelligence.net
@@ -22648,7 +22621,6 @@ reliablebanners.com
 reliablecounter.com
 reliancehamlet.com
 relmaxtop.com
-rel.msn.com
 rel.nextinpact.com
 relytec.com
 remailtarget.com
@@ -22712,10 +22684,8 @@ replase.ml
 repmbuycurl.com
 reporo.net
 reporting.cdndex.io
-reporting.flymonarch.com
 reporting.handll.net
 reporting.singlefeed.com
-reporting.theonion.com
 reportionbreedy.pro
 report.meituan.com
 report.mitsubishicars.com
@@ -22726,7 +22696,6 @@ reportsnakefill.com
 reports.pagesuite-professional.co.uk
 report-uri.com
 report-uri.io
-report-zt.allmusic.com
 reprak.com
 reprenees.club
 representationfighter.com
@@ -22744,7 +22713,6 @@ repvwz.panchemodan.ru
 req12pkgb.com
 requentlyfths.club
 requestion.club
-request.issuu.com
 requestmetrics.com
 requiresdetached.com
 rereddit.com
@@ -22893,7 +22861,6 @@ revresrennab.de
 revrtb.com
 revrtb.net
 revsci.net
-revsci.tvguide.com
 rev-stripe.com
 revstripe.com
 revupads.com
@@ -23100,7 +23067,6 @@ roi-rocket.net
 roiservice.com
 roispy.com
 roitesting.com
-rok.com.com
 rolerompchalked.com
 rollbar.com
 rollercoin.com
@@ -23245,7 +23211,6 @@ rtmark.net
 rtnaticama.fun
 rtnews.pro
 rt.newswire.ca
-rtn.thestar.com
 rtoaster.jp
 rtogethele.club
 rtox.net
@@ -23387,9 +23352,6 @@ s.80000hours.org
 s83ovp6qyhco.com
 s99i.org
 s9kkremkr0.com
-sa135.kiro7.com
-sa135.macworld.co.uk
-sa135.wsbtv.com
 saa.247sports.com
 saa.cbs.com
 saa.cbsi.com
@@ -23456,7 +23418,6 @@ saa.wired2fish.com
 saa.wowma.jp
 saa.zdnet.com
 sabavision.com
-sa.bbc.co.uk
 sabin.free.fr
 sablesong.com
 sabsmismake.casa
@@ -23737,7 +23698,6 @@ sanalytics.verizon.com
 sanalytics.verizonwireless.com
 sanalytics.visible.com
 sanalytics.wideroe.no
-sana.newsinc.com.s3.amazonaws.com
 sancdn.net
 sancontr.com
 sandroprabratm.info
@@ -23797,7 +23757,6 @@ sasc.solidworks.com
 sa.sky.it
 sas.nsm-corp.com
 sasontnwc.net
-sa.squareup.com
 sa.tactics.com
 sa.tf1.fr
 satgreera.com
@@ -23819,7 +23778,6 @@ saventireri.top
 savoryorange.com
 sawap.equifax.com
 saxobank.hb.omtrdc.net
-sayac.hurriyettv.com
 sayessedb.club
 saymedia.com
 sayutracking.co.uk
@@ -23910,7 +23868,6 @@ s.clickability.com
 sclick.baidu.com
 s.clickiocdn.com
 sc.logotv.com
-scluster3.cliphunter.com
 sc.metrics-shell.com
 scmetrics.shell.com
 scmetrics.vodafone.it
@@ -23975,8 +23932,6 @@ scout.bergfreunde.de
 scout.bergfreunde.dk
 scout.bergfreunde.eu
 scout.bergfreunde.nl
-scout.lexisnexis.com
-scout.rollcall.com
 scowpoppanasals.com
 sc.paramountnetwork.com
 s.crackedthecode.co
@@ -23986,7 +23941,6 @@ screatprisin.club
 screechingslip.com
 screencapturewidget.aebn.net
 screwdianasurgery.com
-scribe.twitter.com
 scribe.wongnai.com
 scrippscontroller.com
 scripsjeermint.com
@@ -24230,6 +24184,7 @@ segment.com
 segmentify.com
 segment.io
 segments.adap.tv
+segmetrics.io
 segra.actonservice.com
 seg.sharethis.com
 segs.jp
@@ -24593,6 +24548,7 @@ sidebar.issuu.com
 sidebyx.com
 sidebyz.com
 sidewaybeings.com
+sid.nordstrom.com
 siegemeg.com
 sielsmaats.com
 sierraclumsy.com
@@ -26313,6 +26269,7 @@ ssa.food.com
 ssa.foodnetwork.com
 ssa.hgtv.com
 ssalarmcrit.club
+ssa.stepstone.com
 ssc.api.bbc.com
 ssc.bet.plus
 ssc.cc.com
@@ -27753,9 +27710,11 @@ targetfuel.com
 targetingnow.com
 targeting.vdo.ai
 targeting.voxus.tv
+targeting.washpost.nile.works
 targetix.net
 target.mirtesen.ru
 target.mixi.media
+target.nationwide.com
 target.nejm.org
 targetnet.com
 targetpoint.com
@@ -27944,6 +27903,7 @@ tek-tek-trek.com
 telegramspun.com
 telemetric.dk
 telemetrics.klaviyo.com
+telemetry.api.playstation.com
 telemetry.art19.com
 telemetry.jivosite.com
 telemetry.reembed.com
@@ -28592,7 +28552,6 @@ tp.ackermann.ch
 t-pan.triodos.com
 tpatrongva.top
 t.paydirekt.de
-t.paypal.com
 tp.baur.de
 tpc.googlesyndication.com
 tpdads.com
@@ -29230,6 +29189,7 @@ trafficposse.com
 traffic.prod.cobaltgroup.com
 trafficregenerator.com
 trafficrevenue.net
+trafficroots.com
 traffic.ru
 trafficsan.com
 traffic.shareaholic.com
@@ -34992,6 +34952,7 @@ www.blusterbailbriefly.com
 www.blvdstatus.com
 www.bm23.com
 www.bm324.com
+www.bmcdn1.com
 www.bmcm.pw
 www.bmfeed.ru
 www.bmkz57b79pxk.com
@@ -35826,6 +35787,7 @@ www.cigarettywu.club
 www.ciksolre.net
 www.cilcountee.top
 www.ci-marketing.de
+www.cimg.co
 www.cinarra.com
 www.cint.com
 www.cintnetworks.com
@@ -37606,6 +37568,7 @@ www.e13085e58935e6.com
 www.e18a97eee94d0f2519.com
 www.e1bl1t39c4.com
 www.e1ed050f62.com
+www.e1e.io
 www.e1f95201b19594.site
 www.e21b1642db801b2a.com
 www.e2b9jbowv7.com
@@ -41832,6 +41795,7 @@ www.lddt.de
 www.ldfr-cloud.net
 www.ldgvxuhg.com
 www.ldiscdnkbg.com
+www.ldnlyap.com
 www.ldrummaroise.club
 www.ldt1duixoe.com
 www.lduhtrp.net
@@ -43953,6 +43917,7 @@ www.nrnma.com
 www.nrrxxpvgtf.com
 www.nryceuula.com
 www.ns1p.net
+www.ns8.com
 www.ns8ds.com
 www.nsaudience.pl
 www.nscash.com
@@ -47359,6 +47324,7 @@ www.sefowaid.com
 www.segment.com
 www.segmentify.com
 www.segment.io
+www.segmetrics.io
 www.segs.jp
 www.sehiba.com
 www.sehoweve.fun
@@ -49478,6 +49444,7 @@ www.trafficpimps.com
 www.trafficposse.com
 www.trafficregenerator.com
 www.trafficrevenue.net
+www.trafficroots.com
 www.traffic.ru
 www.trafficsan.com
 www.trafficshirts.com
