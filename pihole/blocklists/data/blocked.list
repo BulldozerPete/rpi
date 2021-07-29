@@ -51,6 +51,7 @@ ads2.contentabc.com
 ads.adthrive.com
 ads-api.twitter.com
 ads.api.vungle.com
+ads.betweendigital.com
 ads.bullionyield.com
 adsco.re
 ads.creative-serving.com
@@ -102,6 +103,7 @@ ampcid.google.com
 amplify.outbrain.com
 amplifypixel.outbrain.com
 ams1-ib.adnxs.com
+am-trc-events.taboola.com
 analytics-api.samsunghealthcn.com
 analytics.audionow.de
 analytics.cnd-motionmedia.de
@@ -146,6 +148,7 @@ api-ssx.kameleoon.com
 api.stathat.com
 api.taboola.com
 api.theadex.com
+api.userleap.com
 apiv2eu.moengage.com
 api-v3.tinypass.com
 api.vungle.com
@@ -171,6 +174,7 @@ as.welt.de
 a.teads.tv
 atf.containers.piwik.pro
 atonato.de
+ats.rlcdn.com
 attr.appsflyer.com
 audacity.de
 audev.zeit.de
@@ -181,6 +185,7 @@ axel-springer-d.openx.net
 axelspringerse.demdex.net
 ayu97c9b5j.kameleoon.eu
 az416426.vo.msecnd.net
+backoffice.transmatico.com
 backstory.ebay.de
 balanced-engage.deltadna.net
 bam-cell.nr-data.net
@@ -211,6 +216,7 @@ browser-http-intake.logs.datadoghq.eu
 bs.eyeblaster.akadns.net
 bs.showheroes.com
 btloader.com
+bttrack.com
 business.samsungusa.com
 buyer.dspx.tv
 buy.tinypass.com
@@ -284,6 +290,7 @@ cdn.zomap.de
 cdp.cloud.unity3d.com
 cdrvrs.com
 celeritascdn.com
+ce.lijit.com
 certify.alexametrics.com
 certify-js.alexametrics.com
 c.go-mpulse.net
@@ -339,7 +346,9 @@ cs.emxdgt.com
 cs.luckyorange.net
 cs.ns1p.net
 cstat.apple.com
+csyn.cxense.com
 customers.kameleoon.com
+c.webtrends-optimize.com
 cws.conviva.com
 cws-iad1.conviva.com
 cws-iad4.conviva.com
@@ -395,6 +404,7 @@ deploy.mopinion.com
 desktop-assistant-sub.osp.opera.software
 dev.visualwebsiteoptimizer.com
 dialacrum.iad-03.braze.com
+dis.criteo.com
 disney.demdex.net
 disney.my.sentry.io
 disparagethence.com
@@ -410,16 +420,17 @@ download-dc1.gfe.nvidia.com
 dpm.demdex.net
 ds-aksb-a.akamaihd.net
 dsp.adfarm1.adition.com
-dualstack.beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 dualstack.beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com
 dumontnet.tt.omtrdc.net
 dx6ctphzljkf1.cloudfront.net
 dyn.emetriq.de
 e10499.dsce9.akamaiedge.net
 e1cd4958785f7e0dcfaee56d57a7db4096b34051.cws.conviva.com
+e1.emxdgt.com
 e69896.dscapi6.akamaiedge.net
 eb2.3lift.com
 ecommerce.iap.unity3d.com
+edigitalsurvey.com
 edinburghemotionalalive.com
 e.maxtraffic.com
 end.scorecardresearch.com
@@ -467,6 +478,7 @@ fmdata.imgsmail.ru
 fp.msedge.net
 fra1-ib.adnxs.com
 freshmarketer.com
+fr-online.met.vgwort.de
 fsalfrwdr.com
 fsb.hextom.com
 fsm.tvspielfilm.de
@@ -476,6 +488,7 @@ funke.amp.permutive.com
 fyrsbckgi-c.global.ssl.fastly.net
 g13v.prd.ads.aws.fwmrm.net
 g2.gumgum.com
+gala.met.vgwort.de
 gamworld-relay.iocnt.net
 gastar-relay.iocnt.net
 gbucket.ch
@@ -523,6 +536,7 @@ hits-i.iubenda.com
 hm.baidu.com
 hpd.baidu.com
 ht-cdn2.adtng.com
+ht-cdn.trafficjunky.net
 htlb.casalemedia.com
 ht.redtube.com
 ht.tube8.com
@@ -544,9 +558,12 @@ idpt.360yield.com
 id.rlcdn.com
 id.sharedid.org
 ih.adscale.de
+i.liadm.com
 image6.pubmatic.com
 image8.pubmatic.com
+images.intellitxt.com
 imagesrv.adition.com
+images.taboola.com
 img.img-taboola.com
 imp.control.kochava.com
 impression.appsflyer.com
@@ -571,6 +588,7 @@ iqdigital.demdex.net
 iqdigitalmediamarketinggmbh.sc.omtrdc.net
 irqs.ioam.de
 j7q313hy22.kameleoon.eu
+jadserve.postrelease.com
 jeehathu.com
 join.livecamsgratis.com
 js.adara.com
@@ -608,6 +626,8 @@ log.pinterest.com
 logs1204.xiti.com
 logs1406.xiti.com
 logs1407.xiti.com
+logs1409.xiti.com
+logs1412.xiti.com
 logs1413.xiti.com
 logservice1.hicloud.com
 logservice.hicloud.com
@@ -653,6 +673,7 @@ metrics-dra.dt.hicloud.com
 metrics.fressnapf.de
 metrics.icloud.com
 metrics.n-tv.de
+ml314.com
 mms.tvspielfilm.de
 mobfocus-relay.iocnt.net
 mobgolem-relay.iocnt.net
@@ -669,6 +690,7 @@ ms.applovin.com
 ms.applvn.com
 munchkin.marketo.net
 mwtw.presage.io
+mwzeom.zeotap.com
 my.rtmark.net
 na-library.klarnaservices.com
 nascardigitalmediallc.demdex.net
@@ -689,6 +711,7 @@ notorietycheerypositively.com
 nsparket.top
 n-tv.met.vgwort.de
 nvidia.tt.omtrdc.net
+nw-umwatson.events.data.microsoft.com
 o278969.ingest.sentry.io
 o292998.ingest.sentry.io
 obviousmanipulate.com
@@ -699,6 +722,7 @@ ohcohz.stroeerdp.de
 oms.expedia.com
 orbidder.otto.de
 ot.obi.de
+ow.pubmatic.com
 p16-ad-sg.ibyteimg.com
 p1.zemanta.com
 p.adsymptotic.com
@@ -724,6 +748,7 @@ pixel-geo.prfct.co
 pixel.inforsea.com
 pixel.mathtag.com
 pixel.onaudience.com
+pixel.rubiconproject.com
 pixels.omnitagjs.com
 pixel.spotify.com
 pixel-static.spotify.com
@@ -788,8 +813,10 @@ rs.mail.ru
 r.srvtrck.com
 rt.applovin.com
 rt.applvn.com
+rtb-csync.smartadserver.com
 rtb.d.adup-tech.com
 rtb.gumgum.com
+rtb.mfadsrvr.com
 r.teads.tv
 rtr.innovid.com
 rtt.bf-tools.net
@@ -821,6 +848,7 @@ sanalytics.ksta.de
 sats.spiegel.de
 sbcomniture.focus.de
 sb.voicefive.com
+s.c.appier.net
 scdn.cxense.com
 sc.lfeeder.com
 scomcluster.cxense.com
@@ -866,6 +894,7 @@ sf16-ttcdn-tos.ipstatp.com
 s.go-mpulse.net
 shield.sitelock.com
 sickmakes.com
+simage2.pubmatic.com
 siteintercept.qprod2.net
 siteintercept.qualtrics.com
 sjrtp3-cdn.marketo.com
@@ -891,6 +920,7 @@ srtb.msn.com
 srv.clickfuse.com
 srv.de.ebayrtm.com
 srv.pixel.parsely.com
+ssa.eurosport.de
 ssbsync.smartadserver.com
 ssc.33across.com
 ssl-chip.met.vgwort.de
@@ -948,10 +978,12 @@ submit-target.osp.opera.software
 supportmetrics.apple.com
 survey.survicate.com
 sync.1rx.io
+sync.crwdcntrl.net
 synchrobox.adswizz.com
 sync.mathtag.com
 sync.search.spotxchange.com
 sync.sxp.smartclip.net
+sync.taboola.com
 sync.tidaltv.com
 sync.tidaltv.com.akadns.net
 sync-tm.everesttech.net
@@ -1015,6 +1047,7 @@ tr.iadsdk.apple.com
 trk.pinterest.com
 trmads.eu
 tr.outbrain.com
+try.abtasty.com
 tsp.stats.urban-media.com
 tsrid.cxense.com
 tsyndicate.com
@@ -1049,6 +1082,7 @@ vc.hotjar.io
 vd.7vid.net
 venetrigni.com
 verticalperiodicdirectory.com
+vg03.met.vgwort.de
 vg04.met.vgwort.de
 vg05.met.vgwort.de
 vg08.met.vgwort.de
