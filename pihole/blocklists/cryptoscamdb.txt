@@ -25,7 +25,7 @@
 # Telegram-Gruppe PiHole + Unbound Fans (DACH)
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
-# 17185 Domains - 2021.07.26-14:37:07
+# 17202 Domains - 2021.07.29-22:15:07
 # ---------------------------------------------
 #
 0101.systems
@@ -1523,6 +1523,7 @@ constantinoplehardfork.cf
 constantinopleplus.io
 constantinopleplus.tech
 constantinople.site
+contactmetamask.com
 contagion.cf
 contestc.blogspot.com
 contract-verify.space
@@ -4390,6 +4391,7 @@ metamaskwallets.live
 metamaskweb.com
 metarnask.io
 metaswap.dev
+metatoken.site
 metelpay.com
 metherwallet.com
 metmamask.com
@@ -4483,9 +4485,11 @@ mudium.xyz
 muetherwallet.co
 muetherwallet.com
 muethwaitt.info
+multiapp-connect.org
 multibit.app
 multicoinminer.fund
 multicoinsminer.fund
+multiconcept.net
 multiminer.website
 multisupport.live
 multplatforlex.asia
@@ -7120,6 +7124,7 @@ paidnetwork.live
 pancakebonus.com
 pancakesswap.com
 pancakeswap-airdropcampaign.finance
+pancakeswap.betav2.com
 pancakeswapconnect.com
 pancakeswap.finance.airdrop-info-protocol.com
 pancakeswap-restore.finance
@@ -7244,6 +7249,7 @@ polyswarm.ru
 polyswarms.io
 polyswarm.tech
 pompliano-promo.netlify.com
+poncakeswap.center
 pool.balancer.dev
 pool-neo.blogspot.com
 populous.network
@@ -7779,6 +7785,7 @@ spectivvr.org
 spectre-ai.net
 spectre-ai.org
 spectre.site
+stable7.net
 stake-ethereum.org
 starbase.pro
 starbase.tech
@@ -8491,6 +8498,7 @@ wallet-trezor.io-backup-online.info
 wallet.trrezor.com
 wallet.trxlive.network
 walletvalidation.co
+walletvalidation.info
 wallet-validation.online
 walletvalidation.online
 walletverify.info
@@ -9766,6 +9774,7 @@ www.constantinoplehardfork.cf
 www.constantinopleplus.io
 www.constantinopleplus.tech
 www.constantinople.site
+www.contactmetamask.com
 www.contagion.cf
 www.contract-verify.space
 www.contribute-status.im
@@ -12176,6 +12185,7 @@ www.metamaskwallets.live
 www.metamaskweb.com
 www.metarnask.io
 www.metaswap.dev
+www.metatoken.site
 www.metelpay.com
 www.metherwallet.com
 www.metmamask.com
@@ -12261,9 +12271,11 @@ www.mudium.xyz
 www.muetherwallet.co
 www.muetherwallet.com
 www.muethwaitt.info
+www.multiapp-connect.org
 www.multibit.app
 www.multicoinminer.fund
 www.multicoinsminer.fund
+www.multiconcept.net
 www.multiminer.website
 www.multisupport.live
 www.multplatforlex.asia
@@ -14857,6 +14869,7 @@ www.polyswarm.pw
 www.polyswarm.ru
 www.polyswarms.io
 www.polyswarm.tech
+www.poncakeswap.center
 www.populous.network
 www.porloneix.com
 www.porloniex.com
@@ -15282,6 +15295,7 @@ www.spectivvr.org
 www.spectre-ai.net
 www.spectre-ai.org
 www.spectre.site
+www.stable7.net
 www.stake-ethereum.org
 www.starbase.pro
 www.starbase.tech
@@ -15875,6 +15889,7 @@ www.wallet-syn.com
 www.walletsync.site
 www.wallet-top-up.org
 www.walletvalidation.co
+www.walletvalidation.info
 www.wallet-validation.online
 www.walletvalidation.online
 www.walletverify.info
@@ -16021,6 +16036,7 @@ www.xn--bnanc-r51bze.com
 www.xn--bockchain-0sb.com
 www.xn--bockchan-81a78e.com
 www.xn--bockhain-v0a06f.com
+www.xn--brav-yva.com
 www.xn--bstchnge-4za91c.net
 www.xn--btrex-b4a.com
 www.xn--btstamp-eeb.net
@@ -16639,6 +16655,7 @@ xn--bnanc-r51bze.com
 xn--bockchain-0sb.com
 xn--bockchan-81a78e.com
 xn--bockhain-v0a06f.com
+xn--brav-yva.com
 xn--bstchnge-4za91c.net
 xn--btrex-b4a.com
 xn--btstamp-eeb.net

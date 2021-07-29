@@ -26,11 +26,11 @@
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
 
-Downloade cryptoscamdb              --> 9254 cryptoscamdb.raw
-Extrahiere gültige Domains          --> 9215 cryptoscamdb.domains
-Bereinige WHITE cryptoscamdb        --> 9202 cryptoscamdb.domains
-Erstelle Domainliste für WWW Zusatz --> 7976 cryptoscamdb.domains.www
-Erweitere Domains durch WWW         --> 7976 cryptoscamdb.www
+Downloade cryptoscamdb              --> 9263 cryptoscamdb.raw
+Extrahiere gültige Domains          --> 9224 cryptoscamdb.domains
+Bereinige WHITE cryptoscamdb        --> 9211 cryptoscamdb.domains
+Erstelle Domainliste für WWW Zusatz --> 7984 cryptoscamdb.domains.www
+Erweitere Domains durch WWW         --> 7984 cryptoscamdb.www
 Erstelle Domainliste für FLD        --> 7 cryptoscamdb.www.fld
-Erstelle cryptoscamdb               --> 17185 cryptoscamdb.txt.tmp
+Erstelle cryptoscamdb               --> 17202 cryptoscamdb.txt.tmp
 
