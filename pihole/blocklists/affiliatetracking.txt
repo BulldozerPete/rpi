@@ -19,7 +19,7 @@
 # Statistik
 # ---------
 #
-# Exclude: 431654
+# Exclude: 431372
 # Whitelist: 0
 # Deadlist: 0
 # Blacklist: 0
@@ -27,7 +27,7 @@
 # 2. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 1089 Domains - V2021.07.29-21:56:40
+# 1088 Domains - V2021.07.29-22:26:25
 # ---------------------------------------------
 #
 052015012251.c.bing.com
@@ -709,7 +709,6 @@ geo.query.yahoo.com
 geo.yahoo.com
 global.adserver.yahoo.com
 global.sam.msn.com
-g.msn.com
 go2jump.org
 go.nordlocker.net
 go.nordvpn.net
