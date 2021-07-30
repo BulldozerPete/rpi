@@ -2867,6 +2867,7 @@ api.fosshub.com
 api.foursquare.com
 api.foxbusiness.com
 api.foxnews.com
+api.full30.com
 api.gadget.nicovideo.jp
 api.gallery.intl.miui.com
 api.gazeta.pl
@@ -3037,6 +3038,7 @@ api.rockislandauction.com
 api.roku.com
 api.rokutime.com
 api.rschooltoday.com
+api.rss2json.com
 api.saferweb.com
 api.samsungcloud.com
 api.samsungknowledge.com
@@ -6651,9 +6653,11 @@ cdn.rozetka.com.ua
 cdn.rushtruckcenters.com
 cdn.rvtrader.com
 cdn-s10.cfeucdn.com
+cdn-s12.cfeucdn.com
 cdns1.gigya.com
 cdn-s3.allmusic.com
 cdn-s3.cfeucdn.com
+cdn-s7.cfeucdn.com
 cdns7.shopdisney.disney.co.jp
 cdn-s9.cfeucdn.com
 cdn.samsungcloudsolution.com
@@ -6719,6 +6723,7 @@ cdn.suwalls.com
 cdn.syndication.twimg.com
 cdn.syndication.twitter.com
 cdn.sysprobs.com
+cdn.taganime.co
 cdn.techgenix.com
 cdn.technadu.com
 cdn.technologyreview.com
@@ -6752,6 +6757,7 @@ cdn.tripadvisor.com
 cdn.trustpilot.net
 cdn.ttgtmedia.com
 cdn-tube.privacytools.io
+cdn.tunemovie.com
 cdn-tvanywhere-images.consumabletv.com
 cdn.tvstart.com
 cdn.unid.go.com
@@ -6805,6 +6811,7 @@ cdn.xsd.cz
 cdn.xxl.thumbs.canstockphoto.com
 cdn-yams.schibsted.com
 cdn.youvisit.com
+cdnzone.org
 cdn.zyto.com
 cdp1.public-trust.com
 cdp.aliexpress.com
@@ -10896,6 +10903,7 @@ dustinhome.se
 dustin.no
 dustin.se
 dv8.tv
+dv9pykwx3ecof.cloudfront.net
 dvauction.com
 dvauction.s3.amazonaws.com
 dvb.pandora.xiaomi.com
@@ -12026,6 +12034,7 @@ f3.9xbuddy.org
 f3.market.xiaomi.com
 f4.9xbuddy.org
 f4.bcbits.com
+f4h4he.cfeucdn.com
 f6.9xbuddy.org
 f7.pmo.ee
 f7q8y2u3.stackpathcdn.com
@@ -12716,6 +12725,7 @@ forum.adguard.com
 forumadsales.software.eu.playstation.com
 forum.allaboutcircuits.com
 forum.arcadecontrols.com
+forum.audacityteam.org
 forum.avast.com
 forum.beyond3d.com
 forum.bit.ly
@@ -13119,6 +13129,7 @@ fs1.dl-bia2.ir
 fs1.extraimage.org
 fs3.firedrop.com
 fsa01.ps4.update.playstation.net
+fsapi.xyz
 fsb.zobj.net
 f-secure.com
 fsgstatic.com
@@ -13325,6 +13336,7 @@ future.techcrunch.com
 futurism.com
 futuristarchitecture.com
 f.vimeocdn.com
+fvs.io
 fw3s926r0g42i6kes3bxg4i1-wpengine.netdna-ssl.com
 fwcdn.pl
 fw-download.ubnt.com
@@ -15166,6 +15178,7 @@ hk.ynuf.aliapp.org
 hl2rcv.adobe.com
 hlg.tokbox.com
 hlrcv.stage.adobe.com
+hls1x.vidcloud9.com
 hls.itunes.apple.com
 hlslive-akc.med2.net.wwe.com
 hlsmedia.gannett-cdn.com
@@ -16085,6 +16098,7 @@ images2.coveralia.com
 images2.dev.marquee.net
 images-2.discordapp.net
 images2.fanpop.com
+images2-focus-opensocial.googleusercontent.com
 images-2.gog.com
 images-2.gog-statics.com
 images2.imgbox.com
@@ -16544,6 +16558,7 @@ imcdb.org
 im.chip.de
 im.contentlounge.net
 imcopex.com
+imdbbox.com
 imdb.com
 imdb-video.media-imdb.com
 ime.api.xiaomi.com
@@ -20134,6 +20149,7 @@ media.api.aws.viber.com
 media.api.eu.aws.viber.com
 media-api.foxsportsgo.com
 media-api.xogrp.com
+mediaarea.net
 media.arstechnica.com
 media.arstechnica.net
 media.askvg.com
@@ -20325,6 +20341,7 @@ mediaserver.mbusa.com
 media.server.theshootingwarehouse.com
 mediaset.es
 mediaset.it
+mediashore.org
 media.signbsl.com
 media.siouxlandproud.com
 media.sketchfab.com
@@ -20984,6 +21001,7 @@ miwifi.com
 mix1065fm.cbslocal.com
 mix97-3.com
 mixbook.com
+mixdrop.co
 mixer.com
 mi.xiaomi.com
 mixi.media
@@ -21763,6 +21781,7 @@ mysticknights.org
 mysticpizza.com
 mystream.to
 mystrikingly.com
+mysubs.org
 mysupportgarage.com
 mysupportiv.com
 mysupport.sonymobile.com
@@ -25006,6 +25025,7 @@ proxsee.pscp.tv
 proxy00.spop.ams.plex.bz
 proxy02.pop.ord.plex.bz
 proxy-de.hide.me
+proxymedia.woopic.com
 proxy-nl.hide.me
 proxy.novafusion.ea.com
 proxy.plex.bz
@@ -26447,6 +26467,7 @@ s3.showmypc.com
 s3.symcb.com
 s3.tradingview.com
 s3.trafficdeposit.com
+s3.tunestream.net
 s3.us-east-1.amazonaws.com
 s3.us-east-2.amazonaws.com
 s3-us-west-1.amazonaws.com
@@ -26463,6 +26484,7 @@ s4-lb-linux-ng-1493254878.us-east-1.elb.amazonaws.com
 s.4pda.to
 s4.symcb.com
 s4.trafficdeposit.com
+s4.tunestream.net
 s4.vcdn.biz
 s4web.state.mn.us
 s5-1.trafficdeposit.com
@@ -26470,6 +26492,7 @@ s5o.ru
 s5o.sports.ru
 s5.symcb.com
 s5.trafficdeposit.com
+s5.tunestream.net
 s6-1.trafficdeposit.com
 s6.ezgif.com
 s6.trafficdeposit.com
@@ -26480,6 +26503,7 @@ s7d4.scene7.com
 s7d9.scene7.com
 s7.filecat.net
 s7.trafficdeposit.com
+s7.tunestream.net
 s8-1.trafficdeposit.com
 s8.trafficdeposit.com
 s8.vcdn.biz
@@ -30294,6 +30318,7 @@ tacticalwalls.com
 tacticalworks.com
 tacticball.co.il
 tafensw.edu.au
+taganime.co
 tag.aticdn.net
 tag.blog.naver.com
 ta.gd
@@ -31003,6 +31028,7 @@ th.tripadvisor.com
 t.hulu.com
 thumb.amirite.com
 thumb.canalplus.pro
+thumb.fvs.io
 thumblogger.com
 thumb.maxpixel.net
 thumbnail.image.rakuten.co.jp
@@ -32774,6 +32800,7 @@ vidaselect.com
 vid-cdn.multiscreensite.com
 vidcloud9.com
 vid.dmotorworks.com
+vidembed.net
 video2.marketing.gm.com
 video.activision.com
 video-api.barrons.com
@@ -32864,6 +32891,7 @@ videos-cloudflare.jwpsrv.com
 videos.ctfassets.net
 videos.dailymail.co.uk
 videos.dealer.com
+videos.epicio.net
 videoservice.mediasearch.verizon.com
 videos.files.wordpress.com
 videos-f.jwpsrv.com
@@ -33202,6 +33230,7 @@ w8api.accuweather.com
 w8.vanillicon.com
 w9.vanillicon.com
 waa.ai
+waaw.to
 wabash.net
 wac.edgecastcdn.net
 wacom.com
@@ -34206,6 +34235,7 @@ www1.2giga.link
 www.12tomatoes.com
 www13.0zz0.com
 www.1337x.to
+www140.sbcdnvideo.com
 www.1-4u-computer-graphics.com
 www.163.com
 www.1688.com
@@ -34256,6 +34286,7 @@ www.1xbet.com
 www1.xup.to
 www.1zoom.me
 www.2019novelcoronavirusoracle.com
+www2026.ff-05.com
 www.2040-cars.com
 www.20k.org
 www.20m.es
@@ -34460,6 +34491,7 @@ www.8u.cz
 www.8west.ca
 www9.0zz0.com
 www.911custom.com
+www917.ff-02.com
 www.91mobiles.com
 www.928gt.com
 www.944.la
@@ -37134,6 +37166,7 @@ www.cdn-static-1.medium.com
 www.cdn.survey.medallia.com
 www.cdntip.com
 www.cdn.w3schools.com
+www.cdnzone.org
 www.cdpn.io
 www.cdromance.com
 www.cdvs.us
@@ -39859,6 +39892,7 @@ www.fr.wikipedia.com
 www.fr.wikipedia.org
 www.frys.com
 www.fs19mods.com
+www.fsapi.xyz
 www.f-secure.com
 www.fsgstatic.com
 www.ftc.gov
@@ -39904,6 +39938,7 @@ www.fuse.tv
 www.futuremark.com
 www.futurism.com
 www.futuristarchitecture.com
+www.fvs.io
 www.fwcdn.pl
 www.fws.gov
 www.fx.cc
@@ -41481,6 +41516,7 @@ www.imap.gmail.com
 www.imap.gmx.net
 www.imcdb.org
 www.imcopex.com
+www.imdbbox.com
 www.imdb.com
 www.imfdb.org
 www.imf.org
@@ -43115,6 +43151,7 @@ www.me.com
 www.mecoutdoors.com
 www.medgadget.com
 www.media-amazon.com
+www.mediaarea.net
 www.mediabiasfactcheck.com
 www.mediabrowser3.com
 www.mediabrowser.tv
@@ -43136,6 +43173,7 @@ www.mediamass.net
 www.mediamonkey.com
 www.mediaset.es
 www.mediaset.it
+www.mediashore.org
 www.media.steampowered.com
 www.mediawiki.org
 www.medica.com
@@ -43383,6 +43421,7 @@ www.miui.net
 www.miwifi.com
 www.mix97-3.com
 www.mixbook.com
+www.mixdrop.co
 www.mixer.com
 www.mixi.media
 www.mixnews.lv
@@ -43749,6 +43788,7 @@ www.mysticknights.org
 www.mysticpizza.com
 www.mystream.to
 www.mystrikingly.com
+www.mysubs.org
 www.mysupportgarage.com
 www.mysupportiv.com
 www.mytherapist.com
@@ -47530,6 +47570,7 @@ www.tactical-store.com
 www.tactical-toolbox.com
 www.tacticalwalls.com
 www.tacticalworks.com
+www.taganime.co
 www.ta.gd
 www.tahoeyukonforum.com
 www.take16beer.com
@@ -48965,6 +49006,7 @@ www.victrola.com
 www.vidangel.com
 www.vidaselect.com
 www.vidcloud9.com
+www.vidembed.net
 www.videocopilot.net
 www.videodelivery.net
 www.video-entertainment.com
@@ -49158,6 +49200,7 @@ www.w3schools.com
 www.w4cdk.com
 www.w88.espn.com
 www.waa.ai
+www.waaw.to
 www.wabash.net
 www.wacom.com
 www.waesthetics.com
