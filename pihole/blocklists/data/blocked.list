@@ -23,6 +23,7 @@
 9523400.fls.doubleclick.net
 a15321630321.cdn.optimizely.com
 a17126690382.cdn.optimizely.com
+a19065870423.cdn.optimizely.com
 a1.adform.net
 a2129670914.cdn.optimizely.com
 a3391893108.cdn.optimizely.com
@@ -41,7 +42,9 @@ ad1.adfarm1.adition.com
 ad3.adfarm1.adition.com
 ad4.adfarm1.adition.com
 ad.71i.de
+ad.ad-srv.net
 ade.googlesyndication.com
+adfarm1.adition.com
 ad.foxitsoftware.com
 adfpoint.com
 ad.impactify.io
@@ -129,6 +132,7 @@ analytics.yahoo.com
 a.o333o.com
 a.optmnstr.com
 api2.amplitude.com
+api.accengage.com
 api-cengine.forkcdn.com
 api.cooladata.com
 api.cxense.com
@@ -160,6 +164,7 @@ app-analytics-v2.snapchat.com
 appleglobal.102.112.2o7.net
 appmetrica.yandex.com
 app.satismeter.com
+app.theadx.com
 app.uptain.de
 aps.xplosion.de
 a.pub.network
@@ -326,6 +331,7 @@ commercialvalue.org
 common.i12.de
 condles-temark.com
 confiant-integrations.global.ssl.fastly.net
+config.fp.measure.office.com
 config.inmobi.com
 config.samsungads.com
 config.uca.cloud.unity3d.com
@@ -337,6 +343,7 @@ consentmanager.mgr.consensu.org
 console.e-bot7.de
 contextual.media.net
 conversions.appsflyer.com
+cookies.kurier.de
 counter.yadro.ru
 cpx.golem.de
 cpxl.golem.de
@@ -416,6 +423,7 @@ dmp.v.fwmrm.net
 dmx.districtm.io
 d.nativendo.de
 dnhfi5nn2dt67.cloudfront.net
+dnn506yrbagrg.cloudfront.net
 download-dc1.gfe.nvidia.com
 dpm.demdex.net
 ds-aksb-a.akamaihd.net
@@ -599,6 +607,7 @@ js.appboycdn.com
 jsc.adskeeper.co.uk
 jsc.mgid.com
 js.hscta.net
+js.kctag.net
 js.monitor.azure.com
 json.geoiplookup.io
 js-sec.casalemedia.com.edgekey.net
@@ -643,9 +652,11 @@ mads-eu.amazon.com
 mafo.adalliance.io
 mail-ads.google.com
 main-botconsole.production.e-bot7.de
+manage.devcenter.microsoft.com
 manifest.localytics.com
 marketing.containers.piwik.pro
 marketing.net.home24.de
+mastertag.kpcustomer.de
 match.adsby.bidtheatre.com
 match.adsrvr.org
 mcs-va.tiktokv.com
@@ -667,6 +678,7 @@ metrics3.data.hicloud.com
 metrics4.data.hicloud.com
 metrics5.data.hicloud.com
 metrics.apple.com
+metrics.asos.com
 metrics-config.icloud.com
 metrics.data.hicloud.com
 metrics-dra.dt.hicloud.com
@@ -678,6 +690,7 @@ mms.tvspielfilm.de
 mobfocus-relay.iocnt.net
 mobgolem-relay.iocnt.net
 mobileanalytics.us-east-1.amazonaws.com
+mobwelt-relay.iocnt.net
 mon.tiktokv.com
 monumenteducategem.com
 mon-va.byteoversea.com
@@ -688,6 +701,7 @@ mpp.vindicosuite.com
 mraid.presage.io
 ms.applovin.com
 ms.applvn.com
+m.servedby-buysellads.com
 munchkin.marketo.net
 mwtw.presage.io
 mwzeom.zeotap.com
@@ -733,6 +747,7 @@ pandg.tapad.com
 partner.googleadservices.com
 payingnoodlescam.com
 pdw-usr.userreport.com
+pingapi.accengage.com
 ping.chartbeat.net
 ping.getadblock.com
 pinpoll.com
@@ -776,6 +791,7 @@ privatestats.whatsapp.net
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 prodlb.siteintercept.qualtrics.com.cdn.cloudflare.net
 prod.nexusrules.live.com.akadns.net
+prod.rewardsplatform.microsoft.com
 profile.localytics.com
 profiles.tagger.opecloud.com
 propeller-tracking.com
@@ -800,10 +816,12 @@ reachms.bfmio.com
 realtime.services.disqus.com
 regulationprivilegescan.top
 relay-client-c01.iocnt.net
+relay-client-c03.iocnt.net
 rem-track.bild.de
 rereddit.com
 resources.xg4ken.com
 responder.wt-safetag.com
+rewardsprod.trafficmanager.net
 ris.res-x.com
 r.mradx.net
 r.my.com
@@ -846,9 +864,11 @@ sanalytics.express.de
 sanalytics.ksta.de
 sats.spiegel.de
 sbcomniture.focus.de
+s.btstatic.com
 sb.voicefive.com
 s.c.appier.net
 scdn.cxense.com
+sc.hm.com
 sc.lfeeder.com
 scomcluster.cxense.com
 screenshotfactory.com
@@ -867,6 +887,7 @@ sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
 sdk.fra-01.braze.eu
 sdk.iad-01.braze.com
+sdk.out.usbla.net
 sdk.qikify.com
 search.spotxchange.com
 secure.adnxs.com
@@ -969,6 +990,7 @@ stats-dev.brid.tv
 statse.webtrendslive.com
 stats.g.doubleclick.net
 stats.glb.paypal.com
+stats.innoq.com
 stats.smartclip.net
 stats.sxp.smartclip.net
 stats-t--online-de.cdn.ampproject.org
@@ -976,6 +998,7 @@ stats.wp.com
 submit-target.osp.opera.software
 supportmetrics.apple.com
 survey.survicate.com
+s.vi-serve.com
 sync.1rx.io
 sync.crwdcntrl.net
 synchrobox.adswizz.com
@@ -995,6 +1018,7 @@ tag.1rx.io
 tagan.adlightning.com
 tag.durationmedia.net
 tag.idsync.analytics.yahoo.com
+tag.rmp.rakuten.com
 tags.bluekai.com
 tags-eu.tiqcdn.com
 tag.userreport.com
@@ -1125,6 +1149,7 @@ ws.sharethis.com
 w.usabilla.com
 ww251.smartadserver.com
 ww2.sqidsply.com
+www1.mpnrs.com
 www3.smartadserver.com
 www6.smartadserver.com
 www.adpmbtj.com
@@ -1151,6 +1176,7 @@ www.googletagmanager.com
 www.googletagservices.com
 www.guvivqlbh.com
 www.imglnke.com
+www.pd-news.com
 www.performancetrustednetwork.com
 www.platincasino.com
 www.popads.net
