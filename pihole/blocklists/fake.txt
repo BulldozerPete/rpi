@@ -20,14 +20,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 50541
-# Deadlist: 431654
-# Blacklist: 1704
+# Whitelist: 50592
+# Deadlist: 431372
+# Blacklist: 1712
 # 1. Source: 4573 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1482 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10569 Domains - V2021.07.29-03:34:13
+# 10585 Domains - V2021.07.30-03:33:16
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -108,6 +108,7 @@ adenberger-damenmode.com
 adidas2018.com
 adidasr.top
 adidasyeezynew.com
+adinhotelspa.com
 adler-immo.com
 adogadgets.com
 adria-fisch.at
@@ -1989,6 +1990,7 @@ graces-buy.com
 grafik-archiv.com
 grafik-studio.at
 grafpilati.at
+granadabelekhotel.com
 grandado.com
 grandeurlux.com
 grandiancia.com
@@ -3574,6 +3576,7 @@ partner-gw.de
 partnerimwald.ch
 partner-real-estate.com
 passauerbuendnis.de
+passenger-locator-greece.com
 pastol.de
 patagoniaseuonline.com
 patagoniashopz.com
@@ -4080,6 +4083,10 @@ sabine-und-markus.at
 saboconfreewifi.de
 sadoplay.de
 sadplay.de
+sahinn-paradisehotel.com
+sahinnparadiseresortshotel.com
+sahinparadisehotelsresort.com
+sahinparadiseresorthotels.com
 saitnewsj.com
 sakvii.com
 saleradoo.de
@@ -5224,6 +5231,7 @@ wohnung-1140.at
 wohnwert-leonhard.at
 wolfcreativelab.at
 wolframreiss.de
+womedeluxebeach.com
 womobo.de
 wonderbacks.store
 woodbii.de
@@ -5325,6 +5333,7 @@ www.adenberger-damenmode.com
 www.adidas2018.com
 www.adidasr.top
 www.adidasyeezynew.com
+www.adinhotelspa.com
 www.adler-immo.com
 www.adogadgets.com
 www.adria-fisch.at
@@ -7150,6 +7159,7 @@ www.graces-buy.com
 www.grafik-archiv.com
 www.grafik-studio.at
 www.grafpilati.at
+www.granadabelekhotel.com
 www.grandado.com
 www.grandeurlux.com
 www.grandiancia.com
@@ -8687,6 +8697,7 @@ www.partner-gw.de
 www.partnerimwald.ch
 www.partner-real-estate.com
 www.passauerbuendnis.de
+www.passenger-locator-greece.com
 www.pastol.de
 www.patagoniaseuonline.com
 www.patagoniashopz.com
@@ -9184,6 +9195,10 @@ www.sabine-und-markus.at
 www.saboconfreewifi.de
 www.sadoplay.de
 www.sadplay.de
+www.sahinn-paradisehotel.com
+www.sahinnparadiseresortshotel.com
+www.sahinparadisehotelsresort.com
+www.sahinparadiseresorthotels.com
 www.saitnewsj.com
 www.sakvii.com
 www.saleradoo.de
@@ -10292,6 +10307,7 @@ www.wohnung-1140.at
 www.wohnwert-leonhard.at
 www.wolfcreativelab.at
 www.wolframreiss.de
+www.womedeluxebeach.com
 www.womobo.de
 www.wonderbacks.store
 www.woodbii.de
