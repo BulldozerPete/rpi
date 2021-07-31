@@ -60,6 +60,7 @@ adsco.re
 ads.creative-serving.com
 adsdk.yandex.ru
 adserver.71i.de
+adserver-us.adtech.advertising.com
 adservetx.media.net
 ads.facebook.com
 ads.flurry.com
@@ -250,6 +251,7 @@ cdn.braze.eu
 cdn.bunchbox.co
 cdn.c-i.as
 cdn.cloudimagesb.com
+cdn.cohesionapps.com
 cdn.consentmanager.mgr.consensu.org
 cdn.contalyze.com
 cdn.cxense.com
@@ -289,6 +291,7 @@ cdn.trustcommander.net
 cdn.tsyndicate.com
 cdn.userreport.com
 cdn.viglink.com
+cdn.vlyby.com
 cdn.yourwebbars.com
 cdn.ywxi.net
 cdn.zomap.de
@@ -383,6 +386,7 @@ data-574debde52.bunte.de
 data-5d621ddc78.pcgameshardware.de
 data-62650cd9a5.golem.de
 data-6636e03c3f.linux-magazin.de
+data-6e57cba6aa.focus.de
 data-7294bdf136.focus.de
 data-861bbf2127.bild.de
 data-8793ca6c7d.rpr1.de
@@ -485,6 +489,7 @@ flury-ycpi.gycpi.b.yahoodns.net
 fmdata.imgsmail.ru
 fp.msedge.net
 fra1-ib.adnxs.com
+freegeoip.app
 freshmarketer.com
 fr-online.met.vgwort.de
 fsalfrwdr.com
@@ -690,6 +695,7 @@ mms.tvspielfilm.de
 mobfocus-relay.iocnt.net
 mobgolem-relay.iocnt.net
 mobileanalytics.us-east-1.amazonaws.com
+mobile-http-intake.logs.datadoghq.com
 mobwelt-relay.iocnt.net
 mon.tiktokv.com
 monumenteducategem.com
@@ -783,11 +789,13 @@ pr-bh.ybp.yahoo.com
 pre.ads.justpremium.com
 prebid.adnxs.com
 prebid.a-mo.net
+prebid.media.net
 prebid-server.rubiconproject.com
 preferences.cid.samba.tv
 prg.smartadserver.com
 privacy.stroeerdigitalgroup.de
 privatestats.whatsapp.net
+prod.adspsp.com
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 prodlb.siteintercept.qualtrics.com.cdn.cloudflare.net
 prod.nexusrules.live.com.akadns.net
@@ -943,6 +951,7 @@ srv.pixel.parsely.com
 ssa.eurosport.de
 ssbsync.smartadserver.com
 ssc.33across.com
+s.skimresources.com
 ssl-chip.met.vgwort.de
 ssl.gft2.de
 ssl.google-analytics.com
@@ -981,6 +990,7 @@ static.par.vip.prod.criteo.net
 static.showheroes.com
 static.trafficjunky.com
 static-v2.trbo.com
+static.yieldmo.com
 stats.appsflyer.com
 stats.appsflyer.com.akamaized.net
 stats.computecmedia.de
@@ -1033,6 +1043,7 @@ tempest.services.disqus.com
 te.technical-service.net
 thebestgame2020.com
 thrtle.com
+t.imgur.com
 tk6if76q.ab1n.net
 t.ktxtr.com
 tlx.3lift.com
@@ -1080,6 +1091,7 @@ t.uimserv.net
 tulipinventpins.com
 t.vi-serve.com
 t.visx.net
+t.webjavaskript.net
 uconnect.tealiumiq.com
 udm.scorecardresearch.com
 u.heatmap.it
@@ -1097,6 +1109,7 @@ upsettingcrescentwig.com
 ups.xplosion.de
 usenetnl.download
 usermatch.krxd.net
+user-rating.burda-forward.de
 uss.xplosion.de
 us-u.openx.net
 v1.addthisedge.com
@@ -1176,6 +1189,7 @@ www.googletagmanager.com
 www.googletagservices.com
 www.guvivqlbh.com
 www.imglnke.com
+www.medtargetsystem.com
 www.pd-news.com
 www.performancetrustednetwork.com
 www.platincasino.com
@@ -1203,5 +1217,6 @@ zigann.com
 zipservice.adalliance.io
 z.moatads.com
 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
+zn3aphtrmui7fnkwh-redventures.siteintercept.qualtrics.com
 z-na.amazon-adsystem.com
 zncvwzq01bdkk1bu1-expediainc.siteintercept.qualtrics.com
