@@ -19,39 +19,38 @@
 # Exclude: 10715
 
 # Whitelist: 50592
-# Deadlist: 427337
+# Deadlist: 427179
 
 # Blacklist global: 872
 # Blacklist source: 
 # Blacklist: 872
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
-# 2. Source: 619 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/ads_tracking.txt
-# 3. Source: 6027 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/prigentads.txt
-# 4. Source: 558 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/privacy.txt
-# 5. Source: 9922 - https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains
-# 6. Source: 1486 - https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains
-# 7. Source: 52541 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
-# 8. Source: 12381 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-# 9. Source: 68767 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
-# 10. Source: 85743 - https://dbl.oisd.nl/basic/
-# 11. Source: 3376 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nso-pegasus.txt
-# 12. Source: 43436 - https://phishing.army/download/phishing_army_blocklist_extended.txt
-# 13. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
-# 14. Source: 8225 - https://adaway.org/hosts.txt
-# 15. Source: 3620 - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# 16. Source: 15510 - https://someonewhocares.org/hosts/
-# 17. Source: 84241 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 18. Source: 1000 - https://urlhaus.abuse.ch/downloads/hostfile/
-# 19. Source: 462 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 407069
+# 2. Source: 6027 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/prigentads.txt
+# 3. Source: 9922 - https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains
+# 4. Source: 1486 - https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains
+# 5. Source: 52517 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
+# 6. Source: 12381 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
+# 7. Source: 68763 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 8. Source: 85743 - https://dbl.oisd.nl/basic/
+# 9. Source: 3376 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nso-pegasus.txt
+# 10. Source: 42772 - https://phishing.army/download/phishing_army_blocklist_extended.txt
+# 11. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+# 12. Source: 8225 - https://adaway.org/hosts.txt
+# 13. Source: 3620 - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+# 14. Source: 15510 - https://someonewhocares.org/hosts/
+# 15. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+# 16. Source: 84241 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# 17. Source: 1003 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 18. Source: 462 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
+# #. Source: 405892
 
 Statistik mini.txt:
-== Source (unique): 217594
-++ Black:           218446 (+852)
--- White:           217197 (-1249)
--- Dead:            168493 (-48704)
--- Exclude:         168432 (-61)
--- Unblock:         168417 (-15)
-++ WWW-Domains:     184247 (+15830)
-++ FLD-Domains:     184380 (+133)
+== Source (unique): 216667
+++ Black:           217519 (+852)
+-- White:           216359 (-1160)
+-- Dead:            167332 (-49027)
+-- Exclude:         167273 (-59)
+-- Unblock:         166941 (-332)
+++ WWW-Domains:     182513 (+15572)
+++ FLD-Domains:     182650 (+137)
