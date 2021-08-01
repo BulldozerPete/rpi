@@ -18,19 +18,19 @@
 # Exclude: 0
 
 # Whitelist: 50592
-# Deadlist: 431372
+# Deadlist: 427337
 
 # Blacklist: 1712
 
-# 1. Source: 4573 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# 2. Source: 1482 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
-# #. Source: 6055
+# 1. Source: 4638 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+# 2. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
+# #. Source: 6121
 
 Statistik fake.txt:
-== Source (unique): 6055
-++ Black:           7700 (+1645)
--- White:           7692 (-8)
--- Dead:            5370 (-2322)
--- Unblock:         5370 (-0)
-++ WWW-Domains:     10585 (+5215)
-++ FLD-Domains:     10585 (+0)
+== Source (unique): 6121
+++ Black:           7765 (+1644)
+-- White:           7757 (-8)
+-- Dead:            5435 (-2322)
+-- Unblock:         5435 (-0)
+++ WWW-Domains:     10715 (+5280)
+++ FLD-Domains:     10715 (+0)
