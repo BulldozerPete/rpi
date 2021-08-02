@@ -20,25 +20,23 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 50592
-# Deadlist: 427337
-# Blacklist: 1712
+# Whitelist: 50594
+# Deadlist: 427179
+# Blacklist: 1695
 # 1. Source: 4638 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10715 Domains - V2021.08.01-03:34:13
+# 10626 Domains - V2021.08.02-03:34:23
 # ---------------------------------------------
 #
 1000gratisproben.com
-100jahrehochbahn.de
 1200isplenty.com
 123brennholz.com
 123moviedownload.com
 12streetwings.com
 12-suchen.de
 1superkredit.com
-2021storeoutlet.com
 21-willhaben.at
 24things.de
 2rad-hanke.de
@@ -223,7 +221,6 @@ ament.at
 amicale-des-alberes.fr
 amirhpc.com
 ams-markt.de
-amzhedgefund.com
 anabolenkopen24.nl
 anabolika24.biz
 anabolika365.de
@@ -342,7 +339,6 @@ austria-ramsau.at
 austriashoes.com
 auto-achatz.at
 autofficinabertas.it
-autogas-umbau-berlin.de
 autolinie.de
 auto-moll.at
 autoradio-gps-discount.com
@@ -417,7 +413,6 @@ basar-go.shop
 base57.at
 batoobv.com
 bauern-jause.at
-baugelddirekt.at
 bauhandel-kurzenberger.de
 bauhausshop.com
 bauhaus-topolino.de
@@ -435,7 +430,6 @@ bayerhandel.net
 bbertywk.top
 bbgadget.de
 bbldd.pro
-bbq24.store
 bc8.ru
 b-checker.at
 bcm-shop.de
@@ -445,7 +439,6 @@ beamg.de
 beathel.com
 beatsystem.at
 beauteousu.com
-beautifulcity365.top
 beautinshe.com
 beauty365.ch
 beautyonmee.com
@@ -530,7 +523,6 @@ betrieblicheversicherung.com
 better-bikes24.de
 bettina-dagmara.de
 bettinakreativ.at
-bewerte-den-shop.de
 bewerte-einen-onlineshop.de
 bewertung-abgeben-edelmetallshops.de
 bewusstsein-ibk.at
@@ -588,7 +580,6 @@ bishopelectro.com
 bisterberg.de
 bit4fitness.com
 bitcerainvstmnt.co
-bitcoinerawebsoft.com
 bitcoingroup.one
 bitcoinlabeurope.com
 bitcoinlabtech.com
@@ -667,7 +658,6 @@ brandnew-app.de
 brands4less.nl
 brandschutzfachbuero-engler.de
 brandstylesworld.com
-brandusale.com
 brautmode-hochzeit.com
 braviamarket.com
 bravo-autotrucks.com
@@ -831,7 +821,6 @@ cgbanks.com
 chadu.at
 chafsap.com
 chance-ev.at
-changing-walls.de
 chargedupgadgets.com
 chariot-bikes.de
 charismatico.com
@@ -976,7 +965,6 @@ coodan.online
 coodan.store
 cooksomeone.com
 coolrevo.com
-coolsmoke.at
 coolsnow.at
 cooponline.de
 corachic.com
@@ -1024,7 +1012,6 @@ culsaa.com
 cunont.com
 cuntra.at
 cuoredicarta.it
-cupidshops.com
 cupsandcurves.de
 curlycurler.de
 currext.com
@@ -1352,7 +1339,6 @@ ejrjx.top
 ekiezayetu.com
 ekomfort.de
 ekt-wohnhof.de
-elbe-baudienst.de
 eldond.club
 electrodeal24.de
 electro-deal.fr
@@ -1633,7 +1619,6 @@ felgen-restposten.de
 felixkino.com
 felixkocht.at
 felix-messer.de
-felldesign.de
 fellowship-clan.de
 femmesport.eu
 fencia.co
@@ -1718,7 +1703,6 @@ flymustang.de
 flytte-udlandet.dk
 fm-butik.ru
 fmeseriasi.com
-foelpels.com
 fogoplay.de
 folmy.de
 fomoplay.de
@@ -1788,6 +1772,7 @@ funatv.de
 fundraising-plus.de
 funstore24.eu
 funswan.de
+funviki.com
 funylucki.com
 fu-ostholstein.de
 furdiedamen.de
@@ -1837,7 +1822,6 @@ garmineoutlet.com
 garminproductstore4us.com
 garminworldmaps.com
 garnettli.com
-gartenaktion.net
 gartenbau-schuetz.de
 gartencenter-horstmann.de
 gartencenter-pursch.de
@@ -2014,7 +1998,6 @@ graces-buy.com
 grafik-archiv.com
 grafik-studio.at
 grafpilati.at
-granadabelekhotel.com
 grandado.com
 grandeurlux.com
 grandiancia.com
@@ -2122,6 +2105,7 @@ haspobau.de
 hausannette.de
 hausartikel24.com
 hausaufgaben-heute.com
+hausaufgaben-server.com
 hausbaufirmenberlin.de
 haus-delrio.com
 haus-der-bos.com
@@ -2208,7 +2192,6 @@ historischesbauen.de
 hitshe.com
 hkls.at
 hla-trans.eu
-hmd-braun.de
 hmsls.shop
 hmsplatform.nl
 hobbyshop-gossert.de
@@ -2672,7 +2655,6 @@ koffer-store.com
 koichat.de
 koisea.com
 kolbe-energiearbeit.at
-kollmann-handel.de
 kolorfun.de
 kompens.de
 kompresory.at
@@ -2706,7 +2688,6 @@ kriminalberatung.at
 kristall-leutasch.at
 kristroom.ru
 kronen-apotheke-schweinfurt-app.de
-kruegers-hausgeraete.de
 ksutora.com
 kswfp.top
 kuaicmn.com
@@ -2724,6 +2705,7 @@ kwompvcu.top
 kzemtra.com
 kzultrack.com
 labelito.com
+labubu.co.uk
 lacastagna.ch
 ladplay.de
 lady-coat.com
@@ -2744,7 +2726,6 @@ lamena.de
 lameox.com
 lamovo.de
 lancebruce.com
-landchi.com
 landeoo.com
 landidyll.at
 landiscount.fr
@@ -2944,7 +2925,6 @@ made.com
 madhukaal.com
 madixa.com
 mad-max-vd-brunnengaerten.de
-maehercenter.de
 magiczoomco.com
 magikbody.de
 magna-eu.com
@@ -3711,19 +3691,13 @@ platons-gyros-paradies.de
 playanex.de
 playbat.de
 playbate.de
-playbeno.de
 playbex.de
-playbobo.de
 playbod.de
 playbogo.de
-playcine.de
 playdax.de
 playdel.de
-playder.de
 playdist.de
-playdomo.de
 playdona.de
-playdon.de
 playdoro.de
 playdost.de
 playdoyo.de
@@ -3741,9 +3715,7 @@ playgid.de
 playgob.de
 playgom.de
 playgomo.de
-playgox.de
 playgus.de
-playkino.de
 playlid.de
 playmago.de
 playmay.de
@@ -3752,28 +3724,21 @@ playmeta.de
 playmet.de
 playmine.de
 playmium.de
-playmoba.de
 playmod.de
-playmom.de
 playmoon.de
 playmov.de
 playmox.de
 playmuvu.de
 playnay.de
-playneo.de
-playnex.de
 playney.de
 playnide.de
 playnion.de
 playnity.de
 playnob.de
-playnod.de
 playnog.de
 playnom.de
 playnomo.de
-playnona.de
 playnoro.de
-playoza.de
 playpas.de
 playpor.de
 playrapid.de
@@ -3789,14 +3754,12 @@ playsat.de
 playsdom.com
 playshe.de
 playsimb.de
-playsimo.de
 playsome.de
 playsta.de
 playstore.de
 playsub.de
 playtax.de
 playted.de
-playtogo.de
 playton.de
 playtor.de
 playtory.de
@@ -3913,7 +3876,6 @@ prr-haulage.com
 pr-ruehle.de
 psyges.de
 pthipv.com
-puchasenow.com
 puhotka.ru
 pullach-evangelisch.de
 pumacredit.de
@@ -4095,6 +4057,7 @@ romantisches-mecklenburg.de
 romaplay.de
 romaxica.com
 romflowers.com
+romoplay.de
 ronain.com
 ronuldo.com
 roombrand.ru
@@ -4116,8 +4079,8 @@ routenplanung-heute.com
 royalbrands.shop
 royal-eu.com
 royalkitten.at
+royaloop.com
 royalpomskyhome.com
-rsk-handel.de
 rsotecpro.com
 rspfans.at
 rtxshop.de
@@ -4153,7 +4116,6 @@ sanco-wt.at
 sandabody.com
 sanderdsun.com
 sanfter-kaffe.de
-sanfter-riese.at
 sansapoten.com
 santikadesign.com
 sarahmo.de
@@ -4215,7 +4177,6 @@ schwansgut.de
 schwarzkogel-huette.at
 schwarzundlang.de
 schwedenwanderung.de
-scientificentre.com
 screenacy.co
 scribblepen.com
 scswarmer.de
@@ -4411,7 +4372,6 @@ soscot.at
 so-the-by-srealty.com
 soulcat-berlin.de
 soulofnippes.de
-sound-4ce.de
 southeastern.site
 souto-vehiculos.com
 sowaswillichauch.de
@@ -4426,7 +4386,6 @@ spar-markt.de
 sparturn.de
 speaklife.at
 special-sports.at
-spedition-starodab.eu
 speedcubekaufen.com
 spiegler1.de
 spielekonsolen-handel.com
@@ -4630,6 +4589,7 @@ tech-fox.de
 tech-land.de
 technics24smart.store
 technikcenter-deutschland.de
+technik-doku-design.de
 technikfusion.de
 technik-guenter.eu
 technik-schnaeppchen-shop.de
@@ -4678,7 +4638,6 @@ theaterverein-nd.at
 theaustrian.org
 thebitcoinscode-appl.t500track23.com
 thebitcoinscode.com
-thebtcode.net
 thecasualcircle.at
 thecasualcircle.ch
 thecasualcircle.de
@@ -4755,7 +4714,6 @@ tinvivid.com
 tinypawszuhause.de
 tipchico.com
 tiraloshop.com
-tirolerhuetten.at
 tischlerei-brouns.de
 titacai.top
 titan-area.de
@@ -5025,7 +4983,6 @@ vejaschweiz.com
 velenza.de
 veloberlin.de
 vendial.de
-veneracrea.com
 ventelo-media.com
 venusbicycle.com
 veonaskincare.com
@@ -5318,14 +5275,12 @@ wundershark.de
 wunderwahl.de
 wunderwild.de
 www.1000gratisproben.com
-www.100jahrehochbahn.de
 www.1200isplenty.com
 www.123brennholz.com
 www.123moviedownload.com
 www.12streetwings.com
 www.12-suchen.de
 www.1superkredit.com
-www.2021storeoutlet.com
 www.21-willhaben.at
 www.24things.de
 www.2rad-hanke.de
@@ -5506,7 +5461,6 @@ www.ament.at
 www.amicale-des-alberes.fr
 www.amirhpc.com
 www.ams-markt.de
-www.amzhedgefund.com
 www.anabolenkopen24.nl
 www.anabolika24.biz
 www.anabolika365.de
@@ -5623,7 +5577,6 @@ www.austria-ramsau.at
 www.austriashoes.com
 www.auto-achatz.at
 www.autofficinabertas.it
-www.autogas-umbau-berlin.de
 www.autolinie.de
 www.auto-moll.at
 www.autoradio-gps-discount.com
@@ -5697,7 +5650,6 @@ www.basar-go.shop
 www.base57.at
 www.batoobv.com
 www.bauern-jause.at
-www.baugelddirekt.at
 www.bauhandel-kurzenberger.de
 www.bauhausshop.com
 www.bauhaus-topolino.de
@@ -5715,7 +5667,6 @@ www.bayerhandel.net
 www.bbertywk.top
 www.bbgadget.de
 www.bbldd.pro
-www.bbq24.store
 www.bc8.ru
 www.b-checker.at
 www.bcm-shop.de
@@ -5724,7 +5675,6 @@ www.beamg.de
 www.beathel.com
 www.beatsystem.at
 www.beauteousu.com
-www.beautifulcity365.top
 www.beautinshe.com
 www.beauty365.ch
 www.beautyonmee.com
@@ -5805,7 +5755,6 @@ www.betrieblicheversicherung.com
 www.better-bikes24.de
 www.bettina-dagmara.de
 www.bettinakreativ.at
-www.bewerte-den-shop.de
 www.bewerte-einen-onlineshop.de
 www.bewertung-abgeben-edelmetallshops.de
 www.bewusstsein-ibk.at
@@ -5862,7 +5811,6 @@ www.bishopelectro.com
 www.bisterberg.de
 www.bit4fitness.com
 www.bitcerainvstmnt.co
-www.bitcoinerawebsoft.com
 www.bitcoingroup.one
 www.bitcoinlabeurope.com
 www.bitcoinlabtech.com
@@ -5939,7 +5887,6 @@ www.brandnew-app.de
 www.brands4less.nl
 www.brandschutzfachbuero-engler.de
 www.brandstylesworld.com
-www.brandusale.com
 www.brautmode-hochzeit.com
 www.braviamarket.com
 www.bravo-autotrucks.com
@@ -6096,7 +6043,6 @@ www.cgbanks.com
 www.chadu.at
 www.chafsap.com
 www.chance-ev.at
-www.changing-walls.de
 www.chargedupgadgets.com
 www.chariot-bikes.de
 www.charismatico.com
@@ -6230,7 +6176,6 @@ www.coodan.online
 www.coodan.store
 www.cooksomeone.com
 www.coolrevo.com
-www.coolsmoke.at
 www.coolsnow.at
 www.cooponline.de
 www.corachic.com
@@ -6276,7 +6221,6 @@ www.culsaa.com
 www.cunont.com
 www.cuntra.at
 www.cuoredicarta.it
-www.cupidshops.com
 www.cupsandcurves.de
 www.curlycurler.de
 www.currext.com
@@ -6594,7 +6538,6 @@ www.ejrjx.top
 www.ekiezayetu.com
 www.ekomfort.de
 www.ekt-wohnhof.de
-www.elbe-baudienst.de
 www.eldond.club
 www.electrodeal24.de
 www.electro-deal.fr
@@ -6869,7 +6812,6 @@ www.felgen-restposten.de
 www.felixkino.com
 www.felixkocht.at
 www.felix-messer.de
-www.felldesign.de
 www.fellowship-clan.de
 www.femmesport.eu
 www.fencia.co
@@ -6954,7 +6896,6 @@ www.flymustang.de
 www.flytte-udlandet.dk
 www.fm-butik.ru
 www.fmeseriasi.com
-www.foelpels.com
 www.fogoplay.de
 www.folmy.de
 www.fomoplay.de
@@ -7022,6 +6963,7 @@ www.funatv.de
 www.fundraising-plus.de
 www.funstore24.eu
 www.funswan.de
+www.funviki.com
 www.funylucki.com
 www.fu-ostholstein.de
 www.furdiedamen.de
@@ -7071,7 +7013,6 @@ www.garmineoutlet.com
 www.garminproductstore4us.com
 www.garminworldmaps.com
 www.garnettli.com
-www.gartenaktion.net
 www.gartenbau-schuetz.de
 www.gartencenter-horstmann.de
 www.gartencenter-pursch.de
@@ -7244,7 +7185,6 @@ www.graces-buy.com
 www.grafik-archiv.com
 www.grafik-studio.at
 www.grafpilati.at
-www.granadabelekhotel.com
 www.grandado.com
 www.grandeurlux.com
 www.grandiancia.com
@@ -7349,6 +7289,7 @@ www.haspobau.de
 www.hausannette.de
 www.hausartikel24.com
 www.hausaufgaben-heute.com
+www.hausaufgaben-server.com
 www.hausbaufirmenberlin.de
 www.haus-delrio.com
 www.haus-der-bos.com
@@ -7435,7 +7376,6 @@ www.historischesbauen.de
 www.hitshe.com
 www.hkls.at
 www.hla-trans.eu
-www.hmd-braun.de
 www.hmsls.shop
 www.hmsplatform.nl
 www.hobbyshop-gossert.de
@@ -7892,7 +7832,6 @@ www.koffer-store.com
 www.koichat.de
 www.koisea.com
 www.kolbe-energiearbeit.at
-www.kollmann-handel.de
 www.kolorfun.de
 www.kompens.de
 www.kompresory.at
@@ -7925,7 +7864,6 @@ www.kriminalberatung.at
 www.kristall-leutasch.at
 www.kristroom.ru
 www.kronen-apotheke-schweinfurt-app.de
-www.kruegers-hausgeraete.de
 www.ksutora.com
 www.kswfp.top
 www.kuaicmn.com
@@ -7963,7 +7901,6 @@ www.lamena.de
 www.lameox.com
 www.lamovo.de
 www.lancebruce.com
-www.landchi.com
 www.landeoo.com
 www.landidyll.at
 www.landiscount.fr
@@ -8160,7 +8097,6 @@ www.made.com
 www.madhukaal.com
 www.madixa.com
 www.mad-max-vd-brunnengaerten.de
-www.maehercenter.de
 www.magiczoomco.com
 www.magikbody.de
 www.magna-eu.com
@@ -8890,19 +8826,13 @@ www.platons-gyros-paradies.de
 www.playanex.de
 www.playbat.de
 www.playbate.de
-www.playbeno.de
 www.playbex.de
-www.playbobo.de
 www.playbod.de
 www.playbogo.de
-www.playcine.de
 www.playdax.de
 www.playdel.de
-www.playder.de
 www.playdist.de
-www.playdomo.de
 www.playdona.de
-www.playdon.de
 www.playdoro.de
 www.playdost.de
 www.playdoyo.de
@@ -8920,9 +8850,7 @@ www.playgid.de
 www.playgob.de
 www.playgom.de
 www.playgomo.de
-www.playgox.de
 www.playgus.de
-www.playkino.de
 www.playlid.de
 www.playmago.de
 www.playmay.de
@@ -8931,28 +8859,21 @@ www.playmeta.de
 www.playmet.de
 www.playmine.de
 www.playmium.de
-www.playmoba.de
 www.playmod.de
-www.playmom.de
 www.playmoon.de
 www.playmov.de
 www.playmox.de
 www.playmuvu.de
 www.playnay.de
-www.playneo.de
-www.playnex.de
 www.playney.de
 www.playnide.de
 www.playnion.de
 www.playnity.de
 www.playnob.de
-www.playnod.de
 www.playnog.de
 www.playnom.de
 www.playnomo.de
-www.playnona.de
 www.playnoro.de
-www.playoza.de
 www.playpas.de
 www.playpor.de
 www.playrapid.de
@@ -8968,14 +8889,12 @@ www.playsat.de
 www.playsdom.com
 www.playshe.de
 www.playsimb.de
-www.playsimo.de
 www.playsome.de
 www.playsta.de
 www.playstore.de
 www.playsub.de
 www.playtax.de
 www.playted.de
-www.playtogo.de
 www.playton.de
 www.playtor.de
 www.playtory.de
@@ -9089,7 +9008,6 @@ www.prr-haulage.com
 www.pr-ruehle.de
 www.psyges.de
 www.pthipv.com
-www.puchasenow.com
 www.puhotka.ru
 www.pullach-evangelisch.de
 www.pumacredit.de
@@ -9268,6 +9186,7 @@ www.romantisches-mecklenburg.de
 www.romaplay.de
 www.romaxica.com
 www.romflowers.com
+www.romoplay.de
 www.ronain.com
 www.ronuldo.com
 www.roombrand.ru
@@ -9289,8 +9208,8 @@ www.routenplanung-heute.com
 www.royalbrands.shop
 www.royal-eu.com
 www.royalkitten.at
+www.royaloop.com
 www.royalpomskyhome.com
-www.rsk-handel.de
 www.rsotecpro.com
 www.rspfans.at
 www.rtxshop.de
@@ -9326,7 +9245,6 @@ www.sanco-wt.at
 www.sandabody.com
 www.sanderdsun.com
 www.sanfter-kaffe.de
-www.sanfter-riese.at
 www.sansapoten.com
 www.santikadesign.com
 www.sarahmo.de
@@ -9387,7 +9305,6 @@ www.schwansgut.de
 www.schwarzkogel-huette.at
 www.schwarzundlang.de
 www.schwedenwanderung.de
-www.scientificentre.com
 www.screenacy.co
 www.scribblepen.com
 www.scswarmer.de
@@ -9578,7 +9495,6 @@ www.soscot.at
 www.so-the-by-srealty.com
 www.soulcat-berlin.de
 www.soulofnippes.de
-www.sound-4ce.de
 www.southeastern.site
 www.souto-vehiculos.com
 www.sowaswillichauch.de
@@ -9593,7 +9509,6 @@ www.spar-markt.de
 www.sparturn.de
 www.speaklife.at
 www.special-sports.at
-www.spedition-starodab.eu
 www.speedcubekaufen.com
 www.spiegler1.de
 www.spielekonsolen-handel.com
@@ -9794,6 +9709,7 @@ www.tech-fox.de
 www.tech-land.de
 www.technics24smart.store
 www.technikcenter-deutschland.de
+www.technik-doku-design.de
 www.technikfusion.de
 www.technik-guenter.eu
 www.technik-schnaeppchen-shop.de
@@ -9840,7 +9756,6 @@ www.theanimalsdreams.com
 www.theaterverein-nd.at
 www.theaustrian.org
 www.thebitcoinscode.com
-www.thebtcode.net
 www.thecasualcircle.at
 www.thecasualcircle.ch
 www.thecasualcircle.de
@@ -9915,7 +9830,6 @@ www.tinvivid.com
 www.tinypawszuhause.de
 www.tipchico.com
 www.tiraloshop.com
-www.tirolerhuetten.at
 www.tischlerei-brouns.de
 www.titacai.top
 www.titan-area.de
@@ -10173,7 +10087,6 @@ www.vejaschweiz.com
 www.velenza.de
 www.veloberlin.de
 www.vendial.de
-www.veneracrea.com
 www.ventelo-media.com
 www.venusbicycle.com
 www.veonaskincare.com
@@ -10528,7 +10441,6 @@ www.ysibcon.com
 www.yslimlily.com
 www.yspdtg.com
 www.yuhui.at
-www.yuma-lda.com
 www.yupeace.org
 www.yvyt.de
 www.yyearsale.com
@@ -10675,7 +10587,6 @@ ysibcon.com
 yslimlily.com
 yspdtg.com
 yuhui.at
-yuma-lda.com
 yupeace.org
 yvyt.de
 yyearsale.com
