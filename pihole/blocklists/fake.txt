@@ -22,12 +22,12 @@
 # Exclude: 0
 # Whitelist: 50607
 # Deadlist: 437030
-# Blacklist: 1695
+# Blacklist: 1698
 # 1. Source: 4638 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10628 Domains - V2021.08.02-10:04:36
+# 10632 Domains - V2021.08.02-14:54:16
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -164,6 +164,7 @@ akutdesign.de
 aku-vital.de
 alamode.ru
 alarm-video.at
+alben-mode.com
 alberta-mall.com
 ale-gratka.pl
 alexkulik-kunst.de
@@ -2631,6 +2632,7 @@ klaratronik.de
 klauswohlgemuth.de
 kleidbox.com
 kleincodiert.at
+kleine-freundin.com
 kleinesschaetzchen.de
 kleinkatharina.de
 kleintiermanagement.de
@@ -5406,6 +5408,7 @@ www.akutdesign.de
 www.aku-vital.de
 www.alamode.ru
 www.alarm-video.at
+www.alben-mode.com
 www.alberta-mall.com
 www.ale-gratka.pl
 www.alexkulik-kunst.de
@@ -7810,6 +7813,7 @@ www.klaratronik.de
 www.klauswohlgemuth.de
 www.kleidbox.com
 www.kleincodiert.at
+www.kleine-freundin.com
 www.kleinesschaetzchen.de
 www.kleinkatharina.de
 www.kleintiermanagement.de
