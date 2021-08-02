@@ -19,7 +19,7 @@
 # Statistik
 # ---------
 #
-# Exclude: 431372
+# Exclude: 437030
 # Whitelist: 0
 # Deadlist: 0
 # Blacklist: 0
@@ -27,7 +27,7 @@
 # 2. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 1088 Domains - V2021.07.29-22:26:25
+# 1081 Domains - V2021.08.02-10:12:56
 # ---------------------------------------------
 #
 052015012251.c.bing.com
@@ -521,7 +521,6 @@ blu.mobileads.msn.com
 b.rad.msn.com
 br.adspecs.yahoo.com
 br-go.kelkoogroup.net
-brightroll.fastclick.net
 browser.sentry-cdn.com
 bs-meta.yandex.ru
 bs.serving-sys.com
@@ -609,7 +608,6 @@ cse3.chausport.com
 c.se.msn.com
 c.sg.msn.com
 cs.luckyorange.net
-csp.fastclick.net
 c.statcounter.com
 c.th.msn.com
 ct.impactradius.com
@@ -831,7 +829,6 @@ onepush.query.yahoo.com
 online.adservicemedia.dk
 online.digital-advisor.com
 open.spotify.com
-optout.fastclick.net
 opus.analytics.yahoo.com
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
@@ -959,7 +956,6 @@ suite15.emarsys.net
 superapp.msn.com
 surveys.hotjar.com
 surveys-staging.hotjar.com
-sync.fastclick.net
 syndication.exosrv.com
 syndication.realsrv.com
 t23.intelliad.de
@@ -1001,9 +997,7 @@ vars.hotjar.com
 vars-s3-staging.hotjar.com
 vars-staging.hotjar.com
 vcdn.fastclick.net
-video1.fastclick.net
 video-ad-stats.googlesyndication.com
-video.fastclick.net
 video-vcdn.fastclick.net
 view.virt.s7.exacttarget.com
 visit.webhosting.yahoo.com
@@ -1012,7 +1006,6 @@ w1.luckyorange.com
 webmessenger.msn.com
 web.vortex.data.msn.com
 win-media-ams5.fastclick.net
-win-media.fastclick.net
 win-media-sj2.fastclick.net
 wms.assoc-amazon.com
 wms-eu.amazon-adsystem.com

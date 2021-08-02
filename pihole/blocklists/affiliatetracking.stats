@@ -15,8 +15,8 @@
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
 
-# Exclude data/dead.list: 431372
-# Exclude: 431372
+# Exclude data/dead.list: 437030
+# Exclude: 437030
 
 # Whitelist: 0
 # Deadlist: 0
@@ -29,7 +29,7 @@
 
 Statistik affiliatetracking.txt:
 == Source (unique): 1037
--- Exclude:         1037 (-0)
--- Unblock:         1035 (-2)
-++ WWW-Domains:     1085 (+50)
-++ FLD-Domains:     1088 (+3)
+-- Exclude:         1030 (-7)
+-- Unblock:         1028 (-2)
+++ WWW-Domains:     1078 (+50)
+++ FLD-Domains:     1081 (+3)
