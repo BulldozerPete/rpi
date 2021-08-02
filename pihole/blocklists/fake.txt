@@ -20,14 +20,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 50594
-# Deadlist: 427179
+# Whitelist: 50607
+# Deadlist: 437030
 # Blacklist: 1695
 # 1. Source: 4638 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10626 Domains - V2021.08.02-03:34:23
+# 10628 Domains - V2021.08.02-10:04:36
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -4572,6 +4572,7 @@ tattoo-server.com
 tauchershop.at
 tauchersport.de
 tausagun.com
+tbitcoin.me
 tderby.top
 tdubtunes.com
 teaching-resources-uk.com
@@ -9692,6 +9693,7 @@ www.tattoo-server.com
 www.tauchershop.at
 www.tauchersport.de
 www.tausagun.com
+www.tbitcoin.me
 www.tderby.top
 www.tdubtunes.com
 www.teaching-resources-uk.com
