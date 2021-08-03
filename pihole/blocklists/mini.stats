@@ -18,7 +18,7 @@
 # Exclude fake.txt: 10634
 # Exclude: 10634
 
-# Whitelist: 50905
+# Whitelist: 51267
 # Deadlist: 437028
 
 # Blacklist global: 872
@@ -48,9 +48,9 @@
 Statistik mini.txt:
 == Source (unique): 217775
 ++ Black:           218625 (+850)
--- White:           217350 (-1275)
--- Dead:            166070 (-51280)
--- Exclude:         166009 (-61)
--- Unblock:         165694 (-315)
-++ WWW-Domains:     180787 (+15093)
-++ FLD-Domains:     180935 (+148)
+-- White:           217080 (-1545)
+-- Dead:            165801 (-51279)
+-- Exclude:         165740 (-61)
+-- Unblock:         165429 (-311)
+++ WWW-Domains:     180518 (+15089)
+++ FLD-Domains:     180666 (+148)
