@@ -22,7 +22,7 @@
 # Telegram-Gruppe PiHole + Unbound Fans (DACH)
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
-# 52491 Domains - 2021.08.02-10:00:37
+# 52498 Domains - 2021.08.03-03:30:10
 # ---------------------------------------------
 #
 006a039c957c142bb.com
@@ -4257,7 +4257,6 @@ bangedmarketcake.com
 ban-host.ru
 banianspaddi.info
 banicywan.com
-banman.isoftmarketing.com
 banner.101xp.com
 banner.1und1.com
 banner.1und1.de
@@ -7899,6 +7898,7 @@ data.queryly.com
 data.reactandshare.com
 datasecu.download
 data.segugio.it
+datasign.co
 data-ssl.pnet.co.za
 data-ssl.stepstone.at
 data-ssl.stepstone.be
@@ -9853,6 +9853,7 @@ episerver.net
 epitrack.com
 e-planning.net
 epnredirect.ru
+epnt.ebay.com
 epochokaypeerless.com
 eportantin.club
 eproof.com
@@ -11956,6 +11957,7 @@ googleoptimize.com
 googlerank.info
 google-rank.org
 googlesierai.xyz
+googletagservices.com
 googletrackmanager.com
 gooo.al
 go.oracle.com
@@ -14145,7 +14147,6 @@ jelly.mdhv.io
 jelr1.dili.fr
 jemmgroup.com
 jenicdntc.com
-jen.jiji.com
 jenxsw21lb.com
 jeperdee.net
 jeqixokniyny.com
@@ -24061,6 +24062,7 @@ sdc2.credit-suisse.com
 sdc.allianz.de
 sdc.aware.com.au
 sdcs.felissimo.co.jp
+s.dc-tag.jp
 sddan.com
 sdfsdvc.com
 sdhfbvd.com
@@ -27717,6 +27719,7 @@ tapjoyads.com
 taplytics.com
 tap.more-results.net
 tapnative.com
+t.appsflyer.com
 taps.io
 tapstream.com
 t.aptuspet.com
@@ -28062,6 +28065,7 @@ tgtmedia.com
 tgvbwjbnxz.com
 tgvrfc4.com
 tgzobwoutuwn.com
+thaibeco.com
 thaickoo.net
 thaiksee.com
 thamsais.com
@@ -36786,6 +36790,7 @@ www.datam.com
 www.datamind.ru
 www.dataperforma.com
 www.datasecu.download
+www.datasign.co
 www.datasteam.io
 www.datawrkz.com
 www.dataxpand.com
@@ -39562,6 +39567,7 @@ www.googleoptimize.com
 www.googlerank.info
 www.google-rank.org
 www.googlesierai.xyz
+www.googletagservices.com
 www.googletrackmanager.com
 www.gooo.al
 www.gopejk.com
@@ -48978,6 +48984,7 @@ www.tgtmedia.com
 www.tgvbwjbnxz.com
 www.tgvrfc4.com
 www.tgzobwoutuwn.com
+www.thaibeco.com
 www.thaickoo.net
 www.thaiksee.com
 www.thamsais.com
