@@ -19,7 +19,7 @@
 # Exclude fake.txt: 10634
 # Exclude: 10634
 
-# Whitelist: 50905
+# Whitelist: 51267
 # Deadlist: 437028
 
 # Blacklist global: 872
@@ -82,16 +82,16 @@
 # 54. Source: 48 - https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
 # 55. Source: 1216 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 56. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 57. Source: 1002 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 57. Source: 999 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 58. Source: 480 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1210983
+# #. Source: 1210980
 
 Statistik multi.txt:
-== Source (unique): 599765
-++ Black:           600596 (+831)
--- White:           598253 (-2343)
--- Dead:            418752 (-179501)
--- Exclude:         418684 (-68)
--- Unblock:         418657 (-27)
-++ WWW-Domains:     475569 (+56912)
-++ FLD-Domains:     476931 (+1362)
+== Source (unique): 599766
+++ Black:           600597 (+831)
+-- White:           597966 (-2631)
+-- Dead:            418467 (-179499)
+-- Exclude:         418399 (-68)
+-- Unblock:         418372 (-27)
+++ WWW-Domains:     475277 (+56905)
+++ FLD-Domains:     476639 (+1362)
