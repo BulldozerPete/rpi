@@ -25,7 +25,7 @@
 # Statistik
 # ---------
 #
-# Exclude: 50298
+# Exclude: 51267
 # Whitelist: 0
 # Deadlist: 0
 # Blacklist: 0
@@ -38,7 +38,7 @@
 # 7. Source: 627 - https://raw.githubusercontent.com/0n1cOn3/nso-blacklist/main/hosts.txt
 #
 # ---------------------------------------------
-# 3376 Domains - V2021.07.27-09:14:52
+# 3376 Domains - V2021.08.03-09:42:26
 # ---------------------------------------------
 #
 14-tracking.com
