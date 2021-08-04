@@ -11,8 +11,11 @@
 # GitHub: https://github.com/Zelo72
 # Mail:   zelo72@dismail.de
 # ---------------------------------------------
-# Telegram-Gruppe PiHole + Unbound Fans (DACH)
-#                 https://t.me/piholefans_DACH
+# Telegram-Gruppen PiHole + Unbound Fans (DACH)
+#                  https://t.me/piholefans_DACH
+#                  ----------------------------
+#                  AdGuard (DE)
+#                  https://t.me/adguardde
 # ---------------------------------------------
 #
 # ---------
@@ -20,14 +23,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 50905
-# Deadlist: 437028
-# Blacklist: 1699
+# Whitelist: 51356
+# Deadlist: 438246
+# Blacklist: 1701
 # 1. Source: 4638 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10634 Domains - V2021.08.03-08:30:09
+# 10634 Domains - V2021.08.04-13:47:40
 # ---------------------------------------------
 #
 1000gratisproben.com
