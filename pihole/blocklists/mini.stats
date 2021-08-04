@@ -11,15 +11,18 @@
 # GitHub: https://github.com/Zelo72
 # Mail:   zelo72@dismail.de
 # ---------------------------------------------
-# Telegram-Gruppe PiHole + Unbound Fans (DACH)
-#                 https://t.me/piholefans_DACH
+# Telegram-Gruppen PiHole + Unbound Fans (DACH)
+#                  https://t.me/piholefans_DACH
+#                  ----------------------------
+#                  AdGuard (DE)
+#                  https://t.me/adguardde
 # ---------------------------------------------
 
 # Exclude fake.txt: 10634
 # Exclude: 10634
 
-# Whitelist: 51351
-# Deadlist: 437028
+# Whitelist: 51356
+# Deadlist: 438246
 
 # Blacklist global: 872
 # Blacklist source: 
@@ -29,28 +32,28 @@
 # 2. Source: 6027 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/prigentads.txt
 # 3. Source: 9922 - https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains
 # 4. Source: 1486 - https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains
-# 5. Source: 52640 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
+# 5. Source: 52626 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 6. Source: 13398 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-# 7. Source: 68960 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 7. Source: 68961 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 8. Source: 85962 - https://dbl.oisd.nl/basic/
 # 9. Source: 3376 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nso-pegasus.txt
-# 10. Source: 43408 - https://phishing.army/download/phishing_army_blocklist_extended.txt
+# 10. Source: 43174 - https://phishing.army/download/phishing_army_blocklist_extended.txt
 # 11. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 # 12. Source: 8333 - https://adaway.org/hosts.txt
 # 13. Source: 3623 - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 # 14. Source: 15512 - https://someonewhocares.org/hosts/
 # 15. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 # 16. Source: 85380 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 17. Source: 1009 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 17. Source: 1019 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 18. Source: 371 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 409251
+# #. Source: 409014
 
 Statistik mini.txt:
-== Source (unique): 218206
-++ Black:           219055 (+849)
--- White:           217510 (-1545)
--- Dead:            166343 (-51167)
--- Exclude:         166282 (-61)
--- Unblock:         165971 (-311)
-++ WWW-Domains:     181303 (+15332)
-++ FLD-Domains:     181446 (+143)
+== Source (unique): 217981
+++ Black:           218830 (+849)
+-- White:           217286 (-1544)
+-- Dead:            166131 (-51155)
+-- Exclude:         166070 (-61)
+-- Unblock:         166056 (-14)
+++ WWW-Domains:     181320 (+15264)
+++ FLD-Domains:     181462 (+142)
