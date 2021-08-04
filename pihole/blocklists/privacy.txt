@@ -20,15 +20,15 @@
 #
 # Amazon (Alexa/FireTV)
 #
-d3p8zr0ffa9t17.cloudfront.net
-dxz5jxhrrzigf.cloudfront.net
+# d3p8zr0ffa9t17.cloudfront.net
+# dxz5jxhrrzigf.cloudfront.net
+# prod.amcs-tachyon.com
 data.alexa.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 devicemessaging.us-east-1.amazon.com
 mobileanalytics.us-east-1.amazonaws.com
 notify.firetv.bugsnag.appstore.a2z.com
-prod.amcs-tachyon.com
 
 #
 # Apple
@@ -36,13 +36,13 @@ prod.amcs-tachyon.com
 books-analytics-events.apple.com
 books-analytics-events.news.apple-dns.net
 ca.iadsdk.apple.com
-cstat.apple.com
 cf.iadsdk.apple.com
+cstat.apple.com
 dzc-metrics.mzstatic.com
 iadsdk.apple.com
+metrics-config.icloud.com
 metrics.apple.com
 metrics.icloud.com
-metrics-config.icloud.com
 metrics.mzstatic.com
 news.iadsdk.apple.com
 notes-analytics-events.apple.com
@@ -60,7 +60,7 @@ www.iadsdk.apple.com
 #
 # Crashlytics
 #
-crashlytics.com
+# crashlytics.com
 crashlyticsreports-pa.googleapis.com
 firebase-settings.crashlytics.com
 firebaselogging-pa.googleapis.com
@@ -102,11 +102,11 @@ webhook.logentries.com
 #
 # Microsoft
 #
-#self-events-data.trafficmanager.net
-#self.events.data.microsoft.com
-#settings-win.data.microsoft.com
-#v10.events.data.microsoft.com
-#v20.events.data.microsoft.com
+# self-events-data.trafficmanager.net
+# self.events.data.microsoft.com
+# settings-win.data.microsoft.com
+# v10.events.data.microsoft.com
+# v20.events.data.microsoft.com
 asimov-win.settings.data.microsoft.com.akadns.net
 cache.datamart.windows.com
 ceuswatcab01.blob.core.windows.net
@@ -273,20 +273,20 @@ wwwimg.roku.com
 #
 # SambaTV
 #
+# flingo.tv
+# samba.tv
+# www.flingo.tv
 ads.samba.tv
 api.cid.samba.tv
 api.mtrcs.samba.tv
 api.recommendations.samba.tv
 events.cid.samba.tv
-flingo.tv
 mp-pixel.mtrcs.samba.tv
 pixel.metrics.samba.tv
 pixel.mtrcs.samba.tv
 platform.cid.samba.tv
 preferences.cid.samba.tv
-samba.tv
 tag.mtrcs.samba.tv
-www.flingo.tv
 
 #
 # Samsung
@@ -337,6 +337,9 @@ services.sentry.io
 #
 # Smartclip
 #
+# smartclip.com
+# smartclip.net
+# www.smartclip.com
 ad-integration.sxp.smartclip.net
 ad-ipd.sxp.smartclip.net
 ad.smartclip.net
@@ -368,8 +371,6 @@ smart-api-processing.sxp.smartclip.net
 smart-api-reporting.sxp.smartclip.net
 smart-api-tearsheet.sxp.smartclip.net
 smart-api-transcoding.sxp.smartclip.net
-smartclip.com
-smartclip.net
 stage.sxp.smartclip.net
 stats-fra.sxp.smartclip.net
 stats-irl.sxp.smartclip.net
@@ -378,7 +379,6 @@ stats.smartclip.net
 stats.sxp.smartclip.net
 sxp.smartclip.net
 sync.sxp.smartclip.net
-www.smartclip.com
 
 #
 # Snapchat
@@ -391,7 +391,6 @@ adsapimus.snapchat.com
 adserver.snapads.com
 advertising.snapchat.com
 app-analytics-v2.snapchat.com
-app-analytics.snapchat.com
 app-analytics.snapchat.com
 ase.adserver.snapads.com
 content-insights-revenue.snapchat.com
@@ -454,35 +453,83 @@ track.tapatalk.com
 #
 # Tiktok
 #
+# byteoversea.com
+# snssdk.com
+# toutiao.com
+applog-useast1a.musical.ly
+applog-useast2a.musical.ly
 applog.musical.ly
-byteoversea.com
+applog.musical.ly.edgekey.net
+i-tb.isnssdk.com
+i-tb.sgsnssdk.com
 i.byteoversea.com
+i.isnssdk.com
+i.snssdk.com
+i16-tb.isnssdk.com
+i16-tb.isnssdk.com.edgekey.net
+ichannel-tb.isnssdk.com
+ichannel.isnssdk.com
 ichannel.musical.ly
 ichannel.snssdk.com
+log-tb.isnssdk.com
+log-tb.sgsnssdk.com
 log-va.tiktokv.com
+log-va.tiktokv.com.edgekey.net
 log.byteoversea.com
+log.byteoversea.com.edgekey.net
+log.isnssdk.com
+log.sgsnssdk.com
 log.snssdk.com
 log.tiktokv.com
+log.tiktokv.com.edgesuite.net
 log15.byteoversea.com
 log16-normal-c-useast1a.tiktokv.com
+log16-normal-c-useast2a.tiktokv.com
+log16.byteoversea.com
+log16.byteoversea.com.edgekey.net
+log2-useast1a.musical.ly
+log2-useast2a.musical.ly
+log2-useast2a.musical.ly.edgekey.net
+log2.musical.ly
+log2.musical.ly.edgesuite.net
+mcs-va-useast2a.tiktokv.com
 mcs-va.tiktokv.com
+mcs.snssdk.com
+mon-va.byteoversea.com
+mon-va.byteoversea.com.edgesuite.net
 mon-va.tiktokv.com
+mon-va.tiktokv.com.edgesuite.net
+mon.byteoversea.com
+mon.byteoversea.com.edgesuite.net
+mon.isnssdk.com
+mon.musical.ly
+mon.musical.ly.edgesuite.net
+mon.sgsnssdk.com
+mon.snssdk.com
 mon.tiktokv.com
+mon.tiktokv.com.edgesuite.net
 rtlog.byteoversea.com
+rtlog.isnssdk.com
 rtlog.musical.ly
+rtlog.musical.ly.edgekey.net
 rtlog.snssdk.com
 rtlog.tiktokv.com
-snssdk.com
-toutiao.com
+xlog-va.byteoversea.com
+xlog-va.byteoversea.com.edgesuite.net
+xlog-va.musical.ly
+xlog-va.musical.ly.edgesuite.net
 xlog-va.tiktokv.com
+xlog.byteoversea.com
+xlog.byteoversea.com.edgesuite.net
 xlog.tiktokv.com
+xlog.tiktokv.com.edgesuite.net
 
 #
 # Whatsapp
 #
+crashlogs.whatsapp.net
 dit.whatsapp.net
 privatestats.whatsapp.net
-crashlogs.whatsapp.net
 
 #
 # Xiaomi

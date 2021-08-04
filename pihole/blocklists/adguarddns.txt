@@ -21,10 +21,13 @@
 # GitHub: https://github.com/Zelo72
 # Mail:   zelo72@dismail.de
 # ---------------------------------------------
-# Telegram-Gruppe PiHole + Unbound Fans (DACH)
-#                 https://t.me/piholefans_DACH
+# Telegram-Gruppen PiHole + Unbound Fans (DACH)
+#                  https://t.me/piholefans_DACH
+#                  ----------------------------
+#                  AdGuard (DE)
+#                  https://t.me/adguardde
 # ---------------------------------------------
-# 68960 Domains - 2021.08.04-03:30:19
+# 68961 Domains - 2021.08.04-13:43:17
 # ---------------------------------------------
 #
 0001.best
@@ -3546,6 +3549,7 @@ aebadu.com
 aec40f9e073ba6.com
 aeckcjy.com
 aeesy.com
+aem-collector.daumkakao.io
 aenan.pw
 aencx.net
 aeoprw.cn

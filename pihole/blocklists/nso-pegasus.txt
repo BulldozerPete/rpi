@@ -17,15 +17,18 @@
 # GitHub: https://github.com/Zelo72
 # Mail:   zelo72@dismail.de
 # ---------------------------------------------
-# Telegram-Gruppe PiHole + Unbound Fans (DACH)
-#                 https://t.me/piholefans_DACH
+# Telegram-Gruppen PiHole + Unbound Fans (DACH)
+#                  https://t.me/piholefans_DACH
+#                  ----------------------------
+#                  AdGuard (DE)
+#                  https://t.me/adguardde
 # ---------------------------------------------
 #
 # ---------
 # Statistik
 # ---------
 #
-# Exclude: 51267
+# Exclude: 51356
 # Whitelist: 0
 # Deadlist: 0
 # Blacklist: 0
@@ -38,7 +41,7 @@
 # 7. Source: 627 - https://raw.githubusercontent.com/0n1cOn3/nso-blacklist/main/hosts.txt
 #
 # ---------------------------------------------
-# 3376 Domains - V2021.08.03-09:42:26
+# 3376 Domains - V2021.08.04-13:44:51
 # ---------------------------------------------
 #
 14-tracking.com

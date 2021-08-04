@@ -17,12 +17,15 @@
 # GitHub: https://github.com/Zelo72
 # Mail:   zelo72@dismail.de
 # ---------------------------------------------
-# Telegram-Gruppe PiHole + Unbound Fans (DACH)
-#                 https://t.me/piholefans_DACH
+# Telegram-Gruppen PiHole + Unbound Fans (DACH)
+#                  https://t.me/piholefans_DACH
+#                  ----------------------------
+#                  AdGuard (DE)
+#                  https://t.me/adguardde
 # ---------------------------------------------
 
-# Exclude data/exclude.list: 51267
-# Exclude: 51267
+# Exclude data/exclude.list: 51356
+# Exclude: 51356
 
 # Whitelist: 0
 # Deadlist: 0

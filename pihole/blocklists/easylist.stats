@@ -19,14 +19,17 @@
 # GitHub: https://github.com/Zelo72
 # Mail:   zelo72@dismail.de
 # ---------------------------------------------
-# Telegram-Gruppe PiHole + Unbound Fans (DACH)
-#                 https://t.me/piholefans_DACH
+# Telegram-Gruppen PiHole + Unbound Fans (DACH)
+#                  https://t.me/piholefans_DACH
+#                  ----------------------------
+#                  AdGuard (DE)
+#                  https://t.me/adguardde
 # ---------------------------------------------
 
-Downloade easylist                  --> 95018 easylist.raw
-Extrahiere gültige Domains          --> 32359 easylist.domains
-Erstelle Domainliste für WWW Zusatz --> 20272 easylist.domains.www
-Erweitere Domains durch WWW         --> 20272 easylist.www
+Downloade easylist                  --> 94704 easylist.raw
+Extrahiere gültige Domains          --> 32340 easylist.domains
+Erstelle Domainliste für WWW Zusatz --> 20277 easylist.domains.www
+Erweitere Domains durch WWW         --> 20277 easylist.www
 Erstelle Domainliste für FLD        --> 9 easylist.www.fld
-Erstelle easylist                   --> 52640 easylist.txt.tmp
+Erstelle easylist                   --> 52626 easylist.txt.tmp
 
