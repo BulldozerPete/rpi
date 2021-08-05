@@ -23,14 +23,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 51510
-# Deadlist: 438246
-# Blacklist: 1701
+# Whitelist: 51541
+# Deadlist: 440288
+# Blacklist: 1702
 # 1. Source: 4664 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10684 Domains - V2021.08.05-03:33:28
+# 10686 Domains - V2021.08.05-11:08:16
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -1710,6 +1710,7 @@ floryday.com
 flottepalme.de
 flowcampprzyczepy.eu
 fl-trans.com
+fluremoda.com
 flymustang.de
 flytte-udlandet.dk
 fm-butik.ru
@@ -6932,6 +6933,7 @@ www.floryday.com
 www.flottepalme.de
 www.flowcampprzyczepy.eu
 www.fl-trans.com
+www.fluremoda.com
 www.flymustang.de
 www.flytte-udlandet.dk
 www.fm-butik.ru
