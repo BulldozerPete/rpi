@@ -23,14 +23,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 51356
+# Whitelist: 51510
 # Deadlist: 438246
 # Blacklist: 1701
-# 1. Source: 4638 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+# 1. Source: 4664 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10634 Domains - V2021.08.04-13:47:40
+# 10684 Domains - V2021.08.05-03:33:28
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -45,6 +45,7 @@
 2rad-hanke.de
 2rad-kern.de
 2rad-schwarz.de
+2radwelten.de
 2rad-xxl.de
 30netzteil.de
 365ersatzteile.de
@@ -250,6 +251,7 @@ annonsfilm.se
 annurifsm.com
 anodescorp.com
 anssi-antila.de
+anthead.club
 antijob.me
 antik-ev.de
 antiwurm.de
@@ -373,6 +375,7 @@ ayurreadpro.com
 azarmalekc.com
 aziur.de
 az-photo.at
+azzunto.de
 babanora.com
 babaroni.de
 babbien.com
@@ -770,6 +773,7 @@ cargservicesdelnc.com
 carhirenice.co.uk
 carmen-video.at
 carola-stauche.de
+carrerah.com
 carshades.at
 carvanamarkt.com
 casalepoggetto.it
@@ -1390,6 +1394,7 @@ elektronik-haus.com
 elektroniknetzteil.de
 elektronik-paradies.com
 elektroniksoft.com
+elektronik-stern.de
 elektro.ninja
 elektronius.com
 elektronius.eu
@@ -1699,6 +1704,7 @@ flixtv.de
 flobamorata.com
 florday.com
 florina-garten.de
+florina-garten.net
 floritita.com
 floryday.com
 flottepalme.de
@@ -1836,6 +1842,7 @@ garten-karl.de
 garten-maestro.de
 garten-paule.de
 gartenstorch.de
+garten-unser.de
 gartenwelt-lammerting.de
 gartenwerker-sascha-kolic.de
 garten-willi.de
@@ -1892,6 +1899,7 @@ getevelynbag.com
 gethypersoft.com
 getkibblex.com
 getryoko.com
+getsuperli.com
 getzor.com
 geuer-elektronline.com
 gewerbeauskunft-zentrale.de
@@ -2425,6 +2433,7 @@ iued.ch
 iva-mihanovic-sopran.de
 ivcuafuku.com
 iveg-gmbh.de
+ivelay.com
 ivrose.com
 iwum-consulting.de
 iyaqag.com
@@ -2480,6 +2489,7 @@ jomvon-trans.com
 jonas-wilken.de
 jonny-boston.de
 jonnycoca.com
+jootany.com
 josef-elektronik.com
 josips.top
 jouvem.com
@@ -2700,6 +2710,7 @@ kuaicmn.com
 kuechenblume.net
 kuechen-sommer.de
 kukkesc.com
+kumeyo.de
 kunstamt.at
 kunstzeit-ruhr.de
 kupfermaehne.at
@@ -2755,6 +2766,7 @@ lastore.net
 lattena.de
 latticeci.com
 laubholzwerk.at
+laura-dresses.com
 lautsprecher-restposten.shop
 lava-muc.de
 lavinmuse.com
@@ -2931,6 +2943,7 @@ made.com
 madhukaal.com
 madixa.com
 mad-max-vd-brunnengaerten.de
+maersk-transint.com
 magiczoomco.com
 magikbody.de
 magna-eu.com
@@ -3122,6 +3135,7 @@ michaelkorssaleonline.com.de
 michael-kors-taschen.com.de
 michaelkorsuk.com.co
 michaelzaehringer.de
+michalka-koestlichkeiten.de
 michlgoesvegan.de
 micotic.com
 mietwagenvermietungweltweit.de
@@ -3289,6 +3303,7 @@ muama.com
 mudanzas-al-extranjero.es
 muellerscafe.de
 muenchen-umstandsmode.de
+muenchenzelte.de
 muesdey.com
 mullerr.de
 multielectro-geschaft.com
@@ -3539,6 +3554,7 @@ oniani-wohnen.de
 online2business.com
 online-billiger.com
 onlinecheapbest2021.ru
+onlinechemicalandpills.com
 online.com
 online-downloaden.de
 onlinejobs2020.at
@@ -3561,6 +3577,7 @@ originality-concern.de
 original-pandora-schmuck.com
 originals-clothing.de
 orizo.de
+orrebol.com
 ortaklar.de
 ortando.de
 osteland-z24.de
@@ -3644,6 +3661,7 @@ perfect-home.co
 perfektegeschenke.co.uk
 performance-gloves.at
 performingleads.com
+persheliosl.com
 personal24.shop
 personalimwandel.de
 personalisiertefotodecke.de
@@ -4067,6 +4085,7 @@ romoplay.de
 ronain.com
 ronuldo.com
 roombrand.ru
+roomscarth.com
 rosedoris.com
 rosegal.com
 roselinlin.com
@@ -4115,6 +4134,7 @@ salesonline2021.ru
 sallofino.de
 salsalstore.top
 salzmann-c.at
+sama-logistic.com
 samemoli.com
 samsfoon.eu
 sanception.de
@@ -4264,6 +4284,7 @@ shop4at.com
 shopadgr.com
 shop-and-smile.com
 shopbillig.com
+shopcider.com
 shop.deveri.de
 shop.dragon.bike
 shop.electro-center.lu
@@ -4440,6 +4461,7 @@ stahlsucht.de
 stammeskleidung.de
 stancery.com
 stanclara.com
+stargatev.com
 starrynights.uk
 statuskelidmode.de
 steak-haus-elpaso.de
@@ -4811,6 +4833,7 @@ trendy-gadgets.net
 trendypreis.at
 trendypreis.de
 tretrollerladen.de
+trettpedal.com
 triangle-ink.de
 trikotsale.de
 trimzy.de
@@ -5021,6 +5044,7 @@ veryvoga.com
 veryvoga.de
 veryvoga.es
 veryvoga.fr
+vespin24.de
 vetcoco.com
 vetola.de
 vevor.de
@@ -5088,6 +5112,7 @@ vonia-media.com
 vonpundl.de
 vooglabor.com
 vookiz.com
+voreno.de
 vorlagen-archiv.com
 vpetron.com
 vsahiltd.com
@@ -5293,6 +5318,7 @@ www.24things.de
 www.2rad-hanke.de
 www.2rad-kern.de
 www.2rad-schwarz.de
+www.2radwelten.de
 www.2rad-xxl.de
 www.30netzteil.de
 www.365ersatzteile.de
@@ -5494,6 +5520,7 @@ www.annonsfilm.se
 www.annurifsm.com
 www.anodescorp.com
 www.anssi-antila.de
+www.anthead.club
 www.antijob.me
 www.antik-ev.de
 www.antiwurm.de
@@ -5615,6 +5642,7 @@ www.ayurreadpro.com
 www.azarmalekc.com
 www.aziur.de
 www.az-photo.at
+www.azzunto.de
 www.babanora.com
 www.babaroni.de
 www.babbien.com
@@ -5999,6 +6027,7 @@ www.carethy.at
 www.cargservicesdelnc.com
 www.carmen-video.at
 www.carola-stauche.de
+www.carrerah.com
 www.carshades.at
 www.carvanamarkt.com
 www.casalepoggetto.it
@@ -6593,6 +6622,7 @@ www.elektronik-haus.com
 www.elektroniknetzteil.de
 www.elektronik-paradies.com
 www.elektroniksoft.com
+www.elektronik-stern.de
 www.elektro.ninja
 www.elektronius.com
 www.elektronius.eu
@@ -6896,6 +6926,7 @@ www.flixtv.de
 www.flobamorata.com
 www.florday.com
 www.florina-garten.de
+www.florina-garten.net
 www.floritita.com
 www.floryday.com
 www.flottepalme.de
@@ -7031,6 +7062,7 @@ www.garten-karl.de
 www.garten-maestro.de
 www.garten-paule.de
 www.gartenstorch.de
+www.garten-unser.de
 www.gartenwelt-lammerting.de
 www.gartenwerker-sascha-kolic.de
 www.garten-willi.de
@@ -7084,6 +7116,7 @@ www.getevelynbag.com
 www.gethypersoft.com
 www.getkibblex.com
 www.getryoko.com
+www.getsuperli.com
 www.getzor.com
 www.geuer-elektronline.com
 www.gewerbeauskunft-zentrale.de
@@ -7609,6 +7642,7 @@ www.iued.ch
 www.iva-mihanovic-sopran.de
 www.ivcuafuku.com
 www.iveg-gmbh.de
+www.ivelay.com
 www.ivrose.com
 www.iwum-consulting.de
 www.iyaqag.com
@@ -7664,6 +7698,7 @@ www.jomvon-trans.com
 www.jonas-wilken.de
 www.jonny-boston.de
 www.jonnycoca.com
+www.jootany.com
 www.josef-elektronik.com
 www.josips.top
 www.jouvem.com
@@ -7880,6 +7915,7 @@ www.kuaicmn.com
 www.kuechenblume.net
 www.kuechen-sommer.de
 www.kukkesc.com
+www.kumeyo.de
 www.kunstamt.at
 www.kunstzeit-ruhr.de
 www.kupfermaehne.at
@@ -7934,6 +7970,7 @@ www.lastore.net
 www.lattena.de
 www.latticeci.com
 www.laubholzwerk.at
+www.laura-dresses.com
 www.lautsprecher-restposten.shop
 www.lava-muc.de
 www.lavinmuse.com
@@ -8107,6 +8144,7 @@ www.made.com
 www.madhukaal.com
 www.madixa.com
 www.mad-max-vd-brunnengaerten.de
+www.maersk-transint.com
 www.magiczoomco.com
 www.magikbody.de
 www.magna-eu.com
@@ -8282,6 +8320,7 @@ www.michaelkorshandbagsonsale.com
 www.michaelkors-onlineshop.de
 www.michaelkorsoutletforsale.com
 www.michaelzaehringer.de
+www.michalka-koestlichkeiten.de
 www.michlgoesvegan.de
 www.micotic.com
 www.mietwagenvermietungweltweit.de
@@ -8444,6 +8483,7 @@ www.muama.com
 www.mudanzas-al-extranjero.es
 www.muellerscafe.de
 www.muenchen-umstandsmode.de
+www.muenchenzelte.de
 www.muesdey.com
 www.mullerr.de
 www.multielectro-geschaft.com
@@ -8688,6 +8728,7 @@ www.oniani-wohnen.de
 www.online2business.com
 www.online-billiger.com
 www.onlinecheapbest2021.ru
+www.onlinechemicalandpills.com
 www.online.com
 www.online-downloaden.de
 www.onlinejobs2020.at
@@ -8710,6 +8751,7 @@ www.originality-concern.de
 www.original-pandora-schmuck.com
 www.originals-clothing.de
 www.orizo.de
+www.orrebol.com
 www.ortaklar.de
 www.ortando.de
 www.osteland-z24.de
@@ -8784,6 +8826,7 @@ www.perfectcrer.com
 www.perfect-home.co
 www.performance-gloves.at
 www.performingleads.com
+www.persheliosl.com
 www.personal24.shop
 www.personalimwandel.de
 www.personalisiertefotodecke.de
@@ -9200,6 +9243,7 @@ www.romoplay.de
 www.ronain.com
 www.ronuldo.com
 www.roombrand.ru
+www.roomscarth.com
 www.rosedoris.com
 www.rosegal.com
 www.roselinlin.com
@@ -9248,6 +9292,7 @@ www.salesonline2021.ru
 www.sallofino.de
 www.salsalstore.top
 www.salzmann-c.at
+www.sama-logistic.com
 www.samemoli.com
 www.samsfoon.eu
 www.sanception.de
@@ -9396,6 +9441,7 @@ www.shop4at.com
 www.shopadgr.com
 www.shop-and-smile.com
 www.shopbillig.com
+www.shopcider.com
 www.shopeplace.com
 www.shopidoro.eu
 www.shopkrone.de
@@ -9567,6 +9613,7 @@ www.stahlsucht.de
 www.stammeskleidung.de
 www.stancery.com
 www.stanclara.com
+www.stargatev.com
 www.starrynights.uk
 www.statuskelidmode.de
 www.steak-haus-elpaso.de
@@ -9930,6 +9977,7 @@ www.trendy-gadgets.net
 www.trendypreis.at
 www.trendypreis.de
 www.tretrollerladen.de
+www.trettpedal.com
 www.triangle-ink.de
 www.trikotsale.de
 www.trimzy.de
@@ -10129,6 +10177,7 @@ www.veryvoga.com
 www.veryvoga.de
 www.veryvoga.es
 www.veryvoga.fr
+www.vespin24.de
 www.vetcoco.com
 www.vetola.de
 www.vevor.de
@@ -10195,6 +10244,7 @@ www.vonia-media.com
 www.vonpundl.de
 www.vooglabor.com
 www.vookiz.com
+www.voreno.de
 www.vorlagen-archiv.com
 www.vpetron.com
 www.vsahiltd.com
