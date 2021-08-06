@@ -21,7 +21,7 @@
 # Exclude fake.txt: 10686
 # Exclude: 10686
 
-# Whitelist: 51544
+# Whitelist: 51547
 # Deadlist: 440288
 
 # Blacklist global: 872
@@ -31,12 +31,12 @@
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 # 2. Source: 662 - https://v.firebog.net/hosts/Admiral.txt
 # 3. Source: 6027 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/prigentads.txt
-# 4. Source: 52681 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
+# 4. Source: 52700 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 5. Source: 13398 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-# 6. Source: 69053 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
-# 7. Source: 86000 - https://dbl.oisd.nl/basic/
-# 8. Source: 3376 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nso-pegasus.txt
-# 9. Source: 43220 - https://phishing.army/download/phishing_army_blocklist_extended.txt
+# 6. Source: 69100 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 7. Source: 86464 - https://dbl.oisd.nl/basic/
+# 8. Source: 2805 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nso-pegasus.txt
+# 9. Source: 43584 - https://phishing.army/download/phishing_army_blocklist_extended.txt
 # 10. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 # 11. Source: 477 - https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA551/domains.txt
 # 12. Source: 158 - https://raw.githubusercontent.com/hpthreatresearch/iocs/main/CryptBot/domains.txt
@@ -45,16 +45,16 @@
 # 15. Source: 15512 - https://someonewhocares.org/hosts/
 # 16. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 # 17. Source: 85380 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 18. Source: 1227 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 18. Source: 1411 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 19. Source: 376 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 399350
+# #. Source: 399857
 
 Statistik mini.txt:
-== Source (unique): 210523
-++ Black:           211371 (+848)
--- White:           209888 (-1483)
--- Dead:            162910 (-46978)
--- Exclude:         162854 (-56)
--- Unblock:         162840 (-14)
-++ WWW-Domains:     176684 (+13844)
-++ FLD-Domains:     176865 (+181)
+== Source (unique): 210730
+++ Black:           211578 (+848)
+-- White:           210098 (-1480)
+-- Dead:            163162 (-46936)
+-- Exclude:         163106 (-56)
+-- Unblock:         163092 (-14)
+++ WWW-Domains:     177126 (+14034)
+++ FLD-Domains:     177304 (+178)
