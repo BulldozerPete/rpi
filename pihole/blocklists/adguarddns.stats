@@ -28,12 +28,12 @@
 #                  https://t.me/adguardde
 # ---------------------------------------------
 
-Downloade adguarddns                --> 50588 adguarddns.raw
-Extrahiere gültige Domains          --> 38315 adguarddns.domains
-Erstelle Domainliste für WWW Zusatz --> 30781 adguarddns.domains.www
-Erweitere Domains durch WWW         --> 30781 adguarddns.www
+Downloade adguarddns                --> 50599 adguarddns.raw
+Extrahiere gültige Domains          --> 38322 adguarddns.domains
+Erstelle Domainliste für WWW Zusatz --> 30785 adguarddns.domains.www
+Erweitere Domains durch WWW         --> 30785 adguarddns.www
 Erstelle Domainliste für FLD        --> 6 adguarddns.www.fld
-Erstelle adguarddns                 --> 69100 adguarddns.txt.tmp
+Erstelle adguarddns                 --> 69111 adguarddns.txt.tmp
 
 Extrahiere Whitelist Domains        --> 80
 Extrahiere Exclusion Domains        --> 296
