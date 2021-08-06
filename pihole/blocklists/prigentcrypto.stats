@@ -1,0 +1,36 @@
+# ---------------------------------------------
+# "Prigent Crypto" Blockliste
+# ---------------------------------------------
+#
+# Erstellt zur rein persönlichen, privaten
+# Nutzung.
+#
+# Blacklists UT1 by Fabrice Prigent 
+# https://dsi.ut-capitole.fr/blacklists/index_en.php
+#
+# Prigent Crypto (Cryptojacking)
+#
+# Blacklist-Quellen:
+# ******************
+# http://dsi.ut-capitole.fr/blacklists/download/cryptojacking.tar.gz
+#
+# + Erweitert um mögliche WWW/FLD-Domains.
+#
+# ---------------------------------------------
+# GitHub: https://github.com/Zelo72
+# Mail:   zelo72@dismail.de
+# ---------------------------------------------
+# Telegram-Gruppen PiHole + Unbound Fans (DACH)
+#                  https://t.me/piholefans_DACH
+#                  ----------------------------
+#                  AdGuard (DE)
+#                  https://t.me/adguardde
+# ---------------------------------------------
+
+Downloade prigentcrypto               --> 13906 prigentcrypto.raw
+Extrahiere gültige Domains          --> 13906 prigentcrypto.domains
+Erstelle Domainliste für WWW Zusatz --> 8223 prigentcrypto.domains.www
+Erweitere Domains durch WWW         --> 8223 prigentcrypto.www
+Erstelle Domainliste für FLD        --> 0 prigentcrypto.www.fld
+Erstelle prigentcrypto                --> 22129 prigentcrypto.txt.tmp
+
