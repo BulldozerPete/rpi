@@ -23,14 +23,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 51541
-# Deadlist: 440288
-# Blacklist: 1702
+# Whitelist: 51577
+# Deadlist: 436232
+# Blacklist: 1703
 # 1. Source: 4664 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10686 Domains - V2021.08.05-11:08:16
+# 10688 Domains - V2021.08.06-17:07:41
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -3338,6 +3338,7 @@ myhomica.com
 my-internet-payday.com
 mykaffee.de
 mykatzenwelt.de
+mykundenservice.com
 mymasterdeal.com
 mymodeboutique.de
 mynecklace.de
@@ -8518,6 +8519,7 @@ www.myhomica.com
 www.my-internet-payday.com
 www.mykaffee.de
 www.mykatzenwelt.de
+www.mykundenservice.com
 www.mymasterdeal.com
 www.mymodeboutique.de
 www.mynecklace.de
