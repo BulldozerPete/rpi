@@ -1,0 +1,37 @@
+# ---------------------------------------------
+# "Prigent Adult" Blockliste
+# ---------------------------------------------
+#
+# Erstellt zur rein persönlichen, privaten
+# Nutzung.
+#
+# Blacklists UT1 by Fabrice Prigent 
+# https://dsi.ut-capitole.fr/blacklists/index_en.php
+#
+# Prigent Adult 
+# Some adult site from erotic to hard pornography
+#
+# Blacklist-Quellen:
+# ******************
+# http://dsi.ut-capitole.fr/blacklists/download/adult.tar.gz
+#
+# + Erweitert um mögliche WWW/FLD-Domains.
+#
+# ---------------------------------------------
+# GitHub: https://github.com/Zelo72
+# Mail:   zelo72@dismail.de
+# ---------------------------------------------
+# Telegram-Gruppen PiHole + Unbound Fans (DACH)
+#                  https://t.me/piholefans_DACH
+#                  ----------------------------
+#                  AdGuard (DE)
+#                  https://t.me/adguardde
+# ---------------------------------------------
+
+Downloade prigentadult                --> 3066423 prigentadult.raw
+Extrahiere gültige Domains          --> 2971195 prigentadult.domains
+Erstelle Domainliste für WWW Zusatz --> 468565 prigentadult.domains.www
+Erweitere Domains durch WWW         --> 468565 prigentadult.www
+Erstelle Domainliste für FLD        --> 0 prigentadult.www.fld
+Erstelle prigentadult                 --> 3439760 prigentadult.txt.tmp
+
