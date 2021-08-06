@@ -24,8 +24,8 @@
 #                  https://t.me/adguardde
 # ---------------------------------------------
 
-# Exclude data/exclude.list: 51356
-# Exclude: 51356
+# Exclude data/exclude.list: 51547
+# Exclude: 51547
 
 # Whitelist: 0
 # Deadlist: 0
@@ -38,11 +38,10 @@
 # 4. Source: 688 - https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/v4_domains.txt
 # 5. Source: 26 - https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/v4_validation_domains.txt
 # 6. Source: 1406 - https://raw.githubusercontent.com/jjjxu/NSO_Pegasus_Blocklist/main/Pegasus-Hosts-Formatted.txt
-# 7. Source: 627 - https://raw.githubusercontent.com/0n1cOn3/nso-blacklist/main/hosts.txt
-# #. Source: 4849
+# #. Source: 4222
 
 Statistik nso-pegasus.txt:
-== Source (unique): 1981
--- Exclude:         1980 (-1)
-++ WWW-Domains:     3375 (+1395)
-++ FLD-Domains:     3376 (+1)
+== Source (unique): 1407
+-- Exclude:         1407 (-0)
+++ WWW-Domains:     2805 (+1398)
+++ FLD-Domains:     2805 (+0)
