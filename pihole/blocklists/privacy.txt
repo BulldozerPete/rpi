@@ -20,15 +20,15 @@
 #
 # Amazon (Alexa/FireTV)
 #
-# d3p8zr0ffa9t17.cloudfront.net
-# dxz5jxhrrzigf.cloudfront.net
-# prod.amcs-tachyon.com
+d3p8zr0ffa9t17.cloudfront.net
 data.alexa.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 devicemessaging.us-east-1.amazon.com
+dxz5jxhrrzigf.cloudfront.net
 mobileanalytics.us-east-1.amazonaws.com
 notify.firetv.bugsnag.appstore.a2z.com
+prod.amcs-tachyon.com
 
 #
 # Apple
@@ -273,20 +273,20 @@ wwwimg.roku.com
 #
 # SambaTV
 #
-# flingo.tv
-# samba.tv
-# www.flingo.tv
 ads.samba.tv
 api.cid.samba.tv
 api.mtrcs.samba.tv
 api.recommendations.samba.tv
 events.cid.samba.tv
+flingo.tv
 mp-pixel.mtrcs.samba.tv
 pixel.metrics.samba.tv
 pixel.mtrcs.samba.tv
 platform.cid.samba.tv
 preferences.cid.samba.tv
+samba.tv
 tag.mtrcs.samba.tv
+www.flingo.tv
 
 #
 # Samsung
@@ -337,9 +337,6 @@ services.sentry.io
 #
 # Smartclip
 #
-# smartclip.com
-# smartclip.net
-# www.smartclip.com
 ad-integration.sxp.smartclip.net
 ad-ipd.sxp.smartclip.net
 ad.smartclip.net
@@ -455,7 +452,6 @@ track.tapatalk.com
 #
 # byteoversea.com
 # snssdk.com
-# toutiao.com
 applog-useast1a.musical.ly
 applog-useast2a.musical.ly
 applog.musical.ly
@@ -514,6 +510,7 @@ rtlog.musical.ly
 rtlog.musical.ly.edgekey.net
 rtlog.snssdk.com
 rtlog.tiktokv.com
+toutiao.com
 xlog-va.byteoversea.com
 xlog-va.byteoversea.com.edgesuite.net
 xlog-va.musical.ly

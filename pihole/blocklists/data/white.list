@@ -5,21 +5,21 @@ tags.tiqcdn.com
 www.asadcdn.com
 
 # Amazon
-aan.amazon.com
+# aan.amazon.com
 aax-eu-retail-direct.amazon-adsystem.com
-aax-eu.amazon-adsystem.com
-aax.amazon-adsystem.com
-c.amazon-adsystem.com
-fls-eu.amazon.com
-fls-eu.amazon.de
+# aax-eu.amazon-adsystem.com
+# aax.amazon-adsystem.com
+# c.amazon-adsystem.com
+# fls-eu.amazon.com
+# fls-eu.amazon.de
 
 # Apps (Mobile)
-app-measurement.com
+# app-measurement.com
 app.link
 fundingchoicesmessages.google.com
 mobilesdk-us.kampyle.com
-sb.scorecardresearch.com
-sdk.split.io
+# sb.scorecardresearch.com
+# sdk.split.io
 
 # Apple
 iphone-ld.apple.com
@@ -43,7 +43,6 @@ test.quantcast.mgr.consensu.org
 # Disney+
 akamai-san39.exacttarget.com.edgekey.net
 image.mail.disneyplus.com
-js-agent.newrelic.com
 
 # DNS
 whoami.akamai.net
@@ -59,41 +58,38 @@ consent.faz.net
 # Github
 user-images.githubusercontent.com
 
-# Gaming
-analyticsnew.overwolf.com
-
 # Google
-analytics.google.com
-google-analytics.com
-googletagmanager.com
-googletagservices.com
-ssl-google-analytics.l.google.com
-ssl.google-analytics.com
-www-google-analytics.l.google.com
-www-googletagmanager.l.google.com
-www.google-analytics.com
-www.googletagmanager.com
-www.googletagservices.com
-id.google.com
+# analytics.google.com
+# google-analytics.com
+# googletagmanager.com
+# googletagservices.com
+# ssl-google-analytics.l.google.com
+# ssl.google-analytics.com
+# www-google-analytics.l.google.com
+# www-googletagmanager.l.google.com
+# www.google-analytics.com
+# www.googletagmanager.com
+# www.googletagservices.com
+# id.google.com
 
 # Kicker Mobile App
-display.apester.com
-events.apester.com
-img.apester.com
-interaction.apester.com
-renderer.apester.com
-static.apester.com
+# display.apester.com
+# events.apester.com
+# img.apester.com
+# interaction.apester.com
+# renderer.apester.com
+# static.apester.com
 
 # Microsoft
 arc.msn.com
-browser.pipe.aria.microsoft.com
-dc.services.visualstudio.com
+# browser.pipe.aria.microsoft.com
+# dc.services.visualstudio.com
 g.live.com
 g.msn.com
 go.microsoft.com
-global.in.ai.privatelink.monitor.azure.com
-manage.devcenter.microsoft.com
-mobile.pipe.aria.microsoft.com
+# global.in.ai.privatelink.monitor.azure.com
+# manage.devcenter.microsoft.com
+# mobile.pipe.aria.microsoft.com
 self-events-data.trafficmanager.net
 self.events.data.microsoft.com
 settings-win.data.microsoft.com
@@ -101,11 +97,11 @@ v10.events.data.microsoft.com
 v20.events.data.microsoft.com
 
 # Netflix
-customerevents.netflix.com
-ichnaea.netflix.com
-nrdp.prod.ftl.netflix.com
-push.prod.netflix.com
-dualstack.beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
+# customerevents.netflix.com
+# ichnaea.netflix.com
+# nrdp.prod.ftl.netflix.com
+# push.prod.netflix.com
+# dualstack.beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 
 # Nintendo
 a1843.g.akamai.net
@@ -168,6 +164,7 @@ countess.twitch.tv
 static-cdn.jtvnw.net
 supervisor.ext-twitch.tv
 ink1001.com
+movable-ink-397.com
 mi.twitch.tv
 
 # Twitter
