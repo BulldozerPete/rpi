@@ -22,12 +22,75 @@ mobilesdk-us.kampyle.com
 # sdk.split.io
 
 # Apple
+albert.apple.com
+appattest.apple.com
+appldnld.apple.com
+apple.com
+apps.apple.com
+bpapi.apple.com
+business.apple.com
+captive.apple.com
+configuration.apple.com
+crl.apple.com
+crl.entrust.net
+crl3.digicert.com
+crl4.digicert.com
+cssubmissions.apple.com
+deviceenrollment.apple.com
+deviceservices-external.apple.com
+diagassets.apple.com
+doh.dns.apple.com
+fba.apple.com
+gdmf.apple.com
+gg.apple.com
+gnf-mdn.apple.com
+gnf-mr.apple.com
+gs.apple.com
+humb.apple.com
+identity.apple.com
+ig.apple.com
 iphone-ld.apple.com
 iphone-ld.origin-apple.com.akadns.net
+iprofiles.apple.com
+isu.apple.com
+itunes.apple.com
+lcdn-registration.apple.com
+mdmenrollment.apple.com
+mesu.apple.com
+mzstatic.com
+ns.itunes.apple.com
 ocsp.apple.com
+ocsp.digicert.com
+ocsp.entrust.net
+ocsp.verisign.net
 ocsp2.apple.com
+oscdn.apple.com
+osrecovery.apple.com
+ppq.apple.com
+push.apple.com
+school.apple.com
+serverstatus.apple.com
+setup.icloud.com
+skl.apple.com
+sq-device.apple.com
+static.ips.apple.com
 stats.gc.apple.com
+swcdn.apple.com
+swdist.apple.com
+swdownload.apple.com
+swpost.apple.com
+swscan.apple.com
+tbsc.apple.com
+time-ios.apple.com
+time-macos.apple.com
+time.apple.com
 token.safebrowsing.apple
+updates-http.cdn-apple.com
+updates.cdn-apple.com
+valid.apple.com
+vpp.itunes.apple.com
+ws-ee-maidsvc.icloud.com
+xp.apple.com
 
 # Cookies (Spiegel/...)
 aggregator.service.usercentrics.eu
@@ -158,6 +221,8 @@ vz-cdn2.adtng.com
 vz-cdn2.trafficjunky.net
 s0.2mdn.net
 s0-2mdn-net.l.google.com
+player.glomex.com
+glomex.com
 
 # Twitch
 countess.twitch.tv
