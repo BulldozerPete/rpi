@@ -23,14 +23,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 51577
-# Deadlist: 436232
+# Whitelist: 53625
+# Deadlist: 438477
 # Blacklist: 1703
-# 1. Source: 4664 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+# 1. Source: 4678 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10688 Domains - V2021.08.06-17:07:41
+# 10716 Domains - V2021.08.07-21:19:13
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -328,6 +328,7 @@ aturabzehra.com
 auaweg.at
 audikaufen.de
 audio-video-market.com
+audiwa.de
 aufgewacht.at
 aufjagd.de
 aufsperrdienst-24.at
@@ -637,8 +638,10 @@ boguso.de
 bolada.de
 bold-estate.com
 boldmatters.de
+bolenso.de
 bolitrans.com
 bolt-courier.com
+bomplay.de
 bonnyin.at
 bonoplay.de
 bonviviale.shop
@@ -808,6 +811,7 @@ casuals.at
 casuals.ch
 catalia.de
 catwebh.com
+cb-estate.com
 cb-photo.at
 cbremer.de
 ccdc2012.de
@@ -1212,6 +1216,7 @@ docmou.com
 doctorbrew.de
 dodo-markts.com
 dodplay.de
+doduplay.de
 doflix.de
 dogarta.de
 dogecoingenerator.live
@@ -1948,6 +1953,7 @@ gobuystores.com
 gocabsgoy.com
 godcontroller.de
 godwinkaluco.com
+gogielektro.com
 gogplay.de
 gold-barren-muenzen.de
 goldbarren-munzen.kaufen.de
@@ -2764,6 +2770,7 @@ laserpointeronline.de
 lasharlay.com
 lasportivadeutschland.de
 lastore.net
+lastresortshipping.com
 lattena.de
 latticeci.com
 laubholzwerk.at
@@ -2780,6 +2787,7 @@ learn-german-faster.de
 learningtowers-und-mehr.de
 lebeautark.de
 lebentop.de
+lehmann-versand.de
 lehrstellen-heute.com
 leibnizgym.de
 leipzig-cityguide.de
@@ -2901,7 +2909,9 @@ lucckyiflz.com
 luckfashions.com
 luckstark.com
 lucybreeze.com
+ludoplay.de
 luego-transport.com
+luguplay.de
 luisrora.com
 lukasovsky.at
 luluestore.com
@@ -3260,6 +3270,7 @@ mondial-pharmaceuticals-shop1.com
 mondschaufel.de
 mondschiff.de
 mongi.at
+monobankl.com
 monokompakt.de
 monostarscope.com
 monplay.de
@@ -3448,6 +3459,7 @@ ninzin.de
 nirosun.at
 njeedecor.com
 nke.de
+nk-spedition.eu
 nls-logistics.com
 nobabyshoulddo.com
 nodeplay.de
@@ -4060,6 +4072,7 @@ ride-a-bike.club
 riege-bonbonladenundfeines.de
 rigthoffer24.com
 rise-property.com
+ritter-mode.com
 ritterplanvienna.at
 rkzhb.com
 rledarius.com
@@ -5118,6 +5131,7 @@ voreno.de
 vorlagen-archiv.com
 vpetron.com
 vsahiltd.com
+vsemzaimio.com
 vskolo.at
 vsmee.com
 vtecnokar.com
@@ -5598,6 +5612,7 @@ www.aturabzehra.com
 www.auaweg.at
 www.audikaufen.de
 www.audio-video-market.com
+www.audiwa.de
 www.aufgewacht.at
 www.aufjagd.de
 www.aufsperrdienst-24.at
@@ -5897,8 +5912,10 @@ www.boguso.de
 www.bolada.de
 www.bold-estate.com
 www.boldmatters.de
+www.bolenso.de
 www.bolitrans.com
 www.bolt-courier.com
+www.bomplay.de
 www.bonnyin.at
 www.bonoplay.de
 www.bonviviale.shop
@@ -6063,6 +6080,7 @@ www.casuals.at
 www.casuals.ch
 www.catalia.de
 www.catwebh.com
+www.cb-estate.com
 www.cb-photo.at
 www.cbremer.de
 www.ccdc2012.de
@@ -6444,6 +6462,7 @@ www.docmou.com
 www.doctorbrew.de
 www.dodo-markts.com
 www.dodplay.de
+www.doduplay.de
 www.doflix.de
 www.dogarta.de
 www.dogecoingenerator.live
@@ -7167,6 +7186,7 @@ www.gobuystores.com
 www.gocabsgoy.com
 www.godcontroller.de
 www.godwinkaluco.com
+www.gogielektro.com
 www.gogplay.de
 www.gold-barren-muenzen.de
 www.goldchef.de
@@ -7970,6 +7990,7 @@ www.laserpointeronline.de
 www.lasharlay.com
 www.lasportivadeutschland.de
 www.lastore.net
+www.lastresortshipping.com
 www.lattena.de
 www.latticeci.com
 www.laubholzwerk.at
@@ -7986,6 +8007,7 @@ www.learn-german-faster.de
 www.learningtowers-und-mehr.de
 www.lebeautark.de
 www.lebentop.de
+www.lehmann-versand.de
 www.lehrstellen-heute.com
 www.leibnizgym.de
 www.leipzig-cityguide.de
@@ -8104,7 +8126,9 @@ www.lucckyiflz.com
 www.luckfashions.com
 www.luckstark.com
 www.lucybreeze.com
+www.ludoplay.de
 www.luego-transport.com
+www.luguplay.de
 www.luisrora.com
 www.lukasovsky.at
 www.luluestore.com
@@ -8442,6 +8466,7 @@ www.mondial-pharmaceuticals-shop1.com
 www.mondschaufel.de
 www.mondschiff.de
 www.mongi.at
+www.monobankl.com
 www.monokompakt.de
 www.monostarscope.com
 www.monplay.de
@@ -8628,6 +8653,7 @@ www.ninzin.de
 www.nirosun.at
 www.njeedecor.com
 www.nke.de
+www.nk-spedition.eu
 www.nls-logistics.com
 www.nobabyshoulddo.com
 www.nodeplay.de
@@ -9220,6 +9246,7 @@ www.ride-a-bike.club
 www.riege-bonbonladenundfeines.de
 www.rigthoffer24.com
 www.rise-property.com
+www.ritter-mode.com
 www.ritterplanvienna.at
 www.rkzhb.com
 www.rledarius.com
@@ -10252,6 +10279,7 @@ www.voreno.de
 www.vorlagen-archiv.com
 www.vpetron.com
 www.vsahiltd.com
+www.vsemzaimio.com
 www.vskolo.at
 www.vsmee.com
 www.vtecnokar.com
