@@ -21,7 +21,7 @@
 # Exclude fake.txt: 10716
 # Exclude: 10716
 
-# Whitelist: 53625
+# Whitelist: 53765
 # Deadlist: 438477
 
 # Blacklist global: 
@@ -31,12 +31,12 @@
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 # 2. Source: 662 - https://v.firebog.net/hosts/Admiral.txt
 # 3. Source: 6027 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/prigentads.txt
-# 4. Source: 52600 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
+# 4. Source: 52598 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 5. Source: 13398 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-# 6. Source: 69069 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
-# 7. Source: 87087 - https://dbl.oisd.nl/basic/
+# 6. Source: 69067 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 7. Source: 87386 - https://dbl.oisd.nl/basic/
 # 8. Source: 2805 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nso-pegasus.txt
-# 9. Source: 43641 - https://phishing.army/download/phishing_army_blocklist_extended.txt
+# 9. Source: 43658 - https://phishing.army/download/phishing_army_blocklist_extended.txt
 # 10. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 # 11. Source: 487 - https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA551/domains.txt
 # 12. Source: 158 - https://raw.githubusercontent.com/hpthreatresearch/iocs/main/CryptBot/domains.txt
@@ -45,15 +45,16 @@
 # 15. Source: 15512 - https://someonewhocares.org/hosts/
 # 16. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 # 17. Source: 85380 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 18. Source: 1661 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 18. Source: 1484 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 19. Source: 375 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 400663
+# #. Source: 400798
 
 Statistik mini.txt:
-== Source (unique): 211339
--- White:           209033 (-2306)
--- Dead:            164625 (-44408)
--- Exclude:         164571 (-54)
--- Unblock:         164554 (-17)
-++ WWW-Domains:     178466 (+13912)
-++ FLD-Domains:     178594 (+128)
+== Source (unique): 211544
+-- White:           209232 (-2312)
+-- Dead:            164828 (-44404)
+-- Exclude:         164774 (-54)
+++ Block:           164775 (+1)
+-- Unblock:         164758 (-17)
+++ WWW-Domains:     178613 (+13855)
+++ FLD-Domains:     178739 (+126)
