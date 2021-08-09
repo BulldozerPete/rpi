@@ -45,16 +45,16 @@
 # 15. Source: 15515 - https://someonewhocares.org/hosts/
 # 16. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 # 17. Source: 85380 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 18. Source: 1491 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 18. Source: 1471 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 19. Source: 375 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 400540
+# #. Source: 400520
 
 Statistik mini.txt:
-== Source (unique): 211324
--- White:           209012 (-2312)
--- Dead:            164503 (-44509)
--- Exclude:         164449 (-54)
-++ Block:           164450 (+1)
--- Unblock:         164214 (-236)
-++ WWW-Domains:     177904 (+13690)
-++ FLD-Domains:     178041 (+137)
+== Source (unique): 211325
+-- White:           209013 (-2312)
+-- Dead:            164504 (-44509)
+-- Exclude:         164450 (-54)
+++ Block:           164451 (+1)
+-- Unblock:         164357 (-94)
+++ WWW-Domains:     178047 (+13690)
+++ FLD-Domains:     178184 (+137)
