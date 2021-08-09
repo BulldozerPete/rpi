@@ -22,6 +22,7 @@
 9240859.fls.doubleclick.net
 9279323.fls.doubleclick.net
 9523400.fls.doubleclick.net
+9774013.fls.doubleclick.net
 a15321630321.cdn.optimizely.com
 a17126690382.cdn.optimizely.com
 a19065870423.cdn.optimizely.com
@@ -35,6 +36,7 @@ a.ad.gt
 a.adtng.com
 aa.online-metrix.net
 aax.amazon-adsystem.amazon.com
+aax.amazon-adsystem.com
 a.bf-ad.net
 a.bf-tools.net
 abservinean.com
@@ -118,6 +120,7 @@ analytics-collector-28944298.us-east-1.elb.amazonaws.com
 analytics.developer.riotgames.com
 analytics.dpd.com
 analytics.facebook.com
+analytics.freespee.com
 analytics.idfnet.net
 analytics-ingress-global.bitmovin.com
 analytics.localytics.com
@@ -236,6 +239,7 @@ cas.avalon.perfdrive.com
 cd.adition.com
 cdn10.trafficjunky.net
 cdn2.teads.tv
+cdn4.mxpnl.com
 cdn.adnxs.com
 cdn.adrtx.net
 cdn.adsafeprotected.com
@@ -251,6 +255,7 @@ cdn.c-i.as
 cdn.cloudimagesb.com
 cdn.cohesionapps.com
 cdn.contalyze.com
+cdn.curalate.com
 cdn.districtm.io
 cdn-eu.dynamicyield.com
 cdn.exactag.com
@@ -313,6 +318,7 @@ cm.adsafety.net
 cm.everesttech.net
 cm.g.doubleclick.net
 cm.mgid.com
+cmp.network-n.com
 cmp.osano.com
 cmp.tvspielfilm.de
 cms.analytics.yahoo.com
@@ -424,6 +430,8 @@ d.nativendo.de
 dnhfi5nn2dt67.cloudfront.net
 drsam.postaffiliatepro.com
 dsp.adfarm1.adition.com
+d.turn.com
+dualstack.beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 dualstack.beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com
 dumontnet.tt.omtrdc.net
 dx6ctphzljkf1.cloudfront.net
@@ -543,6 +551,7 @@ htlb.casalemedia.com
 ht.redtube.com
 ht.tube8.com
 ht.xtube.com
+hubt.pornhub.com
 hubtraffic.com
 hw-cdn-ap.trafficjunky.net
 ib.3lift.com
@@ -566,6 +575,7 @@ images1.test.de
 images.intellitxt.com
 imagesrv.adition.com
 images.taboola.com
+img06.en25.com
 img.img-taboola.com
 imp.control.kochava.com
 impression.appsflyer.com
@@ -608,6 +618,7 @@ json.geoiplookup.io
 js.smartredirect.de
 k.intellitxt.com
 k.kolplay.com
+krk.kargo.com
 ksta.met.vgwort.de
 l96jc26jvj.kameleoon.eu
 launches.appsflyer.com
@@ -693,6 +704,7 @@ mobwelt-relay.iocnt.net
 mon.tiktokv.com
 monumenteducategem.com
 mon-va.byteoversea.com
+mon-va.tiktokv.com.edgesuite.net
 mopo.met.vgwort.de
 mopsaups.net
 mpp.vindicosuite.com
@@ -746,6 +758,7 @@ pandg.tapad.com
 partnerad.l.doubleclick.net
 partner.googleadservices.com
 payingnoodlescam.com
+p.cquotient.com
 pdw-usr.userreport.com
 pghub.io
 pingapi.accengage.com
@@ -836,6 +849,7 @@ rtr.innovid.com
 rtt.bf-tools.net
 rules.quantcount.com
 rumcdn.geoedge.be
+rum-http-intake.logs.datadoghq.eu
 rum.optimizely.com
 s04.flagcounter.com
 s10.histats.com
@@ -885,6 +899,7 @@ search.spotxchange.com
 secure.adnxs.com
 secure-adnxs.edgekey.net
 secure-assets.rubiconproject.com
+secure-dcr.imrworldwide.com
 secure-ds.serving-sys.com
 secure-eu.nmrodam.com
 secure.make6pain.com
@@ -958,6 +973,7 @@ static.digidip.net
 static.doubleclick.net
 static.emsservice.de
 static.etracker.com
+static.hotjar.com
 static.media.net
 static.mediarithmics.com
 static.newsletter2go.com
@@ -1027,6 +1043,7 @@ top-fwz1.mail.ru
 toplist.raidrush.ws
 top.nydus.org
 tpc.googlesyndication.com
+t.powerreviews.com
 tp-rtb-adserver-eu.eu-west-1.elasticbeanstalk.com
 tps30.doubleverify.com
 tps.doubleverify.com
@@ -1065,6 +1082,7 @@ tulipinventpins.com
 t.vi-serve.com
 t.visx.net
 t.webjavaskript.net
+tz.met.vgwort.de
 ub.finanzfrage.net
 uconnect.tealiumiq.com
 udm.scorecardresearch.com
@@ -1123,7 +1141,6 @@ waz.met.vgwort.de
 weather-analytics-events.apple.com
 webanalytics.btelligent.net
 web.hb.ad.cpe.dotomi.com
-webhook.logentries.com
 webtrack.rund-ums-baby.de
 web.wurfl.io
 wer.schwarzwaelder-bote.de
