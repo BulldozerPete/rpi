@@ -27,9 +27,10 @@
 #                  https://t.me/adguardde
 # ---------------------------------------------
 
-Downloade prigentcrypto              --> 0 prigentcrypto.raw
-Extrahiere gültige Domains          --> 0 prigentcrypto.domains
-Erstelle Domainliste für WWW Zusatz --> 0 prigentcrypto.domains.www
-Erweitere Domains durch WWW         --> Erstelle Domainliste für FLD        --> 0 prigentcrypto.www.fld
-Erstelle prigentcrypto               --> 0 prigentcrypto.txt.tmp
+Downloade prigentcrypto              --> 13906 prigentcrypto.raw
+Extrahiere gültige Domains          --> 13906 prigentcrypto.domains
+Erstelle Domainliste für WWW Zusatz --> 8223 prigentcrypto.domains.www
+Erweitere Domains durch WWW         --> 8223 prigentcrypto.www
+Erstelle Domainliste für FLD        --> 0 prigentcrypto.www.fld
+Erstelle prigentcrypto               --> 22129 prigentcrypto.txt.tmp
 
