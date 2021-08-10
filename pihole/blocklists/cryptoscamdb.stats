@@ -29,11 +29,11 @@
 #                  https://t.me/adguardde
 # ---------------------------------------------
 
-Downloade cryptoscamdb              --> 9263 cryptoscamdb.raw
-Extrahiere gültige Domains          --> 9224 cryptoscamdb.domains
-Bereinige WHITE cryptoscamdb        --> 9211 cryptoscamdb.domains
-Erstelle Domainliste für WWW Zusatz --> 7984 cryptoscamdb.domains.www
-Erweitere Domains durch WWW         --> 7984 cryptoscamdb.www
+Downloade cryptoscamdb              --> 9272 cryptoscamdb.raw
+Extrahiere gültige Domains          --> 9233 cryptoscamdb.domains
+Bereinige WHITE cryptoscamdb        --> 9220 cryptoscamdb.domains
+Erstelle Domainliste für WWW Zusatz --> 7992 cryptoscamdb.domains.www
+Erweitere Domains durch WWW         --> 7992 cryptoscamdb.www
 Erstelle Domainliste für FLD        --> 7 cryptoscamdb.www.fld
-Erstelle cryptoscamdb               --> 17202 cryptoscamdb.txt.tmp
+Erstelle cryptoscamdb               --> 17219 cryptoscamdb.txt.tmp
 
