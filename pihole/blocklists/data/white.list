@@ -126,6 +126,7 @@ user-images.githubusercontent.com
 # google-analytics.com
 # googletagmanager.com
 # googletagservices.com
+# id.google.com
 # ssl-google-analytics.l.google.com
 # ssl.google-analytics.com
 # www-google-analytics.l.google.com
@@ -133,38 +134,46 @@ user-images.githubusercontent.com
 # www.google-analytics.com
 # www.googletagmanager.com
 # www.googletagservices.com
-# id.google.com
 
 # Kicker Mobile App
-# display.apester.com
-# events.apester.com
-# img.apester.com
-# interaction.apester.com
-# renderer.apester.com
-# static.apester.com
+display.apester.com
+events.apester.com
+img.apester.com
+interaction.apester.com
+renderer.apester.com
+static.apester.com
 
 # Microsoft
 arc.msn.com
-# browser.pipe.aria.microsoft.com
-# dc.services.visualstudio.com
+browser.pipe.aria.microsoft.com
 g.live.com
 g.msn.com
 go.microsoft.com
-# global.in.ai.privatelink.monitor.azure.com
-# manage.devcenter.microsoft.com
-# mobile.pipe.aria.microsoft.com
+ic3.events.data.microsoft.com
+mobile.pipe.aria.microsoft.com
 self-events-data.trafficmanager.net
 self.events.data.microsoft.com
 settings-win.data.microsoft.com
+teams.events.data.microsoft.com
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
 
 # Netflix
-# customerevents.netflix.com
-# ichnaea.netflix.com
-# nrdp.prod.ftl.netflix.com
-# push.prod.netflix.com
-# dualstack.beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
+apiproxy-device-prod-nlb-3-a653f8a785200e05.elb.us-west-2.amazonaws.com
+customerevents.netflix.com
+dualstack.apiproxy-device-prod-nlb-1-4d12762d4ba53e45.elb.eu-west-1.amazonaws.com
+dualstack.apiproxy-device-prod-nlb-1-c582e7914e487bf4.elb.us-east-1.amazonaws.com
+dualstack.apiproxy-device-prod-nlb-2-300c995e1ce8a001.elb.us-east-1.amazonaws.com
+dualstack.apiproxy-device-prod-nlb-3-a6ae1986950e693f.elb.us-east-1.amazonaws.com
+dualstack.apiproxy-device-prod-nlb-3-d601e17f0cb54f72.elb.eu-west-1.amazonaws.com
+dualstack.apiproxy-device-prod-nlb-4-1f9e6a56738a49ec.elb.us-east-1.amazonaws.com
+dualstack.apiproxy-device-prod-nlb-4-f1dce6fa09ac5989.elb.eu-west-1.amazonaws.com
+dualstack.apiproxy-http1-199106617.us-east-1.elb.amazonaws.com
+dualstack.beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
+dualstack.ichnaea-web-121909266.us-east-1.elb.amazonaws.com
+ichnaea.netflix.com
+nrdp.prod.ftl.netflix.com
+push.prod.netflix.com
 
 # Nintendo
 a1843.g.akamai.net
@@ -191,30 +200,35 @@ adservice.google.com
 adservice.google.de
 clickserve.dartsearch.net
 googleadservices.com
+m.exactag.com
 mydealz.digidip.net
+pagead46.l.doubleclick.net
 pixel.everesttech.net
 promo.mobile.de
+t.myvisualiq.net
+tp-emea.exactag.com
 trk.klclick.com
 www.googleadservices.com
-m.exactag.com
-tp-emea.exactag.com
-pagead46.l.doubleclick.net
-t.myvisualiq.net
 
 # Shopping
-widgets.trustedshops.com
 content.aimatch.com
+widgets.trustedshops.com
 
 # Spotify
 wl.spotify.com
 
 # Streaming/Videos
+# s0-2mdn-net.l.google.com
+# s0.2mdn.net
 cdn2.cam-content.com
 cws-eu.conviva.com
+glomex.com
 hw-cdn.trafficjunky.net
 hw-cdn2.adtng.com
 hw-cdn2.trafficjunky.net
 js-sec.indexww.com
+player-feedback-v1.glomex.com
+player.glomex.com
 redefine.hit.stat24.com
 s2.static.cfgr3.com
 uim.tifbs.net
@@ -222,19 +236,14 @@ videos-fms.jwpsrv.com
 vz-cdn.trafficjunky.net
 vz-cdn2.adtng.com
 vz-cdn2.trafficjunky.net
-s0.2mdn.net
-s0-2mdn-net.l.google.com
-player.glomex.com
-glomex.com
-player-feedback-v1.glomex.com
 
 # Twitch
 countess.twitch.tv
+ink1001.com
+mi.twitch.tv
+movable-ink-397.com
 static-cdn.jtvnw.net
 supervisor.ext-twitch.tv
-ink1001.com
-movable-ink-397.com
-mi.twitch.tv
 
 # Twitter
 analytics.twitter.com
