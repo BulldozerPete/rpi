@@ -27,7 +27,7 @@
 #                  AdGuard (DE)
 #                  https://t.me/adguardde
 # ---------------------------------------------
-# 69149 Domains - 2021.08.09-08:25:31
+# 69159 Domains - 2021.08.10-03:30:17
 # ---------------------------------------------
 #
 0001.best
@@ -4824,6 +4824,7 @@ api.crittercism.com
 api.dataunlocker.com
 apiecelee.com
 api.exc.mob.com
+api.flat-ads.com
 api.flocktory.com
 api.fusepowered.com
 api.gameanalytics.com
@@ -7555,7 +7556,6 @@ byside.com
 byspot.com
 bystfied.pro
 bytde.com
-bytegoofy.com
 bytemgdd.com
 byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com
 byvuleci.pro
@@ -11629,6 +11629,7 @@ dn.msmstatic.com
 dnn506yrbagrg.cloudfront.net
 dnovaku.ru
 dnoyrz.com
+dns-clientinfo.cbsivideo.com
 dnsdelegation.io
 dnskuu.com
 dnsseed.bitcoin.dashjr.org
@@ -17891,6 +17892,7 @@ iovation.com
 ip2c.landscape.co.jp
 ip2map.com
 ip2phrase.com
+ipada.cafe.naver.com
 ipaddresslabs.com
 ip-adress.com
 ipapi.co
@@ -18102,6 +18104,7 @@ ivnsssc.pro
 ivoxua.socratos.net
 ivpraz.com
 ivr.com.tr
+ivruc.cn
 ivsdajtjh.com
 ivstracker.net
 ivtcdnhshx.com
@@ -18481,6 +18484,7 @@ jndczg.com
 jndfrqz.com
 jnffgawh.com
 jnjcxx.com
+jnkqds.cn
 jnmqym4.cn
 jnsdkjzs.com
 jnxkfldio.com
@@ -19938,6 +19942,7 @@ lingchallersh.top
 lingeriebarren.com
 linghangshouji.com
 lingospot.com
+lingqinga.cn
 linicom.co.il
 linicom.co.uk
 linjiajia.cn
@@ -25065,6 +25070,7 @@ perinstallcash.com
 periodsalter.com
 perion.com
 peripherd.club
+perk0mean.com
 perkcanada.com
 perljs.com
 permanentnearly.com
@@ -26801,6 +26807,7 @@ qaadv.com
 qadabra.com
 qadserve.com
 qadservice.com
+qa-events-schema.viacom.tech
 qajypx.com
 qakdki.com
 qanmw.space
@@ -42481,7 +42488,6 @@ www.byside.com
 www.byspot.com
 www.bystfied.pro
 www.bytde.com
-www.bytegoofy.com
 www.bytemgdd.com
 www.byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com
 www.byvuleci.pro
@@ -50862,6 +50868,7 @@ www.ivjtgtjcizwh.com
 www.ivnakaa.pro
 www.ivnsssc.pro
 www.ivpraz.com
+www.ivruc.cn
 www.ivsdajtjh.com
 www.ivstracker.net
 www.ivtcdnhshx.com
@@ -51208,6 +51215,7 @@ www.jndczg.com
 www.jndfrqz.com
 www.jnffgawh.com
 www.jnjcxx.com
+www.jnkqds.cn
 www.jnmqym4.cn
 www.jnsdkjzs.com
 www.jnxkfldio.com
@@ -52518,6 +52526,7 @@ www.lingchallersh.top
 www.lingeriebarren.com
 www.linghangshouji.com
 www.lingospot.com
+www.lingqinga.cn
 www.linjiajia.cn
 www.linkbuddies.com
 www.linkclicks.com
@@ -56794,6 +56803,7 @@ www.perinstallcash.com
 www.periodsalter.com
 www.perion.com
 www.peripherd.club
+www.perk0mean.com
 www.perkcanada.com
 www.perljs.com
 www.permanentnearly.com
