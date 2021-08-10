@@ -22,7 +22,7 @@
 # Exclude fake.txt: 10716
 # Exclude: 10716
 
-# Whitelist: 53945
+# Whitelist: 54336
 # Deadlist: 439730
 
 # Blacklist global: 4
@@ -42,7 +42,7 @@
 # 11. Source: 6 - https://raw.githubusercontent.com/jamiemansfield/minecraft-hosts/master/lists/tracking.txt
 # 12. Source: 898 - https://v.firebog.net/hosts/static/w3kbl.txt
 # 13. Source: 52714 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
-# 14. Source: 69225 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 14. Source: 69232 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 15. Source: 86962 - https://dbl.oisd.nl/basic/
 # 16. Source: 2805 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nso-pegasus.txt
 # 17. Source: 318 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
@@ -77,17 +77,17 @@
 # 46. Source: 59 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 # 47. Source: 1197 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 48. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 49. Source: 1421 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 49. Source: 1400 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 50. Source: 375 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 871637
+# #. Source: 871623
 
 Statistik multi.txt:
-== Source (unique): 381494
-++ Black:           381497 (+3)
--- White:           378236 (-3261)
--- Dead:            285049 (-93187)
--- Exclude:         284985 (-64)
-++ Block:           284995 (+10)
--- Unblock:         284724 (-271)
-++ WWW-Domains:     330224 (+45500)
-++ FLD-Domains:     330555 (+331)
+== Source (unique): 381505
+++ Black:           381508 (+3)
+-- White:           378238 (-3270)
+-- Dead:            285051 (-93187)
+-- Exclude:         284987 (-64)
+++ Block:           284997 (+10)
+-- Unblock:         284610 (-388)
+++ WWW-Domains:     330116 (+45506)
+++ FLD-Domains:     330444 (+328)
