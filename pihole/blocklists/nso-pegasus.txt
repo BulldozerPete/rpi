@@ -28,7 +28,7 @@
 # Statistik
 # ---------
 #
-# Exclude: 51547
+# Exclude: 54696
 # Whitelist: 0
 # Deadlist: 0
 # Blacklist: 0
@@ -40,7 +40,7 @@
 # 6. Source: 1406 - https://raw.githubusercontent.com/jjjxu/NSO_Pegasus_Blocklist/main/Pegasus-Hosts-Formatted.txt
 #
 # ---------------------------------------------
-# 2805 Domains - V2021.08.06-03:31:36
+# 2805 Domains - V2021.08.11-15:45:07
 # ---------------------------------------------
 #
 14-tracking.com
