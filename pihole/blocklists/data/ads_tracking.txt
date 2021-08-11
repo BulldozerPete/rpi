@@ -1,5 +1,5 @@
 #
-# Amazon ***
+# Amazon
 #
 aan.amazon.co.jp
 aan.amazon.co.uk
@@ -8,6 +8,9 @@ aax-cpm.amazon-adsystem.com
 aax-eu-dub.amazon.com
 aax-eu-retail-direct.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
+aax-eu.amazon.es
+aax-eu.amazon.in
+aax-eu.amazon.nl
 aax-fe-sin.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-us-east-rtb.amazon-adsystem.com
@@ -44,43 +47,24 @@ advertising.amazon.sa
 advertising.amazon.se
 advertising.amazon.us
 affiliate-blog.amazon.co.jp
+amazon-adsystem.amazon.com
 amazon-adsystem.com
+amazonadsi-a.akamaihd.net
+amazonadsi-a.akamaihd.net.edgesuite.net
 ape-dyad-service-eu.amazon.com
 applab-sdk.amazon.com
 aps.amazon.com
 asp.assoc-amazon.com
 assoc-amazon.com
 astore.amazon.com
+ax-eu.amazon.co.uk
 c.amazon-adsystem.com
 cdn-a.amazon-adsystem.com
 cl.assoc-amazon.com
 cls.assoc-amazon.com
 cm.amazon.com
+device-metrics-us.amazon.com
 dra.amazon-adsystem.com
-fls-cn.amazon.cn
-fls-cn.amazon.com
-fls-eu.amazon-adsystem.com
-fls-eu.amazon.ae
-fls-eu.amazon.co.uk
-fls-eu.amazon.com
-fls-eu.amazon.de
-fls-eu.amazon.es
-fls-eu.amazon.fr
-fls-eu.amazon.in
-fls-eu.amazon.it
-fls-eu.amazon.nl
-fls-eu.amazon.sa
-fls-eu.amazon.se
-fls-fe.amazon-adsystem.com
-fls-fe.amazon.co.jp
-fls-fe.amazon.com
-fls-fe.amazon.com.au
-fls-fe.amazon.sg
-fls-na.amazon-adsystem.com
-fls-na.amazon.ca
-fls-na.amazon.com
-fls-na.amazon.com.br
-fls-na.amazon.com.mx
 identity.browserapps.amazon.de
 ir-de.amazon-adsystem.com
 ir-jp.amazon-adsystem.com
@@ -103,9 +87,19 @@ rcm-jp.amazon.co.jp
 rcm-na.amazon-adsystem.com
 rcm-na.assoc-amazon.com
 rcm.amazon.com
+rfihub.com
+rfihub.com.akadns.net
+rfihub.net
 s.amazon-adsystem.com
+serving-sys-lb.com.akadns.net
+serving-sys.com
+serving-sys.com-v1.edgesuite.net
+serving-sys.com.edgekey.net
+serving-sys.com.edgesuite.net
+sizmek.com
 uedata.amazon.com
 vaes.amazon-adsystem.com
+video-ads.a2z.com
 wms-eu.amazon-adsystem.com
 wms-eu.assoc-amazon.com
 wms-fe.assoc-amazon.com
@@ -161,6 +155,7 @@ test.c.bing.com
 #
 api.bugsnag.com
 app.bugsnag.com
+bugsnag.com
 notify.bugsnag.com
 sessions.bugsnag.com
 staging.bugsnag.com
@@ -218,6 +213,7 @@ csp.fastclick.net
 dc6.fastclick.net
 dev1.fastclick.net
 dev2.fastclick.net
+fastclick.net
 images.fastclick.net
 media.fastclick.net
 moapps.fastclick.net
@@ -245,36 +241,67 @@ win-media.fastclick.net
 #
 # Google
 #
-#   Ads
-ads.google.com
-adservice.google.com
-googleadservices.com
-pagead2.googleadservices.com
-www.googleadservices.com
-#   Analytics
-analytics.google.com
-google-analytics.com
-id.google.com
-ssl-google-analytics.l.google.com
-ssl.google-analytics.com
-www-google-analytics.l.google.com
-www.google-analytics.com
-#   Tag
-googletagservices.com
-www.googletagservices.com
-#   Syndication
+2mdn.net
 ade.googlesyndication.com
+ads.google.com
+adsense.google.com
+adservice.google.ca
+adservice.google.co.in
+adservice.google.co.kr
+adservice.google.co.uk
+adservice.google.co.za
+adservice.google.com
+adservice.google.com.ar
+adservice.google.com.au
+adservice.google.com.br
+adservice.google.com.co
+adservice.google.com.gt
+adservice.google.com.mx
+adservice.google.com.pe
+adservice.google.com.ph
+adservice.google.com.pk
+adservice.google.com.tr
+adservice.google.com.tw
+adservice.google.com.vn
+adservice.google.de
+adservice.google.dk
+adservice.google.es
+adservice.google.fr
+adservice.google.nl
+adservice.google.no
+adservice.google.ru
+adservice.google.vg
 afs.googlesyndication.com
+analytics.google.com
+app-measurement.com
+appspot.com
 buttons.googlesyndication.com
 captive.pagead2.googlesyndication.com
 captive.tpc.googlesyndication.com
+doubleclickbygoogle.com
+google-analytics.com
+googleadservices.com
 googlesyndication.com
+googletagmanager.com
+googletagservices.com
+id.google.com
+mail-ads.google.com
+pagead2.googleadservices.com
 pagead2.googlesyndication.com
 pagead46.googlesyndication.com
 redirector.c.googlesyndication.com
+ssl-google-analytics.l.google.com
+ssl.google-analytics.com
 tpc.googlesyndication.com
 tpcnc.googlesyndication.com
 video-ad-stats.googlesyndication.com
+www-google-analytics.l.google.com
+www-googletagmanager.l.google.com
+www.google-analytics.com
+www.googleadservices.com
+www.googlesyndication.com
+www.googletagmanager.com
+www.googletagservices.com
 
 #
 # Hotjar
@@ -290,6 +317,7 @@ help-staging.hotjar.com
 help.hotjar.com
 home.hotjar.com
 hotjar.com
+hotjar.io
 identify.hotjar.com
 in.hotjar.com
 inside.hotjar.com
@@ -345,6 +373,7 @@ ws9.hotjar.com
 #
 adservetx.media.net
 media.net
+media.net.akadns6.net
 static.media.net
 
 #
@@ -630,7 +659,6 @@ ads.tiktok.com.edgekey.net
 # Twitter ***
 #
 ads-twitter.com
-analytics.twitter.com
 static.ads-twitter.com
 
 #
