@@ -23,14 +23,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 53625
-# Deadlist: 438477
-# Blacklist: 1703
+# Whitelist: 54367
+# Deadlist: 439730
+# Blacklist: 1705
 # 1. Source: 4678 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10716 Domains - V2021.08.07-21:19:13
+# 10720 Domains - V2021.08.11-03:33:10
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -3538,6 +3538,7 @@ officialiphoneunlock.us
 officialmichaelkorsoutlet.us.com
 official-watch.com
 officieldisney.com
+offiziell-qi-test.com
 ohdedu.com
 ohnegrenze.com
 ohne-rezept-kaufen.biz
@@ -3834,6 +3835,7 @@ pomeranets.de
 pomplay.de
 poneyclubyonnais.com
 poobia.com
+poolinio.de
 popnewin.com
 popshily.com
 popstarland.com
@@ -8729,6 +8731,7 @@ www.officialbucketlistco.com
 www.officialiphoneunlock.us
 www.official-watch.com
 www.officieldisney.com
+www.offiziell-qi-test.com
 www.ohdedu.com
 www.ohnegrenze.com
 www.ohne-rezept-kaufen.biz
@@ -9014,6 +9017,7 @@ www.pomeranets.de
 www.pomplay.de
 www.poneyclubyonnais.com
 www.poobia.com
+www.poolinio.de
 www.popnewin.com
 www.popshily.com
 www.popstarland.com
