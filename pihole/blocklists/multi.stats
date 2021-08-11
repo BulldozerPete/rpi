@@ -22,12 +22,12 @@
 # Exclude fake.txt: 10720
 # Exclude: 10720
 
-# Whitelist: 54697
+# Whitelist: 54696
 # Deadlist: 438571
 
-# Blacklist global: 3
+# Blacklist global: 
 # Blacklist source: 
-# Blacklist: 3
+# Blacklist: 0
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 # 2. Source: 662 - https://v.firebog.net/hosts/Admiral.txt
@@ -43,7 +43,7 @@
 # 12. Source: 898 - https://v.firebog.net/hosts/static/w3kbl.txt
 # 13. Source: 52733 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 14. Source: 69795 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
-# 15. Source: 86962 - https://dbl.oisd.nl/basic/
+# 15. Source: 86960 - https://dbl.oisd.nl/basic/
 # 16. Source: 2805 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nso-pegasus.txt
 # 17. Source: 318 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 # 18. Source: 1351 - https://orca.pet/notonmyshift/domains.txt
@@ -62,7 +62,7 @@
 # 31. Source: 9 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 # 32. Source: 1286 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
 # 33. Source: 755 - https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
-# 34. Source: 72822 - https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
+# 34. Source: 72937 - https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
 # 35. Source: 17771 - https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 # 36. Source: 181 - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 # 37. Source: 330 - https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
@@ -77,16 +77,15 @@
 # 46. Source: 59 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 # 47. Source: 1192 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 48. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 49. Source: 1478 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 49. Source: 1452 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 50. Source: 375 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 872044
+# #. Source: 872131
 
 Statistik multi.txt:
-== Source (unique): 381817
-++ Black:           381820 (+3)
--- White:           378346 (-3474)
--- Dead:            285121 (-93225)
--- Exclude:         285057 (-64)
--- Unblock:         284672 (-386)
-++ WWW-Domains:     330042 (+45370)
-++ FLD-Domains:     330388 (+346)
+== Source (unique): 381842
+-- White:           378371 (-3471)
+-- Dead:            285146 (-93225)
+-- Exclude:         285082 (-64)
+-- Unblock:         285052 (-30)
+++ WWW-Domains:     330376 (+45324)
+++ FLD-Domains:     330722 (+346)
