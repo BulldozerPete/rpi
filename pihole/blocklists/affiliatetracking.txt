@@ -22,15 +22,15 @@
 # Statistik
 # ---------
 #
-# Exclude: 438246
+# Exclude: 438571
 # Whitelist: 0
 # Deadlist: 0
 # Blacklist: 0
-# 1. Source: 619 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/ads_tracking.txt
+# 1. Source: 651 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/ads_tracking.txt
 # 2. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 1081 Domains - V2021.08.04-13:56:22
+# 1099 Domains - V2021.08.11-11:41:12
 # ---------------------------------------------
 #
 052015012251.c.bing.com
@@ -96,6 +96,7 @@
 2910108.r.msn.com
 2913490.r.msn.com
 2981540.r.msn.com
+2mdn.net
 3005918.r.msn.com
 3005924.r.msn.com
 3007497.r.msn.com
@@ -130,6 +131,9 @@ aan.amazon.co.uk
 aax.amazon-adsystem.com
 aax-cpm.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
+aax-eu.amazon.es
+aax-eu.amazon.in
+aax-eu.amazon.nl
 aax-eu-dub.amazon.com
 aax-eu-retail-direct.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
@@ -161,6 +165,7 @@ ads2.msn.com
 ads-bid.l.doubleclick.net
 ads.bing.com
 adsdk.yandex.ru
+adsense.google.com
 adserver.bing.com
 adserver.msn.com
 adserver.yahoo.com
@@ -458,6 +463,9 @@ affiliate-blog.amazon.co.jp
 affiliatefuture.com
 afs.googlesyndication.com
 alb.reddit.com
+amazonadsi-a.akamaihd.net
+amazonadsi-a.akamaihd.net.edgesuite.net
+amazon-adsystem.amazon.com
 amazon-adsystem.com
 a.mouseflow.com
 analytics.facebook.com
@@ -484,7 +492,9 @@ app.bugsnag.com
 app.getresponse.com
 applab-sdk.amazon.com
 app.link
+app-measurement.com
 appmetrica.yandex.com
+appspot.com
 aps.amazon.com
 a.rad.msn.com
 arc1.msn.com
@@ -502,6 +512,7 @@ avantlink.com
 awaps.yandex.ru
 awin1.com
 awsync.yandex.ru
+ax-eu.amazon.co.uk
 b048bb050cecb6348039dbb02cacb651f.c.bing.com
 b12a2ab3873aa682d0529a0f377aa6be5.c.bing.com
 b176ad97310c765ff085adc9814c763ae.c.bing.com
@@ -528,6 +539,7 @@ browser.sentry-cdn.com
 bs-meta.yandex.ru
 bs.serving-sys.com
 bs.yandex.ru
+bugsnag.com
 buttons.googlesyndication.com
 c.amazon-adsystem.com
 campaign.adobe.com
@@ -635,9 +647,11 @@ de.advertising.yahoo.com
 design.hotjar.com
 dev1.fastclick.net
 dev2.fastclick.net
+device-metrics-us.amazon.com
 discourse.hotjar.com
 dk-go.kelkoogroup.net
 docs.hotjar.com
+doubleclickbygoogle.com
 doubleclick.com
 doubleclick.net
 dpbolvw.net
@@ -665,37 +679,14 @@ europe.advertising.msn.com
 events.redditmedia.com
 evyy.net
 extmaps-api.yandex.net
+fastclick.net
 fd.rad.msn.com
 fdtest.rad.msn.com
 feedads.g.doubleclick.net
 fg-set-my-cookie.c.bing.com
 fi-go.kelkoogroup.net
 flex.msn.com
-fls-cn.amazon.cn
-fls-cn.amazon.com
 fls.doubleclick.net
-fls-eu.amazon-adsystem.com
-fls-eu.amazon.ae
-fls-eu.amazon.com
-fls-eu.amazon.co.uk
-fls-eu.amazon.de
-fls-eu.amazon.es
-fls-eu.amazon.fr
-fls-eu.amazon.in
-fls-eu.amazon.it
-fls-eu.amazon.nl
-fls-eu.amazon.sa
-fls-eu.amazon.se
-fls-fe.amazon-adsystem.com
-fls-fe.amazon.co.jp
-fls-fe.amazon.com
-fls-fe.amazon.com.au
-fls-fe.amazon.sg
-fls-na.amazon-adsystem.com
-fls-na.amazon.ca
-fls-na.amazon.com
-fls-na.amazon.com.br
-fls-na.amazon.com.mx
 fr.advertising.yahoo.com
 freshmarketer.com
 fr-go.kelkoogroup.net
@@ -719,6 +710,7 @@ googleadservices.com
 googleads.g.doubleclick.net
 google-analytics.com
 googlesyndication.com
+googletagmanager.com
 googletagservices.com
 go.onelink.me
 go.pardot.com
@@ -737,6 +729,7 @@ help-staging.hotjar.com
 h.msn.com
 home.hotjar.com
 hotjar.com
+hotjar.io
 href.li
 hs.eloqua.com
 hubspotemail.net
@@ -796,6 +789,7 @@ mads.amazon-adsystem.com
 mads.amazon.com
 mads-eu.amazon.com
 mads.msn.com
+mail-ads.google.com
 marketingsolutions.yahoo.com
 matchid.adfox.yandex.ru
 m.c.bing.com
@@ -804,6 +798,7 @@ mc.yandex.ru
 m.doubleclick.net
 media.fastclick.net
 media.net
+media.net.akadns6.net
 metrika.yandex.ru
 mktoweb.com
 mmtro.com
@@ -896,6 +891,9 @@ redirect.viglink.com
 redir.tradedoubler.com
 report.appmetrica.yandex.net
 rereddit.com
+rfihub.com
+rfihub.com.akadns.net
+rfihub.net
 rmads.eu.msn.com
 rmads.msn.com
 r.msn.com
@@ -918,6 +916,11 @@ secure.fastclick.net
 securepubads.g.doubleclick.net
 se-go.kelkoogroup.net
 sentry-proxy.hotjar.com
+serving-sys.com
+serving-sys.com.edgekey.net
+serving-sys.com.edgesuite.net
+serving-sys.com-v1.edgesuite.net
+serving-sys-lb.com.akadns.net
 sessions.bugsnag.com
 settings.luckyorange.net
 shareasale.com
@@ -926,6 +929,7 @@ sites.hscoscdn10.net
 sites.hscoscdn20.net
 sites.hscoscdn30.net
 sites.hscoscdn40.net
+sizmek.com
 sj2.fastclick.net
 sk-go.kelkoogroup.net
 solutions.tradedoubler.com
@@ -1000,6 +1004,7 @@ vars.hotjar.com
 vars-s3-staging.hotjar.com
 vars-staging.hotjar.com
 vcdn.fastclick.net
+video-ads.a2z.com
 video-ad-stats.googlesyndication.com
 video-vcdn.fastclick.net
 view.virt.s7.exacttarget.com
@@ -1045,6 +1050,7 @@ ws-fe.assoc-amazon.com
 ws-na.amazon-adsystem.com
 ws-na.assoc-amazon.com
 www2.doubleclick.com
+www.2mdn.net
 www3.doubleclick.com
 www3.doubleclick.net
 www.7eer.net
@@ -1056,28 +1062,36 @@ www.amazon-adsystem.com
 www.anrdoezrs.net
 www.apmebf.com
 www.app.link
+www.app-measurement.com
+www.appspot.com
 www.assoc-amazon.com
 www.avantlink.com
 www.awin1.com
 www.bfast.com
+www.bugsnag.com
 www.cc-dt.com
 www.cj.com
 www.commander1.com
 www.commission-junction.com
+www.doubleclickbygoogle.com
 www.doubleclick.com
 www.doubleclick.net
 www.dpbolvw.net
 www.emjcd.com
 www.evyy.net
+www.fastclick.net
 www.freshmarketer.com
 www.go2jump.org
 www.googleadservices.com
 www.google-analytics.com
 www-google-analytics.l.google.com
 www.googlesyndication.com
+www.googletagmanager.com
+www-googletagmanager.l.google.com
 www.googletagservices.com
 www.gopjn.com
 www.hotjar.com
+www.hotjar.io
 www.href.li
 www.hubspotemail.net
 www.jdoqocy.com
@@ -1103,8 +1117,12 @@ www.qksrv.net
 www.rebrandlydomain.com
 www.redirect.at
 www.rereddit.com
+www.rfihub.com
+www.rfihub.net
 www.sailthru.com
+www.serving-sys.com
 www.shareasale.com
+www.sizmek.com
 www.statcounter.com
 www.t.co
 www.tkqlhce.com

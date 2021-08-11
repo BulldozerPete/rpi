@@ -18,21 +18,21 @@
 #                  https://t.me/adguardde
 # ---------------------------------------------
 
-# Exclude data/dead.list: 438246
-# Exclude: 438246
+# Exclude data/dead.list: 438571
+# Exclude: 438571
 
 # Whitelist: 0
 # Deadlist: 0
 
 # Blacklist: 0
 
-# 1. Source: 619 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/ads_tracking.txt
+# 1. Source: 651 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/ads_tracking.txt
 # 2. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
-# #. Source: 1043
+# #. Source: 1075
 
 Statistik affiliatetracking.txt:
-== Source (unique): 1037
--- Exclude:         1030 (-7)
--- Unblock:         1028 (-2)
-++ WWW-Domains:     1078 (+50)
-++ FLD-Domains:     1081 (+3)
+== Source (unique): 1045
+-- Exclude:         1038 (-7)
+-- Unblock:         1036 (-2)
+++ WWW-Domains:     1096 (+60)
+++ FLD-Domains:     1099 (+3)
