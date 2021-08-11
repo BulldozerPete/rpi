@@ -22,12 +22,12 @@
 # Exclude fake.txt: 10720
 # Exclude: 10720
 
-# Whitelist: 54406
+# Whitelist: 54697
 # Deadlist: 438571
 
-# Blacklist global: 4
+# Blacklist global: 3
 # Blacklist source: 
-# Blacklist: 4
+# Blacklist: 3
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 # 2. Source: 662 - https://v.firebog.net/hosts/Admiral.txt
@@ -42,7 +42,7 @@
 # 11. Source: 6 - https://raw.githubusercontent.com/jamiemansfield/minecraft-hosts/master/lists/tracking.txt
 # 12. Source: 898 - https://v.firebog.net/hosts/static/w3kbl.txt
 # 13. Source: 52733 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
-# 14. Source: 69244 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 14. Source: 69795 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 15. Source: 86962 - https://dbl.oisd.nl/basic/
 # 16. Source: 2805 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nso-pegasus.txt
 # 17. Source: 318 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
@@ -77,17 +77,16 @@
 # 46. Source: 59 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 # 47. Source: 1192 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 48. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 49. Source: 1508 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 49. Source: 1478 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 50. Source: 375 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 871523
+# #. Source: 872044
 
 Statistik multi.txt:
-== Source (unique): 381514
-++ Black:           381517 (+3)
--- White:           378241 (-3276)
--- Dead:            285014 (-93227)
--- Exclude:         284950 (-64)
-++ Block:           284965 (+15)
--- Unblock:         284579 (-387)
-++ WWW-Domains:     330097 (+45518)
-++ FLD-Domains:     330442 (+345)
+== Source (unique): 381817
+++ Black:           381820 (+3)
+-- White:           378346 (-3474)
+-- Dead:            285121 (-93225)
+-- Exclude:         285057 (-64)
+-- Unblock:         284672 (-386)
+++ WWW-Domains:     330042 (+45370)
+++ FLD-Domains:     330388 (+346)
