@@ -23,7 +23,7 @@
 
 # Exclude: 0
 
-# Whitelist: 54401
+# Whitelist: 54406
 # Deadlist: 438571
 
 # Blacklist global: 4
@@ -31,17 +31,17 @@
 # Blacklist: 4
 
 # 1. Source: 10720 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/fake.txt
-# 2. Source: 330406 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt
+# 2. Source: 330442 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt
 # 3. Source: 17219 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/cryptoscamdb.txt
 # 4. Source: 928095 - https://dbl.oisd.nl
-# #. Source: 1286440
+# #. Source: 1286476
 
 Statistik big.txt:
-== Source (unique): 1079647
-++ Black:           1079647 (+0)
--- White:           1079014 (-633)
--- Dead:            1059511 (-19503)
-++ Block:           1059521 (+10)
--- Unblock:         1058522 (-1000)
-++ WWW-Domains:     1070126 (+11604)
-++ FLD-Domains:     1070336 (+210)
+== Source (unique): 1079727
+++ Black:           1079727 (+0)
+-- White:           1079089 (-638)
+-- Dead:            1059586 (-19503)
+++ Block:           1059601 (+15)
+-- Unblock:         1058602 (-1000)
+++ WWW-Domains:     1070208 (+11606)
+++ FLD-Domains:     1070418 (+210)
