@@ -8,7 +8,7 @@
 # Blacklists UT1 by Fabrice Prigent 
 # https://dsi.ut-capitole.fr/blacklists/index_en.php
 #
-# Prigent Ads
+# Prigent Ads (Advertisement)
 #
 # Blacklist-Quellen:
 # ******************
@@ -26,7 +26,7 @@
 #                  AdGuard (DE)
 #                  https://t.me/adguardde
 # ---------------------------------------------
-# 6027 Domains - 2021.08.04-13:43:19
+# 6027 Domains - 2021.08.11-15:43:39
 # ---------------------------------------------
 #
 0nlinemeds.com
