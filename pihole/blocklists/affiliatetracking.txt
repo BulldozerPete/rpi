@@ -22,7 +22,7 @@
 # Statistik
 # ---------
 #
-# Exclude: 436296
+# Exclude: 436311
 # Whitelist: 0
 # Deadlist: 0
 # Blacklist: 0
@@ -35,7 +35,7 @@
 # 7. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 15209 Domains - V2021.08.13-10:45:22
+# 15194 Domains - V2021.08.13-16:27:08
 # ---------------------------------------------
 #
 052015012251.c.bing.com
@@ -1102,7 +1102,6 @@ ads1.msn.com
 ads2.msn.com
 ads.aimitv.com
 ad.samsungadhub.com
-ad.samsungads.com
 adsapi2.snapchat.com
 adsapi.snapchat.com
 ads-bid.l.doubleclick.net
@@ -1277,7 +1276,6 @@ adservice.google.jp
 adservice.google.kg
 adservice.google.ki
 adservice.google.kr
-adservice.google.kyoto
 adservice.google.kz
 adservice.google.la
 adservice.google.li
@@ -1295,7 +1293,6 @@ adservice.google.ml
 adservice.google.mn
 adservice.google.ms
 adservice.google.mu
-adservice.google.museum
 adservice.google.mv
 adservice.google.mw
 adservice.google.mx
@@ -1307,7 +1304,6 @@ adservice.google.nr
 adservice.google.nu
 adservice.google.pf
 adservice.google.ph
-adservice.google.physio
 adservice.google.pk
 adservice.google.pl
 adservice.google.pn
@@ -1908,7 +1904,6 @@ as.metal-hammer.de
 asminl.lamoda.kz
 as.musikexpress.de
 as.myhomebook.de
-a.soraredata.com
 asp.assoc-amazon.com
 aspire.ivywise.com
 as.rollingstone.de
@@ -1935,7 +1930,6 @@ astrogempakpoc.hb-api.omtrdc.net
 astromed.actonservice.com
 asttcp.vatera.hu
 as.welt.de
-ata-ads.realmemobile.com
 atbs.actonservice.com
 at-cddc.actu-juridique.fr
 atconnect.npo.nl
@@ -2000,7 +1994,6 @@ aws.keele-nnw-leis-mc-leis.net.daraz.com
 awsns1.viviotech.net.daraz.com
 awsusor0-cdn.fds-ssl.api.xiaomi.com
 awsync.yandex.ru
-ax-eu.amazon.co.uk
 axikfy.dicksmith.com.au
 axion-biosystems.actonservice.com
 axis-communications.com
@@ -2020,7 +2013,6 @@ azure.keele-nnw-leis-mc-leis.net.daraz.com
 azurer-ht-2.net.daraz.com
 azurer-oa-2.net.daraz.com
 azwucq.locservice.fr
-b02.black.ndmdhs.com
 b048bb050cecb6348039dbb02cacb651f.c.bing.com
 b12a2ab3873aa682d0529a0f377aa6be5.c.bing.com
 b176ad97310c765ff085adc9814c763ae.c.bing.com
@@ -2532,7 +2524,6 @@ cdn-marketing.net.daraz.com
 cdnmarketing.net.daraz.com
 cdn.net.elogia.net
 cdn-origin.fastclick.net
-cdn.samsungcloudsolution.net
 cdn.smartclip.net
 cdn-www.partner.net.daraz.com
 c.documentsns.emailvision.net.daraz.com
@@ -3207,7 +3198,6 @@ ctc.wolterskluwer.com
 cten10010.com
 ctg.actonservice.com
 c.th.msn.com
-ct.impactradius.com
 ct.irl.com
 ct.irlmail.org
 ctlayn.talbots.com
@@ -5632,7 +5622,6 @@ hawk.makroskop.eu
 haxdym.min-breeder.com
 hbaazk.bukalapak.com
 hbbtv01p.anixe.net
-hbbtv-1.eurosport.com
 hbbtv.3sat.de
 hbbtvapp.sonnenklar.tv
 hbbtv-extern-fe01.sim-technik.de
@@ -5915,7 +5904,6 @@ image.email.microsoftemail.com
 image.eshop.msn.com
 image.kfw.de
 image.mdr.de
-image.pandora.xiaomi.com
 images1.test.de
 images.adsyndication.msn.com
 images.fastclick.net
@@ -9909,7 +9897,6 @@ rc.precisely.com
 rd.bizrate.com
 rdeswa1.com
 rd.insight.rakuten.net
-rd.samsungadhub.com
 rdtcnt.laredoute.fr
 rdtdlv.laredoute.fr
 reach.ironmountain.com
@@ -12681,7 +12668,6 @@ staging.bugsnag.com
 staging-config.samsungads.com
 staging.config.samsungads.com
 staging-marketing.net.daraz.com
-staging.server-analytics.snapchat.com
 stanfordhealthcare.hb.omtrdc.net
 starcards.caltex.com.au
 starfish.pandora.xiaomi.com
@@ -12855,7 +12841,6 @@ stats.l.doubleclick.net
 stats.leaguestats.gg
 stats.learnappmaking.com
 stats.learnlinux.tv
-stats.lebonforfait.fr
 stats.liist.io
 stats.lord.io
 stats.ltdhunt.com
