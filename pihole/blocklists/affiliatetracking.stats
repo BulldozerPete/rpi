@@ -18,21 +18,26 @@
 #                  https://t.me/adguardde
 # ---------------------------------------------
 
-# Exclude data/dead.list: 438571
-# Exclude: 438571
+# Exclude data/dead.list: 436296
+# Exclude: 436296
 
 # Whitelist: 0
 # Deadlist: 0
 
 # Blacklist: 0
 
-# 1. Source: 651 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/ads_tracking.txt
-# 2. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
-# #. Source: 1075
+# 1. Source: 181 - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+# 2. Source: 13163 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
+# 3. Source: 214 - https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+# 4. Source: 651 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/ads_tracking.txt
+# 5. Source: 597 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/privacy.txt
+# 6. Source: 6 - https://raw.githubusercontent.com/jamiemansfield/minecraft-hosts/master/lists/tracking.txt
+# 7. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
+# #. Source: 15236
 
 Statistik affiliatetracking.txt:
-== Source (unique): 1045
--- Exclude:         1038 (-7)
--- Unblock:         1036 (-2)
-++ WWW-Domains:     1096 (+60)
-++ FLD-Domains:     1099 (+3)
+== Source (unique): 14984
+-- Exclude:         14918 (-66)
+-- Unblock:         14916 (-2)
+++ WWW-Domains:     15000 (+84)
+++ FLD-Domains:     15209 (+209)
