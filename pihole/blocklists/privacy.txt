@@ -20,15 +20,15 @@
 #
 # Amazon (Alexa/FireTV)
 #
-d3p8zr0ffa9t17.cloudfront.net
+# d3p8zr0ffa9t17.cloudfront.net
 data.alexa.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 devicemessaging.us-east-1.amazon.com
-dxz5jxhrrzigf.cloudfront.net
+# dxz5jxhrrzigf.cloudfront.net
 mobileanalytics.us-east-1.amazonaws.com
 notify.firetv.bugsnag.appstore.a2z.com
-prod.amcs-tachyon.com
+# prod.amcs-tachyon.com
 
 #
 # Apple
