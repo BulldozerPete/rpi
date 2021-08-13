@@ -23,14 +23,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 54696
-# Deadlist: 438571
+# Whitelist: 4392
+# Deadlist: 436311
 # Blacklist: 1705
-# 1. Source: 4678 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+# 1. Source: 4733 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10720 Domains - V2021.08.11-15:46:53
+# 10838 Domains - V2021.08.13-16:23:10
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -109,6 +109,7 @@ addmich.de
 addyri.com
 adenberger-damenmode.com
 adidas2018.com
+adidasalesshoe.de
 adidasr.top
 adidasyeezynew.com
 adinhotelspa.com
@@ -154,6 +155,7 @@ airyclub.com
 airydress.com
 ajantaphotolab.com
 ajelanie.com
+ajobkaro.top
 ajservice.de
 aki-consult.de
 akjfood.com
@@ -452,6 +454,7 @@ beauty365.ch
 beautyonmee.com
 bebarshoph.com
 becauseg.com
+bech-bikes.de
 bedbreakfastbruges.be
 bedcstore.com
 beergone.com
@@ -469,6 +472,7 @@ belladde.com
 bellas-viecherlseite.de
 bellesasa.com
 belletaka.com
+belsium.de
 belstaffofficial.com
 bemoplay.de
 benefamic.com
@@ -482,6 +486,7 @@ bergtrophy.at
 berladod.com
 berlikon.de
 berlinbeardeal.de
+berliner-laden.de
 berlin-markt-gmbh.com
 berlin-markts.com
 berlin-sells.com
@@ -525,6 +530,7 @@ bestshopping-voucher.com
 bestsindy.com
 beststeroids.eu
 bestusenet.de
+bestwoof.de
 bestximpression.com
 beta-elec.store
 betrieblicheversicherung.com
@@ -535,6 +541,7 @@ bewerte-einen-onlineshop.de
 bewertung-abgeben-edelmetallshops.de
 bewusstsein-ibk.at
 bexcen.com
+beziehungskabarett.de
 beziehungspersoenlichkeit.de
 bez-posrednikow.pl
 bgrci-echeck.de
@@ -641,6 +648,7 @@ boldmatters.de
 bolenso.de
 bolitrans.com
 bolt-courier.com
+boltjes-tronic.com
 bomplay.de
 bonnyin.at
 bonoplay.de
@@ -748,6 +756,7 @@ bydumont.de
 bymarlie.de
 bynamo.de
 byqo.de
+bywisers.de
 c21watches.com
 cabotrans.es
 cabriofliegen.at
@@ -997,6 +1006,7 @@ courier-go.com
 coverlastic.com
 cozyp.at
 cozyplaner.com
+cozyslides.de
 cpgtstream4.com
 cp-lawyer.de
 cr8newyork.com
@@ -1124,6 +1134,7 @@ deluxerep.com
 demetz-gmbh.de
 den-danske.com
 denster.shop
+dentqq.top
 denver24.tv
 deoplay.de
 deplacer.com
@@ -1165,6 +1176,7 @@ dexia-hyp.de
 dezuu.at
 dgestionqc.com
 dgsys.de
+dhgate.com
 dh-immobilien.at
 dhk-transport.com
 didi-tec.de
@@ -1315,6 +1327,7 @@ e-belil.de
 ebikedragon.com
 ebopeep.com
 ebusiness-challenge.at
+eccooutletdeutschland.de
 eccoschuhefabrikverkauf.at
 eccoschuhfabrikverkauf.at
 echaychu.com
@@ -1341,6 +1354,7 @@ eggshell.at
 e-gigantus.de
 eglobalcentralat.com
 ego-zentrum.at
+egrupoagil.com
 eigenblatt.com
 einayah.com
 einfachknorke.de
@@ -1599,6 +1613,7 @@ fashionmia.com
 fashion-s.shop
 fashiontoto.com
 fashion-traum.com
+fashukoh.com
 fashvia.shop
 fas-neubauer.de
 fasplay.de
@@ -1708,6 +1723,7 @@ flixhub.de
 flixtv.de
 flobamorata.com
 florday.com
+florina-garten.com
 florina-garten.de
 florina-garten.net
 floritita.com
@@ -1745,6 +1761,7 @@ fotosocken.com
 fototauscher.at
 foxflix.de
 foxhandel.eu
+foxingo.shop
 foxusenet.de
 fpjollet.com
 fragmentstudios.de
@@ -1886,6 +1903,7 @@ generika-apotheke24.de
 genialbau.com
 georgie.at
 ge-partner.at
+gepures.com
 geratedeal-markt.com
 geratemarkt.com
 gerdegloff.de
@@ -1929,6 +1947,7 @@ givenic.com
 givenstyle.com
 gjoshiben.com
 gkehler.com
+gkmetalfabrication.com
 g-konsolen.com
 glaeser-kunst.de
 glanz-weinstrasse.at
@@ -2064,6 +2083,7 @@ guloplay.de
 gunstiges-angebot.com
 gurukullame.com
 gusti-ledertaschen.de
+gutenberg-mode.de
 guterkauf.com
 guterkauf.com.de
 guthaben-shop.com
@@ -2118,6 +2138,7 @@ hans-kray.de
 haothun.com
 happyfight.at
 happy-shopping.co
+happy-shopy.de
 haraldjelinek.at
 harlandco.com
 harryundirmi.de
@@ -2189,6 +2210,7 @@ henlenhebe.com
 hennac.com
 heosda.com
 hermann-schuetz.at
+herrheimwerker.de
 herrngarten.de
 herzensnotiz.de
 herzpraxis-benzer.at
@@ -2371,6 +2393,7 @@ inayamseim.com
 individuell-geschneidert.de
 indonesiahotel24.com
 industrlc.com
+ineedthisorder.com
 ines-westphal.de
 inetchip.de
 inetzteil.de
@@ -2400,6 +2423,7 @@ installateurmax.at
 installateurnotdienste.at
 installateur-notdienst-wien.co.at
 instametall.de
+instantcheckmate.com
 insvive.com
 inteltey.com
 intercamping-grossbreitenbach.com
@@ -2474,6 +2498,7 @@ jh-design.fr
 jieper.com
 jilg-market.de
 jjctrans.com
+jjshouse.com
 jkarnil.com
 jkbikesout.cc
 jkhckf.top
@@ -2606,6 +2631,7 @@ kiddiesstarkmachen.de
 kidimo.at
 kidsfunnyplace.com
 kids-transporter.de
+kiekoem.com
 kieler-sternstunde.de
 kiesersportonline.com
 kigaonline.at
@@ -2711,6 +2737,7 @@ kriminalberatung.at
 kristall-leutasch.at
 kristroom.ru
 kronen-apotheke-schweinfurt-app.de
+kryptomaschinen.com
 ksutora.com
 kswfp.top
 kuaicmn.com
@@ -2778,6 +2805,7 @@ laura-dresses.com
 lautsprecher-restposten.shop
 lava-muc.de
 lavinmuse.com
+lawncaremall.com
 laylara.com
 lcirv.top
 ldecalog.com
@@ -2835,6 +2863,7 @@ lifeworks-munich.de
 liftr.eu
 lighteu.de
 lightflix.de
+lightinthebox.com
 likelymore.com
 likelymorely.com
 lilabogen.de
@@ -2891,6 +2920,7 @@ lookslikesummer.com
 loomzo.com
 loosshy.com
 loovincy.com
+lorana.de
 loridoris.com
 lotdi.com
 louis-vuittononlineshops.de
@@ -3009,6 +3039,7 @@ marti-bosom.net
 martyritaville.com
 marvinmartin.de
 marylinposa.de
+mascotsmall.com
 mathiasbruchmann.de
 matild-e.com
 mattgrafix-grafikdesign.de
@@ -3016,6 +3047,7 @@ matthias-koehl.de
 matthies-technik.com
 mauritius-koeln.de
 mauser-markt.eu
+maxcrox.de
 maxnovelty.com
 maxunicard.com
 maxxdrinks.com
@@ -3161,8 +3193,10 @@ mikelemke.de
 mikenovember.com
 mikesty.de
 milanoo.com
+milchmangoo.com
 milf-direkt.com
 milforyou.com
+mililandz.com
 millionaersuchtfrau.de
 millionairex3.com
 millionenquizshow.de
@@ -3309,6 +3343,7 @@ mrfurn.com
 mri-am-arlberg.at
 mrphonedeals.com
 msc-transglobal.com
+mseminar.com
 msp24.at
 ms-shippings.net
 muama.com
@@ -3542,6 +3577,7 @@ offiziell-qi-test.com
 ohdedu.com
 ohnegrenze.com
 ohne-rezept-kaufen.biz
+ohne-rezept.org
 ohospitale.com
 ohpera.at
 okomia.com
@@ -3595,6 +3631,7 @@ orizo.de
 orrebol.com
 ortaklar.de
 ortando.de
+orzsay.com
 osteland-z24.de
 ostrava.nl
 ouibayshop.fr
@@ -3627,6 +3664,7 @@ palmangelshop.com
 palmangelsshop.co
 palmarkt.de
 pamura.com
+panamajackwien.at
 pan-appetit.at
 pandoracharmsausverkauf.de
 pandoralegacy.de
@@ -3638,6 +3676,7 @@ papsttasche.de
 parabound.de
 parazax.com
 parker-and-williams.com
+parshaops.gq
 partner-gw.de
 partnerimwald.ch
 partner-real-estate.com
@@ -3948,6 +3987,7 @@ quaranti.de
 queeneva.com
 quick-ebuyer.com
 quickiller.com
+quidsonoraa.com
 quintona.itriss.com
 quizkandidat.com
 qv-salzburg.at
@@ -4031,6 +4071,7 @@ reisen-engler.de
 reiseweltat6.wixsite.com
 reitinstitut.at
 relaxify.de
+remintive.com
 remoplay.de
 rennradbekleidung.com
 rent-a-sandman.de
@@ -4140,6 +4181,8 @@ sabine-und-markus.at
 saboconfreewifi.de
 sadoplay.de
 sadplay.de
+safari-sells.com
+safretshop.com
 sahinn-paradisehotel.com
 sahinnparadiseresortshotel.com
 sahinparadisehotelsresort.com
@@ -4252,6 +4295,7 @@ selly.gg
 sem-solar.de
 seniorendatingagentur.at
 seniorlivinglab.ch
+senlann.com
 sennenhundehaus.com
 sensalve.de
 seoyou.de
@@ -4267,6 +4311,7 @@ serienwelt.to
 serindipiti.com
 serishirts.com
 serkon.at
+seroplay.de
 services-limited.com
 sesselina.eu
 setyours.com
@@ -4280,6 +4325,7 @@ shauntapparel.com
 sheadora.com
 shebeautys.com
 sheheaven.com
+shein.com
 sheistyle.com
 shelanu.at
 shell-dbr.de
@@ -4382,6 +4428,7 @@ sneakerz2020.com
 snk-cargos.com
 snowgear.com
 snugkicks.com
+sodoplay.de
 soentgen-media.de
 sofa-sauber.com
 sofawunsch.de
@@ -4561,6 +4608,7 @@ superfitchaussures.fr
 superius-electronics.de
 superpostalservice.com
 superschuhenwelt.de.com
+supersofabezug.com
 supertigers.de
 supragaming.net
 supreme-beauty.de
@@ -4748,6 +4796,7 @@ tiere.at
 tiere-infos.de
 tier-wellness.at
 tikshopf.com
+tilasnewsl.com
 timberlandrakuten.com
 timberlands-onlineshop.de
 timbre.at
@@ -4770,6 +4819,7 @@ tlg-immo.com
 tm5-ag.com
 tm6-thermomix.net
 tmissyildiz.com
+tobiasliegl.de
 tobiflix.de
 toceanswide.com
 todos-lala.com
@@ -4793,6 +4843,7 @@ top-markts.de
 topmodareps.es
 topmultimediashop.com
 top-of-software.de
+top-password.com
 topservice-buende.de
 topshopdeal.com
 top-steroide-kaufen.com
@@ -4943,6 +4994,7 @@ ukmoneya.cn
 ukmoneyaq.cn
 ukmoneyb.cn
 uk-polo.com
+uk-rooms5507914.uk
 ulacglobalfinanzen.com
 ultraheroshop.com
 ultraonlinede.com
@@ -5103,6 +5155,8 @@ viva-med.de
 vividpretty.com
 vivilass.com
 vivishop.de
+vivobarefootosterreich.at
+vivobarefootsale.at
 vivomarkt.com
 vizoa.de
 vlshaulage.com
@@ -5186,6 +5240,7 @@ wayplay.de
 wayrates.com
 way-re.com
 wculturiza.com
+webatum.de
 webdeal-produkt.com
 weber-xxl.de
 webflix.de
@@ -5399,6 +5454,7 @@ www.addmich.de
 www.addyri.com
 www.adenberger-damenmode.com
 www.adidas2018.com
+www.adidasalesshoe.de
 www.adidasr.top
 www.adidasyeezynew.com
 www.adinhotelspa.com
@@ -5442,6 +5498,7 @@ www.airyclub.com
 www.airydress.com
 www.ajantaphotolab.com
 www.ajelanie.com
+www.ajobkaro.top
 www.ajservice.de
 www.aki-consult.de
 www.akjfood.com
@@ -5735,6 +5792,7 @@ www.beauty365.ch
 www.beautyonmee.com
 www.bebarshoph.com
 www.becauseg.com
+www.bech-bikes.de
 www.bedbreakfastbruges.be
 www.bedcstore.com
 www.beergone.com
@@ -5752,6 +5810,7 @@ www.belladde.com
 www.bellas-viecherlseite.de
 www.bellesasa.com
 www.belletaka.com
+www.belsium.de
 www.belstaffofficial.com
 www.bemoplay.de
 www.benefamic.com
@@ -5765,6 +5824,7 @@ www.bergtrophy.at
 www.berladod.com
 www.berlikon.de
 www.berlinbeardeal.de
+www.berliner-laden.de
 www.berlin-markt-gmbh.com
 www.berlin-markts.com
 www.berlin-sells.com
@@ -5804,6 +5864,7 @@ www.bestshopping-voucher.com
 www.bestsindy.com
 www.beststeroids.eu
 www.bestusenet.de
+www.bestwoof.de
 www.bestximpression.com
 www.beta-elec.store
 www.betrieblicheversicherung.com
@@ -5814,6 +5875,7 @@ www.bewerte-einen-onlineshop.de
 www.bewertung-abgeben-edelmetallshops.de
 www.bewusstsein-ibk.at
 www.bexcen.com
+www.beziehungskabarett.de
 www.beziehungspersoenlichkeit.de
 www.bez-posrednikow.pl
 www.bgrci-echeck.de
@@ -5917,6 +5979,7 @@ www.boldmatters.de
 www.bolenso.de
 www.bolitrans.com
 www.bolt-courier.com
+www.boltjes-tronic.com
 www.bomplay.de
 www.bonnyin.at
 www.bonoplay.de
@@ -6021,6 +6084,7 @@ www.bydumont.de
 www.bymarlie.de
 www.bynamo.de
 www.byqo.de
+www.bywisers.de
 www.c21watches.com
 www.cabotrans.es
 www.cabriofliegen.at
@@ -6253,6 +6317,7 @@ www.courier-go.com
 www.coverlastic.com
 www.cozyp.at
 www.cozyplaner.com
+www.cozyslides.de
 www.cpgtstream4.com
 www.cp-lawyer.de
 www.cr8newyork.com
@@ -6377,6 +6442,7 @@ www.deluxerep.com
 www.demetz-gmbh.de
 www.den-danske.com
 www.denster.shop
+www.dentqq.top
 www.denver24.tv
 www.deoplay.de
 www.deplacer.com
@@ -6414,6 +6480,7 @@ www.dexia-hyp.de
 www.dezuu.at
 www.dgestionqc.com
 www.dgsys.de
+www.dhgate.com
 www.dh-immobilien.at
 www.dhk-transport.com
 www.didi-tec.de
@@ -6561,6 +6628,7 @@ www.e-belil.de
 www.ebikedragon.com
 www.ebopeep.com
 www.ebusiness-challenge.at
+www.eccooutletdeutschland.de
 www.eccoschuhefabrikverkauf.at
 www.eccoschuhfabrikverkauf.at
 www.echaychu.com
@@ -6587,6 +6655,7 @@ www.eggshell.at
 www.e-gigantus.de
 www.eglobalcentralat.com
 www.ego-zentrum.at
+www.egrupoagil.com
 www.eigenblatt.com
 www.einayah.com
 www.einfachknorke.de
@@ -6839,6 +6908,7 @@ www.fashionmia.com
 www.fashion-s.shop
 www.fashiontoto.com
 www.fashion-traum.com
+www.fashukoh.com
 www.fashvia.shop
 www.fas-neubauer.de
 www.fasplay.de
@@ -6948,6 +7018,7 @@ www.flixhub.de
 www.flixtv.de
 www.flobamorata.com
 www.florday.com
+www.florina-garten.com
 www.florina-garten.de
 www.florina-garten.net
 www.floritita.com
@@ -6984,6 +7055,7 @@ www.fotosocken.com
 www.fototauscher.at
 www.foxflix.de
 www.foxhandel.eu
+www.foxingo.shop
 www.foxusenet.de
 www.fpjollet.com
 www.fragmentstudios.de
@@ -7121,6 +7193,7 @@ www.generika-apotheke24.de
 www.genialbau.com
 www.georgie.at
 www.ge-partner.at
+www.gepures.com
 www.geratedeal-markt.com
 www.geratemarkt.com
 www.gerdegloff.de
@@ -7164,6 +7237,7 @@ www.givenic.com
 www.givenstyle.com
 www.gjoshiben.com
 www.gkehler.com
+www.gkmetalfabrication.com
 www.g-konsolen.com
 www.glaeser-kunst.de
 www.glanz-weinstrasse.at
@@ -7296,6 +7370,7 @@ www.guloplay.de
 www.gunstiges-angebot.com
 www.gurukullame.com
 www.gusti-ledertaschen.de
+www.gutenberg-mode.de
 www.guterkauf.com
 www.guthaben-shop.com
 www.gut-mag.ru
@@ -7349,6 +7424,7 @@ www.hans-kray.de
 www.haothun.com
 www.happyfight.at
 www.happy-shopping.co
+www.happy-shopy.de
 www.haraldjelinek.at
 www.harlandco.com
 www.harryundirmi.de
@@ -7420,6 +7496,7 @@ www.henlenhebe.com
 www.hennac.com
 www.heosda.com
 www.hermann-schuetz.at
+www.herrheimwerker.de
 www.herrngarten.de
 www.herzensnotiz.de
 www.herzpraxis-benzer.at
@@ -7599,6 +7676,7 @@ www.inayamseim.com
 www.individuell-geschneidert.de
 www.indonesiahotel24.com
 www.industrlc.com
+www.ineedthisorder.com
 www.ines-westphal.de
 www.inetchip.de
 www.inetzteil.de
@@ -7627,6 +7705,7 @@ www.installateur-hansi.at
 www.installateurmax.at
 www.installateurnotdienste.at
 www.instametall.de
+www.instantcheckmate.com
 www.insvive.com
 www.inteltey.com
 www.intercamping-grossbreitenbach.com
@@ -7701,6 +7780,7 @@ www.jh-design.fr
 www.jieper.com
 www.jilg-market.de
 www.jjctrans.com
+www.jjshouse.com
 www.jkarnil.com
 www.jkbikesout.cc
 www.jkhckf.top
@@ -7832,6 +7912,7 @@ www.kiddiesstarkmachen.de
 www.kidimo.at
 www.kidsfunnyplace.com
 www.kids-transporter.de
+www.kiekoem.com
 www.kieler-sternstunde.de
 www.kiesersportonline.com
 www.kigaonline.at
@@ -7934,6 +8015,7 @@ www.kriminalberatung.at
 www.kristall-leutasch.at
 www.kristroom.ru
 www.kronen-apotheke-schweinfurt-app.de
+www.kryptomaschinen.com
 www.ksutora.com
 www.kswfp.top
 www.kuaicmn.com
@@ -8000,6 +8082,7 @@ www.laura-dresses.com
 www.lautsprecher-restposten.shop
 www.lava-muc.de
 www.lavinmuse.com
+www.lawncaremall.com
 www.laylara.com
 www.lcirv.top
 www.ldecalog.com
@@ -8055,6 +8138,7 @@ www.lifeworks-munich.de
 www.liftr.eu
 www.lighteu.de
 www.lightflix.de
+www.lightinthebox.com
 www.likelymore.com
 www.likelymorely.com
 www.lilabogen.de
@@ -8110,6 +8194,7 @@ www.lookslikesummer.com
 www.loomzo.com
 www.loosshy.com
 www.loovincy.com
+www.lorana.de
 www.loridoris.com
 www.lotdi.com
 www.louis-vuittononlineshops.de
@@ -8227,6 +8312,7 @@ www.marti-bosom.net
 www.martyritaville.com
 www.marvinmartin.de
 www.marylinposa.de
+www.mascotsmall.com
 www.mathiasbruchmann.de
 www.matild-e.com
 www.mattgrafix-grafikdesign.de
@@ -8234,6 +8320,7 @@ www.matthias-koehl.de
 www.matthies-technik.com
 www.mauritius-koeln.de
 www.mauser-markt.eu
+www.maxcrox.de
 www.maxnovelty.com
 www.maxunicard.com
 www.maxxdrinks.com
@@ -8364,8 +8451,10 @@ www.mikelemke.de
 www.mikenovember.com
 www.mikesty.de
 www.milanoo.com
+www.milchmangoo.com
 www.milf-direkt.com
 www.milforyou.com
+www.mililandz.com
 www.millionaersuchtfrau.de
 www.millionairex3.com
 www.millionenquizshow.de
@@ -8507,6 +8596,7 @@ www.mrfurn.com
 www.mri-am-arlberg.at
 www.mrphonedeals.com
 www.msc-transglobal.com
+www.mseminar.com
 www.msp24.at
 www.ms-shippings.net
 www.muama.com
@@ -8735,6 +8825,7 @@ www.offiziell-qi-test.com
 www.ohdedu.com
 www.ohnegrenze.com
 www.ohne-rezept-kaufen.biz
+www.ohne-rezept.org
 www.ohospitale.com
 www.ohpera.at
 www.okomia.com
@@ -8787,6 +8878,7 @@ www.orizo.de
 www.orrebol.com
 www.ortaklar.de
 www.ortando.de
+www.orzsay.com
 www.osteland-z24.de
 www.ostrava.nl
 www.ouibayshop.fr
@@ -8813,6 +8905,7 @@ www.palmangelshop.com
 www.palmangelsshop.co
 www.palmarkt.de
 www.pamura.com
+www.panamajackwien.at
 www.pan-appetit.at
 www.pandoracharmsausverkauf.de
 www.pandoralegacy.de
@@ -8823,6 +8916,7 @@ www.papsttasche.de
 www.parabound.de
 www.parazax.com
 www.parker-and-williams.com
+www.parshaops.gq
 www.partner-gw.de
 www.partnerimwald.ch
 www.partner-real-estate.com
@@ -9126,6 +9220,7 @@ www.quaranti.de
 www.queeneva.com
 www.quick-ebuyer.com
 www.quickiller.com
+www.quidsonoraa.com
 www.quizkandidat.com
 www.qv-salzburg.at
 www.qxrorat.top
@@ -9207,6 +9302,7 @@ www.reisefex.at
 www.reisen-engler.de
 www.reitinstitut.at
 www.relaxify.de
+www.remintive.com
 www.remoplay.de
 www.rennradbekleidung.com
 www.rent-a-sandman.de
@@ -9316,6 +9412,8 @@ www.sabine-und-markus.at
 www.saboconfreewifi.de
 www.sadoplay.de
 www.sadplay.de
+www.safari-sells.com
+www.safretshop.com
 www.sahinn-paradisehotel.com
 www.sahinnparadiseresortshotel.com
 www.sahinparadisehotelsresort.com
@@ -9427,6 +9525,7 @@ www.selly.gg
 www.sem-solar.de
 www.seniorendatingagentur.at
 www.seniorlivinglab.ch
+www.senlann.com
 www.sennenhundehaus.com
 www.sensalve.de
 www.seoyou.de
@@ -9442,6 +9541,7 @@ www.serienwelt.to
 www.serindipiti.com
 www.serishirts.com
 www.serkon.at
+www.seroplay.de
 www.services-limited.com
 www.sesselina.eu
 www.setyours.com
@@ -9455,6 +9555,7 @@ www.shauntapparel.com
 www.sheadora.com
 www.shebeautys.com
 www.sheheaven.com
+www.shein.com
 www.sheistyle.com
 www.shelanu.at
 www.shell-dbr.de
@@ -9552,6 +9653,7 @@ www.sneakerz2020.com
 www.snk-cargos.com
 www.snowgear.com
 www.snugkicks.com
+www.sodoplay.de
 www.soentgen-media.de
 www.sofa-sauber.com
 www.sofawunsch.de
@@ -9728,6 +9830,7 @@ www.superfitbox24.com
 www.superfitchaussures.fr
 www.superius-electronics.de
 www.superpostalservice.com
+www.supersofabezug.com
 www.supertigers.de
 www.supragaming.net
 www.supreme-beauty.de
@@ -9911,6 +10014,7 @@ www.tiere.at
 www.tiere-infos.de
 www.tier-wellness.at
 www.tikshopf.com
+www.tilasnewsl.com
 www.timberlandrakuten.com
 www.timberlands-onlineshop.de
 www.timbre.at
@@ -9933,6 +10037,7 @@ www.tlg-immo.com
 www.tm5-ag.com
 www.tm6-thermomix.net
 www.tmissyildiz.com
+www.tobiasliegl.de
 www.tobiflix.de
 www.toceanswide.com
 www.todos-lala.com
@@ -9956,6 +10061,7 @@ www.top-markts.de
 www.topmodareps.es
 www.topmultimediashop.com
 www.top-of-software.de
+www.top-password.com
 www.topservice-buende.de
 www.topshopdeal.com
 www.top-steroide-kaufen.com
@@ -10095,6 +10201,7 @@ www.ukmoneya.cn
 www.ukmoneyaq.cn
 www.ukmoneyb.cn
 www.uk-polo.com
+www.uk-rooms5507914.uk
 www.ulacglobalfinanzen.com
 www.ultraheroshop.com
 www.ultraonlinede.com
@@ -10253,6 +10360,8 @@ www.viva-med.de
 www.vividpretty.com
 www.vivilass.com
 www.vivishop.de
+www.vivobarefootosterreich.at
+www.vivobarefootsale.at
 www.vivomarkt.com
 www.vizoa.de
 www.vlshaulage.com
@@ -10334,6 +10443,7 @@ www.wayplay.de
 www.wayrates.com
 www.way-re.com
 www.wculturiza.com
+www.webatum.de
 www.webdeal-produkt.com
 www.weber-xxl.de
 www.webflix.de
@@ -10471,6 +10581,7 @@ www.xdate69.de
 www.xenon-brenner.com
 www.xhorrorrbk.com
 www.xiaomiofficial.ee
+www.xinglinymy.com
 www.xjolpan.top
 www.xl-1.de
 www.xn--80awro.xn--p1ai
@@ -10511,6 +10622,7 @@ www.yhapyc.com
 www.yhunecha.com
 www.yivette.com
 www.yjitule.top
+www.ylpkbpm.top
 www.yoebag.com
 www.yogabaum.at
 www.yogaofsexq.com
@@ -10540,6 +10652,7 @@ www.yspdtg.com
 www.yuhui.at
 www.yupeace.org
 www.yvyt.de
+www.yydsshop.com
 www.yyearsale.com
 www.yyscamping.com
 www.zacha-hokej.cz
@@ -10565,6 +10678,7 @@ www.zaversone.com
 www.zawmyohtut.com
 www.zddliver.com
 www.zealreplica.pl
+www.zeasywithus.com
 www.zeelool.com
 www.zefreya.com
 www.zeigdeinbein.de
@@ -10616,6 +10730,7 @@ xenon-brenner.com
 xfgsdhgxg.myshopify.com
 xhorrorrbk.com
 xiaomiofficial.ee
+xinglinymy.com
 xjolpan.top
 xl-1.de
 xn--80awro.xn--p1ai
@@ -10656,6 +10771,7 @@ yhapyc.com
 yhunecha.com
 yivette.com
 yjitule.top
+ylpkbpm.top
 yoebag.com
 yogabaum.at
 yogaofsexq.com
@@ -10686,6 +10802,7 @@ yspdtg.com
 yuhui.at
 yupeace.org
 yvyt.de
+yydsshop.com
 yyearsale.com
 yyscamping.com
 zacha-hokej.cz
@@ -10711,6 +10828,7 @@ zaversone.com
 zawmyohtut.com
 zddliver.com
 zealreplica.pl
+zeasywithus.com
 zeelool.com
 zefreya.com
 zeigdeinbein.de
