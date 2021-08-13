@@ -16,7 +16,6 @@
 # Telegram-Gruppe PiHole + Unbound Fans (DACH)
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
-
 #
 # Amazon (Alexa/FireTV)
 #
@@ -29,7 +28,6 @@ devicemessaging.us-east-1.amazon.com
 mobileanalytics.us-east-1.amazonaws.com
 notify.firetv.bugsnag.appstore.a2z.com
 # prod.amcs-tachyon.com
-
 #
 # Apple
 #
@@ -56,7 +54,6 @@ trackingshipment.apple.com
 ut.iadsdk.apple.com
 weather-analytics-events.apple.com
 www.iadsdk.apple.com
-
 #
 # Crashlytics
 #
@@ -64,12 +61,10 @@ www.iadsdk.apple.com
 crashlyticsreports-pa.googleapis.com
 firebase-settings.crashlytics.com
 firebaselogging-pa.googleapis.com
-
 #
 # Google
 #
 app-measurement.com
-
 #
 # Huawei
 #
@@ -93,12 +88,10 @@ metrics3.data.hicloud.com
 metrics4.data.hicloud.com
 metrics5.data.hicloud.com
 servicesupport.hicloud.com
-
 #
 # IKEA (Tradfri)
 #
 webhook.logentries.com
-
 #
 # Microsoft
 #
@@ -145,13 +138,11 @@ watson.microsoft.com
 watson.telemetry.microsoft.com
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
-
 #
 # Mozilla / Firefox
 #
 incoming.telemetry.mozilla.org
 telemetry-incoming.r53-2.services.mozilla.com
-
 #
 # Netflix
 #
@@ -160,7 +151,6 @@ beacon.us-east-1.prodaa.netflix.com
 beacon.us-west-2.prodaa.netflix.com
 nmtracking.netflix.com
 presentationtracking.netflix.com
-
 #
 # OnePlus
 #
@@ -168,7 +158,6 @@ analytics.oneplus.cn
 click.oneplus.cn
 click.oneplus.com
 open.oneplus.net
-
 #
 # Oppo
 #
@@ -203,24 +192,20 @@ sms.ads.oppomobile.com
 stat-in.dc.oppomobile.com
 u.oppomobile.com
 uapi.ads.oppomobile.com
-
 #
 # Overwolf
 #
 analyticsnew.overwolf.com
 tracking.overwolf.com
-
 #
 # PayPal
 #
 stats.paypal.com
 t.paypal.com
-
 #
 # Realme
 #
 bdapi-in-ads.realmemobile.com
-
 #
 # Roku
 #
@@ -269,7 +254,6 @@ tyler.logs.roku.com
 victoria.logs.roku.com
 windsor.logs.roku.com
 wwwimg.roku.com
-
 #
 # SambaTV
 #
@@ -287,7 +271,6 @@ preferences.cid.samba.tv
 samba.tv
 tag.mtrcs.samba.tv
 www.flingo.tv
-
 #
 # Samsung
 #
@@ -323,7 +306,6 @@ staging-config.samsungads.com
 staging.config.samsungads.com
 target-us.samsung.com
 udw-dev.samsungads.com
-
 #
 # Sentry
 #
@@ -333,7 +315,6 @@ ingest.sentry.io
 my.sentry.io
 sentry-cdn.com
 services.sentry.io
-
 #
 # Smartclip
 #
@@ -376,7 +357,6 @@ stats.smartclip.net
 stats.sxp.smartclip.net
 sxp.smartclip.net
 sync.sxp.smartclip.net
-
 #
 # Snapchat
 #
@@ -404,13 +384,11 @@ staging.server-analytics.snapchat.com
 story-insights.snapchat.com
 tr.snapchat.com
 usc.adserver.snapads.com
-
 #
 # Sonos
 #
 msmetrics-test.ws.sonos.com
 msmetrics.ws.sonos.com
-
 #
 # Sony Bravia
 #
@@ -423,7 +401,6 @@ service.biv.sony.tv
 ssm1.internet.sony.tv
 ssm2.internet.sony.tv
 ssm3.internet.sony.tv
-
 #
 # Spotify
 #
@@ -440,13 +417,11 @@ pixel.spotify.com
 sto.weblb-wg.gslb.spotify.com
 weblb-wg.gslb.spotify.com
 wl.spotify.com
-
 #
 # Tapatalk
 #
 log.tapatalk.com
 track.tapatalk.com
-
 #
 # Tiktok
 #
@@ -520,14 +495,12 @@ xlog.byteoversea.com
 xlog.byteoversea.com.edgesuite.net
 xlog.tiktokv.com
 xlog.tiktokv.com.edgesuite.net
-
 #
 # Whatsapp
 #
 crashlogs.whatsapp.net
 dit.whatsapp.net
 privatestats.whatsapp.net
-
 #
 # Xiaomi
 #

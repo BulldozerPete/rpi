@@ -118,7 +118,6 @@ ws.assoc-amazon.com
 www.assoc-amazon.com
 z-eu.amazon-adsystem.com
 z-na.amazon-adsystem.com
-
 #
 # Bing
 #
@@ -149,7 +148,6 @@ mr.c.bing.com
 r.bat.bing.com
 ssl4.c.bing.com
 test.c.bing.com
-
 #
 # Bugsnag
 #
@@ -159,7 +157,6 @@ bugsnag.com
 notify.bugsnag.com
 sessions.bugsnag.com
 staging.bugsnag.com
-
 #
 # Doubleclick
 #
@@ -201,7 +198,6 @@ www.doubleclick.net
 www2.doubleclick.com
 www3.doubleclick.com
 www3.doubleclick.net
-
 #
 # FastClick
 #
@@ -237,7 +233,6 @@ vstatic.fastclick.net
 win-media-ams5.fastclick.net
 win-media-sj2.fastclick.net
 win-media.fastclick.net
-
 #
 # Google
 #
@@ -302,7 +297,6 @@ www.googleadservices.com
 www.googlesyndication.com
 www.googletagmanager.com
 www.googletagservices.com
-
 #
 # Hotjar
 #
@@ -367,7 +361,6 @@ ws6.hotjar.com
 ws7.hotjar.com
 ws8.hotjar.com
 ws9.hotjar.com
-
 #
 # Media.net ***
 #
@@ -375,31 +368,26 @@ adservetx.media.net
 media.net
 media.net.akadns6.net
 static.media.net
-
 #
 # MouseFlow ***
 #
 a.mouseflow.com
 mouseflow.com
-
 #
 # Facebook ***
 #
 ads.facebook.com
 analytics.facebook.com
 pixel.facebook.com
-
 #
 # FreshMarketer ***
 #
 freshmarketer.com
-
 #
 # LinkedIn ***
 #
 ads.linkedin.com
 analytics.pointdrive.linkedin.com
-
 #
 # Luckyorange ***
 #
@@ -408,7 +396,6 @@ cs.luckyorange.net
 settings.luckyorange.net
 upload.luckyorange.net
 w1.luckyorange.com
-
 #
 # MSN
 #
@@ -611,7 +598,6 @@ unicast.msn.com
 utm.sankei.jp.msn.com
 web.vortex.data.msn.com
 webmessenger.msn.com
-
 #
 # Netflix
 #
@@ -619,7 +605,6 @@ ads.netflix.com
 ads.test.netflix.com
 ads.us-east-1.prodaa.netflix.com
 ads.us-west-2.prodaa.netflix.com
-
 #
 # Pinterest ***
 #
@@ -628,19 +613,16 @@ analytics.pinterest.com
 ct.pinterest.com
 log.pinterest.com
 trk.pinterest.com
-
 #
 # Reddit ***
 #
 ads.reddit.com
 events.redditmedia.com
 rereddit.com
-
 #
 # Sentry ***
 #
 browser.sentry-cdn.com
-
 #
 # Statcounter
 #
@@ -648,24 +630,20 @@ c.statcounter.com
 gs.statcounter.com
 statcounter.com
 www.statcounter.com
-
 #
 # TikTok ***
 #
 ads.tiktok.com
 ads.tiktok.com.edgekey.net
-
 #
 # Twitter ***
 #
 ads-twitter.com
 static.ads-twitter.com
-
 #
 # Wordpress
 #
 stats.wp.com
-
 #
 # Yahoo ***
 #
@@ -705,7 +683,6 @@ uk.advertising.yahoo.com
 us.adserver.yahoo.com
 ush.adspecs.yahoo.com
 visit.webhosting.yahoo.com
-
 #
 # Yandex ***
 #
@@ -742,7 +719,6 @@ report.appmetrica.yandex.net
 share.yandex.ru
 startup.mobile.yandex.net
 yandexadexchange.net
-
 #
 # YouTube ***
 #
