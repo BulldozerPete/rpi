@@ -6,21 +6,12 @@ www.asadcdn.com
 opecloud.com
 
 # Amazon
-# aan.amazon.com
 aax-eu-retail-direct.amazon-adsystem.com
-# aax-eu.amazon-adsystem.com
-# aax.amazon-adsystem.com
-# c.amazon-adsystem.com
-# fls-eu.amazon.com
-# fls-eu.amazon.de
 
 # Apps (Mobile)
-# app-measurement.com
 app.link
 fundingchoicesmessages.google.com
 mobilesdk-us.kampyle.com
-# sb.scorecardresearch.com
-# sdk.split.io
 
 # Apple
 albert.apple.com
@@ -122,20 +113,6 @@ consent.faz.net
 # Github
 user-images.githubusercontent.com
 
-# Google
-# analytics.google.com
-# google-analytics.com
-# googletagmanager.com
-# googletagservices.com
-# id.google.com
-# ssl-google-analytics.l.google.com
-# ssl.google-analytics.com
-# www-google-analytics.l.google.com
-# www-googletagmanager.l.google.com
-# www.google-analytics.com
-# www.googletagmanager.com
-# www.googletagservices.com
-
 # Images
 mycliplister.com
 assets.mmsrg.com
@@ -223,8 +200,6 @@ widgets.trustedshops.com
 wl.spotify.com
 
 # Streaming/Videos
-# s0-2mdn-net.l.google.com
-# s0.2mdn.net
 cdn2.cam-content.com
 cws-eu.conviva.com
 glomex.com
@@ -235,6 +210,8 @@ js-sec.indexww.com
 player-feedback-v1.glomex.com
 player.glomex.com
 redefine.hit.stat24.com
+s0-2mdn-net.l.google.com
+s0.2mdn.net
 s2.static.cfgr3.com
 uim.tifbs.net
 videos-fms.jwpsrv.com
