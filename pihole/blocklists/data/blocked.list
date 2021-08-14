@@ -98,6 +98,7 @@ ads.yap.yahoo.com
 ads.yieldmo.com
 ads.youtube.com
 adtm.chip.de
+advertising.amazon.de
 adx.adform.net
 ad.yieldlab.net
 aeeb3-12755.api.pushwoosh.com
@@ -152,6 +153,7 @@ api.getdrip.com
 api.getjad.io
 api.instabug.com
 api-js.mixpanel.com
+api.mixpanel.com
 api.opmnstr.com
 api.permutive.com
 api.picsart.com
@@ -173,6 +175,7 @@ app-ab46.marketo.com
 app.adjust.world
 app-analytics-v2.snapchat.com
 appleglobal.102.112.2o7.net
+app-measurement.com
 app.satismeter.com
 app.theadx.com
 app.uptain.de
@@ -238,6 +241,7 @@ c2.taboola.com
 c.adsco.re
 cagothie.net
 ca.iadsdk.apple.com
+c.amazon-adsystem.com
 capture.trackjs.com
 cas.avalon.perfdrive.com
 c.bing.com
@@ -259,9 +263,7 @@ cdn.bunchbox.co
 cdn.carbonads.com
 cdn.c-i.as
 cdn.cloudimagesb.com
-cdn.cohesionapps.com
 cdn.contalyze.com
-cdn.curalate.com
 cdn.districtm.io
 cdn-eu.dynamicyield.com
 cdn.exactag.com
@@ -311,6 +313,7 @@ celeritascdn.com
 ce.lijit.com
 certify.alexametrics.com
 certify-js.alexametrics.com
+cf.iadsdk.apple.com
 c.go-mpulse.net
 chapsartore.com
 chaturbate.com
@@ -386,6 +389,7 @@ d1fc8wv8zag5ca.cloudfront.net
 d1miwkthq39xj8.cloudfront.net
 d2v02itv0y9u9t.cloudfront.net
 d2wu036mkcz52n.cloudfront.net
+d31bfnnwekbny6.cloudfront.net
 d3g5ovfngjw9bw.cloudfront.net
 d81mfvml8p5ml.cloudfront.net
 d9.flashtalking.com
@@ -774,6 +778,7 @@ pagead-googlehosted.l.google.com
 pandg.tapad.com
 partnerad.l.doubleclick.net
 partner.googleadservices.com
+partnernet.amazon.de
 payingnoodlescam.com
 p.cquotient.com
 pdw-usr.userreport.com
@@ -781,6 +786,7 @@ pghub.io
 pingapi.accengage.com
 ping.chartbeat.net
 ping.getadblock.com
+ping-meta-prd.jwpltx.com
 pinpoll.com
 pipedream.wistia.com
 piwik.itzbund.de
@@ -814,6 +820,7 @@ pr-bh.ybp.yahoo.com
 pre.ads.justpremium.com
 prebid.a-mo.net
 prebid.media.net
+prebid.openx.net
 prebid-server.rubiconproject.com
 preferences.cid.samba.tv
 prg.smartadserver.com
@@ -841,7 +848,9 @@ pyxis.iad.appboy.com
 quartermedia.de
 radar.cedexis.com
 radiantskilled.com
+rcom-eu.dynamicyield.com
 reachms.bfmio.com
+recommender.scarabresearch.com
 regulationprivilegescan.top
 relay-client-c01.iocnt.net
 relay-client-c03.iocnt.net
@@ -1018,6 +1027,7 @@ stats.smartclip.net
 stats.sxp.smartclip.net
 stats-t--online-de.cdn.ampproject.org
 stats.wp.com
+st-eu.dynamicyield.com
 submit-target.osp.opera.software
 supportmetrics.apple.com
 survey.survicate.com
@@ -1093,6 +1103,7 @@ trc.taboola.com
 tr.iadsdk.apple.com
 trmads.eu
 tr.outbrain.com
+try-cloudfront.abtasty.com
 tsp.stats.urban-media.com
 tsrid.cxense.com
 tsyndicate.com
@@ -1217,6 +1228,7 @@ www.tisoomi-adservice.com
 www.tisoomi-services.com
 www.tns-counter.ru
 www.uciservice.com
+www.usemaxserver.de
 www.vfthr.com
 www.xadsmart.com
 www.yext-pixel.com
