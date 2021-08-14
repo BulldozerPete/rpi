@@ -23,14 +23,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 13018
-# Deadlist: 436311
+# Whitelist: 12994
+# Deadlist: 438993
 # Blacklist: 1705
 # 1. Source: 4733 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10836 Domains - V2021.08.14-03:33:03
+# 10836 Domains - V2021.08.14-08:14:04
 # ---------------------------------------------
 #
 1000gratisproben.com
