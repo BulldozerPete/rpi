@@ -8,7 +8,7 @@
 # Werbung, Fake, Tracking, Phishing, Malware,
 # Coins und sonstiger "Mist" aus dem Netz.
 #
-# Fake + Multi + CryproScamDB + OISD Full
+# Fake + Multi + OISD Full
 #
 # ---------------------------------------------
 # GitHub: https://github.com/Zelo72
@@ -24,23 +24,22 @@
 # Exclude: 0
 
 # Whitelist: 13018
-# Deadlist: 436311
+# Deadlist: 438993
 
 # Blacklist global: 3
 # Blacklist source: 
 # Blacklist: 3
 
 # 1. Source: 10836 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/fake.txt
-# 2. Source: 227419 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt
-# 3. Source: 17219 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/cryptoscamdb.txt
-# 4. Source: 2259609 - https://dbl.oisd.nl
-# #. Source: 2515083
+# 2. Source: 423087 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt
+# 3. Source: 2259609 - https://dbl.oisd.nl
+# #. Source: 2693532
 
 Statistik big.txt:
-== Source (unique): 2326955
-++ Black:           2326955 (+0)
--- White:           2326694 (-261)
--- Dead:            2286789 (-39905)
--- Unblock:         2286730 (-59)
-++ WWW-Domains:     2299586 (+12856)
-++ FLD-Domains:     2299831 (+245)
+== Source (unique): 2437875
+++ Black:           2437875 (+0)
+-- White:           2437614 (-261)
+-- Dead:            2407268 (-30346)
+-- Unblock:         2407209 (-59)
+++ WWW-Domains:     2415770 (+8561)
+++ FLD-Domains:     2415965 (+195)
