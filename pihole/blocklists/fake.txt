@@ -25,12 +25,12 @@
 # Exclude: 0
 # Whitelist: 12994
 # Deadlist: 438993
-# Blacklist: 1705
+# Blacklist: 1719
 # 1. Source: 4733 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10836 Domains - V2021.08.14-08:14:04
+# 10856 Domains - V2021.08.14-14:39:37
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -625,6 +625,7 @@ blueflix.de
 blue-immo.com
 bluemuli.com
 blumen-hamester.de
+blundstonewien.at
 blunters.de
 blushysilk.com
 blvcks.com
@@ -906,6 +907,7 @@ citymax.at
 cjob.at
 cklinen.com
 claasrunge.de
+clarksschuhesale.com
 claturo.de
 clebonia.de
 clickrightnow.com
@@ -1099,6 +1101,7 @@ dazsistmeins.at
 dbazaarcheh.com
 dbest-store.com
 dbigvote.com
+dcskaterschuhe.de
 dctp-mw.de
 de2021.com
 de2021.ru
@@ -1287,9 +1290,11 @@ drivesafeo.com
 drk-herrstein.de
 dr-kopfhoerer.de
 drkuzbari.at
+drmartensoutletdeutschland.com
 drmartensstiefel.at
 drogen-heute.com
 drsahm.de
+drschuhedeutschland.com
 drucker24-shop.de
 dsl24-shop.de
 dslladen.com
@@ -2606,6 +2611,7 @@ kazz.com
 kbnlogistics.com
 kb-noman.de
 kcarlazne.com
+kedsschuhe.top
 keendeutsch.com
 keenschuhewien.at
 kellyys.com
@@ -3458,6 +3464,7 @@ neunotebookakkus.com
 neuwirth-baustoffe.at
 neva-sharm.ru
 nevi-media.com
+newbalancesaleschuhe.de
 newbalancesneakers.de.com
 new-chakra.com
 newchic.com
@@ -4395,6 +4402,7 @@ skateabalooza.at
 skatess.cc
 skechers-ch.com
 skechersosterreich.at
+skechersturnschuh.de
 skill2thrill.com
 skinrockfur.de
 skoost.com
@@ -4978,6 +4986,7 @@ uggcp.com
 ugg.deployims.com
 uggexpress.com.au
 uggoutletosterreich.com
+uggoutletstorede.com
 uggslipperssale.top
 uggsmen.top
 uggsonsale.top
@@ -5122,6 +5131,7 @@ viagogo.com
 viagogo.de
 viagrafuerfrauen.com
 vibramosterrelch.com
+vibramsandalende.com
 viciac.com
 victormartincollection.com
 videofilm-reinhardt.de
@@ -5956,6 +5966,7 @@ www.blueflix.de
 www.blue-immo.com
 www.bluemuli.com
 www.blumen-hamester.de
+www.blundstonewien.at
 www.blunters.de
 www.blushysilk.com
 www.blvcks.com
@@ -6225,6 +6236,7 @@ www.citymax.at
 www.cjob.at
 www.cklinen.com
 www.claasrunge.de
+www.clarksschuhesale.com
 www.claturo.de
 www.clebonia.de
 www.clickrightnow.com
@@ -6407,6 +6419,7 @@ www.dazsistmeins.at
 www.dbazaarcheh.com
 www.dbest-store.com
 www.dbigvote.com
+www.dcskaterschuhe.de
 www.dctp-mw.de
 www.de2021.com
 www.de2021.ru
@@ -6587,9 +6600,11 @@ www.drivesafeo.com
 www.drk-herrstein.de
 www.dr-kopfhoerer.de
 www.drkuzbari.at
+www.drmartensoutletdeutschland.com
 www.drmartensstiefel.at
 www.drogen-heute.com
 www.drsahm.de
+www.drschuhedeutschland.com
 www.drucker24-shop.de
 www.dsl24-shop.de
 www.dslladen.com
@@ -7886,6 +7901,7 @@ www.kazz.com
 www.kbnlogistics.com
 www.kb-noman.de
 www.kcarlazne.com
+www.kedsschuhe.top
 www.keendeutsch.com
 www.keenschuhewien.at
 www.kellyys.com
@@ -8709,6 +8725,7 @@ www.neunotebookakkus.com
 www.neuwirth-baustoffe.at
 www.neva-sharm.ru
 www.nevi-media.com
+www.newbalancesaleschuhe.de
 www.new-chakra.com
 www.newchic.com
 www.newmarketing4dummies.com
@@ -9619,6 +9636,7 @@ www.skateabalooza.at
 www.skatess.cc
 www.skechers-ch.com
 www.skechersosterreich.at
+www.skechersturnschuh.de
 www.skill2thrill.com
 www.skinrockfur.de
 www.skoost.com
@@ -10185,6 +10203,7 @@ www.uggboots-onsale70off.com
 www.uggbootssale-deutschland.net
 www.uggcp.com
 www.uggoutletosterreich.com
+www.uggoutletstorede.com
 www.uggslipperssale.top
 www.uggsmen.top
 www.uggsonsale.top
@@ -10327,6 +10346,7 @@ www.viagogo.com
 www.viagogo.de
 www.viagrafuerfrauen.com
 www.vibramosterrelch.com
+www.vibramsandalende.com
 www.viciac.com
 www.victormartincollection.com
 www.videofilm-reinhardt.de

@@ -19,15 +19,15 @@
 #                  https://t.me/adguardde
 # ---------------------------------------------
 
-# Exclude fake.txt: 10836
-# Exclude: 10836
+# Exclude fake.txt: 10856
+# Exclude: 10856
 
 # Whitelist: 12994
 # Deadlist: 438993
 
-# Blacklist global: 3
+# Blacklist global: 13
 # Blacklist source: 
-# Blacklist: 3
+# Blacklist: 13
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 # 2. Source: 662 - https://v.firebog.net/hosts/Admiral.txt
@@ -36,9 +36,9 @@
 # 5. Source: 6027 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/prigentads.txt
 # 6. Source: 597 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/privacy.txt
 # 7. Source: 898 - https://v.firebog.net/hosts/static/w3kbl.txt
-# 8. Source: 52864 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
+# 8. Source: 52868 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 9. Source: 13163 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-# 10. Source: 69987 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 10. Source: 70021 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 11. Source: 94059 - https://dbl.oisd.nl/basic/
 # 12. Source: 225322 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 # 13. Source: 2805 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nso-pegasus.txt
@@ -52,16 +52,16 @@
 # 21. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 # 22. Source: 3548 - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 # 23. Source: 87063 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 24. Source: 1562 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 24. Source: 1566 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 25. Source: 379 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 657261
+# #. Source: 657303
 
 Statistik multi.txt:
-== Source (unique): 378766
-++ Black:           378767 (+1)
--- White:           376352 (-2415)
--- Dead:            325828 (-50524)
--- Exclude:         325770 (-58)
--- Unblock:         325747 (-23)
-++ WWW-Domains:     448949 (+123202)
-++ FLD-Domains:     449025 (+76)
+== Source (unique): 378772
+++ Black:           378783 (+11)
+-- White:           376368 (-2415)
+-- Dead:            325844 (-50524)
+-- Exclude:         325785 (-59)
+-- Unblock:         325762 (-23)
+++ WWW-Domains:     448963 (+123201)
+++ FLD-Domains:     449041 (+78)
