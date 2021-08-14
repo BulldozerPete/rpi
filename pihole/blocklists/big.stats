@@ -31,9 +31,9 @@
 # Blacklist: 3
 
 # 1. Source: 10836 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/fake.txt
-# 2. Source: 423433 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt
+# 2. Source: 423427 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt
 # 3. Source: 1813868 - https://dbl.oisd.nl
-# #. Source: 2248137
+# #. Source: 2248131
 
 Statistik big.txt:
 == Source (unique): 1992568
