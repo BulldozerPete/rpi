@@ -23,14 +23,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 4392
+# Whitelist: 13018
 # Deadlist: 436311
 # Blacklist: 1705
 # 1. Source: 4733 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10838 Domains - V2021.08.13-16:23:10
+# 10836 Domains - V2021.08.14-03:33:03
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -1176,7 +1176,6 @@ dexia-hyp.de
 dezuu.at
 dgestionqc.com
 dgsys.de
-dhgate.com
 dh-immobilien.at
 dhk-transport.com
 didi-tec.de
@@ -6480,7 +6479,6 @@ www.dexia-hyp.de
 www.dezuu.at
 www.dgestionqc.com
 www.dgsys.de
-www.dhgate.com
 www.dh-immobilien.at
 www.dhk-transport.com
 www.didi-tec.de
