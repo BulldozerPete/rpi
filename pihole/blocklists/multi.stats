@@ -23,7 +23,7 @@
 # Exclude: 10836
 
 # Whitelist: 13018
-# Deadlist: 436311
+# Deadlist: 438993
 
 # Blacklist global: 3
 # Blacklist source: 
@@ -31,28 +31,31 @@
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 # 2. Source: 662 - https://v.firebog.net/hosts/Admiral.txt
-# 3. Source: 898 - https://v.firebog.net/hosts/static/w3kbl.txt
-# 4. Source: 52937 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
-# 5. Source: 70065 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
-# 6. Source: 94059 - https://dbl.oisd.nl/basic/
-# 7. Source: 2805 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nso-pegasus.txt
-# 8. Source: 44089 - https://phishing.army/download/phishing_army_blocklist_extended.txt
-# 9. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
-# 10. Source: 15515 - https://someonewhocares.org/hosts/
-# 11. Source: 8728 - https://winhelp2002.mvps.org/hosts.txt
-# 12. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
-# 13. Source: 87063 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 14. Source: 142302 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-# 15. Source: 1540 - https://urlhaus.abuse.ch/downloads/hostfile/
-# 16. Source: 379 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 530886
+# 3. Source: 6027 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/prigentads.txt
+# 4. Source: 898 - https://v.firebog.net/hosts/static/w3kbl.txt
+# 5. Source: 52837 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
+# 6. Source: 70065 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 7. Source: 94059 - https://dbl.oisd.nl/basic/
+# 8. Source: 2805 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nso-pegasus.txt
+# 9. Source: 44089 - https://phishing.army/download/phishing_army_blocklist_extended.txt
+# 10. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+# 11. Source: 3623 - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+# 12. Source: 181 - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+# 13. Source: 15515 - https://someonewhocares.org/hosts/
+# 14. Source: 8728 - https://winhelp2002.mvps.org/hosts.txt
+# 15. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+# 16. Source: 87063 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# 17. Source: 140666 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+# 18. Source: 1518 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 19. Source: 379 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
+# #. Source: 538959
 
 Statistik multi.txt:
-== Source (unique): 260009
-++ Black:           260010 (+1)
--- White:           257863 (-2147)
--- Dead:            213547 (-44316)
--- Exclude:         213493 (-54)
--- Unblock:         213470 (-23)
-++ WWW-Domains:     227230 (+13760)
-++ FLD-Domains:     227419 (+189)
+== Source (unique): 259879
+++ Black:           259880 (+1)
+-- White:           257694 (-2186)
+-- Dead:            212656 (-45038)
+-- Exclude:         212602 (-54)
+-- Unblock:         212579 (-23)
+++ WWW-Domains:     226281 (+13702)
+++ FLD-Domains:     226467 (+186)
