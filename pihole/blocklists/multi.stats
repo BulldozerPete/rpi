@@ -46,16 +46,16 @@
 # 15. Source: 8728 - https://winhelp2002.mvps.org/hosts.txt
 # 16. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 # 17. Source: 87063 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 18. Source: 1539 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 18. Source: 1506 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 19. Source: 379 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 623648
+# #. Source: 623615
 
 Statistik multi.txt:
-== Source (unique): 362887
-++ Black:           362888 (+1)
--- White:           360617 (-2271)
--- Dead:            311930 (-48687)
--- Exclude:         311872 (-58)
--- Unblock:         311849 (-23)
-++ WWW-Domains:     423359 (+111510)
-++ FLD-Domains:     423433 (+74)
+== Source (unique): 362885
+++ Black:           362886 (+1)
+-- White:           360615 (-2271)
+-- Dead:            311928 (-48687)
+-- Exclude:         311870 (-58)
+-- Unblock:         311847 (-23)
+++ WWW-Domains:     423354 (+111507)
+++ FLD-Domains:     423427 (+73)
