@@ -43,7 +43,7 @@
 # 12. Source: 898 - https://v.firebog.net/hosts/static/w3kbl.txt
 # 13. Source: 87834 - https://raw.githubusercontent.com/mullvad/dns-adblock/main/output/relay/relay_adblock.txt
 # 14. Source: 15770 - https://raw.githubusercontent.com/mullvad/dns-adblock/main/output/relay/relay_privacy.txt
-# 15. Source: 53041 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
+# 15. Source: 53042 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 16. Source: 13690 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 # 17. Source: 70224 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 18. Source: 94150 - https://dbl.oisd.nl/basic/
@@ -86,16 +86,16 @@
 # 55. Source: 37 - https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
 # 56. Source: 1187 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 57. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 58. Source: 1388 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 58. Source: 1377 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 59. Source: 387 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1200959
+# #. Source: 1200949
 
 Statistik multi.txt:
-== Source (unique): 608861
-++ Black:           608862 (+1)
--- White:           605579 (-3283)
--- Dead:            428487 (-177092)
--- Exclude:         428416 (-71)
--- Unblock:         428383 (-33)
-++ WWW-Domains:     563346 (+134963)
-++ FLD-Domains:     564391 (+1045)
+== Source (unique): 608859
+++ Black:           608860 (+1)
+-- White:           605577 (-3283)
+-- Dead:            428485 (-177092)
+-- Exclude:         428414 (-71)
+-- Unblock:         428381 (-33)
+++ WWW-Domains:     563344 (+134963)
+++ FLD-Domains:     564390 (+1046)
