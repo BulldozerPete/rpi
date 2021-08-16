@@ -20,10 +20,10 @@
 
 # Exclude: 0
 
-# Whitelist: 47522
+# Whitelist: 47525
 # Deadlist: 427276
 
-# Blacklist: 1719
+# Blacklist: 1720
 
 # 1. Source: 4733 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
