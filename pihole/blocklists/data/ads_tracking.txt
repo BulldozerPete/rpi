@@ -3,20 +3,20 @@
 #
 aan.amazon.co.jp
 aan.amazon.co.uk
-aan.amazon.com
+# aan.amazon.com
 aax-cpm.amazon-adsystem.com
 aax-eu-dub.amazon.com
-aax-eu-retail-direct.amazon-adsystem.com
-aax-eu.amazon-adsystem.com
+# aax-eu-retail-direct.amazon-adsystem.com
+# aax-eu.amazon-adsystem.com
 aax-eu.amazon.es
 aax-eu.amazon.in
 aax-eu.amazon.nl
 aax-fe-sin.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-us-east-rtb.amazon-adsystem.com
-aax-us-east.amazon-adsystem.com
-aax-us-iad.amazon.com
-aax-us-pdx.amazon-adsystem.com
+# aax-us-east.amazon-adsystem.com
+# aax-us-iad.amazon.com
+# aax-us-pdx.amazon-adsystem.com
 aax-us.amazon-adsystem.com
 aax.amazon-adsystem.com
 advertising-api-eu.amazon.com
@@ -47,23 +47,22 @@ advertising.amazon.sa
 advertising.amazon.se
 advertising.amazon.us
 affiliate-blog.amazon.co.jp
-amazon-adsystem.amazon.com
-amazon-adsystem.com
+# amazon-adsystem.amazon.com
+# amazon-adsystem.com
 amazonadsi-a.akamaihd.net
 amazonadsi-a.akamaihd.net.edgesuite.net
 ape-dyad-service-eu.amazon.com
 applab-sdk.amazon.com
 aps.amazon.com
 asp.assoc-amazon.com
-assoc-amazon.com
+# assoc-amazon.com
 astore.amazon.com
-ax-eu.amazon.co.uk
-c.amazon-adsystem.com
+# c.amazon-adsystem.com
 cdn-a.amazon-adsystem.com
 cl.assoc-amazon.com
 cls.assoc-amazon.com
 cm.amazon.com
-device-metrics-us.amazon.com
+# device-metrics-us.amazon.com
 dra.amazon-adsystem.com
 identity.browserapps.amazon.de
 ir-de.amazon-adsystem.com
@@ -72,7 +71,7 @@ ir-na.amazon-adsystem.com
 ir-uk.amazon-adsystem.com
 mads-eu.amazon.com
 mads.amazon-adsystem.com
-mads.amazon.com
+# mads.amazon.com
 ps-eu.amazon-adsystem.com
 ps-jp.amazon-adsystem.com
 ps-us.amazon-adsystem.com
@@ -90,9 +89,9 @@ rcm.amazon.com
 rfihub.com
 rfihub.com.akadns.net
 rfihub.net
-s.amazon-adsystem.com
+# s.amazon-adsystem.com
 serving-sys-lb.com.akadns.net
-serving-sys.com
+# serving-sys.com
 serving-sys.com-v1.edgesuite.net
 serving-sys.com.edgekey.net
 serving-sys.com.edgesuite.net
@@ -110,12 +109,12 @@ ws-eu.amazon-adsystem.com
 ws-eu.assoc-amazon.com
 ws-fe.amazon-adsystem.com
 ws-fe.assoc-amazon.com
-ws-na.amazon-adsystem.com
+# ws-na.amazon-adsystem.com
 ws-na.assoc-amazon.com
 ws.amazon.co.jp
-ws.amazon.com
+# ws.amazon.com
 ws.assoc-amazon.com
-www.assoc-amazon.com
+# www.assoc-amazon.com
 z-eu.amazon-adsystem.com
 z-na.amazon-adsystem.com
 #
@@ -133,9 +132,9 @@ b.c.bing.com
 b048bb050cecb6348039dbb02cacb651f.c.bing.com
 b12a2ab3873aa682d0529a0f377aa6be5.c.bing.com
 b176ad97310c765ff085adc9814c763ae.c.bing.com
-bat.bing.com
+# bat.bing.com
 bec1b485a2e64875e17a91752ffffffff.c.bing.com
-c.bing.com
+# c.bing.com
 dps.bing.com
 fg-set-my-cookie.c.bing.com
 i.c.bing.com
@@ -145,7 +144,7 @@ ld0e16864c0b74d263a4afe5bffffffff.c.bing.com
 m.c.bing.com
 m176ad97310c765ff085adc9814c763ae.c.bing.com
 mr.c.bing.com
-r.bat.bing.com
+# r.bat.bing.com
 ssl4.c.bing.com
 test.c.bing.com
 #
@@ -153,7 +152,7 @@ test.c.bing.com
 #
 api.bugsnag.com
 app.bugsnag.com
-bugsnag.com
+# bugsnag.com
 notify.bugsnag.com
 sessions.bugsnag.com
 staging.bugsnag.com
@@ -164,17 +163,17 @@ ad-ace.doubleclick.net
 ad-apac.doubleclick.net
 ad-emea.doubleclick.net
 ad-g.doubleclick.net
-ad.doubleclick.net
+# ad.doubleclick.net
 ad2.doubleclick.net
 adclick.g.doubleclick.net
 ads-bid.l.doubleclick.net
 adx.g.doubleclick.net
 dart-apac.l.doubleclick.net
 doubleclick.com
-doubleclick.net
+# doubleclick.net
 feedads.g.doubleclick.net
-fls.doubleclick.net
-g.doubleclick.net
+# fls.doubleclick.net
+# g.doubleclick.net
 g0.doubleclick.net
 g1.doubleclick.net
 g2.doubleclick.net
@@ -184,9 +183,9 @@ googleads2.g.doubleclick.net
 googleads4.g.doubleclick.net
 m.doubleclick.net
 mobile-displayads.l.doubleclick.net
-pagead46.l.doubleclick.net
+# pagead46.l.doubleclick.net
 partnerad.l.doubleclick.net
-pubads.g.doubleclick.net
+# pubads.g.doubleclick.net
 s0.doubleclick.net
 s1.doubleclick.net
 securepubads.g.doubleclick.net
@@ -194,18 +193,16 @@ static.doubleclick.net
 stats.g.doubleclick.net
 stats.l.doubleclick.net
 www.doubleclick.com
-www.doubleclick.net
+# www.doubleclick.net
 www2.doubleclick.com
 www3.doubleclick.com
 www3.doubleclick.net
 #
 # FastClick
 #
-brightroll.fastclick.net
 cdn-origin.fastclick.net
 cdn.fastclick.net
 code.fastclick.net
-csp.fastclick.net
 dc6.fastclick.net
 dev1.fastclick.net
 dev2.fastclick.net
@@ -215,7 +212,6 @@ media.fastclick.net
 moapps.fastclick.net
 ns1.fastclick.net
 ns2.fastclick.net
-optout.fastclick.net
 preview.fastclick.net
 qa.fastclick.net
 san-secure-cdn.fastclick.net
@@ -223,80 +219,75 @@ secure.cdn.fastclick.net
 secure.fastclick.net
 secure2.cdn.fastclick.net
 sj2.fastclick.net
-sync.fastclick.net
 tps.fastclick.net
 vcdn.fastclick.net
 video-vcdn.fastclick.net
-video.fastclick.net
-video1.fastclick.net
 vstatic.fastclick.net
 win-media-ams5.fastclick.net
 win-media-sj2.fastclick.net
-win-media.fastclick.net
 #
 # Google
 #
-2mdn.net
+# 2mdn.net
 ade.googlesyndication.com
-ads.google.com
+# ads.google.com
 adsense.google.com
-adservice.google.ca
-adservice.google.co.in
-adservice.google.co.kr
-adservice.google.co.uk
-adservice.google.co.za
-adservice.google.com
-adservice.google.com.ar
-adservice.google.com.au
-adservice.google.com.br
-adservice.google.com.co
-adservice.google.com.gt
-adservice.google.com.mx
-adservice.google.com.pe
-adservice.google.com.ph
-adservice.google.com.pk
-adservice.google.com.tr
-adservice.google.com.tw
-adservice.google.com.vn
-adservice.google.de
-adservice.google.dk
-adservice.google.es
-adservice.google.fr
-adservice.google.nl
-adservice.google.no
-adservice.google.ru
-adservice.google.vg
+# adservice.google.ca
+# adservice.google.co.in
+# adservice.google.co.kr
+# adservice.google.co.uk
+# adservice.google.co.za
+# adservice.google.com
+# adservice.google.com.ar
+# adservice.google.com.au
+# adservice.google.com.br
+# adservice.google.com.co
+# adservice.google.com.gt
+# adservice.google.com.mx
+# adservice.google.com.pe
+# adservice.google.com.ph
+# adservice.google.com.pk
+# adservice.google.com.tr
+# adservice.google.com.tw
+# adservice.google.com.vn
+# adservice.google.de
+# adservice.google.dk
+# adservice.google.es
+# adservice.google.fr
+# adservice.google.nl
+# adservice.google.no
+# adservice.google.ru
+# adservice.google.vg
 afs.googlesyndication.com
-analytics.google.com
-app-measurement.com
-appspot.com
+# analytics.google.com
+# app-measurement.com
+# appspot.com
 buttons.googlesyndication.com
 captive.pagead2.googlesyndication.com
 captive.tpc.googlesyndication.com
 doubleclickbygoogle.com
-google-analytics.com
-googleadservices.com
-googlesyndication.com
-googletagmanager.com
-googletagservices.com
-id.google.com
+# google-analytics.com
+# googleadservices.com
+# googlesyndication.com
+# googletagmanager.com
+# googletagservices.com
+# id.google.com
 mail-ads.google.com
 pagead2.googleadservices.com
-pagead2.googlesyndication.com
+# pagead2.googlesyndication.com
 pagead46.googlesyndication.com
 redirector.c.googlesyndication.com
-ssl-google-analytics.l.google.com
-ssl.google-analytics.com
+# ssl-google-analytics.l.google.com
+# ssl.google-analytics.com
 tpc.googlesyndication.com
 tpcnc.googlesyndication.com
 video-ad-stats.googlesyndication.com
-www-google-analytics.l.google.com
-www-googletagmanager.l.google.com
-www.google-analytics.com
-www.googleadservices.com
-www.googlesyndication.com
-www.googletagmanager.com
-www.googletagservices.com
+# www-google-analytics.l.google.com
+# www-googletagmanager.l.google.com
+# www.google-analytics.com
+# www.googleadservices.com
+# www.googletagmanager.com
+# www.googletagservices.com
 #
 # Hotjar
 #
@@ -310,20 +301,20 @@ docs.hotjar.com
 help-staging.hotjar.com
 help.hotjar.com
 home.hotjar.com
-hotjar.com
+# hotjar.com
 hotjar.io
 identify.hotjar.com
-in.hotjar.com
+# in.hotjar.com
 inside.hotjar.com
 insights-staging.hotjar.com
-insights.hotjar.com
+# insights.hotjar.com
 lambda.hotjar.com
 links.hotjar.com
 prod.hotjar.com
 product.hotjar.com
 rabbit.hotjar.com
 script-staging.hotjar.com
-script.hotjar.com
+# script.hotjar.com
 sentry-proxy.hotjar.com
 sp.hotjar.com
 sso.hotjar.com
@@ -332,7 +323,7 @@ static-cms-staging.hotjar.com
 static-cms.hotjar.com
 static-staging-cdn.hotjar.com
 static-staging.hotjar.com
-static.hotjar.com
+# static.hotjar.com
 status.hotjar.com
 storybook.hotjar.com
 suggest.hotjar.com
@@ -341,10 +332,10 @@ surveys.hotjar.com
 technology-demo.hotjar.com
 vars-s3-staging.hotjar.com
 vars-staging.hotjar.com
-vars.hotjar.com
+# vars.hotjar.com
 ws1-staging.hotjar.com
-ws1.hotjar.com
-ws10.hotjar.com
+# ws1.hotjar.com
+# ws10.hotjar.com
 ws11.hotjar.com
 ws12.hotjar.com
 ws13.hotjar.com
@@ -353,32 +344,32 @@ ws15.hotjar.com
 ws16.hotjar.com
 ws17.hotjar.com
 ws18.hotjar.com
-ws2.hotjar.com
-ws3.hotjar.com
-ws4.hotjar.com
-ws5.hotjar.com
-ws6.hotjar.com
-ws7.hotjar.com
-ws8.hotjar.com
-ws9.hotjar.com
+# ws2.hotjar.com
+# ws3.hotjar.com
+# ws4.hotjar.com
+# ws5.hotjar.com
+# ws6.hotjar.com
+# ws7.hotjar.com
+# ws8.hotjar.com
+# ws9.hotjar.com
 #
 # Media.net ***
 #
 adservetx.media.net
-media.net
+# media.net
 media.net.akadns6.net
 static.media.net
 #
 # MouseFlow ***
 #
 a.mouseflow.com
-mouseflow.com
+# mouseflow.com
 #
 # Facebook ***
 #
 ads.facebook.com
 analytics.facebook.com
-pixel.facebook.com
+# pixel.facebook.com
 #
 # FreshMarketer ***
 #
@@ -484,7 +475,7 @@ ac3.msn.com
 adevents.msn.com
 ads.eu.msn.com
 ads.jp.msn.com
-ads.msn.com
+# ads.msn.com
 ads1.jp.msn.com
 ads1.msn.com
 ads2.msn.com
@@ -529,7 +520,7 @@ c.in.msn.com
 c.it.msn.com
 c.jp.msn.com
 c.latam.msn.com
-c.msn.com
+# c.msn.com
 c.my.msn.com
 c.nl.msn.com
 c.no.msn.com
@@ -561,9 +552,9 @@ europe.advertising.msn.com
 fd.rad.msn.com
 fdtest.rad.msn.com
 flex.msn.com
-g.msn.com
+# g.msn.com
 global.sam.msn.com
-h.msn.com
+# h.msn.com
 h1.msn.com
 h2.msn.com
 h6.msn.com
@@ -574,7 +565,7 @@ img1.catalog.video.msn.com
 img4.catalog.video.msn.com
 install.toolbar.msn.com
 live.rads.msn.com
-mads.msn.com
+# mads.msn.com
 mobileads.msn.com
 mobileleads.msn.com
 msnbcmedia.msn.com
@@ -583,11 +574,11 @@ partnervideo.syndication.msn.com
 popup.msn.com
 preview.msn.com
 proxypage.msn.com
-r.msn.com
+# r.msn.com
 rad.msn.com
 rads.msn.com
 rmads.eu.msn.com
-rmads.msn.com
+# rmads.msn.com
 rpt.msn.com
 sam.msn.com
 srtb.msn.com
@@ -610,26 +601,26 @@ ads.us-west-2.prodaa.netflix.com
 #
 ads.pinterest.com
 analytics.pinterest.com
-ct.pinterest.com
-log.pinterest.com
-trk.pinterest.com
+# ct.pinterest.com
+# log.pinterest.com
+# trk.pinterest.com
 #
 # Reddit ***
 #
-ads.reddit.com
+# ads.reddit.com
 events.redditmedia.com
 rereddit.com
 #
 # Sentry ***
 #
-browser.sentry-cdn.com
+# browser.sentry-cdn.com
 #
 # Statcounter
 #
 c.statcounter.com
-gs.statcounter.com
-statcounter.com
-www.statcounter.com
+# gs.statcounter.com
+# statcounter.com
+# www.statcounter.com
 #
 # TikTok ***
 #
@@ -658,7 +649,7 @@ bats.video.yahoo.com
 beap.gemini.yahoo.com
 br.adspecs.yahoo.com
 cms.analytics.yahoo.com
-comet.yahoo.com
+# comet.yahoo.com
 de.advertising.yahoo.com
 es.advertising.yahoo.com
 fr.advertising.yahoo.com
@@ -671,7 +662,7 @@ in.advertising.yahoo.com
 it.advertising.yahoo.com
 latam.adspecs.yahoo.com
 log.fc.yahoo.com
-m.yap.yahoo.com
+# m.yap.yahoo.com
 marketingsolutions.yahoo.com
 onepush.query.yahoo.com
 opus.analytics.yahoo.com
@@ -686,35 +677,35 @@ visit.webhosting.yahoo.com
 #
 # Yandex ***
 #
-19534.redirect.appmetrica.yandex.com
-3.redirect.appmetrica.yandex.com
-30488.redirect.appmetrica.yandex.com
-4.redirect.appmetrica.yandex.com
+# 19534.redirect.appmetrica.yandex.com
+# 3.redirect.appmetrica.yandex.com
+# 30488.redirect.appmetrica.yandex.com
+# 4.redirect.appmetrica.yandex.com
 adfox.yandex.ru
 adsdk.yandex.ru
-an.yandex.ru
+# an.yandex.ru
 analytics.mobile.yandex.net
-appmetrica.yandex.com
-awaps.yandex.ru
+# appmetrica.yandex.com
+# awaps.yandex.ru
 awsync.yandex.ru
 banners-slb.mobile.yandex.net
 banners.mobile.yandex.net
 bs-meta.yandex.ru
-bs.yandex.ru
-clck.yandex.ru
-click.sender.yandex.ru
+# bs.yandex.ru
+# clck.yandex.ru
+# click.sender.yandex.ru
 extmaps-api.yandex.net
-grade.market.yandex.ru
-informer.yandex.ru
-kiks.yandex.ru
+# grade.market.yandex.ru
+# informer.yandex.ru
+# kiks.yandex.ru
 matchid.adfox.yandex.ru
-mc.yandex.ru
+# mc.yandex.ru
 mc.yandex.com
 metrika.yandex.ru
 mobile.yandexadexchange.net
 offerwall.yandex.net
-redirect.appmetrica.yandex.com
-redirect.appmetrica.yandex.ru
+# redirect.appmetrica.yandex.com
+# redirect.appmetrica.yandex.ru
 report.appmetrica.yandex.net
 share.yandex.ru
 startup.mobile.yandex.net
