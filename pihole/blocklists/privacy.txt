@@ -230,7 +230,7 @@ pixel.metrics.samba.tv
 pixel.mtrcs.samba.tv
 platform.cid.samba.tv
 preferences.cid.samba.tv
-samba.tv
+# samba.tv
 tag.mtrcs.samba.tv
 # www.flingo.tv
 #
