@@ -22,8 +22,8 @@
 # Exclude fake.txt: 10846
 # Exclude: 10846
 
-# Whitelist: 55720
-# Deadlist: 423056
+# Whitelist: 56344
+# Deadlist: 441198
 
 # Blacklist global: 15
 # Blacklist source: 
@@ -41,7 +41,7 @@
 # 10. Source: 87834 - https://raw.githubusercontent.com/mullvad/dns-adblock/main/output/relay/relay_adblock.txt
 # 11. Source: 15770 - https://raw.githubusercontent.com/mullvad/dns-adblock/main/output/relay/relay_privacy.txt
 # 12. Source: 898 - https://v.firebog.net/hosts/static/w3kbl.txt
-# 13. Source: 53094 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
+# 13. Source: 53100 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 14. Source: 13690 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 # 15. Source: 70267 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 16. Source: 91405 - https://dbl.oisd.nl/basic/
@@ -85,16 +85,16 @@
 # 54. Source: 37 - https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
 # 55. Source: 1178 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 56. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 57. Source: 1319 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 57. Source: 1336 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 58. Source: 387 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1198720
+# #. Source: 1198743
 
 Statistik multi.txt:
-== Source (unique): 607901
-++ Black:           607905 (+4)
--- White:           605127 (-2778)
--- Dead:            428831 (-176296)
--- Exclude:         428760 (-71)
--- Unblock:         428726 (-34)
-++ WWW-Domains:     565025 (+136299)
-++ FLD-Domains:     566158 (+1133)
+== Source (unique): 607915
+++ Black:           607919 (+4)
+-- White:           605149 (-2770)
+-- Dead:            418804 (-186345)
+-- Exclude:         418733 (-71)
+-- Unblock:         418699 (-34)
+++ WWW-Domains:     546325 (+127626)
+++ FLD-Domains:     547252 (+927)
