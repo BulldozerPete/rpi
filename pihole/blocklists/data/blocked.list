@@ -107,7 +107,6 @@ aff.bstatic.com
 af.opera.com
 af.stroeerdp.de
 a.hstrck.com
-alive.github.com
 a.mailmunch.co
 amazon.partners.tremorhub.com
 amazonwebservices.d2.sc.omtrdc.net
@@ -135,7 +134,6 @@ analytics.picsart.com
 analytics.pinterest.com
 analytics.pointdrive.linkedin.com
 analytics.samsungknox.com
-analytics-static.ugc.bazaarvoice.com
 analytics.tiktok.com
 analytics-udg.netdna-ssl.com
 analytics.webgains.io
@@ -155,7 +153,6 @@ api.instabug.com
 api-js.mixpanel.com
 api.opmnstr.com
 api.permutive.com
-api.picsart.com
 api.popin.cc
 api.pubnative.net
 api.pushwoosh.com
@@ -209,7 +206,6 @@ bam-cell.nr-data.net
 bam.eu01.nr-data.net
 bang-4-buck.com
 baseendpoint.stern.de
-bat-bing-com.a-0001.a-msedge.net
 bcp.crwdcntrl.net
 beaconimages.netflix.net
 beacon.krxd.net
@@ -240,7 +236,6 @@ cagothie.net
 ca.iadsdk.apple.com
 capture.trackjs.com
 cas.avalon.perfdrive.com
-c.bing.com
 cd.adition.com
 cdn10.trafficjunky.net
 cdn2.teads.tv
@@ -261,7 +256,6 @@ cdn.c-i.as
 cdn.cloudimagesb.com
 cdn.contalyze.com
 cdn.districtm.io
-cdn-eu.dynamicyield.com
 cdn.exactag.com
 cdn.fastclick.net
 cdn.flashtalking.com
@@ -278,6 +272,7 @@ cdn.netpoint-media.de
 cdn.nsimg.net
 cdn.o333o.com
 cdn.onthe.io
+cdn.opencmp.net
 cdn.parsely.com
 cdn-pci.optimizely.com
 cdn.permutive.com
@@ -292,7 +287,6 @@ cdn.stroeerdigitalmedia.de
 cdn.subscribers.com
 cdns.yieldscale.com
 cdn.taboola.com
-cdn.tagcommander.com
 cdn.trackjs.com
 cdntrf.com
 cdn.trustcommander.net
@@ -409,7 +403,6 @@ data-c5925d7d99.pcgameshardware.de
 data-c69aa33f02.linux-community.de
 data-e4997adf31.welt.de
 datalayer.p7s1.io
-data.logentries.com
 data.mistat.rus.xiaomi.com
 data.pendo.io
 data.photorank.me
@@ -562,7 +555,6 @@ htlb.casalemedia.com
 ht.redtube.com
 ht.tube8.com
 ht.xtube.com
-hubt.pornhub.com
 hubtraffic.com
 hw-cdn-ap.trafficjunky.net
 ib.3lift.com
@@ -585,7 +577,6 @@ image6.pubmatic.com
 image8.pubmatic.com
 images1.test.de
 images.intellitxt.com
-imagesrv.adition.com
 images.taboola.com
 img06.en25.com
 img.img-taboola.com
@@ -650,7 +641,6 @@ location.l.force.com
 log16-normal-c-useast1a.tiktokv.com
 logbak.hicloud.com
 log.core.cloud.vewd.com
-logfiles-va.zoom.us
 login.live-int.com
 log.outbrainimg.com
 log.pinterest.com
@@ -843,7 +833,6 @@ pyxis.iad.appboy.com
 quartermedia.de
 radar.cedexis.com
 radiantskilled.com
-rcom-eu.dynamicyield.com
 reachms.bfmio.com
 recommender.scarabresearch.com
 regulationprivilegescan.top
@@ -885,10 +874,10 @@ s385.mxcdn.net
 s400.mxcdn.net
 s8t.teads.tv
 s.adroll.com
+s.adx.opera.com
 sak.userreport.com
 salutationcheerlessdemote.com
 sams.spiegel.de
-samsungadhub.com
 samsungads.com
 samsung-com.112.2o7.net
 sanalytics.express.de
@@ -921,7 +910,6 @@ search.spotxchange.com
 secure.adnxs.com
 secure-adnxs.edgekey.net
 secure-assets.rubiconproject.com
-secure-dcr.imrworldwide.com
 secure-ds.serving-sys.com
 secure-eu.nmrodam.com
 secure.make6pain.com
@@ -939,7 +927,6 @@ settings.luckyorange.net
 sex-and-flirt.com
 sf16-ttcdn-tos.ipstatp.com
 s.go-mpulse.net
-shield.sitelock.com
 sickmakes.com
 simage2.pubmatic.com
 siteintercept.qprod2.net
@@ -964,7 +951,6 @@ spiegel.met.vgwort.de
 spl.zeotap.com
 spotsetcpar.com
 squirrelhands.com
-src.ebay-us.com
 srtb.msn.com
 srv.buysellads.com
 srv.clickfuse.com
@@ -973,10 +959,8 @@ srv.pixel.parsely.com
 ssa.eurosport.de
 ssbsync.smartadserver.com
 ssc.33across.com
-s.skimresources.com
 ssl-chip.met.vgwort.de
 ssl.gft2.de
-ssl-google-analytics.l.google.com
 ssl-handelsblatt.met.vgwort.de
 ssl-heise.met.vgwort.de
 ssl-rp-online.met.vgwort.de
@@ -999,13 +983,13 @@ static.digidip.net
 static.doubleclick.net
 static.emsservice.de
 static.etracker.com
-static.hotjar.com
 static.media.net
 static.mediarithmics.com
 static.newsletter2go.com
 static.olark.com
 static.par.vip.prod.criteo.net
 static.showheroes.com
+static.trackedweb.net
 static.trafficjunky.com
 static-v2.trbo.com
 static.yieldmo.com
@@ -1022,7 +1006,6 @@ stats.smartclip.net
 stats.sxp.smartclip.net
 stats-t--online-de.cdn.ampproject.org
 stats.wp.com
-st-eu.dynamicyield.com
 submit-target.osp.opera.software
 supportmetrics.apple.com
 survey.survicate.com
@@ -1170,7 +1153,6 @@ weather-analytics-events.apple.com
 webanalytics.btelligent.net
 webedia-d.openx.net
 web.hb.ad.cpe.dotomi.com
-webhook.logentries.com
 webtrack.rund-ums-baby.de
 web.wurfl.io
 wer.schwarzwaelder-bote.de
@@ -1183,7 +1165,6 @@ wikia-d.openx.net
 wildcard.bkrtx.com.edgekey.net
 windychinese.com
 wlplatincasino.adsrv.eacdn.com
-wrapper-api.sp-prod.net
 ws.sharethis.com
 w.usabilla.com
 ww251.smartadserver.com
@@ -1229,6 +1210,7 @@ www.xadsmart.com
 www.yext-pixel.com
 www.zigann.com
 x.bidswitch.net
+x.disq.us
 xml.fastdlr.com
 xray.mail.ru
 yandexadexchange.net
