@@ -29,13 +29,13 @@
 # 1. Source: 181 - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 # 2. Source: 13690 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 # 3. Source: 214 - https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
-# 4. Source: 651 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/ads_tracking.txt
-# 5. Source: 597 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/privacy.txt
+# 4. Source: 516 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/ads_tracking.txt
+# 5. Source: 517 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/privacy.txt
 # 6. Source: 6 - https://raw.githubusercontent.com/jamiemansfield/minecraft-hosts/master/lists/tracking.txt
 # 7. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 15734 Domains - V2021.08.16-18:27:49
+# 15620 Domains - V2021.08.17-03:33:15
 # ---------------------------------------------
 #
 052015012251.c.bing.com
@@ -102,6 +102,7 @@
 1.librestream.com
 1.salesforce-partners.com
 1winter.net.daraz.com
+204.scloud.letv.com
 2114000.r.msn.com
 2149921.r.msn.com
 2155575.r.msn.com
@@ -580,6 +581,7 @@ a44287.actonservice.com
 a44293.actonservice.com
 a44316.actonservice.com
 a44332.actonservice.com
+a460.cell.phone.ringtone.samsung.sms13.de
 a8.01cloud.jp
 a8780.actonservice.com
 a8aspconv.xn--biglobe-kc9k.com
@@ -744,19 +746,14 @@ aa.tvguide.com
 aa.wowma.jp
 aax.amazon-adsystem.com
 aax-cpm.amazon-adsystem.com
-aax-eu.amazon-adsystem.com
 aax-eu.amazon.es
 aax-eu.amazon.in
 aax-eu.amazon.nl
 aax-eu-dub.amazon.com
-aax-eu-retail-direct.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
 aax-us.amazon-adsystem.com
-aax-us-east.amazon-adsystem.com
 aax-us-east-rtb.amazon-adsystem.com
-aax-us-iad.amazon.com
-aax-us-pdx.amazon-adsystem.com
 abc.fackelmann.de
 abc.hb-api.omtrdc.net
 abc.hb.omtrdc.net
@@ -907,7 +904,6 @@ about.bridge-u.com
 absinfo.eagle.org
 abtauthprd.samsungcloudsolution.com
 abtest.em.redmart.com
-abtest.mistat.xiaomi.com
 abtest.redmart.com
 abvghl.udn.com
 abwjpw.misssixty.com
@@ -949,9 +945,11 @@ action.advisorycloud.com
 action.greenpeace.org.uk
 action.metaffiliation.com
 activation.depop.com
+activeqq.3g.qq.com
 activeseason.net.daraz.com
 activity.asce.org
 activity.browser.intl.miui.com
+activity.tuifish.com
 act.lanap.com
 act-on.ioactive.com
 act.online.engineering.nyu.edu
@@ -1033,16 +1031,16 @@ adevents.msn.com
 adeventtracker.spotify.com
 adfoc.us
 adfox.yandex.ru
+adfuture.cn
 ad-g.doubleclick.net
 adgjl13.com
-ad-integration.sxp.smartclip.net
-ad-ipd.sxp.smartclip.net
 adj.st
 ad.kddi-fs.com
 adlab.spotify.com
 adm.adminstrumentengineering.com.au
 admeasure.hh-online.jp
 adm.hotjar.com
+ad.mi.com
 admina.carte-gr.total.fr
 administrator.csr21.net.daraz.com
 administrator.lib-ht-2.net.daraz.com
@@ -1127,6 +1125,7 @@ adobe.wacoal.jp
 a.docs-ns.emailvision.net.daraz.com
 adpromo.peppynet.com
 ads1.jp.msn.com
+ads1.lfengmobile.com
 ads1.msn.com
 ads2.msn.com
 ads.aimitv.com
@@ -1139,7 +1138,6 @@ adsdk.yandex.ru
 adsense.google.com
 adserver.bing.com
 adserver.msn.com
-adserver.snapads.com
 adserver.yahoo.com
 adservetx.media.net
 adservice.google.ac
@@ -1383,9 +1381,8 @@ ads.facebook.com
 adsfs.oppomobile.com
 ads.google.com
 ads.jp.msn.com
+ads.kukku.com
 ads.linkedin.com
-ad.smartclip.net
-ads.msn.com
 ads.netflix.com
 adspecs.yahoo.com
 ads.pinterest.com
@@ -1399,9 +1396,9 @@ ads.test.netflix.com
 ads.tiktok.com
 ads.tiktok.com.edgekey.net
 ads-twitter.com
+adsunflower.com
 ads.us-east-1.prodaa.netflix.com
 ads.us-west-2.prodaa.netflix.com
-ad.sxp.smartclip.net
 ads.yahoo.com
 ads.yap.yahoo.com
 adsyndication.msn.com
@@ -1452,12 +1449,12 @@ advertising.roku.com
 advertising.snapchat.com
 advertising.yahoo.com
 adv.ettoday.net
+adview.cn
 advise.gallup.com
 advisor.raa.com
 advisorycloud-dev.actonservice.com
 advocacy.ahip.org
 adv.sec.intl.miui.com
-adv.sec.miui.com
 advtek.actonservice.com
 adx.ads.oppomobile.com
 adx.g.doubleclick.net
@@ -1486,6 +1483,7 @@ a.gedidigital.it
 agency.thelevelup.com
 a.getaawp.com
 a.global.ns.emailvision.net.daraz.com
+agnes.scloud.lfengmobile.com
 agriprecision.net.daraz.com
 ahdeka.kazanexpress.ru
 a.hellonext.co
@@ -1508,6 +1506,7 @@ ajlnty.vipavenue.ru
 ajvzis.triumph.com
 akalipartner.net.daraz.com
 akali-patner.net.daraz.com
+akcjasamsung.e-kei.pl
 aladdinupdate.blackrock.com
 albatross.coachmydiet.gr
 albatross.creacoon.com
@@ -1540,7 +1539,6 @@ a.marketns.emailvision.net.daraz.com
 amauthprd.samsungcloudsolution.com
 amazonadsi-a.akamaihd.net
 amazonadsi-a.akamaihd.net.edgesuite.net
-amazon-adsystem.amazon.com
 amazon-adsystem.com
 amazon-brand-registry.com
 amazonbusiness.ca
@@ -1566,6 +1564,7 @@ amplify.strategic-i.com
 analytic.ae.com
 analytic.cibc.com
 analytic.hotelclub.com
+analytics3.starschina.com
 analytics.aba.com
 analytics.adonisjs.com
 analytics.adultswim.co.uk
@@ -1601,7 +1600,6 @@ analytics.ferguson.com
 analytics.filiotech.com
 analytics.fnbfremont.com
 analytics.futuro360.com
-analytics.google.com
 analytics.haworth.com
 analytics.hayneedle.com
 analytics.hermesworld.com
@@ -1627,7 +1625,6 @@ analytics.myhermes.de
 analytics.nascar.com
 analytics.navyfederal.org
 analytics.ncaa.com
-analyticsnew.overwolf.com
 analytics.nordea.com
 analytics.nordea.dk
 analytics.nordea.fi
@@ -1773,11 +1770,10 @@ api.ad.intl.xiaomi.com
 api.ads.oppomobile.com
 api.ad.xiaomi.com
 apiautumn.net.daraz.com
-api.browser.miui.com
-api.brs.intl.miui.com
 api.bugsnag.com
 api.cid.samba.tv
 api.collect.data.intl.miui.com
+api.cupid.ptqy.gitv.tv
 api.decentralize.today
 api.distribution.hulu.com
 api-docscar31.net.daraz.com
@@ -1791,44 +1787,50 @@ apidocsr-ln-1.net.daraz.com
 api-docs-r-oa-2.net.daraz.com
 apidocs-winter.net.daraz.com
 api-docs.www.net.daraz.com
-api.d.xiaomi.com
 api.elliehuxtable.com
 api.euro.hismarttv.com
+api.g.micloud.xiaomi.net
 api-gps-em.hismarttv.com
 api-gps-na.hismarttv.com
+api.hdtv.letv.com
 api-hub.samsungyosemite.com
-api.hybrid.xiaomi.com
+api.itv.letv.com
 api.keele-nnw-leis-mc-leis.net.daraz.com
 api-launcher-em.hismarttv.com
 api-launcher-na.hismarttv.com
+api.live.letv.com
 api-marketing.net.daraz.com
 api-mf1.meta.ndmdhs.com
-api.miui.security.xiaomi.com
 api.mtrcs.samba.tv
 api.newsfeed.intl.miui.com
 api.nfl.com
+api.platform.cp21.ott.cibntv.net
+api.platform.letv.com
+api.platform.letv-epg.wasu.tv
+api.platform.video123456.com
 api-pl.kdrag0n.dev
 api.recommendations.samba.tv
 api.scraper.pandora.xiaomi.com
-api.sec.intl.miui.com
-api.sec.miui.com
 apiserver-c.ns.emailvision.net.daraz.com
 apiserverlib-ht-2.net.daraz.com
 apiserver.r-is-1-2.net.daraz.com
 apiserver-wlan-switch.net.daraz.com
 apiservices.krxd.net
-api.setting.intl.miui.com
-api.tw06.xlmc.sec.miui.com
+api.tuisong.baidu.com
 api.us.hismarttv.com
 api.video.xiaomi.com
 api-www.partner.net.daraz.com
+api.zhifu.letv.com
+apk.scloud.lfengmobile.com
 apmebf.com
 a.pourquoidocteur.fr
+app01.nodes.gslb.mi-idc.com
+app02.nodes.gslb.mi-idc.com
 app03.ikk-classic.de
 app2.salesmanago.pl
 app.3d.ultimaker.com
 app.adjust.com
-app-analytics.snapchat.com
+app-analytics-us.huami.com
 app-analytics-v2.snapchat.com
 app.assetscem.endeavorb2b.com
 app.assetsdes.endeavorb2b.com
@@ -1839,6 +1841,7 @@ app.business.westernunion.com
 app.chat.xiaomi.net
 app-clicks.firstrepublic.com
 app.demand.ptc.com
+appdistapi.scloud.le.com
 app.events.philips.com
 app.getresponse.com
 app.info.coopenae.fi.cr
@@ -1857,13 +1860,12 @@ app.link
 applink.getbambu.com
 applog.musical.ly
 applog.musical.ly.edgekey.net
+applog.uc.cn
 applog-useast1a.musical.ly
 applog-useast2a.musical.ly
 apply.bluetrustloans.com
 apply.maxlend.com
 apply.online.olivet.edu
-app.market.xiaomi.com
-app-measurement.com
 appmetrica.yandex.com
 appmetrics.sprint.com
 app.mktg.genesys.com
@@ -1875,12 +1877,9 @@ app.season.net.daraz.com
 appsecurezomation.carte-gr.total.fr
 app.sephora.com
 apps.net.daraz.com
-appspot.com
 apps.print-mo.net.daraz.com
 apps-spring.net.daraz.com
 app-stats.supernotes.app
-appstore.cdn.pandora.xiaomi.com
-appstore.pandora.xiaomi.com
 apps-www.net.daraz.com
 apps.www.net.daraz.com
 app.thomsonreuters.com
@@ -1939,7 +1938,6 @@ a.sentry.io
 as.fitbook.de
 ash.weblb-wg.gslb.spotify.com
 asia.spotifyforbrands.com
-asimov-win.settings.data.microsoft.com.akadns.net
 a.skcript.com
 a.skins-ns.emailvision.net.daraz.com
 ask.legalsolutions.thomsonreuters.info
@@ -1958,10 +1956,9 @@ assetsns3.cl.bellsouth.net.daraz.com
 assets-r-dw-1.net.daraz.com
 assets.sr.roku.com
 assetsyancancook.net.daraz.com
-assistant.pandora.xiaomi.com
 assoc-amazon.com
 as.stylebook.de
-a.stat.xiaomi.com
+astat.bugly.qq.com
 as.techbook.de
 a.steigenberger.com
 asterisk.net.daraz.com
@@ -1993,8 +1990,6 @@ ausclh.castlery.com
 austin.logs.roku.com
 auth40.net.daraz.com
 authallseason.net.daraz.com
-authbe.sec.intl.miui.com
-auth.be.sec.miui.com
 auth-csr21.net.daraz.com
 auth-em.hismarttv.com
 authenticate.car10.net.daraz.com
@@ -2034,7 +2029,6 @@ awsc.ns.emailvision.net.daraz.com
 aws.cs-utils-rtr.net.daraz.com
 aws.keele-nnw-leis-mc-leis.net.daraz.com
 awsns1.viviotech.net.daraz.com
-awsusor0-cdn.fds-ssl.api.xiaomi.com
 awsync.yandex.ru
 axikfy.dicksmith.com.au
 axion-biosystems.actonservice.com
@@ -2075,6 +2069,7 @@ baboon.alexmedick.com
 backend-r-ht-1.net.daraz.com
 backendr-oa-2.net.daraz.com
 backend.www.net.daraz.com
+backup.scloud.letv.com
 badb5refl.com
 badger.pager.app
 badger.roidi.gr
@@ -2108,7 +2103,6 @@ bar.rad.msn.com
 bass.goulet.dev
 bass.kidneystonediet.com
 bass.siterig.io
-bat.bing.com
 bat.r.msn.com
 bats.video.yahoo.com
 bayshoresystems.actonservice.com
@@ -2118,7 +2112,6 @@ bb.blackberry.com
 bbcwsy.blacktyres.ru
 bbkmby.4camping.cz
 b.bloomberglp.com
-bbs.game.xiaomi.com
 bcaeurope.eu
 bcanl.bca-autoveiling.nl
 bc.bannerengineering.com
@@ -2139,9 +2132,6 @@ bdfmis.motor-talk.de
 b.dl.redcrossblood.org
 bdoaustralia.bdo.com.au
 b.dockerns.emailvision.net.daraz.com
-beacon.eu-west-1.prodaa.netflix.com
-beacon.us-east-1.prodaa.netflix.com
-beacon.us-west-2.prodaa.netflix.com
 beanstalkmarketing.actonservice.com
 beap.gemini.yahoo.com
 bear.jake.nyc
@@ -2171,6 +2161,7 @@ berndpulchmedotcomnautilus.net.daraz.com
 berndpulchmedotcom-signed.net.daraz.com
 b.escardio.org
 bestbuy.actonservice.com
+beta.ads1.lfengmobile.com
 beta-aws.net.daraz.com
 betacar40.net.daraz.com
 beta-interactionext.net.daraz.com
@@ -2181,6 +2172,7 @@ beta-ns2.twtelecom.net.daraz.com
 beta-print-mo.net.daraz.com
 beta.toolbar.msn.com
 beta-v1.net.daraz.com
+beta.whitelist.scloud.lfengmobile.com
 betawww.partner.net.daraz.com
 bet.hb.omtrdc.net
 b.europe-ns.emailvision.net.daraz.com
@@ -2196,7 +2188,10 @@ bgu-sso.net.daraz.com
 bgzyrt.monetnik.ru
 bhu9.bankia.es
 bhxemw.charleskeith.com
-bid.sxp.smartclip.net
+bigdata.adfuture.cn
+bigdata.adsunflower.com
+bigdata.adups.com
+bigdata.advmob.cn
 bigdata.ssp.samsung.com
 big.srax.com
 b.iheart.southwest.com
@@ -2338,6 +2333,7 @@ br.email.lifesum.com
 br-go.kelkoogroup.net
 briefing.actonservice.com
 broker.mqtt.pandora.xiaomi.com
+browser.scloud.letv.com
 browser.sentry-cdn.com
 brs.api.intl.miui.com
 brukernano.actonservice.com
@@ -2348,7 +2344,6 @@ bskyb.hb.omtrdc.net
 bs-meta.yandex.ru
 b.snow.com
 bs.serving-sys.com
-bss.pandora.xiaomi.com
 b.staff-ns.emailvision.net.daraz.com
 bstats.org
 bstias.avilon.ru
@@ -2365,7 +2360,6 @@ bucketwww.partner.net.daraz.com
 budibu.saksfifthavenue.com
 buf.lemonde.fr
 bug.onlinedating.de
-bugsnag.com
 build.usgbc.org
 bulkbookstore.actonservice.com
 bum7.bymycar.fr
@@ -2409,14 +2403,11 @@ c4dv.copinesdevoyage.com
 cables.conwire.com
 c.accountingns.emailvision.net.daraz.com
 cache.a.market.xiaomi.com
-cache.datamart.windows.com
-cache.sxp.smartclip.net
 ca.creditacceptance.com
 c.active.ns.emailvision.net.daraz.com
-ca.iadsdk.apple.com
+calendar.scloud.letv.com
 call.me.sel.sony.com
 calmradio.actonservice.com
-calopenupdate.comm.miui.com
 camagess.carte-gr.total.fr
 ca.mattamyhomes.com
 c.amazon-adsystem.com
@@ -2526,7 +2517,6 @@ cavy9soho.com
 cbcca.hb.omtrdc.net
 c.be.msn.com
 cben9a9s1.com
-c.bing.com
 cbmetrics.clickbank.com
 cbn.hb.omtrdc.net
 c.br.msn.com
@@ -2543,8 +2533,6 @@ c.ca.msn.com
 ccbjournal.actonservice.com
 cc.conforama.es
 cc.cornesmotors.com
-ccc.sys.intl.xiaomi.com
-ccc.sys.miui.com
 cc-dt.com
 cc-generator.net.daraz.com
 ccgenerator.net.daraz.com
@@ -2554,8 +2542,6 @@ c.cl.msn.com
 ccma.hb.omtrdc.net
 ccmd.coveredca.com
 cc.pennstatehealth.org
-cc.sys.intl.xiaomi.com
-cc.sys.miui.com
 c.de.msn.com
 c.developns.emailvision.net.daraz.com
 cdfhpj.automobile.it
@@ -2565,7 +2551,6 @@ cdn-a.amazon-adsystem.com
 cdn.ad.xiaomi.com
 cdn.arcstudiopro.com
 cdn.fastclick.net
-cdn.fds-ssl.api.xiaomi.com
 cdn.hbbtv.smartclip.net
 cdn.luckyorange.com
 cdn-marketing.net.daraz.com
@@ -2596,12 +2581,9 @@ cephalopod.staff.design
 cert-test.sandbox.google.com
 c.es.msn.com
 c.europewest-ns.emailvision.net.daraz.com
-ceuswatcab01.blob.core.windows.net
-ceuswatcab02.blob.core.windows.net
 cfg-patner.net.daraz.com
 cfgwww.partner.net.daraz.com
 cfhjqg.sonyunara.jp
-cf.iadsdk.apple.com
 c.fi.msn.com
 c.fr.msn.com
 cfsaze.retailmenot.com
@@ -2637,7 +2619,6 @@ chip2gift.com
 chipmunk.balancer.fi
 chipmunk.crestedbuttejobs.com
 c.hk.msn.com
-choice.microsoft.com
 choosegrad.ttu.edu
 choose.nu.edu
 christian.lifeway.com
@@ -2647,7 +2628,6 @@ ch.sharpmarketing.eu
 churchofjesuschrist.hb-api.omtrdc.net
 churro.noteapps.info
 c.iadns.emailvision.net.daraz.com
-ci.atv.smartclip.net
 c.id.msn.com
 c.ie.msn.com
 cijfers.tweakers.nl
@@ -2669,7 +2649,6 @@ cisco-capwap-rpc.net.daraz.com
 cisco-capwap-system.net.daraz.com
 cisco-capwap-trainingler.net.daraz.com
 cisco-eagle.actonservice.com
-ci.sxp.smartclip.net
 ciszhp.gutefrage.net
 citizensclimate.actonservice.com
 c.it.msn.com
@@ -2799,7 +2778,6 @@ cloudhosting.actonservice.com
 cloud.jumpcloud.com
 cloud-news.ionos.com
 cloud-r-ch-1.net.daraz.com
-cloudservices.roku.com
 cloudsummer.net.daraz.com
 cloud.www.net.daraz.com
 clownfish.philipkiely.com
@@ -2815,7 +2793,6 @@ cms.analytics.yahoo.com
 cms-a.ns.emailvision.net.daraz.com
 cms.car13.net.daraz.com
 cms.hardloopaanbiedingen.nl
-c.msn.com
 cms-r-ln-2.net.daraz.com
 cms.season.net.daraz.com
 cmsw-htgb-a.net.daraz.com
@@ -2936,7 +2913,6 @@ collect-us-fy2019.myhomescreen.tv
 collect-us-fy2020.myhomescreen.tv
 college.business.oregonstate.edu
 col.mobileads.msn.com
-comad.sxp.smartclip.net
 comcastcom.hb.omtrdc.net
 comcastentertainmentgroup.hb.omtrdc.net
 comet.yahoo.com
@@ -2979,6 +2955,7 @@ conbert2mp3.net.daraz.com
 conference-2-standalonecluster8463e.net.daraz.com
 conff.dc.oppomobile.com
 confiant.msn.com
+config.kuyun.com
 config.samsungads.com
 confluence.cisco-capwap-controller.net.daraz.com
 confluencepartner.net.daraz.com
@@ -3133,6 +3110,7 @@ controller.r-ln-1.net.daraz.com
 controller.winter.net.daraz.com
 controllocalhost.net.daraz.com
 control.r-dw-1.net.daraz.com
+control.scloud.letv.com
 control-summer.net.daraz.com
 control.summer.net.daraz.com
 cont.sendenkaigi.com
@@ -3190,7 +3168,6 @@ craftmod.net.daraz.com
 crane.trescolori.cloud
 crashdump.spotify.com
 crashlogs.whatsapp.net
-crashlyticsreports-pa.googleapis.com
 crawdad.internetassociation.org
 crayfish.fansubbing.com
 crayfish.thingelstad.com
@@ -3252,7 +3229,6 @@ csr41.net.daraz.com
 csr41.net.home24.de
 csr41.uploads.net.daraz.com
 c.staffns.emailvision.net.daraz.com
-cstat.apple.com
 c.statcounter.com
 c.stg.ns.emailvision.net.daraz.com
 cs-utils-rtr.backend.net.daraz.com
@@ -3296,6 +3272,7 @@ customerevents.netflix.com
 customerlib-ht-2.net.daraz.com
 customer.summer.net.daraz.com
 customlinks.appsflyer.com
+custom.scloud.letv.com
 customtraffic.impactradius.com
 c.v2.ns.emailvision.net.daraz.com
 cv.a-internet.jp
@@ -3359,7 +3336,6 @@ data1.virginmobile.ca
 data1.virginplus.ca
 data.adlermode.com
 data.ads.oppomobile.com
-data.alexa.com
 data.all-in.de
 data-a.ns.emailvision.net.daraz.com
 data.arqiva.tv
@@ -3392,7 +3368,6 @@ data.engelhorn.de
 data-f.ads.oppomobile.com
 dataf.ads.oppomobile.com
 datafiletechnologies.actonservice.com
-data.game.xiaomi.com
 data.goertz.de
 datag.polo.com
 data.hicloud.com
@@ -3404,14 +3379,13 @@ data.lifesize.com
 data.mainpost.de
 data.mapp.com
 data.mistat.india.xiaomi.com
+data-mistat-india-xiaomi-com-1248219176.ap-south-1.elb.amazonaws.com
 data.mistat.intl.xiaomi.com
 data.mistat.rus.xiaomi.com
 data.mistat.xiaomi.com
 data.netweaver.uk
 data.ouigo.com
 data-r-oa-2.net.daraz.com
-data.sec.intl.miui.com
-data.sec.miui.com
 data-sg.ads.oppomobile.com
 data-ssl.pnet.co.za
 data-ssl.stepstone.at
@@ -3430,7 +3404,6 @@ daten.union-investment.de
 datum.appfleet.com
 dawn3host.com
 db1.hotjar.com
-db5.vortex.data.microsoft.com.akadns.net
 d.bitbucketns.emailvision.net.daraz.com
 db-partner.net.daraz.com
 db-patner.net.daraz.com
@@ -3493,7 +3466,6 @@ demolocalhost.net.daraz.com
 demor-es-1.net.daraz.com
 demo-r-ht-2.net.daraz.com
 demo.r-ln-1.net.daraz.com
-de.pandora.xiaomi.com
 dependable-s.hyster.com
 de.promo.skf.com
 de.secure.sonosite.com
@@ -3502,7 +3474,6 @@ designerlives.com.au.websitedesignroom.net.daraz.com
 design.hotjar.com
 design.informabi.com
 desiruleztv.net.daraz.com
-des.smartclip.net
 detnmz.cuteness.com
 detnmz.hunker.com
 detnmz.leaf.tv
@@ -3524,8 +3495,6 @@ development-r-oa-1.net.daraz.com
 developpatnercgi.net.daraz.com
 developyancancook.net.daraz.com
 devfreya.net.daraz.com
-devicemessaging.us-east-1.amazon.com
-device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 devops-csr21.net.daraz.com
 devopsns2.twtelecom.net.daraz.com
@@ -3555,7 +3524,6 @@ dhlsupplychain.dhl.com
 dhsjpz.bugaboo.com
 di8n.bfmtv.com
 diagnosis.ad.xiaomi.com
-diagnostics.support.microsoft.com
 dialog.anderson-negele.com
 dialog.dqs.de
 dialogue.de.mazda.ch
@@ -3584,6 +3552,7 @@ dialogue.mazda.si
 dialogue.mazda.sk
 dialogue.nl.mazda.be
 diamages.carte-gr.total.fr
+diff.scloud.letv.com
 digdug-g2.logs.roku.com
 digdug.logs.roku.com
 digi.maestro.fi
@@ -3707,6 +3676,7 @@ dmt2.canon.jp
 d.newssuite.sony.net
 dngpzy.bfmtv.com
 dnklry.plushbeds.com
+dnm-cn.scloud.letv.com
 d.node.ns.emailvision.net.daraz.com
 dns1.administrator-freshegg.net.daraz.com
 dns1.alpha-freshegg.net.daraz.com
@@ -3799,7 +3769,6 @@ doll9jiva.com
 dolphin.biodom.rs
 dolphin.brandname.tech
 dolphin.maybe.co
-domainad.sxp.smartclip.net
 dongesion.carte-gr.total.fr
 donkey.bahr.dev
 donkey.routinehub.co
@@ -3860,7 +3829,6 @@ dupont.hb.omtrdc.net
 durst-group.actonservice.com
 d.v2.ns.emailvision.net.daraz.com
 dv59b.montecarlomeeting.com
-dvb.pandora.xiaomi.com
 dvghns.idealista.it
 dvo.assurandme.fr
 dvrxgs.fc-moto.de
@@ -3939,8 +3907,6 @@ easymonitoringnm.carte-gr.total.fr
 eat9.thebeat925.ca
 ea.telecommandeonline.com
 ea.tool-fitness.com
-eaus2watcab01.blob.core.windows.net
-eaus2watcab02.blob.core.windows.net
 ea.venta-unica.com
 ea.vente-unique.be
 ea.vente-unique.ch
@@ -4210,7 +4176,6 @@ emailpartner.net.daraz.com
 email.pray.com
 email-sailthru.branch.io
 email-sendgrid-deep-linking.chewy.com
-email.smartclip.com
 email.social.f5.com
 email-staging.goodrx.com
 email.strava.com
@@ -4233,6 +4198,7 @@ emeu0circ.com
 em.getsimpleprints.com
 emisgroupplc.actonservice.com
 emjcd.com
+emoticon.scloud.letv.com
 emotir.pcone.com.tw
 empresa.ricoh.es
 em.touchtunes.com
@@ -4366,7 +4332,6 @@ e.rentclv.com
 e.replacementdevicelawsuit.com
 erepublic.actonservice.com
 ergrbp.hobidunya.com
-errors.hbbtv.smartclip.net
 ert5.rmcsport.tv
 erutinmo.snagajob.com
 erutinmos.snagajob.com
@@ -4390,7 +4355,6 @@ esttut.tsum.ru
 e.synchronybank.com
 etc.lghausysusa.com
 etk.locusrobotics.com
-etl.xlmc.sec.miui.com
 etrack.ext.arubainstanton.com
 etrack.ext.arubanetworks.com
 etrack.ext.hpe.com
@@ -4426,7 +4390,6 @@ europe.advertising.msn.com
 europewest.csr41.net.daraz.com
 europewestwww.partner.net.daraz.com
 eurotax-pl.autovistagroup.com
-eu.vortex-win.data.microsoft.com
 euw.adserver.snapads.com
 euwe-marketing.net.daraz.com
 euwmarketing.net.daraz.com
@@ -4507,7 +4470,6 @@ f1.market.xiaomi.com
 f2.market.xiaomi.com
 f3.market.xiaomi.com
 f4.market.xiaomi.com
-f5.market.xiaomi.com
 f7ds.liberation.fr
 f8.market.xiaomi.com
 f8phvntohv.tpetry.me
@@ -4540,13 +4502,12 @@ fbycnk.chiaki.vn
 fcanr.tracking.miui.com
 fcbyzz.travelbags.nl
 fcgatc.keessmit.de
+fclick.baidu.com
 fcpszk.telestream.net
 fculcz.joann.com
 fdiinc.actonservice.com
 fd.rad.msn.com
 fdtest.rad.msn.com
-fe02.lg.xiaomi.com
-feature.sxp.smartclip.net
 febcyv.joshi-spa.jp
 febmarketing.net.daraz.com
 feb-partner.net.daraz.com
@@ -4558,9 +4519,7 @@ feed5baby.com
 feed5mown.com
 feedads.g.doubleclick.net
 feedback.miui.com
-feedback.search.microsoft.com
 feedback.vegasgoldenknights.com
-feedback.windows.com
 felidae.mysuperportal.com
 felidae.theforeignarchitect.com
 felidae.vegamuze.be
@@ -4595,8 +4554,6 @@ fipsta.urbanara.at
 fipsta.urbanara.ch
 fipsta.urbanara.co.uk
 fipsta.urbanara.de
-firebaselogging-pa.googleapis.com
-firebase-settings.crashlytics.com
 firstparty.alloyio.com
 fish.muted.io
 fish.whitney.org
@@ -4610,7 +4567,6 @@ fkp.samsungcloudsolution.com
 fkp.samsungcloudsolution.net
 fkwc.sfr.fr
 fl5dpe.oui.sncf
-flash.sec.intl.miui.com
 fleet-eml.postmates.com
 fleet-lemagb.carte-gr.total.fr
 flexibleplan.actonservice.com
@@ -4618,7 +4574,6 @@ flex.msn.com
 flexpod.ynsecureserver.net
 flingo.tv
 floorforce.actonservice.com
-fls.doubleclick.net
 flyingfish.jak-zrobic-strone.pl
 flznib.weblio.jp
 fmbankva.actonservice.com
@@ -4645,6 +4600,7 @@ forms.whispir.com
 forms-www.partner.net.daraz.com
 forms.yoriso.com
 fortis.hb.omtrdc.net
+fota4.adups.cn
 fowl.saulhardman.com
 fox.domainr.com
 foxentertainment.hb.omtrdc.net
@@ -4673,6 +4629,7 @@ fp.mandatumtrader.fi
 fpxewa.ilmeteo.it
 fqppgv.cheapoair.com
 fr.advertising.yahoo.com
+frame.scloud.letv.com
 france.alphabet.com
 franchiserecruitment.bakersdelight.com.au
 franchising.pizzapizza.ca
@@ -4732,9 +4689,14 @@ g1.ads.oppomobile.com
 g1be.swisslife-direct.fr
 g1.doubleclick.net
 g2.doubleclick.net
+g3cn.cp21.ott.cibntv.net
+g3cn.letv-epg.wasu.tv
+g3cn.video123456.com
+g3com.cp21.ott.cibntv.net
+g3com.video123456.com
 g3.doubleclick.net
-gallery.cdn.pandora.xiaomi.com
-gallery.pandora.xiaomi.com
+g3.letv.cn
+g3.letv.com
 game9time.com
 gamefowl.emailforward.mx
 gamefowl.nonprofit.foundation
@@ -4753,13 +4715,13 @@ gazelle.emanager.gg
 gbl007.com
 gblwebcen.com
 gbtracking.finning.com
+g.cn.miaozhen.com
 gcn.tuv.com
 gcowhi.thesalarycalculator.co.uk
 gcwubi.happypancake.fi
 gdfsrd.itslighting.kr
 gdiplonges.carte-gr.total.fr
 gdm1.toner.fr
-g.doubleclick.net
 gecfnc.foresight.jp
 gecko.rrrelax.app
 gecko.withclarify.com
@@ -4767,10 +4729,8 @@ gejzgq.gehaltsvergleich.com
 gemini.yahoo.com
 genesishealth.hrm.healthgrades.com
 geo.bluedot.io
-geofence.sys.miui.com
 geonetric.actonservice.com
 geo.query.yahoo.com
-geo.vortex.data.microsoft.com.akadns.net
 geo.yahoo.com
 gerbil.buf.build
 germanywww.partner.net.daraz.com
@@ -5441,9 +5401,6 @@ googleadservices.com
 googleads.g.doubleclick.net
 google-analytics.com
 google.pluto7.com
-googlesyndication.com
-googletagmanager.com
-googletagservices.com
 go.onecareer.jp
 go.onelink.me
 go.onfido.com
@@ -5807,7 +5764,6 @@ gsdhrj.esthermall.co.kr
 gsmadmissions.ucdavis.edu
 gsmatch.edm.globalsources.com
 gsmqez.xcite.com
-gs.statcounter.com
 gsupplyair.carte-gr.total.fr
 gti3.culture.leclerc
 guanaco.homeandgardenmakeover.com
@@ -5826,6 +5782,7 @@ guppy.estimate.taxi
 guppy.setasign.com
 guq9.vente-unique.it
 guyexl.oogvoororen.nl
+gvod.aiseejapp.atianqi.com
 gvyyri.major-auto.ru
 gw100-10.com
 gw-analytics.panasonic.com
@@ -5931,7 +5888,6 @@ hero6bell.com
 heron.cleanenergyproject.tw
 heron.notability.com
 hesprh.sony.jp
-heyue.xiaomi.com
 hezabi.dicksmith.co.nz
 hfd.bridgetowermedia.com
 hgf4.zanzicar.fr
@@ -5962,13 +5918,11 @@ hjc6.supcareer.com
 hjgkdv.fiverr.com
 hk2d.tourismemauricie.com
 hkj8.evobanco.com
-hk.mibi.xiaomi.com
 hkonline.hb.omtrdc.net
 hkqrpk.ozon.ru
 hlsjel.engelvoelkers.com
 hmakpa.saksoff5th.com
 hmgnjf.autoscout24.it
-h.msn.com
 hmvbmf.vidaxl.es
 hm.xiaomi.com
 hmyjoj.5-fifth.com
@@ -5980,8 +5934,6 @@ home.hotjar.com
 home.kcprofessional.com
 homes.stanleymartin.com
 honorhealth.hrm.healthgrades.com
-hoovermedia.sxp.smartclip.net
-hoover.sxp.smartclip.net
 horacemann.actonservice.com
 horizononline.actonservice.com
 hornet.thunderbite.com
@@ -6022,8 +5974,6 @@ hthzoa.notino.hu
 htiagq.sheplers.com
 httpdns.browser.miui.com
 httpdns.push.oppomobile.com
-huangye.miui.com
-hubblecontent.osi.office.net
 hub.firestonecompleteautocare.com
 hub.hubfinancial.com
 hub.hubinternational.com
@@ -6037,8 +5987,6 @@ hulu.hb.omtrdc.net
 hulu-ios.hb-api.omtrdc.net
 hulu-lr.hb-api.omtrdc.net
 hunter-details.com
-huodong.xiaomi.com
-huosai.xiaomi.com
 hu.promo.skf.com
 hurricane.tinybird.co
 husoxn.investors.com
@@ -6067,12 +6015,10 @@ hzuheh.palcloset.jp
 i16-tb.isnssdk.com
 i16-tb.isnssdk.com.edgekey.net
 i196ffa3a2cd06b67266cf67628d0684c.c.bing.com
-i1.services.social.microsoft.com
 iaalxo.vans.ru
 iacjsv.robinzon.ru
 iaclarington.actonservice.com
 iad.lib-ln-1.net.daraz.com
-iadsdk.apple.com
 i.ads.roku.com
 iafwwi.mall.hu
 iamej24d.brianlovin.com
@@ -6105,7 +6051,6 @@ identity-dev.ads.roku.com
 identity-internal.ads.roku.com
 identity-internal-dev.ads.roku.com
 idg1.idgarages.com
-id.google.com
 id.promo.skf.com
 idqwqm.kkday.com
 id.schroders.email
@@ -6118,7 +6063,6 @@ iflix.hb.omtrdc.net
 i.flow.browser.oppomobile.com
 ifnyop.priceline.com
 ifxnyp.troquer.com.mx
-igame.xiaomi.com
 igel-tech.actonservice.com
 igexlg.weltbild.de
 ighbat.bagage24.nl
@@ -6150,7 +6094,6 @@ ilogindustres.carte-gr.total.fr
 il.promo.skf.com
 iltcaf.immobilienscout24.de
 image.ard.de
-image.box.xiaomi.com
 image.cdn.mvideo.xiaomi.com
 image.cdn.pandora.xiaomi.com
 image.email.microsoftemail.com
@@ -6159,6 +6102,7 @@ image.kfw.de
 image.mdr.de
 images1.test.de
 images.adsyndication.msn.com
+image.scloud.letv.com
 images.fastclick.net
 images.information.maileva.com
 images-ppe.adsyndication.msn.com
@@ -6174,12 +6118,12 @@ img4.catalog.video.msn.com
 img.bwin.com
 img.bwin.it
 img.gamebookers.com
+imgg.traffic-media.co
 imhwzc.blibli.com
 impala.vnv.nl
 in.advertising.yahoo.com
 inbound.veem.com
 incline9edge.com
-incoming.telemetry.mozilla.org
 independence.americanportfolios.com
 india.activity.browser.intl.miui.com
 industrialproducts.pidilite.com
@@ -6648,7 +6592,6 @@ info.schoolspecialtynews.com
 info.scottmadden.com
 info.sealingdevices.com
 info.searchsolution.goo.ne.jp
-info.sec.miui.com
 info.seek.com
 info.serversdirect.com
 infoservice.paratherm.com
@@ -6749,8 +6692,6 @@ info.zelmanassociates.com
 info.zoomintel.com
 info.zuidema.nl
 ingalls.hrm.healthgrades.com
-ingest.sentry.io
-in.hotjar.com
 inkubate.actonservice.com
 innovation.leeind.com
 innovations.provisur.com
@@ -6770,14 +6711,12 @@ insights.affilimate.com
 insights.compagnon.com
 insights.frenchtogether.com
 insights.harvardbusiness.org
-insights.hotjar.com
 insights.idbs.com
 insights.mckimcg.ca
 insights.partnerwithfacet.com
 insights.radiometer.com
 insights.renasantbank.com
 insights.resonate.com
-insights.samsung.com
 insights.sport1.de
 insights-staging.hotjar.com
 insights.thisisgrow.com
@@ -6806,6 +6745,7 @@ intouch.schlesingergroup.com
 intpartner.net.daraz.com
 int-patner.net.daraz.com
 inv3te.oui.sncf
+invitation.samsungiotcloud.com
 involved.bfit.edu
 inwtef.hobbygames.ru
 inx-corp.actonservice.com
@@ -6813,7 +6753,6 @@ ioovrf.coen.co.jp
 iop4.aireuropa.com
 iopqct.drogasil.com.br
 iorltr.klingel.nl
-iosdl.game.xiaomi.com
 ip45.net.daraz.com
 ip62.net.daraz.com
 ip70.net.daraz.com
@@ -6828,7 +6767,6 @@ ir-de.amazon-adsystem.com
 i.resilio.com
 irfiqx.babyneeds.ro
 ir-jp.amazon-adsystem.com
-irl.sxp.smartclip.net
 ir-na.amazon-adsystem.com
 iron0walk.com
 ir-uk.amazon-adsystem.com
@@ -6872,7 +6810,6 @@ iwantglobal.actonservice.com
 iwgfdj.iko-yo.net
 iwonttrackyou.xn--gckvb8fzb.com
 iwpkhm.re-store.ru
-i.xiaomi.com
 ixrfsm.sawiday.fr
 iyad.net.daraz.com
 iycifx.coldwatercreek.com
@@ -6923,7 +6860,6 @@ jeccmq.wehkamp.nl
 jeedmact.sc.com
 jeffersonhealth.hrm.healthgrades.com
 jeglnk.mydeal.com.au
-jellyfish.pandora.xiaomi.com
 jelndb.truereligion.com
 jelr1.dili.fr
 jensenhughes.actonservice.com
@@ -7194,7 +7130,6 @@ lbgfqn.onward.co.jp
 lb.marketing01.email-allstate.com
 lb.quote01.email-allstate.com
 lb.service01.email-allstate.com
-lbs.pandora.xiaomi.com
 lb.summer.net.daraz.com
 lcdsyj.daily.co.jp
 lcmh.hrm.healthgrades.com
@@ -7235,6 +7170,7 @@ leo1.leon-de-bruxelles.fr
 leopard.understandit.se
 let1.devialet.com
 letterbox-path.com
+levip.scloud.letv.com
 lewis.gct.com
 lfcbvf.viata.fr
 lflbey.gate31.ru
@@ -7457,6 +7393,9 @@ loans.opportunityfund.org
 lobster.justunderwear.com
 localhost.apps.net.daraz.com
 localhost.net.daraz.com
+lockersamsungs8.r.xoxknct.com
+lockersamsungs8.s.xoxknct.com
+lock.scloud.letv.com
 log15.byteoversea.com
 log16.byteoversea.com
 log16.byteoversea.com.edgekey.net
@@ -7471,12 +7410,13 @@ log2-useast1a.musical.ly
 log2-useast2a.musical.ly
 log2-useast2a.musical.ly.edgekey.net
 log-3.samsungacr.com
+log-4.adclerks.com
 log.ad.xiaomi.com
 log.avlyun.sec.intl.miui.com
 logbak.hicloud.com
-log.byteoversea.com
 log.byteoversea.com.edgekey.net
 log.cognex.com
+log-config.samsungacr.com
 log.core.cloud.vewd.com
 log.fc.yahoo.com
 logger.yp.ca
@@ -7486,7 +7426,6 @@ login.car40.net.daraz.com
 logindustdiplonges.carte-gr.total.fr
 logindustemages.carte-gr.total.fr
 logindustwaykonectoryz.carte-gr.total.fr
-login.game.xiaomi.com
 log-ingestion-eu.samsungacr.com
 log-ingestion.samsungacr.com
 login-marketing.net.daraz.com
@@ -7495,6 +7434,7 @@ log.internetat.tv
 loginvsi.actonservice.com
 log.isnssdk.com
 logistics.osmworldwide.com
+logonext.tv.kuyun.com
 log.pandora.xiaomi.com
 log.pinterest.com
 logs1257.at.pagesjaunes.fr
@@ -7507,7 +7447,6 @@ log.spotify.com
 logs.roku.com
 log.tapatalk.com
 log-tb.isnssdk.com
-log-tb.sgsnssdk.com
 log.tiktokv.com
 log.tiktokv.com.edgesuite.net
 logtransform.hicloud.com
@@ -7603,6 +7542,7 @@ m1.stadiumgoods.com
 m3ds.subarumetropolitain.com
 ma.55truck.com
 macaw.ianmitchell.dev
+m-accounts.scloud.letv.com
 ma.ceneje.si
 machine.d.ns.emailvision.net.daraz.com
 machinelogic.actonservice.com
@@ -7610,9 +7550,7 @@ machinewww.partner.net.daraz.com
 mack7oyes.com
 m.acmgloballab.com
 mads.amazon-adsystem.com
-mads.amazon.com
 mads-eu.amazon.com
-mads.msn.com
 maformationofficinale.actonservice.com
 mafu.supporterz.jp
 ma.ga-tech.co.jp
@@ -7644,6 +7582,7 @@ mailing.elconfidencialdigital.com
 mail.mercatoradvisorygroup.com
 mail.partner.net.daraz.com
 mail-portal.partner.net.daraz.com
+mail.scloud.letv.com
 mail.shohda.net.daraz.com
 mail.spandex.com
 mail.theknot.com
@@ -8099,7 +8038,7 @@ marten.emperor-creative.com
 marvel.hb-api.omtrdc.net
 marvpo.viedemerde.fr
 marx7loki.com
-masq.sxp.smartclip.net
+masdk.3g.qq.com
 mass1soma.com
 massmutual.actonservice.com
 mastodon.thoughtbot.com
@@ -8112,7 +8051,7 @@ ma.vivivit.com
 ma.vorkers.com
 ma.willcloud.jp
 max.ad.xiaomi.com
-mazu.sec.miui.com
+mazu.3g.qq.com
 mbainfo.ust.hk
 mbdtrack.cyrilshroff.com
 mbhs.hrm.healthgrades.com
@@ -8120,7 +8059,6 @@ m.blackberry.com
 mbljpu9.com
 mbna.bruker.com
 mbns.bruker.com
-m.bss.pandora.xiaomi.com
 m.c.bing.com
 mc.bruker.com
 mcc.engineering.northwestern.edu
@@ -8138,7 +8076,9 @@ mct.paypay.ne.jp
 mcw.actonservice.com
 mc.yandex.com
 mc.yandex.ru
+mdap.alipaylog.com
 m.delltechnologies.com
+m-device.scloud.letv.com
 mdiyay.vseinstrumenti.ru
 m.doubleclick.net
 mds.ricoh.es
@@ -8322,7 +8262,6 @@ message.alldata.com
 met1.hp.com
 met2.hp.com
 metal.schrott24.de
-metok.sys.miui.com
 metric.angieslist.com
 metric.armstrong.com
 metric.asos.com
@@ -8499,7 +8438,6 @@ metrics.commonclaimsmistakesvideo.com
 metrics.compactappliance.com
 metrics.comparethemarket.com
 metrics.confectionerynews.com
-metrics-config.icloud.com
 metrics.consumerreports.org
 metrics.converse.com
 metrics.copart.com
@@ -9025,13 +8963,12 @@ mhc-sec-us.myhomescreen.tv
 mhlfqc.dressbarn.com
 mhmp.bruker.com
 mhs.hrm.healthgrades.com
-mibi.api.xiaomi.com
-mibi.xiaomi.com
 microlearning.att.com
 middle.browser.miui.com
 midland.logs.roku.com
+migcreport.g.mi.com
+mi.gdt.qq.com
 mile0tire.com
-milink.pandora.xiaomi.com
 mill8grip.com
 mimakiusa.actonservice.com
 mi.miliboo.be
@@ -9043,6 +8980,7 @@ mi.miliboo.es
 mi.miliboo.it
 mi.miliboo.lu
 minerva.healthcentral.com
+mini.cpc.sogou.com
 mink.xconfessions.com
 mirrorcsr12.net.daraz.com
 mirror.csr41.net.daraz.com
@@ -9050,15 +8988,13 @@ mirror-marketing.net.daraz.com
 mirror.ns1.viviotech.net.daraz.com
 mirror-www.net.daraz.com
 misc.pandora.xiaomi.com
-mishop.cdn.pandora.xiaomi.com
-mishop.pandora.xiaomi.com
+misc.wcd.qq.com
 mit.db.com
 mit.dws.com
 mit.dws.de
 mit.researchlog.db.com
 mit.researchlog.dbresearch.com
 mit.researchlog.dbresearch.de
-mitunes.game.xiaomi.com
 mitv.tracking.india.miui.com
 mitv.tracking.intl.miui.com
 mitv.tracking.miui.com
@@ -9112,7 +9048,6 @@ mnxlyo.kinoteatr.ru
 moapps.fastclick.net
 mobagallery.mobatek.net.daraz.com
 mobileads.msn.com
-mobileanalytics.us-east-1.amazonaws.com
 mobileautumn.net.daraz.com
 mobile-displayads.l.doubleclick.net
 mobile.d.ns.emailvision.net.daraz.com
@@ -9136,7 +9071,6 @@ mon-com-net.com
 mond.postauto.ch
 mond.post.ch
 mon.ingservices.nl
-mon.isnssdk.com
 monitor.clickcease.com
 monlineg.carte-gr.total.fr
 monmlkjg.carte-gr.total.fr
@@ -9165,6 +9099,7 @@ mouseflow.com
 mouse.voyagefuneralhomes.com
 mown5gaze.com
 m.photoshelter.com
+m-plugin.scloud.letv.com
 mp-pixel.mtrcs.samba.tv
 m.premier.info.shutterstock.com
 mqfbmp.dietshin.com
@@ -9178,6 +9113,7 @@ msgesr.askona.ru
 msg-na.hismarttv.com
 mshs.actonservice.com
 ms.informaengage.com
+m.sjzhushou.com
 msmetrics-test.ws.sonos.com
 msmetrics.ws.sonos.com
 msnbcmedia.msn.com
@@ -9203,8 +9139,11 @@ mud4.destinia.com.eg
 mujjrh.stylenanda.com
 mule.caddyserver.com
 m.univision.com
+m-upgrade.scloud.letv.com
+m-upgrage.scloud.lfengmobile.com
 muqtti.motoin.de
 musicid.samsungcloudsolution.com
+music.scloud.letv.com
 mva1.maeva.com
 m.video.xiaomi.com
 m.vistaresourcegroup.com
@@ -9216,6 +9155,7 @@ mx1.samsungads.com
 mx2.samsungads.com
 mx.carfax.com
 mx-go.kelkoogroup.net
+m-xpage.scloud.letv.com
 mx.promo.skf.com
 m.yap.yahoo.com
 my.carolina.com
@@ -9228,7 +9168,6 @@ my.orhp.com
 myprofile.panasonic.eu
 my.promo.skf.com
 myquellehuileenstation.carte-gr.total.fr
-my.sentry.io
 my.stbarth.com
 mytvsuperlimited.hb.omtrdc.net
 my.usq.edu.au
@@ -9251,7 +9190,6 @@ natsp.xing.com
 nats.xing.com
 nautilus.car13.net.daraz.com
 nautilus.lib-ht-1.net.daraz.com
-nav.browser.miui.com
 navy9gear.com
 nbagroup.hb.omtrdc.net
 nbaprop.hb-api.omtrdc.net
@@ -9290,7 +9228,6 @@ newscorpau.hb.omtrdc.net
 news.dailyreporter.com
 newsday.hb-api.omtrdc.net
 news.finance-commerce.com
-news.iadsdk.apple.com
 news.idahobusinessreview.com
 newsletter.bcautoencheres.fr
 newsletter.davey.com
@@ -9309,8 +9246,6 @@ news.thedailyrecord.com
 news.thedolancompany.com
 news.valawyersweekly.com
 newt.turtle.network
-nexus.officeapps.live.com
-nexusrules.officeapps.live.com
 nfl.hb-api.omtrdc.net
 nfl.hb.omtrdc.net
 nfreya.net.daraz.com
@@ -9336,7 +9271,6 @@ nm.hrm.healthgrades.com
 nmiodk.promiflash.de
 nmlkjid.carte-gr.total.fr
 nmo1.orpi.com
-nmtracking.netflix.com
 nntgna.dmm.com
 nnvtvx.chegg.com
 noa0.compteczam.fr
@@ -9356,15 +9290,13 @@ northamericapatner.net.daraz.com
 nossl.aafp.org
 nossl.kennametal.com
 nossl.policeone.com
-notes-analytics-events.apple.com
+note.scloud.letv.com
 noticecdn.samsungcloudsolution.com
 noticefile.samsungcloudsolution.com
-notice.game.xiaomi.com
 notice.hoopladigital.com
 notice.samsungcloudsolution.com
 notify.bugsnag.com
 notify.eset.com
-notify.firetv.bugsnag.appstore.a2z.com
 notify.pray.com
 novartispharma.hb.omtrdc.net
 now1.t-mobile.com
@@ -9380,6 +9312,7 @@ nrg.red-by-sfr.fr
 ns1.fastclick.net
 ns1.viviotech.net.daraz.com
 ns2.fastclick.net
+nsclick.baidu.com
 nsc.metrics-shell.com
 nsc.natwest.com
 nsedgj.bonprix.de
@@ -9410,7 +9343,6 @@ nym5c.laura.ca
 nyrxcy.teslaweld.com
 nyt1.biosens-leanature.fr
 nzmkzl.mytheresa.com
-o2o.api.xiaomi.com
 o68c.sfr.fr
 o8.hyatt.com
 oajhfq.etopsport.ro
@@ -9418,7 +9350,6 @@ oal2.destinia.co.uk
 o.bluewin.ch
 obnrap.neimanmarcus.com
 o.carmax.com
-oca.telemetry.microsoft.com
 oceania-www.partner.net.daraz.com
 ocelot.pixlwebs.nl
 ochsner.hrm.healthgrades.com
@@ -9613,7 +9544,6 @@ om.vrbo.com
 o.mylifetime.com
 oncoclinicas.actonservice.com
 oncourselearning.actonservice.com
-onecollector.cloudapp.aria.akadns.net
 one.fanuc.eu
 onelink.me
 onenetworkdirect.net
@@ -9666,6 +9596,7 @@ os.shutterfly.com
 osur.dell.com
 o.swisscom.ch
 ota.cdn.pandora.xiaomi.com
+ota.scloud.letv.com
 ot.obi.at
 ot.obi.ch
 ot.obi.cz
@@ -9717,7 +9648,6 @@ p.ads.roku.com
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
 pagead46.googlesyndication.com
-pagead46.l.doubleclick.net
 pagead.l.doubleclick.net
 page.bsigroup.com
 page.evergage.com
@@ -9742,8 +9672,10 @@ pages.true.nl
 pages.visitdubai.com
 pages.vuzion.cloud
 pages.wartsila.digital
+p.alimama.com
 pal-v.actonservice.com
 pan.render.com
+pan.scloud.letv.com
 pantheon-partner.net.daraz.com
 panther.activelink.ie
 panther.codyhatfield.me
@@ -9958,6 +9890,7 @@ pheasant.cadbooster.com
 pheasant.facetwp.com
 phgnxd.nike.com.br
 p.homebay.com
+photo.scloud.letv.com
 phpmarketing.net.daraz.com
 phppartner.net.daraz.com
 phsmobile.actonservice.com
@@ -10098,6 +10031,7 @@ pluto.r.powuta.com
 pl.volunteeringauckland.org.nz
 pl.volunteeringwaikato.org.nz
 pmarketing.net.daraz.com
+pmir.3g.qq.com
 pm.redbull.com
 pntrac.com
 pntrack.com
@@ -10148,7 +10082,6 @@ preferencespatner.net.daraz.com
 prefs.hrassured.com.au
 pre-lazada-sg-2.payment.net.daraz.com
 pre-retail.net.daraz.com
-presentationtracking.netflix.com
 preview.auth.be.sec.miui.com
 preview.data.sec.miui.com
 preview.fastclick.net
@@ -10168,9 +10101,7 @@ prkvlr.camper.com
 pro.coolsculpting.com
 prod.hotjar.com
 proditor.sparda.de
-prod.nexusrules.live.com.akadns.net
 prod-partner.net.daraz.com
-prod.sxp.smartclip.net
 product.hotjar.com
 production-patner.net.daraz.com
 productionwww.partner.net.daraz.com
@@ -10204,7 +10135,6 @@ proteinhikaku2019.proteinhikaku.com
 prov.samsungcloudsolution.com
 proximity-pprodkj.carte-gr.total.fr
 proxypage.msn.com
-proxy.sec.miui.com
 prudential.distribution.team.prudential.co.uk
 prx6.destinia.ch
 przucu.elkjop.no
@@ -10217,13 +10147,12 @@ ps-us.amazon-adsystem.com
 ptarmigan.codebycorey.com
 pt.bookshare.org
 pt-go.kelkoogroup.net
-ptmi.gitv.pandora.xiaomi.com
-pubads.g.doubleclick.net
 pub-marketing.net.daraz.com
 pubstr.acs.org
 pubstr.acspubs.org
 puffin.geocode.earth
 puremade.torani.com
+push.scloud.lfengmobile.com
 pushspring.actonservice.com
 p.versacommerce.de
 p.victoria.dev
@@ -10254,7 +10183,6 @@ qfo.eurotierce.be
 qgscbx.renote.jp
 qgumjp.joins.com
 qitdsl.ralf.ru
-qiye.xiaomi.com
 qjjgra.vendome.jp
 qjxiyt.respect-shoes.ru
 qkitfp.voyage-prive.es
@@ -10308,9 +10236,7 @@ rat.gimlet.io
 ravm.tv
 raw.net.daraz.com
 raybte.7days.ru
-r.bat.bing.com
 rbis-solutions.averydennison.com
-r.browser.miui.com
 rcm.amazon.com
 rcm-de.amazon.de
 rcm-eu.amazon-adsystem.com
@@ -10332,7 +10258,6 @@ rdtcnt.laredoute.fr
 rdtdlv.laredoute.fr
 reach.ironmountain.com
 reach.terumo-bct.com
-reader.browser.miui.com
 read.medium.com
 ready.nerdery.com
 readytrainingonline.actonservice.com
@@ -10351,25 +10276,24 @@ redirect.at
 redirector.c.googlesyndication.com
 redirectorpatner.net.daraz.com
 redirect.viglink.com
-redir.metaservices.microsoft.com
 redir.tradedoubler.com
 reductions.carte-gr.total.fr
 redwingforbusiness.redwingsafety.com
 refwkk.mojewypieki.com
-reg.biv.sony.tv
 re.ghc-j.com
 reg.interop.com
-register.xmpush.xiaomi.com
 registration.britishcouncil.org
 rehmann.actonservice.com
 rehouse-cs.mf-realty.jp
 reico.actonservice.com
 reindeer.cablemod.com
 remarketing.oncourselearning.com
+remote.scloud.letv.com
 renaultbankdirekt.efscle.com
 renting.aldautomotive.es
 rep0pkgr.com
 repdata.usatoday.com
+report.adview.cn
 report.appmetrica.yandex.net
 repositorymarketing.net.daraz.com
 reptile.sat.trading
@@ -10426,8 +10350,6 @@ rimxqx.slickdeals.net
 riwkmo.spacemarket.com
 rjjynf.showcase-tv.com
 rmads.eu.msn.com
-rmads.msn.com
-r.msn.com
 r.net.daraz.com
 rnffgv.wemakeprice.com
 rnybul.gismeteo.ru
@@ -10482,9 +10404,12 @@ s1.carnext.com
 s1.doubleclick.net
 s1.subaru.com
 s362693299.aon.com
+s3-config.samsungacr.com
 s3network1.com
+s3proxy.scloud.letv.com
 s4e8.cascades.com
 s.80000hours.org
+sa3.tuisong.baidu.com
 saa.247sports.com
 saa.cbs.com
 saa.cbsi.com
@@ -10634,7 +10559,6 @@ salesforce.lyricfind.com
 s.allbootdisks.com
 salmon.literallife.church
 salzwerk.viessmann.de
-s.amazon-adsystem.com
 samba.tv
 samc.zkb.ch
 s.ameriprisestats.com
@@ -10642,19 +10566,34 @@ sametrics.finn.no
 sam.msn.com
 sams.manager-magazin.de
 sams.spiegel.de
+samsung.24.eu
+samsung3.solution.weborama.fr
 samsungacr.com
 samsungadhub.com
 samsungads.com
+samsung-akcja.e-kei.pl
+samsung.apps.linkpc.net
 samsungcloudsolution.com
 samsungcloudsolution.net
 samsung-com.112.2o7.net
+samsung.demdex.net
 samsung-dream-api.beusable.net
 samsung-dream.beusable.net
 samsungelectronics.com
+samsungeurope.eu.qualtrics.com
+samsung-germany.demdex.net
+samsungindiaelectronics.demdex.net
+samsung-klimatyzacja.pl
+samsungmsc.d1.sc.omtrdc.net
+samsung-produkcja.24.eu
 samsungqbe.com
 samsungrm.net
 samsungrum.beusable.net
 samsungscript.beusable.net
+samsung-stop.24.eu
+samsungtvads.com
+samsungus.btttag.com
+samsung.yaload.ru
 sanalytics.adobe.tp.gskpro.com
 sanalytics.adultswim.co.uk
 sanalytics.adultswim.fr
@@ -10762,7 +10701,6 @@ sanalytics.verizonwireless.com
 sanalytics.visible.com
 sanalytics.wideroe.no
 sandbox-patner.net.daraz.com
-sandbox.xmpush.xiaomi.com
 sanl.champssports.com
 sanl.eastbay.com
 sanl.footaction.com
@@ -10797,6 +10735,7 @@ sas.samsungcloudsolution.com
 sa.tactics.com
 satracking.finning.com
 sats.mailbrew.com
+sa.tuisong.baidu.com
 saviation.carte-gr.total.fr
 sawap.equifax.com
 sawfish.loqbooq.app
@@ -10899,7 +10838,6 @@ s.crackedthecode.co
 scraper.pandora.xiaomi.com
 sc.rbs.co.uk
 scribe.logs.roku.com
-script.hotjar.com
 script.ioam.de
 script-staging.hotjar.com
 scs.arcteryx.com
@@ -10926,6 +10864,10 @@ sdkconfig.ad.india.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.rus.xiaomi.com
 sdkconfig.ad.xiaomi.com
+sdk.e.qq.com
+sdk.open.phone.igexin.com
+sdk.open.talk.gepush.com
+sdk.open.talk.igexin.com
 sdk.pushmessage.samsung.com
 sdome.underarmour.co.jp
 sd.securitasdirect.fr
@@ -10942,7 +10884,6 @@ secmetrics.leggmason.com
 secmetrics.schaefer-shop.ch
 secmetrics.schaefer-shop.de
 secmetrics.schaefer-shop.nl
-secode2.hd.xiaomi.com
 se-core-pipe.com
 secu.hagertyagent.com
 secu.hagerty.ca
@@ -11179,7 +11120,6 @@ secure.yama1hove.com
 secure.yami8alea.com
 secure.yeld9auto.com
 secure.yirr5frog.com
-security.browser.miui.com
 securitywww.partner.net.daraz.com
 sedigital.cloudseidor.com
 see2.xactlycorp.com
@@ -11194,7 +11134,6 @@ seniorliving.stoneridgecreek.com
 seniorliving.thewoodlandsatfurman.org
 senthg.prxperformance.com
 sent.petdesk.com
-sentry-cdn.com
 sentry-proxy.hotjar.com
 seo.tkc110.jp
 sep02.hinagiku-life.jp
@@ -11203,7 +11142,6 @@ sept-marketing.net.daraz.com
 septwww.partner.net.daraz.com
 serve.mercyships.org
 service.avilen.co.jp
-service.biv.sony.tv
 service.frankwatching.com
 serviceim.carte-gr.total.fr
 serviceo.comcast.net
@@ -11215,14 +11153,13 @@ services.carte-gr.total.fr
 services.cmacgm-group.com
 services.sentry.io
 servicesupport.hicloud.com
-serving-sys.com
 serving-sys.com.edgekey.net
 serving-sys.com.edgesuite.net
 serving-sys.com-v1.edgesuite.net
 serving-sys-lb.com.akadns.net
 sessions.bugsnag.com
+setting.scloud.letv.com
 settings.luckyorange.net
-settings-sandbox.data.microsoft.com
 seyfwl.interia.pl
 se.zettle.com
 sfajfu.boulanger.com
@@ -11237,18 +11174,17 @@ sg3.notarize.com
 sgbvqg.360vuz.com
 s.glimesh.tv
 sgnxcn.omni7.jp
-sgp.o2o.api.xiaomi.com
 s.guelphmercury.com
 sgw-analytics.panasonic.com
 s.hamiltonnews.com
 shareasale.com
+share.scloud.letv.com
 sharev1.browser.miui.com
 share.yandex.ru
 shark.popdog.com
 shawtelevision.hb.omtrdc.net
 s.hdsupplysolutions.com
 sheeta.nrj-play.fr
-shoes.app-xae.xiaomi.com
 sho.hb.omtrdc.net
 shome.sca.samsung.com
 shop.iwantclips.com
@@ -11256,6 +11192,7 @@ shoppers.instacartemail.com
 shoppers-test.instacartemail.com
 shoppingguarantee.digicert.com
 shop.supplysmart.com
+shouji.sougou.com
 shows.broadwayacrossamerica.com
 shqmetrics.sony.com
 shrfbdg004.com
@@ -11325,16 +11262,6 @@ sloth.luro.io
 sls2.loisirsencheres.com
 slug.vatsim.uk
 slx.searchdiscovery.com
-smart-api-authentication.sxp.smartclip.net
-smart-api-booking.sxp.smartclip.net
-smart-api-common.sxp.smartclip.net
-smart-api-creative-approval.sxp.smartclip.net
-smart-api-dashboard.sxp.smartclip.net
-smart-api-forecasting.sxp.smartclip.net
-smart-api-processing.sxp.smartclip.net
-smart-api-reporting.sxp.smartclip.net
-smart-api-tearsheet.sxp.smartclip.net
-smart-api-transcoding.sxp.smartclip.net
 smartbroker.efscle.com
 smartclip.com
 smartclip.net
@@ -12820,6 +12747,7 @@ sosc.hrs.com
 so.swisscom.ch
 sourcess.carte-gr.total.fr
 sourceszomation.carte-gr.total.fr
+sousuo.xm.sjzhushou.com
 sowa.carhartt.com
 soxnwz.lg.com
 sp.analytics.yahoo.com
@@ -12841,8 +12769,6 @@ springmarketing.net.daraz.com
 spr.welt.de
 spscas.hitachi-solutions.co.jp
 sp.spaceomatic.fr
-spynet2.microsoft.com
-spynetalt.microsoft.com
 spytsg.horti.jp
 sqdgwx.jobrapido.com
 sqdljj.kijiji.ca
@@ -12918,6 +12844,7 @@ ssc.tvland.com
 ssc.vh1.com
 ssc.vmware.com
 ssdc.bawag.com
+ssdk.adkmob.com
 s.sick.com
 s.simcoe.com
 s-sitecatalyst.work.shiseido.co.jp
@@ -12929,8 +12856,7 @@ ssite.waitrose.com
 ssl4.c.bing.com
 ssl.aafp.org
 ssl.affiliate.logitravel.com
-ssl.google-analytics.com
-ssl-google-analytics.l.google.com
+ssl-cdn.static.browser.mi-img.com
 ssl-metrics.tim.it
 ssl.o.auspost.com.au
 ssl.o.emedicinehealth.com
@@ -12951,9 +12877,6 @@ ssl.sc.amc.devk.de
 sslsc.sanitas.com
 sslstats.canadapost.ca
 ssl-www.partner.net.daraz.com
-ssm1.internet.sony.tv
-ssm2.internet.sony.tv
-ssm3.internet.sony.tv
 ssmr2.so-net.ne.jp
 ssmr.nuro.jp
 ssmr.so-net.ne.jp
@@ -13057,21 +12980,18 @@ sstats.whattopack.com
 sstats.wired.com
 sstats.www.o2.cz
 s.stcatharinesstandard.ca
+sstc.ngrok.xiaomiqiu.cn
 ssy7.destinia.com.ua
 st1.lg.avendrealouer.fr
 st2.jamesdaniel.dev
 stage-partner.net.daraz.com
-stage.sxp.smartclip.net
 stagezomation.carte-gr.total.fr
 staging.adv.sec.miui.com
-staging.ai.api.xiaomi.com
-staging.app-analytics.snapchat.com
 staging.bugsnag.com
 staging-config.samsungads.com
 staging.config.samsungads.com
 staging-marketing.net.daraz.com
 starcards.caltex.com.au
-starfish.pandora.xiaomi.com
 start.digitaltext.rtl.de
 start.ecornell.cornell.edu
 startrekk.flaconi.at
@@ -13084,7 +13004,6 @@ stat.altalex.com
 stat.bdc.ca
 stat.bill.harding.blog
 stat.ciss.es
-statcounter.com
 stat.cuadernosdepedagogia.com
 stat.dbschenker.com
 stat.duokanbox.com
@@ -13097,7 +13016,6 @@ static-cdn.hotjar.com
 static-cms.hotjar.com
 static-cms-staging.hotjar.com
 static.doubleclick.net
-static.game.xiaomi.com
 static.hotjar.com
 static.media.net
 static-staging-cdn.hotjar.com
@@ -13113,7 +13031,6 @@ stat.laleynext.es
 stat.lamyetudiant.fr
 stat.lex.pl
 stat.liaisons-sociales.fr
-stat.pandora.xiaomi.com
 stat.prawo.pl
 stat.profinfo.pl
 stats2.architecturaldigest.com
@@ -13200,7 +13117,6 @@ stats.femtobill.com
 stats.filmfed.com
 stats.finger-ink.com
 stats.flightsphere.com
-stats-fra.sxp.smartclip.net
 stats.frenlo.com
 stats.fruechtl.me
 stats.fundimmo.com
@@ -13290,7 +13206,6 @@ stats.pasteapp.io
 stats.patout.dev
 stats.patriot.win
 stats.paulbutler.org
-stats.paypal.com
 stats.paysagistes.pro
 stats.personalkollen.se
 stats.pianoplanet.app
@@ -13358,7 +13273,6 @@ stat-ssl.tabelog.com
 stat-ssl.tasclap.jp
 stat-ssl.webcg.net
 stat-ssl.xn--pckua2a7gp15o89zb.com
-stats.smartclip.net
 stats.smartertravel.com
 stats.smartmobil.de
 stats.sommselect.com
@@ -13374,7 +13288,6 @@ stats.steuer-soldaten.de
 stats.strawberry.rocks
 stats.sublimesecurity.com
 stats.svenadolph.net
-stats.sxp.smartclip.net
 stat.starterre.fr
 stats.tdameritrade.com
 stats.thelion.website
@@ -13435,6 +13348,7 @@ s.therecord.com
 s.thespec.com
 s.thestar.com
 st.iceportal.de
+sticker.scloud.letv.com
 stingray.cryptovoxels.com
 stjjp.msn.com
 st.mazdausa.com
@@ -13445,7 +13359,6 @@ st-nlyss.plala.or.jp
 stoat.death-to-ie11.com
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
-storeconfig.mistat.intl.xiaomi.com
 stork.notlessbutbetter.com
 storybook.hotjar.com
 story-insights.snapchat.com
@@ -13493,7 +13406,6 @@ sugarland.logs.roku.com
 sug.browser.miui.com
 suggest.hotjar.com
 sugh8yami.com
-su.iadsdk.apple.com
 suite15.emarsys.net
 summary.bookoffonline.co.jp
 summer.net.daraz.com
@@ -13590,6 +13502,10 @@ swebmetrics.avaya.com
 swebmetrics.ok.gov
 swebmetrics.oklahoma.gov
 swebmetrics.zebra.com
+s.webp2p.cp21.ott.cibntv.net
+s.webp2p.letv.com
+s.webp2p.letv-epg.wasu.tv
+s.webp2p.video123456.com
 swebreports.nature.org
 swebstats.americanbar.org
 swebstats.imf.org
@@ -13607,10 +13523,9 @@ swwcyk.takvim.com.tr
 sxjeyg.21vek.by
 sxjfhh.lohud.com
 sxjfhh.redding.com
-sxp.smartclip.net
 sykc.madeindesign.ch
+sync.3g.qq.com
 syncplusconfig.s3.amazonaws.com
-sync.sxp.smartclip.net
 syndication.exosrv.com
 syndication.realsrv.com
 syngenta-lg.com
@@ -13711,13 +13626,11 @@ teijs.alcampo.es
 te.imwalking.de
 te.jelmoli-shop.ch
 tele2.actonservice.com
-telemetry-incoming.r53-2.services.mozilla.com
-telemetry.microsoft.com
-telemetry.urs.microsoft.com
 te.limango.de
 telstraphonewords.actonservice.com
 telus.hb-api.omtrdc.net
 telus.hb.omtrdc.net
+t.email1.samsung.ca
 te.mirapodo.de
 te.mytoys.de
 tem.zpg.co.uk
@@ -13731,6 +13644,7 @@ te.sheego.de
 te.sieh-an.de
 test.ad.intl.xiaomi.com
 test.ad.xiaomi.com
+test.api.xlmc.sandai.net
 test.c.bing.com
 test.customers.instacartemail.com
 test.e.ad.xiaomi.com
@@ -13739,8 +13653,10 @@ test-fleet-eml.postmates.com
 testing1-marketing.net.daraz.com
 test.log.ad.xiaomi.com
 test-patner.net.daraz.com
+test.push.platform.letv.com
 test.samsungrm.net
 test.shoppers.instacartemail.com
+test.tvapi.letv.com
 test.zeus.ad.xiaomi.com
 te.universal.at
 te.witt-international.nl
@@ -13764,6 +13680,7 @@ tghbn12.com
 tgtgzo.otelz.com
 tgvrfc4.com
 theaba.actonservice.com
+theme.scloud.le.com
 theoceannetwork.inttra.com
 thinktank.omfif.org
 think.unbounce.com
@@ -13839,6 +13756,7 @@ toekmm.llud.co.kr
 tokei.upstract.com
 toll6kerb.com
 toolbar.msn.com
+tools.3g.qq.com
 topup.net.daraz.com
 topxx.net.daraz.com
 torropinto.viessmann.es
@@ -13846,13 +13764,11 @@ tortoise.transistor.fm
 toru0vane.com
 toucan.ateliermilky.com
 tourism.visitorlando.com
-toutiao.com
 towerfcu.actonservice.com
 tp.ackermann.ch
 t-partner.net.daraz.com
 t-patner.net.daraz.com
 t.paydirekt.de
-t.paypal.com
 tp.baur.de
 tpc.googlesyndication.com
 tpcnc.googlesyndication.com
@@ -14024,7 +13940,6 @@ tracking.omron.eu
 tracking.omron.ru
 tracking.opentable.com
 tracking.oppd.com
-tracking.overwolf.com
 tracking.pella.com
 tracking.petrelocation.com
 tracking.pgi.com
@@ -14043,7 +13958,6 @@ tracking.sailpoint.com
 tracking.scoresandodds.com
 tracking-secure.csob.cz
 tracking.selective.com
-trackingshipment.apple.com
 tracking.shl.com
 tracking.shop.verymobile.it
 tracking.sierrawireless.com
@@ -14191,7 +14105,6 @@ tr.gestion.sygmabnpparibas-pf.com
 tr.groupama-gne.fr
 tr.group-hr.lvmh.fr
 tr.helloartisan.info
-tr.iadsdk.apple.com
 triconah.actonservice.com
 tr.info.actionlogement.fr
 tr.info.ag2rlamondiale.fr
@@ -14386,7 +14299,6 @@ tr.services.alinea.com
 tr.services.caradisiac.com
 tr.servicesclients.canalplus.fr
 tr.smtp1.email-mediapost.fr
-tr.snapchat.com
 tr.souscription.floa.fr
 tr.suedkurier.de
 tr.toner-service.fr
@@ -14435,7 +14347,6 @@ tur-partner.net.daraz.com
 turtle.hackstock.net
 tv2.hb-api.omtrdc.net
 tv2.hb.omtrdc.net
-tv.app.migc.xiaomi.com
 tvcbmi.pandora.tv
 tvl8.supdecreation.com
 t.voyages-sncf.com
@@ -14488,7 +14399,8 @@ uoqwgo.decjuba.com.au
 updates.fda.gov
 updates.gaylordhotels.com
 upeayz.eksisozluk.com
-upgrade.mishop.pandora.xiaomi.com
+upgrade.itv.cp21.ott.cibntv.net
+upgrade.itv.letv.com
 upload.luckyorange.net
 upu.samsungelectronics.com
 upwkcv.vidaxl.ro
@@ -14502,7 +14414,6 @@ url1451.careerkarma.info
 url3630.newsletter.experience-muse.com
 url7542.fluz.app
 url8196.mindrise.app
-url8807.global.passport.xiaomi.com
 url9576.oneshift.com
 us.ad.lgsmartad.com
 us.adserver.yahoo.com
@@ -14524,7 +14435,7 @@ useful-info.iniks.jp
 useosv.mamsy.ru
 user.bizcompass.jp
 user.bonusninjas.com
-userid.xiaomi.com
+usercenter.scloud.letv.com
 us.gn.com
 us-go.kelkoogroup.net
 usgzei.vidaxl.ch
@@ -14538,11 +14449,9 @@ us.rdx2.lgtvsdp.com
 usrkrz.zdravcity.ru
 us.schroders.email
 ussolutions.equifax.com
-us.vortex-win.data.microsoft.com
 usyyzz.winparts.nl
 utblov.perus.co
 utexas.actonservice.com
-ut.iadsdk.apple.com
 utklhk.kojima.net
 utm.sankei.jp.msn.com
 utntam.doz.pl
@@ -14555,15 +14464,15 @@ uvzrtq.livingspaces.com
 uwy4.aegon.es
 uzd1.madeindesign.com
 uzipbs.weltbild.ch
-v10.vortex-win.data.microsoft.com
-v10-win.vortex.data.microsoft.com.akadns.net
+v2.fm.n.duokanbox.com
+v2.reachmax.cn
 vaes.amazon-adsystem.com
 value.kfcu.org
 vane3alga.com
-vars.hotjar.com
 vars-s3-staging.hotjar.com
 vars-staging.hotjar.com
 vbe.voyage-prive.be
+vcall-scloud.cp21.ott.cibntv.net
 vcdn.fastclick.net
 vch.voyage-prive.ch
 vd.contents.prod.eu.s3.amazonaws.com
@@ -14628,15 +14537,10 @@ vmware.hb.omtrdc.net
 vmwody.seibu-k.co.jp
 vnf4.belleetbio.com
 vnl1.voyage-prive.nl
-voip.game.xiaomi.com
 vole.amplenote.com
 vole.contemporaryartlibrary.org
 vole.noteapps.info
 vols7feed.com
-vortex.data.microsoft.com
-vortex-sandbox.data.microsoft.com
-vortex-win.data.microsoft.com
-vortex-win-sandbox.data.microsoft.com
 v.oui.sncf
 vownfp.vodomotorika.ru
 voxtjm.about-you.ee
@@ -14692,10 +14596,10 @@ wait8hurl.com
 walkme.actonservice.com
 wallaby.cron.help
 wallaby.short1.link
-wallpaper.cdn.pandora.xiaomi.com
+wallet.scloud.letv.com
+wallpaper.scloud.letv.com
 wa.metro.co.uk
 want7feed.com
-wap.game.xiaomi.com
 wa.planet-wissen.de
 wa.proflowers.com
 wa.quarks.de
@@ -14714,9 +14618,6 @@ was.vodafone.ie
 waterboa.midu.dev
 wat.gogoinflight.com
 wats.gogoinflight.com
-watson.live.com
-watson.microsoft.com
-watson.telemetry.microsoft.com
 wa.wdr.de
 wa.wdrmaus.de
 waykonectmail.carte-gr.total.fr
@@ -14737,11 +14638,8 @@ wbtrkk.teufel.de
 wdr9.inseec.com
 wdukge.midwayusa.com
 weasel.vvys.me
-weather-analytics-events.apple.com
-weather.pandora.xiaomi.com
 web-01-gbl.com
 webanalyticsssl.websense.com
-webapp.browser.miui.com
 web.atlasroofing.com
 web.bankofscotland.de
 web.brighttalk.com
@@ -14755,7 +14653,6 @@ web.emails.thetoyshop.com
 webform.polleverywhere.com
 web.health.childrenswi.org
 web.healthnews.thechristhospital.com
-webhook.logentries.com
 web.houstontexans.com
 webinar.intel.com
 web.info.bonprix.es
@@ -14798,14 +14695,13 @@ wescam.info
 western-global.actonservice.com
 wetr.sportscheck.at
 wetr.sportscheck.com
-weus2watcab01.blob.core.windows.net
-weus2watcab02.blob.core.windows.net
 wevbgr.vidaxl.it
 wfd7.carventura.com
 wgrcoj.aizel.ru
 whale.gdebrauwer.dev
 whitefish.antonopoulos-stores.gr
 whitefish.autharmor.com
+whitelist.scloud.lfengmobile.com
 whqkyq.leasingmarkt.de
 whxbrz.shipt.com
 why3.inseec.education
@@ -14846,7 +14742,6 @@ wprixk.brocard.ua
 wqfflc.fupa.net
 wqfflc.gartenlexikon.de
 wqfflc.plantopedia.de
-ws10.hotjar.com
 ws11.hotjar.com
 ws12.hotjar.com
 ws13.hotjar.com
@@ -14855,24 +14750,13 @@ ws15.hotjar.com
 ws16.hotjar.com
 ws17.hotjar.com
 ws18.hotjar.com
-ws1.hotjar.com
 ws1-staging.hotjar.com
-ws2.hotjar.com
-ws3.hotjar.com
-ws4.hotjar.com
-ws5.hotjar.com
-ws6.hotjar.com
-ws7.hotjar.com
-ws8.hotjar.com
-ws9.hotjar.com
 ws.amazon.co.jp
-ws.amazon.com
 ws.assoc-amazon.com
 ws-eu.amazon-adsystem.com
 ws-eu.assoc-amazon.com
 ws-fe.amazon-adsystem.com
 ws-fe.assoc-amazon.com
-ws-na.amazon-adsystem.com
 ws-na.assoc-amazon.com
 wt.envivas.de
 wt.generali.de
@@ -15223,12 +15107,16 @@ www91.intel.pl
 www91.intel.ru
 www.acpprograms.org
 www.adfoc.us
+www.adfuture.cn
 www.adgjl13.com
 www.adj.st
 www.ads-twitter.com
+www.adsunflower.com
 www.advertising.com
+www.adview.cn
 www.affiliatefuture.com
 www.aiea6gaza.com
+www.akcjasamsung.e-kei.pl
 www.alea6badb.com
 www.alga9frog.com
 www.allergodil.hu
@@ -15246,8 +15134,6 @@ www.ape78cn2.com
 wwwapi-docs.partner.net.daraz.com
 www.apmebf.com
 www.app.link
-www.app-measurement.com
-www.appspot.com
 www-april.partner.net.daraz.com
 www.aqedsw4.com
 www.aran9midi.com
@@ -15267,7 +15153,6 @@ wwwbrasil.partner.net.daraz.com
 wwwbrazil.partner.net.daraz.com
 www.bred4tula.com
 www.bstats.org
-www.bugsnag.com
 www.capture.buzz
 www.care5alea.com
 www.cart8draw.com
@@ -15351,11 +15236,6 @@ www.go.discoverstudentloans.com
 www.golp4elik.com
 www.googleadservices.com
 www.google-analytics.com
-www-google-analytics.l.google.com
-www.googlesyndication.com
-www.googletagmanager.com
-www-googletagmanager.l.google.com
-www.googletagservices.com
 www.go.omuni.com
 www.gopjn.com
 www.go.webhelp.com
@@ -15372,10 +15252,8 @@ www.href.li
 www.hubspotemail.net
 www.hunter-details.com
 www.hvgcfx1.com
-www.iadsdk.apple.com
 wwwids.partner.net.daraz.com
 wwwimap.partner.net.daraz.com
-wwwimg.roku.com
 www.incline9edge.com
 www.info.shavve.co.il
 www.infosmc.jp
@@ -15506,17 +15384,17 @@ www.samsungads.com
 www.samsungcloudsolution.com
 www.samsungcloudsolution.net
 www.samsungelectronics.com
+www.samsung-klimatyzacja.pl
 www.samsungqbe.com
 www.samsungrm.net
+www.samsungtvads.com
 www.saon6harz.com
 www.scan6show.com
 www.schoolspecialtynews.com
 www.se-core-pipe.com
 www.secure.rc-club.ricoh.co.jp
 www-security.partner.net.daraz.com
-www.sentry-cdn.com
 www.service.cz.nl
-www.serving-sys.com
 www.shareasale.com
 www.shrfbdg004.com
 www.sizmek.com
@@ -15532,7 +15410,6 @@ www.srv1010elan.com
 www.srv2020real.com
 www.srvtrkxx2.com
 wwwstaff.partner.net.daraz.com
-www.statcounter.com
 www.sugh8yami.com
 www.svr-prc-01.com
 www.sw-rail-7.com
@@ -15547,7 +15424,6 @@ www.tkqlhce.com
 www.tm1-001.com
 www.toll6kerb.com
 www.toru0vane.com
-www.toutiao.com
 www.trackcmp.net
 www.trackdiscovery.net
 www.trail-viewer.com
@@ -15598,24 +15474,24 @@ x.carte-gr.total.fr
 xcgzme.mnogomebeli.com
 xejevl.newchic.com
 xenaly.sozcu.com.tr
+xfeedback.scloud.lfengmobile.com
 xfhnut.vecteezy.com
 xfn6.monaco.edu
 xfzcds.netprint.ru
 xhbzrk.hotmart.com
 xhrplq.rolf-probeg.ru
-xiazai.xiaomi.com
+xiaomi.m.cn.miaozhen.com
+xiaomi-mipdx.cn.miaozhen.com
 xitvce.webtretho.com
 xivafk.armut.com
 xknhwv.mobile01.com
 xkvmsr.hair.com
-xlmc.sandai.net
 xlog.byteoversea.com
 xlog.byteoversea.com.edgesuite.net
 xlog.tiktokv.com
 xlog.tiktokv.com.edgesuite.net
 xlog-va.byteoversea.com
 xlog-va.byteoversea.com.edgesuite.net
-xlog-va.musical.ly
 xlog-va.musical.ly.edgesuite.net
 xlog-va.tiktokv.com
 xlpzul.daenischesbettenlager.de
@@ -15630,6 +15506,7 @@ xscmzs.tenki.jp
 xslmpq.ohou.se
 xspacemail.partner.net.daraz.com
 xspgbg.livingpick.com
+xsquare.scloud.letv.com
 xuqujk.raven.nl
 xuymgm.hostgator.mx
 xvtox9n.pauljardine.co.uk
@@ -15707,8 +15584,12 @@ ypwzcq.tink.de
 yrrudp.inven.co.kr
 yskvdo.gebrauchtwagen.at
 ystation.carte-gr.total.fr
+yuanxian.letv.com
+yuanxian.scloud.letv.com
 yujmyt.theiconic.co.nz
 yumenetworks.com
+yun.rili.cn
+yun.tuitiger.com
 yvcjyi.beymen.com
 yvtgva.casa.it
 ywpohn.zoloto585.ru
@@ -15736,6 +15617,8 @@ zetacom.actonservice.com
 z-eu.amazon-adsystem.com
 zeus.ad.xiaomi.com
 zgqgig.skillbox.ru
+zhifu.letv.com
+zhwnlapi.etouch.cn
 zkc5.fleurancenature.fr
 zkmvjm.f1news.ru
 zlawih.airlifestore.com
@@ -15745,6 +15628,9 @@ zlolhl.mediametrics.ru
 zlolhl.smart-lab.ru
 zm5d.lexpress.fr
 zmxncb5.com
+zn3xeosihqjqivq8l-samsungeurope.siteintercept.qualtrics.com
+zn6lro0hnnzevxtpz-samsungeurope.siteintercept.qualtrics.com
+zn8a1gd8ckeekprrz-samsunggdc.siteintercept.qualtrics.com
 z-na.amazon-adsystem.com
 znq9.destinia.mx
 zodhqv.peterson.fr
