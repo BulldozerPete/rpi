@@ -85,14 +85,37 @@ xp.apple.com
 
 # Cookies (Spiegel/...)
 aggregator.service.usercentrics.eu
+api.usercentrics.eu
+apis.quantcast.mgr.consensu.org
+app.usercentrics.eu
+cdn.consentmanager.mgr.consensu.org
+cdn.conversant.mgr.consensu.org
 cdn.cookielaw.org
 cdn.privacy-mgmt.com
+cmp-cdn.cookielaw.org
+cmp.faktor.mgr.consensu.org
+consent.cookiebot.com
 consentcdn.cookiebot.com
 consentcdn.cookiebot.com-v1.edgekey.net
+consentmanager.mgr.consensu.org
+consents.usercentrics.eu
+cookies.onetrust.mgr.consensu.org
+evidon.mgr.consensu.org
 graphql.usercentrics.eu
+iubenda.mgr.consensu.org
+marfeel.mgr.consensu.org
 message331.sp-prod.net
+mgr.consensu.org
+pm.sourcepoint.mgr.consensu.org
+quantcast.mgr.consensu.org
+sdk-gcp.privacy-center.org
+sdk.privacy-center.org
+sibboventures.mgr.consensu.org
+sourcepoint.mgr.consensu.org
 spiegel-de.spiegel.de
+static.quantcast.mgr.consensu.org
 test.quantcast.mgr.consensu.org
+vendorlist.consensu.org
 
 # Disney+
 akamai-san39.exacttarget.com.edgekey.net
