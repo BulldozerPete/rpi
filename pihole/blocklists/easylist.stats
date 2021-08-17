@@ -26,10 +26,10 @@
 #                  https://t.me/adguardde
 # ---------------------------------------------
 
-Downloade easylist                  --> 93808 easylist.raw
-Extrahiere gültige Domains          --> 32558 easylist.domains
-Erstelle Domainliste für WWW Zusatz --> 20527 easylist.domains.www
-Erweitere Domains durch WWW         --> 20527 easylist.www
+Downloade easylist                  --> 93813 easylist.raw
+Extrahiere gültige Domains          --> 32561 easylist.domains
+Erstelle Domainliste für WWW Zusatz --> 20530 easylist.domains.www
+Erweitere Domains durch WWW         --> 20530 easylist.www
 Erstelle Domainliste für FLD        --> 9 easylist.www.fld
-Erstelle easylist                   --> 53094 easylist.txt.tmp
+Erstelle easylist                   --> 53100 easylist.txt.tmp
 
