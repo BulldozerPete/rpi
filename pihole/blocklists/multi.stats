@@ -22,7 +22,7 @@
 # Exclude fake.txt: 10846
 # Exclude: 10846
 
-# Whitelist: 54799
+# Whitelist: 54800
 # Deadlist: 441198
 
 # Blacklist global: 15
@@ -43,7 +43,7 @@
 # 12. Source: 898 - https://v.firebog.net/hosts/static/w3kbl.txt
 # 13. Source: 53133 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 14. Source: 13690 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-# 15. Source: 70317 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 15. Source: 70334 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 16. Source: 91403 - https://dbl.oisd.nl/basic/
 # 17. Source: 226174 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 # 18. Source: 377 - https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
@@ -64,7 +64,7 @@
 # 33. Source: 514 - https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-playbook.txt
 # 34. Source: 23232 - https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-silverterrier.txt
 # 35. Source: 43 - https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-malware-traffic.txt
-# 36. Source: 8331 - https://adaway.org/hosts.txt
+# 36. Source: 8325 - https://adaway.org/hosts.txt
 # 37. Source: 3623 - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 # 38. Source: 9 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 # 39. Source: 1286 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
@@ -77,7 +77,7 @@
 # 46. Source: 8728 - https://winhelp2002.mvps.org/hosts.txt
 # 47. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 # 48. Source: 3548 - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
-# 49. Source: 25904 - https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
+# 49. Source: 25940 - https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 # 50. Source: 87063 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # 51. Source: 5401 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 # 52. Source: 2204 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
@@ -85,16 +85,17 @@
 # 54. Source: 37 - https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
 # 55. Source: 1178 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 56. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 57. Source: 1382 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 57. Source: 1383 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 58. Source: 387 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1199632
+# #. Source: 1199680
 
 Statistik multi.txt:
-== Source (unique): 608632
-++ Black:           608636 (+4)
--- White:           606031 (-2605)
--- Dead:            419707 (-186324)
--- Exclude:         419636 (-71)
--- Unblock:         419602 (-34)
-++ WWW-Domains:     547371 (+127769)
-++ FLD-Domains:     548302 (+931)
+== Source (unique): 608668
+++ Black:           608672 (+4)
+-- White:           606067 (-2605)
+-- Dead:            419743 (-186324)
+-- Exclude:         419672 (-71)
+++ Block:           419676 (+4)
+-- Unblock:         419642 (-34)
+++ WWW-Domains:     547413 (+127771)
+++ FLD-Domains:     548343 (+930)
