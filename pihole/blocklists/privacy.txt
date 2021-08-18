@@ -198,8 +198,8 @@ feedback.windows.com
 geo.vortex.data.microsoft.com.akadns.net
 hubblecontent.osi.office.net
 i1.services.social.microsoft.com
-# nexus.officeapps.live.com
-# nexusrules.officeapps.live.com
+nexus.officeapps.live.com
+nexusrules.officeapps.live.com
 oca.telemetry.microsoft.com
 # onecollector.cloudapp.aria.akadns.net
 prod.nexusrules.live.com.akadns.net
@@ -211,11 +211,11 @@ telemetry.microsoft.com
 telemetry.urs.microsoft.com
 us.vortex-win.data.microsoft.com
 v10-win.vortex.data.microsoft.com.akadns.net
-# v10.vortex-win.data.microsoft.com
+v10.vortex-win.data.microsoft.com
 vortex-sandbox.data.microsoft.com
 vortex-win-sandbox.data.microsoft.com
-# vortex-win.data.microsoft.com
-# vortex.data.microsoft.com
+vortex-win.data.microsoft.com
+vortex.data.microsoft.com
 watson.live.com
 watson.microsoft.com
 watson.telemetry.microsoft.com
