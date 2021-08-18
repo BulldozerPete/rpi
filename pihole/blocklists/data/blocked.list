@@ -193,6 +193,7 @@ attr.appsflyer.com
 audacity.de
 audev.zeit.de
 audit-tcfv2.quantcast.mgr.consensu.org
+auth.split.io
 availablereschedulevicious.com
 axelspringerbooks.112.2o7.net
 axel-springer-d.openx.net
@@ -255,13 +256,16 @@ cdn.carbonads.com
 cdn.c-i.as
 cdn.cloudimagesb.com
 cdn.contalyze.com
+cdn.cxense.com
 cdn.districtm.io
+cdn-eu.dynamicyield.com
 cdn.exactag.com
 cdn.fastclick.net
 cdn.flashtalking.com
 cdn.funnelytics.io
 cdn-gl.nmrodam.com
 cdn.instapagemetrics.com
+cdn.krxd.net
 cdn.luckyorange.com
 cdn.marphezis.com
 cdn.matomo.cloud
@@ -296,6 +300,7 @@ cdn.vlyby.com
 cdn.yourwebbars.com
 cdn.ywxi.net
 cdn.zomap.de
+cdp.cloud.unity3d.com
 cdrvrs.com
 celeritascdn.com
 ce.lijit.com
@@ -428,6 +433,7 @@ dmp.v.fwmrm.net
 dmx.districtm.io
 d.nativendo.de
 dnhfi5nn2dt67.cloudfront.net
+dpm.demdex.net
 drsam.postaffiliatepro.com
 dsp.adfarm1.adition.com
 d.turn.com
@@ -466,6 +472,8 @@ eu-tlp07.kameleoon.eu
 events.cid.samba.tv
 events.reddit.com
 events.redditmedia.com
+events.sd-nbb.de
+events.split.io
 express.met.vgwort.de
 extmaps-api.yandex.net
 facesnotebook.com
@@ -478,6 +486,7 @@ fdts.ebay-kleinanzeigen.de
 feed.baidu.com
 fhsmtrnsfnt.com
 firebaselogging.googleapis.com
+firebaselogging-pa.googleapis.com
 firebase-settings.crashlytics.com
 firetvcaptiveportal.com
 flash.doubleclick-analytics.com
@@ -485,6 +494,7 @@ fls.doubleclick.net
 flury-ycpi.gycpi.b.yahoodns.net
 fmdata.imgsmail.ru
 f.monetate.net
+fp.msedge.net
 fra1-ib.adnxs.com
 freegeoip.app
 freshmarketer.com
@@ -551,6 +561,7 @@ htlb.casalemedia.com
 ht.redtube.com
 ht.tube8.com
 ht.xtube.com
+hubt.pornhub.com
 hubtraffic.com
 hw-cdn-ap.trafficjunky.net
 ib.3lift.com
@@ -689,6 +700,7 @@ metrics.data.hicloud.com
 metrics-dra.dt.hicloud.com
 metrics.fressnapf.de
 metrics.icloud.com
+metrics.notebooksbilliger.de
 metrics.n-tv.de
 middycdn-a.akamaihd.net
 ml314.com
@@ -755,6 +767,7 @@ p1.zemanta.com
 p.adsymptotic.com
 pad-v3.presage.io
 pagead2.googleadservices.com
+pagead2.googlesyndication.com
 pagead-googlehosted.l.google.com
 pandg.tapad.com
 partnerad.l.doubleclick.net
@@ -880,6 +893,7 @@ sanalytics.express.de
 sanalytics.ksta.de
 sats.spiegel.de
 sbcomniture.focus.de
+sb.scorecardresearch.com
 sb.voicefive.com
 s.c.appier.net
 scdn.cxense.com
@@ -902,10 +916,12 @@ sdk.fra-01.braze.eu
 sdk.iad-01.braze.com
 sdk.out.usbla.net
 sdk.qikify.com
+sdk.split.io
 search.spotxchange.com
 secure.adnxs.com
 secure-adnxs.edgekey.net
 secure-assets.rubiconproject.com
+secure-dcr.imrworldwide.com
 secure-ds.serving-sys.com
 secure-eu.nmrodam.com
 secure.make6pain.com
@@ -957,6 +973,7 @@ ssbsync.smartadserver.com
 ssc.33across.com
 ssl-chip.met.vgwort.de
 ssl.gft2.de
+ssl.google-analytics.com
 ssl-handelsblatt.met.vgwort.de
 ssl-heise.met.vgwort.de
 ssl-rp-online.met.vgwort.de
@@ -973,6 +990,7 @@ static.ads-twitter.com
 static.am5.vip.prod.criteo.net
 static-cdn.hotjar.com
 static.clicktripz.com
+static.cloudflareinsights.com
 static.criteo.net
 static-de.plista.com
 static.digidip.net
@@ -1159,6 +1177,7 @@ widgets.outbrain.com
 widow5blackfr.com
 wikia-d.openx.net
 wildcard.bkrtx.com.edgekey.net
+wildcard.cdn.optimizely.com.edgekey.net
 windychinese.com
 wlplatincasino.adsrv.eacdn.com
 ws.sharethis.com
@@ -1186,8 +1205,10 @@ www.econda-monitor.de
 www.everestjs.net
 www.fastly-insights.com
 www.fdrptpyxchzjk.com
+www.google-analytics.com
 www.googleanalytics.com
 www.googleoptimize.com
+www-googletagmanager.l.google.com
 www.guvivqlbh.com
 www.highperformancecpm.com
 www.imglnke.com
