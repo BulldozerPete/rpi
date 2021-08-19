@@ -454,7 +454,7 @@ load.sumo.com
 loadus.exelator.com
 logc1413.xiti.com
 log.core.cloud.vewd.com
-# log.pinterest.com
+log.pinterest.com
 logs1241.xiti.com
 logs1279.xiti.com
 logs1406.xiti.com
@@ -563,7 +563,7 @@ ps.eyeota.net
 p.skimresources.com
 p.teads.tv
 pt.ispot.tv
-pubads.g.doubleclick.net
+# pubads.g.doubleclick.net
 pub.headerlift.com
 # publisher-assets.spot.im
 push.delivery.ethinking.de
@@ -660,7 +660,7 @@ srv.de.ebayrtm.com
 ssa.eurosport.de
 s.skimresources.com
 ssl.adklick.de
-ssl.google-analytics.com
+# ssl.google-analytics.com
 ssl.hurra.com
 sslwidget.criteo.com
 ss.musthird.com
@@ -671,7 +671,7 @@ startrekk.flaconi.de
 startribune.zeustechnology.com
 static.addtoany.com
 static.ads-twitter.com
-static.cleverpush.com
+# static.cleverpush.com
 static.clicktripz.com
 static.criteo.net
 static-de.plista.com
@@ -710,7 +710,7 @@ tag.durationmedia.net
 tag.measured.com
 tagm.tchibo.de
 # tags.bkrtx.com
-# tags.bluekai.com
+tags.bluekai.com
 tags.catapultx.com
 # tags.crwdcntrl.net
 tags-eu.tiqcdn.com
