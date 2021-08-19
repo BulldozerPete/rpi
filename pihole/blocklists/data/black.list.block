@@ -7,7 +7,7 @@ browser-update.org
 cdn.heapanalytics.com
 contributor.google.com
 etahub.com
-hw-cdn2.adtng.com
+# hw-cdn2.adtng.com
 log.pinterest.com
 metrics.brightcove.com
 pagead2.googlesyndication.com
@@ -21,7 +21,7 @@ tracking.nw.de
 tr.snapchat.com
 try.abtasty.com
 via.batch.com
-video.xxxjmp.com
+# video.xxxjmp.com
 web.vortex.data.microsoft.com
 wipe.de
 www.userreport.com
