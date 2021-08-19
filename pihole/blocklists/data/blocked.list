@@ -145,6 +145,7 @@ a.optmnstr.com
 api2.amplitude.com
 api.accengage.com
 api-cengine.forkcdn.com
+api.cleverpush.com
 api.cooladata.com
 api-esp.piano.io
 api.feedad.com
@@ -153,6 +154,7 @@ api.getdrip.com
 api.getjad.io
 api.instabug.com
 api-js.mixpanel.com
+api.mixpanel.com
 api.opmnstr.com
 api.permutive.com
 api.popin.cc
@@ -173,6 +175,7 @@ app-ab46.marketo.com
 app.adjust.world
 app-analytics-v2.snapchat.com
 appleglobal.102.112.2o7.net
+app-measurement.com
 app.satismeter.com
 app.theadx.com
 app.uptain.de
@@ -240,6 +243,7 @@ cagothie.net
 ca.iadsdk.apple.com
 capture.trackjs.com
 cas.avalon.perfdrive.com
+c.bing.com
 cd.adition.com
 cdn10.trafficjunky.net
 cdn2.teads.tv
@@ -334,6 +338,7 @@ code.etracker.com
 collect21794pprsf.deltadna.net
 collect-eu-central-1.tealiumiq.com
 collector-7405.tvsquared.com
+collector.githubapp.com
 collector-pxikkul2rm.px-cdn.net
 collector-pxikkul2rm.pxchk.net
 collector-pxikkul2rm.px-cloud.net
@@ -348,6 +353,7 @@ condles-temark.com
 confiant-integrations.global.ssl.fastly.net
 config.fp.measure.office.com
 config.inmobi.com
+config.ioam.de
 config.samsungads.com
 config.uca.cloud.unity3d.com
 configuration-vending.service.amazonsilk.com
@@ -424,10 +430,12 @@ de1-bid.adsrvr.org
 de-config.sensic.net
 default.exp-tas.com
 de-gmtdmp.mookie1.com
+de.ioam.de
 delivery.contextads.live
 depirsmandk5.com
 deploy.mopinion.com
 desktop-assistant-sub.osp.opera.software
+des.smartclip.net
 dev.visualwebsiteoptimizer.com
 dialacrum.iad-03.braze.com
 dis.criteo.com
@@ -446,6 +454,7 @@ drsam.postaffiliatepro.com
 dsp.adfarm1.adition.com
 d.turn.com
 dualstack.beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com
+dumontnet.d3.sc.omtrdc.net
 dumontnet.tt.omtrdc.net
 dx6ctphzljkf1.cloudfront.net
 dynamic.criteo.com
@@ -484,6 +493,7 @@ events.sd-nbb.de
 events.split.io
 express.met.vgwort.de
 extmaps-api.yandex.net
+f23f026d-af06-45a2-8d42-9222f4656195.edge.permutive.app
 facesnotebook.com
 farm-de.plista.com
 fast.a.klaviyo.com
@@ -578,6 +588,7 @@ ib.anycast.adnxs.com
 ib.sin1.geoadnxs.com
 ice.360yield.com
 id5-sync.com
+idat.production.ippen.space
 id.cxense.com
 idm-d.openx.net
 idpt.360yield.com
@@ -830,12 +841,13 @@ prebid.openx.net
 prebid-server.rubiconproject.com
 preferences.cid.samba.tv
 prg.smartadserver.com
+privacyportal-de.onetrust.com
+privacyportal.onetrust.com
 privacy.stroeerdigitalgroup.de
 privatestats.whatsapp.net
 prod.adspsp.com
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 prodlb.siteintercept.qualtrics.com.cdn.cloudflare.net
-prod.rewardsplatform.microsoft.com
 profile.localytics.com
 profiles.tagger.opecloud.com
 propeller-tracking.com
@@ -922,6 +934,7 @@ scripts.psyma.com
 scripts.sophus3.com
 scripts.webcontentassessor.com
 s.d.adup-tech.com
+s.deepl.com
 sdk-api-v1.singular.net
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
@@ -1080,6 +1093,7 @@ tk6if76q.ab1n.net
 t.ktxtr.com
 tlx.3lift.com
 token.rubiconproject.com
+tools.pinpoll.com
 top-fwz1.mail.ru
 toplist.raidrush.ws
 top.nydus.org
@@ -1134,6 +1148,7 @@ uipglob.semasio.net
 uip.semasio.net
 uir.uimserv.net
 umwatson.events.data.microsoft.com
+unified.adsafeprotected.com
 united-infos.net
 u.openx.net
 upgulpinon.com
@@ -1171,6 +1186,7 @@ visitor-service.tealiumiq.com
 vitals.vercel-insights.com
 vlc.de
 vo2.qrlsx.com
+vortex.data.microsoft.com
 vrtbe.demdex.net
 vrt.sc.omtrdc.net
 v.vfgte.com
@@ -1248,6 +1264,7 @@ www.zigann.com
 x.bidswitch.net
 x.disq.us
 xml.fastdlr.com
+xo4ddpux4csh6usraoxrkbvryrx8b1629319444.uaid.nmrodam.com
 xray.mail.ru
 yandexadexchange.net
 yieldlove-d.openx.net
