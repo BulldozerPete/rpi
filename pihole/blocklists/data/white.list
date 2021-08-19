@@ -164,10 +164,14 @@ consent.faz.net
 # Github
 user-images.githubusercontent.com
 
+# Gaming
+*.overwolf.com
+
 # Google
 *.googlevideo.com
 *.gvt1.com
 *.gvt2.com
+app-measurement.com
 fundingchoicesmessages.google.com
 people-pa.googleapis.com
 
@@ -311,6 +315,10 @@ syndication.twitter.com
 # Verschiedene
 cdn.optimizely.com
 
+# WhatsApp
+*.whatsapp.net
+dit.whatsapp.net
+
 # XBox
 click.engage.xbox.com
 image.engage.xbox.com
@@ -322,6 +330,7 @@ s.youtube.com
 r3.o.lencr.org
 
 # Zoom
+*.zoom.us
 click.zoom.us
 log.zoom.us
 logfiles.zoom.us
