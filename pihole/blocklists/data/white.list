@@ -5,21 +5,43 @@ tags.tiqcdn.com
 www.asadcdn.com
 
 # Amazon
+aan.amazon.com
 aax-eu-retail-direct.amazon-adsystem.com
+aax-eu.amazon-adsystem.com
+aax.amazon-adsystem.amazon.com
+aax.amazon-adsystem.com
+c.amazon-adsystem.com
+fls-eu.amazon.ae
+fls-eu.amazon.co.uk
+fls-eu.amazon.com
+fls-eu.amazon.de
+fls-eu.amazon.es
+fls-eu.amazon.fr
+fls-eu.amazon.in
+fls-eu.amazon.it
+fls-eu.amazon.nl
+fls-eu.amazon.sa
+fls-eu.amazon.se
+mads-eu.amazon.com
+mads.amazon-adsystem.com
 
 # Apps (Mobile)
 app.link
 fundingchoicesmessages.google.com
 mobilesdk-us.kampyle.com
 
-# Apple
+# Apple https://support.apple.com/en-us/HT210060
+*.appattest.apple.com
+*.apps.apple.com
+*.business.apple.com
+*.itunes.apple.com
+*.mzstatic.com
+*.push.apple.com
+*.school.apple.com
 albert.apple.com
-appattest.apple.com
 appldnld.apple.com
 apple.com
-apps.apple.com
 bpapi.apple.com
-business.apple.com
 captive.apple.com
 configuration.apple.com
 crl.apple.com
@@ -38,17 +60,16 @@ gnf-mdn.apple.com
 gnf-mr.apple.com
 gs.apple.com
 humb.apple.com
+icloud.com
 identity.apple.com
 ig.apple.com
 iphone-ld.apple.com
 iphone-ld.origin-apple.com.akadns.net
 iprofiles.apple.com
 isu.apple.com
-itunes.apple.com
 lcdn-registration.apple.com
 mdmenrollment.apple.com
 mesu.apple.com
-mzstatic.com
 ns.itunes.apple.com
 ocsp.apple.com
 ocsp.digicert.com
@@ -58,8 +79,6 @@ ocsp2.apple.com
 oscdn.apple.com
 osrecovery.apple.com
 ppq.apple.com
-push.apple.com
-school.apple.com
 serverstatus.apple.com
 setup.icloud.com
 skl.apple.com
