@@ -109,7 +109,6 @@ ws-ee-maidsvc.icloud.com
 xp.apple.com
 
 # Cookies (Spiegel/...)
-*.mgr.consensu.org
 *.sp-prod.net
 aggregator.service.usercentrics.eu
 api.usercentrics.eu
@@ -291,6 +290,7 @@ s0-2mdn-net.l.google.com
 s0.2mdn.net
 s2.static.cfgr3.com
 uim.tifbs.net
+video.xxxjmp.com
 videos-fms.jwpsrv.com
 vz-cdn.trafficjunky.net
 vz-cdn2.adtng.com
