@@ -22,7 +22,7 @@
 # Exclude fake.txt: 12363
 # Exclude: 12363
 
-# Whitelist: 11170
+# Whitelist: 11189
 # Deadlist: 441543
 
 # Blacklist global: 88
@@ -41,9 +41,9 @@
 # 10. Source: 87834 - https://raw.githubusercontent.com/mullvad/dns-adblock/main/output/relay/relay_adblock.txt
 # 11. Source: 15770 - https://raw.githubusercontent.com/mullvad/dns-adblock/main/output/relay/relay_privacy.txt
 # 12. Source: 898 - https://v.firebog.net/hosts/static/w3kbl.txt
-# 13. Source: 52960 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
+# 13. Source: 52974 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 14. Source: 13690 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-# 15. Source: 70187 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 15. Source: 70212 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 16. Source: 57303 - https://dbl.oisd.nl/basic/
 # 17. Source: 225780 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 # 18. Source: 377 - https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
@@ -53,7 +53,7 @@
 # 22. Source: 318 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 # 23. Source: 1351 - https://orca.pet/notonmyshift/domains.txt
 # 24. Source: 37 - https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-# 25. Source: 44298 - https://phishing.army/download/phishing_army_blocklist_extended.txt
+# 25. Source: 44315 - https://phishing.army/download/phishing_army_blocklist_extended.txt
 # 26. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 # 27. Source: 18454 - https://raw.githubusercontent.com/cbuijs/shallalist/master/spyware/domains
 # 28. Source: 487 - https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA551/domains.txt
@@ -77,7 +77,7 @@
 # 46. Source: 8728 - https://winhelp2002.mvps.org/hosts.txt
 # 47. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 # 48. Source: 3548 - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
-# 49. Source: 26176 - https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
+# 49. Source: 26224 - https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 # 50. Source: 86533 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # 51. Source: 5402 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 # 52. Source: 2204 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
@@ -85,17 +85,17 @@
 # 54. Source: 37 - https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
 # 55. Source: 1180 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 56. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 57. Source: 1661 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 57. Source: 1385 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 58. Source: 387 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1163337
+# #. Source: 1163165
 
 Statistik multi.txt:
-== Source (unique): 604852
-++ Black:           604916 (+64)
--- White:           603223 (-1693)
--- Dead:            417413 (-185810)
--- Exclude:         417337 (-76)
-++ Block:           417352 (+15)
--- Unblock:         417315 (-37)
-++ WWW-Domains:     545058 (+127743)
-++ FLD-Domains:     545883 (+825)
+== Source (unique): 604964
+++ Black:           605028 (+64)
+-- White:           603333 (-1695)
+-- Dead:            417525 (-185808)
+-- Exclude:         417449 (-76)
+++ Block:           417461 (+12)
+-- Unblock:         417400 (-61)
+++ WWW-Domains:     545165 (+127765)
+++ FLD-Domains:     545988 (+823)
