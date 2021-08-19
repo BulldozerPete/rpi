@@ -22,12 +22,12 @@
 # Exclude fake.txt: 12337
 # Exclude: 12337
 
-# Whitelist: 57914
+# Whitelist: 57919
 # Deadlist: 441543
 
-# Blacklist global: 825
+# Blacklist global: 834
 # Blacklist source: 
-# Blacklist: 825
+# Blacklist: 834
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 # 2. Source: 662 - https://v.firebog.net/hosts/Admiral.txt
@@ -53,7 +53,7 @@
 # 22. Source: 318 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 # 23. Source: 1353 - https://orca.pet/notonmyshift/domains.txt
 # 24. Source: 37 - https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-# 25. Source: 44315 - https://phishing.army/download/phishing_army_blocklist_extended.txt
+# 25. Source: 44383 - https://phishing.army/download/phishing_army_blocklist_extended.txt
 # 26. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 # 27. Source: 18454 - https://raw.githubusercontent.com/cbuijs/shallalist/master/spyware/domains
 # 28. Source: 487 - https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA551/domains.txt
@@ -85,16 +85,17 @@
 # 54. Source: 37 - https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
 # 55. Source: 1180 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 56. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 57. Source: 1383 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 57. Source: 1458 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 58. Source: 387 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1163776
+# #. Source: 1163919
 
 Statistik multi.txt:
-== Source (unique): 606867
-++ Black:           606994 (+127)
--- White:           604204 (-2790)
--- Dead:            418429 (-185775)
--- Exclude:         418353 (-76)
--- Unblock:         418316 (-37)
-++ WWW-Domains:     546049 (+127733)
-++ FLD-Domains:     546876 (+827)
+== Source (unique): 607045
+++ Black:           607175 (+130)
+-- White:           604385 (-2790)
+-- Dead:            418610 (-185775)
+-- Exclude:         418534 (-76)
+++ Block:           418557 (+23)
+-- Unblock:         418520 (-37)
+++ WWW-Domains:     546348 (+127828)
+++ FLD-Domains:     547183 (+835)
