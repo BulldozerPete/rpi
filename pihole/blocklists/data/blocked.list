@@ -40,6 +40,7 @@ aamt.nbcnews.com
 aa.online-metrix.net
 aax.amazon-adsystem.amazon.com
 aax.amazon-adsystem.com
+aax-eu.amazon-adsystem.com
 a.bf-ad.net
 a.bf-tools.net
 abservinean.com
@@ -102,6 +103,7 @@ advertising.amazon.de
 adx.adform.net
 ad.yieldlab.net
 aeeb3-12755.api.pushwoosh.com
+a.fapster.xxx
 a-fds.youborafds01.com
 aff.bstatic.com
 af.opera.com
@@ -176,6 +178,7 @@ app.theadx.com
 app.uptain.de
 aps.xplosion.de
 a.pub.network
+a.realsrv.com
 as.2020mustang.com
 as.autobild.de
 as.bild.de
@@ -272,6 +275,7 @@ cdn.matomo.cloud
 cdn.moengage.com
 cdn.mookie1.com
 cdn.mouseflow.com
+cdn.nativendo.de
 cdn.netpoint-media.de
 cdn.nsimg.net
 cdn.o333o.com
@@ -281,6 +285,7 @@ cdn-pci.optimizely.com
 cdn.permutive.com
 cdn.pushalert.co
 cdn.pushwoosh.com
+cdn.recognified.net
 cdn.scarabresearch.com
 cdn-settings.segment.com
 cdn.snigelweb.com
@@ -344,6 +349,7 @@ confiant-integrations.global.ssl.fastly.net
 config.fp.measure.office.com
 config.inmobi.com
 config.samsungads.com
+config.uca.cloud.unity3d.com
 configuration-vending.service.amazonsilk.com
 congressaffrayghosts.com
 consent.apotheken-umschau.de
@@ -358,6 +364,7 @@ cpxl.golem.de
 crashlogs.whatsapp.net
 crashlyticsreports-pa.googleapis.com
 creativecdn.com
+creative.mshago.com
 cs.emxdgt.com
 cs.luckyorange.net
 cs.ns1p.net
@@ -404,6 +411,7 @@ data-c5925d7d99.pcgameshardware.de
 data-c69aa33f02.linux-community.de
 data-e4997adf31.welt.de
 datalayer.p7s1.io
+data.logentries.com
 data.mistat.rus.xiaomi.com
 data.pendo.io
 data.photorank.me
@@ -627,6 +635,8 @@ js.monitor.azure.com
 json.geoiplookup.io
 jssdkcdns.mparticle.com
 js.smartredirect.de
+js.trendmd.com
+kinesis.us-east-1.amazonaws.com
 k.intellitxt.com
 k.kolplay.com
 krk.kargo.com
@@ -693,6 +703,7 @@ metrics2.data.hicloud.com
 metrics3.data.hicloud.com
 metrics4.data.hicloud.com
 metrics5.data.hicloud.com
+metrics-api.dimensions.ai
 metrics.apple.com
 metrics.asos.com
 metrics-config.icloud.com
@@ -812,6 +823,7 @@ poweredby.jads.co
 pp.lp4.io
 pr-bh.ybp.yahoo.com
 pre.ads.justpremium.com
+prebid.adnxs.com
 prebid.a-mo.net
 prebid.media.net
 prebid.openx.net
@@ -830,6 +842,7 @@ propeller-tracking.com
 prophet.heise.de
 ps.eyeota.net
 p.t-online.de
+pubads.g.doubleclick.net
 pubnative.info
 pub-sdk-cfg.criteo.com
 pushsar.com
@@ -947,6 +960,7 @@ sjrtp3-cdn.marketo.com
 skadsdk.appsflyer.com
 sm4xqadz4o.kameleoon.eu
 smart-widget-assets.ekomiapps.de
+smetrics.faz.net
 smetrics.helvetia.com
 smetrics.payback.de
 smetrics.samsung.com
@@ -989,6 +1003,7 @@ static.addtoany.com
 static.ads-twitter.com
 static.am5.vip.prod.criteo.net
 static-cdn.hotjar.com
+static.chartbeat.com
 static.clicktripz.com
 static.cloudflareinsights.com
 static.criteo.net
@@ -1021,8 +1036,10 @@ stats.sxp.smartclip.net
 stats-t--online-de.cdn.ampproject.org
 stats.wp.com
 submit-target.osp.opera.software
+suggestqueries-clients6.youtube.com
 supportmetrics.apple.com
 survey.survicate.com
+s.vi-serve.com
 sync.1rx.io
 sync.crwdcntrl.net
 synchrobox.adswizz.com
@@ -1153,6 +1170,7 @@ visitor.omnitagjs.com
 visitor-service.tealiumiq.com
 vitals.vercel-insights.com
 vlc.de
+vo2.qrlsx.com
 vrtbe.demdex.net
 vrt.sc.omtrdc.net
 v.vfgte.com
@@ -1167,6 +1185,7 @@ weather-analytics-events.apple.com
 webanalytics.btelligent.net
 webedia-d.openx.net
 web.hb.ad.cpe.dotomi.com
+webhook.logentries.com
 webtrack.rund-ums-baby.de
 web.wurfl.io
 wer.schwarzwaelder-bote.de
