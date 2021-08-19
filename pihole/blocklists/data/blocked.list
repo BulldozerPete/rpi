@@ -38,9 +38,6 @@ a.ad.gt
 a.adtng.com
 aamt.nbcnews.com
 aa.online-metrix.net
-aax.amazon-adsystem.amazon.com
-aax.amazon-adsystem.com
-aax-eu.amazon-adsystem.com
 a.bf-ad.net
 a.bf-tools.net
 abservinean.com
@@ -51,6 +48,7 @@ ad1.adfarm1.adition.com
 ad2.adfarm1.adition.com
 ad3.adfarm1.adition.com
 ad4.adfarm1.adition.com
+ad4m.at
 ad.71i.de
 ad.ad-srv.net
 adclick.g.doubleclick.net
@@ -63,6 +61,7 @@ ad-ipd.sxp.smartclip.net
 ad.mail.ru
 ads2.contentabc.com
 ads.adthrive.com
+ad.samsungadhub.com
 ads-api.twitter.com
 ads.api.vungle.com
 ads.betweendigital.com
@@ -82,6 +81,7 @@ ads.linkedin.com
 ads.mopub.com
 ads.pinterest.com
 ads.pubmatic.com
+ads.reddit.com
 ads.rubiconproject.com
 ads.servebom.com
 ads.servenobid.com
@@ -144,6 +144,7 @@ a.o333o.com
 a.optmnstr.com
 api2.amplitude.com
 api.accengage.com
+api.ad.xiaomi.com
 api-cengine.forkcdn.com
 api.cleverpush.com
 api.cooladata.com
@@ -176,6 +177,7 @@ app.adjust.world
 app-analytics-v2.snapchat.com
 appleglobal.102.112.2o7.net
 app-measurement.com
+appmetrica.yandex.com
 app.satismeter.com
 app.theadx.com
 app.uptain.de
@@ -189,6 +191,7 @@ as.computerbild.de
 as-sec.casalemedia.com
 asset42.check24.de
 assets.kampyle.com
+assoc-amazon.com
 as.techbook.de
 as.welt.de
 a.teads.tv
@@ -220,6 +223,7 @@ beacon.wikia-services.com
 bh.contextweb.com
 bidder.criteo.com
 bid.sxp.smartclip.net
+bigdata.ssp.samsung.com
 bild-relay.iocnt.net
 blastcahs.com
 bls.adalliance.io
@@ -263,8 +267,10 @@ cdn.carbonads.com
 cdn.c-i.as
 cdn.cloudimagesb.com
 cdn.contalyze.com
+cdn.cquotient.com
 cdn.cxense.com
 cdn.districtm.io
+cdn.dynamicyield.com
 cdn-eu.dynamicyield.com
 cdn.exactag.com
 cdn.fastclick.net
@@ -418,7 +424,9 @@ data-c69aa33f02.linux-community.de
 data-e4997adf31.welt.de
 datalayer.p7s1.io
 data.logentries.com
+data.mistat.india.xiaomi.com
 data.mistat.rus.xiaomi.com
+data.mistat.xiaomi.com
 data.pendo.io
 data.photorank.me
 d.ba-content.de
@@ -464,6 +472,7 @@ e1cd4958785f7e0dcfaee56d57a7db4096b34051.cws.conviva.com
 e1.emxdgt.com
 e69896.dscapi6.akamaiedge.net
 eb2.3lift.com
+ed.emp.de
 edinburghemotionalalive.com
 efcad85fded269f462c434c4c5f84654a17d4a77.cws.conviva.com
 e.maxtraffic.com
@@ -542,6 +551,7 @@ glb-ads.atwola.adtech.de
 glersakr.com
 glitter.services.disqus.com
 global.adserver.yahoo.com
+globalapi.ad.xiaomi.com
 global.cmcs.service.amazonsilk.com
 global.px.quantserve.com
 global.safebrowsing.service.amazonsilk.com
@@ -552,6 +562,7 @@ golem-relay.iocnt.net
 go.leojmp.com
 googleads4.g.doubleclick.net
 googleads.g.doubleclick.net
+google-analytics.com
 grid.bidswitch.net
 gslb-2.demdex.net
 gum.criteo.com
@@ -572,6 +583,7 @@ hif.to
 hit-pool.upscore.com
 hits-i.iubenda.com
 hm.baidu.com
+hotjar.com
 hpd.baidu.com
 ht-cdn2.adtng.com
 ht-cdn.trafficjunky.net
@@ -686,8 +698,6 @@ ls.hit.gemius.pl
 luckyforbet.com
 mab.chartbeat.com
 m.addthis.com
-mads.amazon-adsystem.com
-mads-eu.amazon.com
 mafo.adalliance.io
 mail-ads.google.com
 main-botconsole.production.e-bot7.de
@@ -741,6 +751,7 @@ mon-va.tiktokv.com
 mon-va.tiktokv.com.edgesuite.net
 mopo.met.vgwort.de
 mopsaups.net
+mouseflow.com
 mpp.vindicosuite.com
 mraid.presage.io
 ms.applovin.com
@@ -764,6 +775,7 @@ newrelic.map.fastly.net
 nicmoomp.net
 njrkf6rvmq.kameleoon.eu
 nkwintenc.biz
+nmetrics.samsung.com
 notes-analytics-events.apple.com
 notify-bugs-fra1.rtl.de
 notify.bugsnag.com
@@ -781,6 +793,7 @@ oddsserve-wqps7yvkz.stackpathdns.com
 odr.mookie1.com
 ohcohz.stroeerdp.de
 om.elvenar.com
+open.oneplus.net
 orbidder.otto.de
 ot.obi.de
 ow.pubmatic.com
@@ -798,6 +811,7 @@ partnernet.amazon.de
 payingnoodlescam.com
 p.cquotient.com
 pdw-usr.userreport.com
+people-pa.googleapis.com
 pghub.io
 pingapi.accengage.com
 ping.chartbeat.net
@@ -810,6 +824,7 @@ piwik.pro
 pixel.adsafeprotected.com
 pixel.advertising.com
 pixel.app.returnpath.net
+pixel.facebook.com
 pixel-geo.prfct.co
 pixel.inforsea.com
 pixel.mathtag.com
@@ -833,6 +848,7 @@ pottervark.stroeerdp.de
 poweredby.jads.co
 pp.lp4.io
 pr-bh.ybp.yahoo.com
+prd.jwpltx.com
 pre.ads.justpremium.com
 prebid.adnxs.com
 prebid.a-mo.net
@@ -878,6 +894,7 @@ resources.xg4ken.com
 responder.wt-safetag.com
 rewardsprod.trafficmanager.net
 ris.res-x.com
+r.mateti.net
 r.my.com
 rnd.pushwoosh.com
 rs.mail.ru
@@ -907,11 +924,13 @@ s2s.yieldlove-ad-serving.net
 s385.mxcdn.net
 s400.mxcdn.net
 s8t.teads.tv
+sa.api.intl.miui.com
 s.adroll.com
 s.adx.opera.com
 sak.userreport.com
 salutationcheerlessdemote.com
 sams.spiegel.de
+samsungadhub.com
 samsungads.com
 samsung-com.112.2o7.net
 sanalytics.express.de
@@ -1007,6 +1026,7 @@ ssl-rp-online.met.vgwort.de
 ssl-tagesspiegel.met.vgwort.de
 ssl-t-online.met.vgwort.de
 ssl-vg03.met.vgwort.de
+sslwidget.criteo.com
 ss.musthird.com
 ssr.streamrail.net
 ssum-sec.casalemedia.com
@@ -1025,6 +1045,7 @@ static.digidip.net
 static.doubleclick.net
 static.emsservice.de
 static.etracker.com
+static.hotjar.com
 static.media.net
 static.mediarithmics.com
 static.newsletter2go.com
@@ -1036,6 +1057,7 @@ static.trafficjunky.com
 static-v2.trbo.com
 static.yieldmo.com
 stats.appsflyer.com.akamaized.net
+stats-bq.stylight.net
 stats.computecmedia.de
 stats.crsend.com
 stats.datawrapper.de
@@ -1092,6 +1114,7 @@ t.imgur.com
 tk6if76q.ab1n.net
 t.ktxtr.com
 tlx.3lift.com
+t.mateti.net
 token.rubiconproject.com
 tools.pinpoll.com
 top-fwz1.mail.ru
@@ -1124,6 +1147,7 @@ trc-events.taboola.com
 trck.spoteffects.net
 trc.taboola.com
 tr.iadsdk.apple.com
+trk.pinterest.com
 trmads.eu
 tr.outbrain.com
 try-cloudfront.abtasty.com
@@ -1153,6 +1177,7 @@ united-infos.net
 u.openx.net
 upgulpinon.com
 upload2.fp.measure.office.com
+upload.fp.measure.office.com
 upload.luckyorange.net
 ups.analytics.yahoo.com
 upsettingcrescentwig.com
@@ -1205,6 +1230,7 @@ webhook.logentries.com
 webtrack.rund-ums-baby.de
 web.wurfl.io
 wer.schwarzwaelder-bote.de
+widget.fitanalytics.com
 widget.perfectmarket.com
 widgets.getsitecontrol.com
 widgets.opinary.com
