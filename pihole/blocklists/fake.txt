@@ -23,7 +23,7 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 11170
+# Whitelist: 57911
 # Deadlist: 441543
 # Blacklist: 1394
 # 1. Source: 454 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.vzni.black.list
@@ -32,7 +32,7 @@
 # 4. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 12363 Domains - V2021.08.19-11:43:40
+# 12347 Domains - V2021.08.19-15:06:30
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -128,7 +128,6 @@ adidasyeezynew.com
 adinhotelspa.com
 adler-immo.com
 adogadgets.com
-ador.com
 adria-fisch.at
 adriennegray.at
 adriennegray.ch
@@ -1151,7 +1150,6 @@ cunont.com
 cuntra.at
 cuoredicarta.it
 cupsandcurves.de
-cupshe.com
 curd-roth.de
 curlycurler.de
 currext.com
@@ -1315,7 +1313,6 @@ dexia-hyp.de
 dezuu.at
 dgestionqc.com
 dgsys.de
-dhgate.com
 dh-immobilien.at
 dhk-transport.com
 diamant-eventcenter.de
@@ -2774,7 +2771,6 @@ installateurmax.at
 installateurnotdienste.at
 installateur-notdienst-wien.co.at
 instametall.de
-instantcheckmate.com
 insvive.com
 intaliof.com
 inteltey.com
@@ -2858,7 +2854,6 @@ jieper.com
 jilg-market.de
 jimboo.de
 jjctrans.com
-jjshouse.com
 jkarnil.com
 jkbikesout.cc
 jkhckf.top
@@ -3288,7 +3283,6 @@ lifeworks-munich.de
 liftr.eu
 lighteu.de
 lightflix.de
-lightinthebox.com
 likelymore.com
 likelymorely.com
 lilabogen.de
@@ -4917,7 +4911,6 @@ shauntapparel.com
 sheadora.com
 shebeautys.com
 sheheaven.com
-shein.com
 sheistyle.com
 shelanu.at
 shell-dbr.de
@@ -5526,7 +5519,6 @@ top-markts.de
 topmodareps.es
 topmultimediashop.com
 top-of-software.de
-top-password.com
 topservice-buende.de
 topshopdeal.com
 top-steroide-kaufen.com
@@ -6229,7 +6221,6 @@ www.adidasyeezynew.com
 www.adinhotelspa.com
 www.adler-immo.com
 www.adogadgets.com
-www.ador.com
 www.adria-fisch.at
 www.adriennegray.at
 www.adriennegray.ch
@@ -7217,7 +7208,6 @@ www.cunont.com
 www.cuntra.at
 www.cuoredicarta.it
 www.cupsandcurves.de
-www.cupshe.com
 www.curd-roth.de
 www.curlycurler.de
 www.currext.com
@@ -7373,7 +7363,6 @@ www.dexia-hyp.de
 www.dezuu.at
 www.dgestionqc.com
 www.dgsys.de
-www.dhgate.com
 www.dh-immobilien.at
 www.dhk-transport.com
 www.diamant-eventcenter.de
@@ -8808,7 +8797,6 @@ www.installateur-hansi.at
 www.installateurmax.at
 www.installateurnotdienste.at
 www.instametall.de
-www.instantcheckmate.com
 www.insvive.com
 www.intaliof.com
 www.inteltey.com
@@ -8892,7 +8880,6 @@ www.jieper.com
 www.jilg-market.de
 www.jimboo.de
 www.jjctrans.com
-www.jjshouse.com
 www.jkarnil.com
 www.jkbikesout.cc
 www.jkhckf.top
@@ -9313,7 +9300,6 @@ www.lifeworks-munich.de
 www.liftr.eu
 www.lighteu.de
 www.lightflix.de
-www.lightinthebox.com
 www.likelymore.com
 www.likelymorely.com
 www.lilabogen.de
@@ -10896,7 +10882,6 @@ www.shauntapparel.com
 www.sheadora.com
 www.shebeautys.com
 www.sheheaven.com
-www.shein.com
 www.sheistyle.com
 www.shelanu.at
 www.shell-dbr.de
@@ -11493,7 +11478,6 @@ www.top-markts.de
 www.topmodareps.es
 www.topmultimediashop.com
 www.top-of-software.de
-www.top-password.com
 www.topservice-buende.de
 www.topshopdeal.com
 www.top-steroide-kaufen.com

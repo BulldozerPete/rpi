@@ -19,15 +19,15 @@
 #                  https://t.me/adguardde
 # ---------------------------------------------
 
-# Exclude fake.txt: 12363
-# Exclude: 12363
+# Exclude fake.txt: 12347
+# Exclude: 12347
 
-# Whitelist: 11189
+# Whitelist: 57911
 # Deadlist: 441543
 
-# Blacklist global: 88
+# Blacklist global: 
 # Blacklist source: 
-# Blacklist: 88
+# Blacklist: 0
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 # 2. Source: 662 - https://v.firebog.net/hosts/Admiral.txt
@@ -69,7 +69,7 @@
 # 38. Source: 9 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 # 39. Source: 1286 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
 # 40. Source: 755 - https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
-# 41. Source: 74306 - https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
+# 41. Source: 74695 - https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
 # 42. Source: 17843 - https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 # 43. Source: 181 - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 # 44. Source: 330 - https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
@@ -85,17 +85,15 @@
 # 54. Source: 37 - https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
 # 55. Source: 1180 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 56. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 57. Source: 1385 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 57. Source: 1413 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 58. Source: 387 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1163165
+# #. Source: 1163582
 
 Statistik multi.txt:
-== Source (unique): 604964
-++ Black:           605028 (+64)
--- White:           603333 (-1695)
--- Dead:            417525 (-185808)
--- Exclude:         417449 (-76)
-++ Block:           417461 (+12)
--- Unblock:         417400 (-61)
-++ WWW-Domains:     545165 (+127765)
-++ FLD-Domains:     545988 (+823)
+== Source (unique): 605223
+-- White:           602438 (-2785)
+-- Dead:            416663 (-185775)
+-- Exclude:         416587 (-76)
+-- Unblock:         416528 (-59)
+++ WWW-Domains:     544260 (+127732)
+++ FLD-Domains:     545079 (+819)
