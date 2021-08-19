@@ -18,8 +18,10 @@
 6321597.fls.doubleclick.net
 6519113.fls.doubleclick.net
 6543402.fls.doubleclick.net
+694-ct.c3tag.com
 7kqv8mugue.kameleoon.eu
 8468614.fls.doubleclick.net
+8663141.fls.doubleclick.net
 8847753.fls.doubleclick.net
 9130883.fls.doubleclick.net
 9526757.fls.doubleclick.net
@@ -35,7 +37,7 @@ aa.online-metrix.net
 abc.esprit.de
 a.bf-ad.net
 a.bf-tools.net
-# -- WHITE: acdn.adnxs.com
+# acdn.adnxs.com
 ac.realvu.net
 activision.ssl.sc.omtrdc.net
 ad11.adfarm1.adition.com
@@ -97,14 +99,14 @@ a.optnmnstr.com
 api.bounceexchange.com
 api-esp.piano.io
 api.exponea.com
-# -- WHITE: api.mixpanel.com
+# api.mixpanel.com
 api.permutive.com
 api.rlcdn.com
 api.theadex.com
 api.tinypass.com
 a.postrelease.com
 app.cdn.lookbookhq.com
-# -- WHITE: app-measurement.com
+# app-measurement.com
 ariane.abtasty.com
 as.autobild.de
 as.bild.de
@@ -137,11 +139,11 @@ ayu97c9b5j.kameleoon.eu
 b2c.insticator.com
 backoffice.transmatico.com
 bam.eu01.nr-data.net
-# -- WHITE: bam.nr-data.net
+# bam.nr-data.net
 barstool-barstoolsports.zeustechnology.com
 barstool-d.openx.net
 baseendpoint.stern.de
-# -- WHITE: bat.bing.com
+# bat.bing.com
 bats.video.yahoo.com
 bbcdn-bbnaut.ibillboard.com
 b-code.liadm.com
@@ -158,7 +160,7 @@ bls.adalliance.io
 boot.pbstck.com
 bootstrap.api.drift.com
 browser-http-intake.logs.datadoghq.eu
-# -- WHITE: browser-update.org
+# browser-update.org
 btloader.com
 builder.lift.acquia.com
 c1.adform.net
@@ -188,7 +190,7 @@ cdn-eu.dynamicyield.com
 cdn.exactag.com
 cdn.getsmartcontent.com
 cdn-gl.nmrodam.com
-# -- WHITE: cdn.heapanalytics.com
+# cdn.heapanalytics.com
 cdn.hubvisor.io
 cdn.imhd.io
 cdn.insurads.com
@@ -229,6 +231,7 @@ cm.everesttech.net
 cm.g.doubleclick.net
 cmp.advertising.com
 cmp.netzwelt.de
+cmp.osano.com
 cmp.tvspielfilm.de
 cms.analytics.yahoo.com
 cntuaokhks.kameleoon.eu
@@ -249,7 +252,7 @@ consent-wrapper.jameda.de
 content.livesportmedia.eu
 contextual.media.net
 contributions.guardianapis.com
-# -- WHITE: contributor.google.com
+# contributor.google.com
 conversation.api.drift.com
 cookie-cdn.cookiepro.com
 c.oracleinfinity.io
@@ -286,6 +289,7 @@ data-ssl.stepstone.de
 d.ba-content.de
 dc8xl0ndzn2cb.cloudfront.net
 dcinfos-cache.abtasty.com
+ddacn6pr5v0tl.cloudfront.net
 default.exp-tas.com
 de-gmtdmp.mookie1.com
 delivery.adrecover.com
@@ -326,7 +330,7 @@ ens.nzz.ch
 epnt.ebay.com
 eq97f.publishers.tremorhub.com
 errors.client.optimizely.com
-# -- WHITE: etahub.com
+# etahub.com
 eu.api.fpjs.io
 eu.groupondata.com
 eum-eu-west-1.instana.io
@@ -376,7 +380,7 @@ hit.uptrendsdata.com
 hl.upscore.com
 htlb.casalemedia.com
 ht.redtube.com
-# -- WHITE: hw-cdn2.adtng.com
+# hw-cdn2.adtng.com
 iabusprivacy.pmc.com
 ib.adnxs.com
 ib.adnxs-simple.com
@@ -444,7 +448,7 @@ load.s3.amazonaws.com
 load.sumo.com
 loadus.exelator.com
 logc1413.xiti.com
-# -- WHITE: log.pinterest.com
+# log.pinterest.com
 logs1241.xiti.com
 logs1279.xiti.com
 logs1406.xiti.com
@@ -472,7 +476,7 @@ mediacorp.gscontxt.net
 mediacorp.sc.omtrdc.net
 media.oadts.com
 metrics.api.drift.com
-# -- WHITE: metrics.brightcove.com
+# metrics.brightcove.com
 metrics-logger.spot.im
 metrics.notebooksbilliger.de
 metrics.n-tv.de
@@ -503,7 +507,7 @@ orbidder.otto.de
 ot.obi.de
 oxifwsabgd.nzz.ch
 p1cluster.cxense.com
-# -- WHITE: pagead2.googlesyndication.com
+# pagead2.googlesyndication.com
 pages-stats.rbl.ms
 partner.googleadservices.com
 p.cpx.to
@@ -520,10 +524,10 @@ pixel.advertising.com
 pixel.ionos.de
 pixel.placed.com
 pixel.pointmediatracker.com
-# -- WHITE: pixel.quantserve.com
+# pixel.quantserve.com
 pixels.omnitagjs.com
 pixel.tapad.com
-# -- WHITE: pixel.wp.com
+# pixel.wp.com
 pix.spot.im
 player.aniview.com
 player.daznservices.com
@@ -552,7 +556,7 @@ p.teads.tv
 pt.ispot.tv
 pubads.g.doubleclick.net
 pub.headerlift.com
-# -- WHITE: publisher-assets.spot.im
+# publisher-assets.spot.im
 push.delivery.ethinking.de
 p.vtracy.de
 px1.vtrtl.de
@@ -613,11 +617,13 @@ search.spotxchange.com
 secure.adnxs.com
 secure-assets.rubiconproject.com
 secure.cdn.fastclick.net
+secure-dcr.imrworldwide.com
 secure-it.imrworldwide.com
 secure.make6pain.com
 securepubads.g.doubleclick.net
 secure.quantserve.com
 secure-sg.imrworldwide.com
+secure-sts-prod.imrworldwide.com
 segment-data-us-east.zqtk.net
 se.monetate.net
 servedbyadbutler.com
@@ -694,10 +700,10 @@ tag.demandbase.com
 tag.durationmedia.net
 tag.measured.com
 tagm.tchibo.de
-# -- WHITE: tags.bkrtx.com
-# -- WHITE: tags.bluekai.com
+# tags.bkrtx.com
+# tags.bluekai.com
 tags.catapultx.com
-# -- WHITE: tags.crwdcntrl.net
+# tags.crwdcntrl.net
 tags-eu.tiqcdn.com
 tag.simpli.fi
 tags.srv.stackadapt.com
@@ -724,7 +730,7 @@ trackingapi.kaufda.de
 tracking.g2crowd.com
 tracking.immobilienscout24.de
 tracking.m6r.eu
-# -- WHITE: tracking.nw.de
+# tracking.nw.de
 track.noz.de
 track.realtimeboard.com
 tracksrv.zdf.de
@@ -735,8 +741,8 @@ trc.taboola.com
 trk.vidible.tv
 trmads.eu
 tr.outbrain.com
-# -- WHITE: tr.snapchat.com
-# -- WHITE: try.abtasty.com
+# tr.snapchat.com
+# try.abtasty.com
 tt.onthe.io
 t.uimserv.net
 t.wayfair.de
@@ -767,9 +773,9 @@ v-ch8697saxr.wc.yahoodns.net
 vc.hotjar.io
 vd.7vid.net
 vfde.demdex.net
-# -- WHITE: via.batch.com
+# via.batch.com
 video.adaptv.advertising.com
-# -- WHITE: video.xxxjmp.com
+# video.xxxjmp.com
 visitor-service.tealiumiq.com
 vis.optimizely.com
 vitals.vercel-insights.com
@@ -789,7 +795,7 @@ webedia-de.nuggad.net
 web.mytoys.de
 websdk.appsflyer.com
 web-sdk.urbanairship.com
-# -- WHITE: web.vortex.data.microsoft.com
+# web.vortex.data.microsoft.com
 web.vortex.data.msn.com
 web.webpushs.com
 wg-gesucht-d.openx.net
@@ -799,7 +805,7 @@ widgets.outbrain.com
 widgets.pinterest.com
 widget.whatsbroadcast.com
 widow5blackfr.com
-# -- WHITE: wipe.de
+# wipe.de
 ws-eu.assoc-amazon.com
 wt.vhb.de
 w.usabilla.com
@@ -822,7 +828,7 @@ www.summerhamster.com
 www.uciservice.com
 www.ugdturner.com
 www.usemaxserver.de
-# -- WHITE: www.userreport.com
+# www.userreport.com
 www.xing-share.com
 x.bidswitch.net
 xd.adnz.co

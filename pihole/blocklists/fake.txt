@@ -23,16 +23,16 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 57911
+# Whitelist: 57914
 # Deadlist: 441543
-# Blacklist: 1394
+# Blacklist: 1389
 # 1. Source: 454 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.vzni.black.list
 # 2. Source: 1315 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.ts.black.list
 # 3. Source: 4733 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 4. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 12347 Domains - V2021.08.19-15:06:30
+# 12337 Domains - V2021.08.19-18:04:32
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -956,7 +956,6 @@ cheap123.ru
 cheapbagmalluk.cn
 cheapbeatsbydretop.top
 cheapcharly.de
-cheap.com
 cheap-michaelkors.in.net
 cheapmoncleruk.co.uk
 cheaponline2020.com
@@ -3986,7 +3985,6 @@ ninoplay.de
 ninzin.de
 nirosun.at
 njeedecor.com
-nke.de
 nk-spedition.eu
 nls-logistics.com
 nobabyshoulddo.com
@@ -4112,7 +4110,6 @@ online2business.com
 online-billiger.com
 onlinecheapbest2021.ru
 onlinechemicalandpills.com
-online.com
 online-downloaden.de
 online-gold-shop.de
 onlinejobs2020.at
@@ -4154,7 +4151,6 @@ ouibayshop.fr
 outdoormus.com
 outdoorshopx.com
 outletbotastimberland.com
-outlet.com
 outlet.com.co
 outlet-hotels.com
 outletmichaelkorshandbags.us.com
@@ -4541,7 +4537,6 @@ quizkandidat.com
 quso-kaffee.de
 qv-salzburg.at
 qxrorat.top
-r2.com
 rabattdisney.com
 rabatteundcoupons.de
 rabatt.feenladen.at
@@ -7027,7 +7022,6 @@ www.cheap123.ru
 www.cheapbagmalluk.cn
 www.cheapbeatsbydretop.top
 www.cheapcharly.de
-www.cheap.com
 www.cheaponline2020.com
 www.checkout-pages.com
 www.checkra1n-windows.com
@@ -9979,7 +9973,6 @@ www.ninoplay.de
 www.ninzin.de
 www.nirosun.at
 www.njeedecor.com
-www.nke.de
 www.nk-spedition.eu
 www.nls-logistics.com
 www.nobabyshoulddo.com
@@ -10101,7 +10094,6 @@ www.online2business.com
 www.online-billiger.com
 www.onlinecheapbest2021.ru
 www.onlinechemicalandpills.com
-www.online.com
 www.online-downloaden.de
 www.online-gold-shop.de
 www.onlinejobs2020.at
@@ -10143,7 +10135,6 @@ www.ouibayshop.fr
 www.outdoormus.com
 www.outdoorshopx.com
 www.outletbotastimberland.com
-www.outlet.com
 www.outlet-hotels.com
 www.outletmonclerjacketco.com
 www.outlet-moncler.top
@@ -10515,7 +10506,6 @@ www.quizkandidat.com
 www.quso-kaffee.de
 www.qv-salzburg.at
 www.qxrorat.top
-www.r2.com
 www.rabattdisney.com
 www.rabatteundcoupons.de
 www.rabattlouboutin.de
