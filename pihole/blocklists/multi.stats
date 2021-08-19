@@ -22,12 +22,12 @@
 # Exclude fake.txt: 12339
 # Exclude: 12339
 
-# Whitelist: 61331
+# Whitelist: 61334
 # Deadlist: 441543
 
-# Blacklist global: 817
+# Blacklist global: 816
 # Blacklist source: 
-# Blacklist: 817
+# Blacklist: 816
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 # 2. Source: 662 - https://v.firebog.net/hosts/Admiral.txt
@@ -85,17 +85,17 @@
 # 54. Source: 37 - https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
 # 55. Source: 1180 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 56. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 57. Source: 1423 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 57. Source: 1429 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 58. Source: 387 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1163922
+# #. Source: 1163928
 
 Statistik multi.txt:
-== Source (unique): 607061
-++ Black:           607191 (+130)
--- White:           602967 (-4224)
+== Source (unique): 607062
+++ Black:           607192 (+130)
+-- White:           602967 (-4225)
 -- Dead:            417222 (-185745)
 -- Exclude:         417146 (-76)
-++ Block:           417188 (+42)
--- Unblock:         417157 (-31)
-++ WWW-Domains:     544860 (+127703)
-++ FLD-Domains:     545684 (+824)
+++ Block:           417187 (+41)
+-- Unblock:         417146 (-41)
+++ WWW-Domains:     544844 (+127698)
+++ FLD-Domains:     545668 (+824)
