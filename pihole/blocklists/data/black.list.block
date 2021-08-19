@@ -1,6 +1,6 @@
 acdn.adnxs.com
 api.mixpanel.com
-# app-measurement.com
+app-measurement.com
 bam.nr-data.net
 bat.bing.com
 beacons.gcp.gvt2.com
@@ -10,7 +10,7 @@ c.bing.com
 cdn.heapanalytics.com
 collector.githubapp.com
 contributor.google.com
-# dit.whatsapp.net
+dit.whatsapp.net
 edge.quantserve.com
 etahub.com
 # hw-cdn2.adtng.com
