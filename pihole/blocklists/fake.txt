@@ -5,7 +5,8 @@
 # Erstellt zur rein persönlichen, privaten
 # Nutzung.
 #
-# Fake-Shops, -Streaming, Abzocke und Co.
+# Fake-Shops, -Streaming, Abzocke, Kostenfallen
+# und Co.
 # 
 # ---------------------------------------------
 # GitHub: https://github.com/Zelo72
@@ -23,16 +24,16 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 57919
+# Whitelist: 61022
 # Deadlist: 441543
-# Blacklist: 1389
+# Blacklist: 1390
 # 1. Source: 454 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.vzni.black.list
 # 2. Source: 1315 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.ts.black.list
 # 3. Source: 4733 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 4. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 12337 Domains - V2021.08.19-19:18:30
+# 12339 Domains - V2021.08.19-20:46:09
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -5521,6 +5522,7 @@ top-velos.com
 torbianelli.com
 torroo.de
 totalausverkauf-multimedia.eu
+totalav.com
 totalfrau.de
 total-organisiert.de
 touchwonr.com
@@ -11475,6 +11477,7 @@ www.top-velos.com
 www.torbianelli.com
 www.torroo.de
 www.totalausverkauf-multimedia.eu
+www.totalav.com
 www.totalfrau.de
 www.total-organisiert.de
 www.touchwonr.com

@@ -5,7 +5,8 @@
 # Erstellt zur rein persönlichen, privaten
 # Nutzung.
 #
-# Fake-Shops, -Streaming, Abzocke und Co.
+# Fake-Shops, -Streaming, Abzocke, Kostenfallen
+# und Co.
 # 
 # ---------------------------------------------
 # GitHub: https://github.com/Zelo72
@@ -20,10 +21,10 @@
 
 # Exclude: 0
 
-# Whitelist: 57919
+# Whitelist: 61022
 # Deadlist: 441543
 
-# Blacklist: 1389
+# Blacklist: 1390
 
 # 1. Source: 454 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.vzni.black.list
 # 2. Source: 1315 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.ts.black.list
@@ -33,9 +34,9 @@
 
 Statistik fake.txt:
 == Source (unique): 7233
-++ Black:           8617 (+1384)
--- White:           8607 (-10)
--- Dead:            6252 (-2355)
--- Unblock:         6252 (-0)
-++ WWW-Domains:     12337 (+6085)
-++ FLD-Domains:     12337 (+0)
+++ Black:           8618 (+1385)
+-- White:           8608 (-10)
+-- Dead:            6253 (-2355)
+-- Unblock:         6253 (-0)
+++ WWW-Domains:     12339 (+6086)
+++ FLD-Domains:     12339 (+0)
