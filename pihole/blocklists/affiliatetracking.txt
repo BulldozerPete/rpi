@@ -22,7 +22,7 @@
 # Statistik
 # ---------
 #
-# Exclude: 423056
+# Exclude: 441543
 # Whitelist: 0
 # Deadlist: 0
 # Blacklist: 0
@@ -30,7 +30,7 @@
 # 2. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 649 Domains - V2021.08.17-08:38:01
+# 649 Domains - V2021.08.19-11:43:09
 # ---------------------------------------------
 #
 19534.redirect.appmetrica.yandex.com
