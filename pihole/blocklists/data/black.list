@@ -153,8 +153,8 @@ b.criteo.com
 bea4.cnn.com
 beacon.krxd.net
 beacon.riskified.com
-beacons.gcp.gvt2.com
-beacons.gvt2.com
+# beacons.gcp.gvt2.com
+# beacons.gvt2.com
 beap.gemini.yahoo.com
 betotodilea.com
 bidder.criteo.com
@@ -170,7 +170,7 @@ c1.adform.net
 c2shb.ssp.yahoo.com
 c2.taboola.com
 c.aaxads.com
-c.bing.com
+# c.bing.com
 cc.swiftype.com
 cd.connatix.com
 cdn.adrtx.net
@@ -242,7 +242,7 @@ code.etracker.com
 collect-eu-central-1.tealiumiq.com
 collect-eu-west-1.tealiumiq.com
 collector-181.tvsquared.com
-collector.githubapp.com
+# collector.githubapp.com
 collector-px3vk96i6i.perimeterx.net
 collect.tealiumiq.com
 comcluster.cxense.com
@@ -327,7 +327,7 @@ e0f224baee99d3df8d1fac99da441ffe.clo.footprintdns.com
 eb2.3lift.com
 ec6e519da64c41179175a369cd0e5ce5.js.ubembed.com
 ed.emp.de
-edge.quantserve.com
+# edge.quantserve.com
 elqtrk.intel.com
 engine.monetate.net
 ens.nzz.ch
@@ -560,7 +560,7 @@ prophet.heise.de
 prx.wayfair.com
 psaiceex.net
 ps.eyeota.net
-p.skimresources.com
+# p.skimresources.com
 p.teads.tv
 pt.ispot.tv
 # pubads.g.doubleclick.net
@@ -588,7 +588,7 @@ responder.wt.heise.de
 responder.wt-safetag.com
 res.rbl.ms
 reveal.clearbit.com
-r.skimresources.com
+# r.skimresources.com
 rtax.criteo.com
 rtb.d.adup-tech.com
 rt.bunte.de
@@ -614,7 +614,7 @@ sc.lfeeder.com
 scnd.landsend.de
 script.4dex.io
 script.crazyegg.com
-script.hotjar.com
+# script.hotjar.com
 scripts.tracdelight.io
 scripts.webcontentassessor.com
 script.tapfiliate.com
@@ -626,12 +626,12 @@ search.spotxchange.com
 secure.adnxs.com
 secure-assets.rubiconproject.com
 secure.cdn.fastclick.net
-secure-dcr.imrworldwide.com
-secure-it.imrworldwide.com
+# secure-dcr.imrworldwide.com
+# secure-it.imrworldwide.com
 secure.make6pain.com
 securepubads.g.doubleclick.net
 secure.quantserve.com
-secure-sg.imrworldwide.com
+# secure-sg.imrworldwide.com
 secure-sts-prod.imrworldwide.com
 segment-data-us-east.zqtk.net
 se.monetate.net
@@ -658,7 +658,7 @@ sp.usatoday.com
 srtb.msn.com
 srv.de.ebayrtm.com
 ssa.eurosport.de
-s.skimresources.com
+# s.skimresources.com
 ssl.adklick.de
 # ssl.google-analytics.com
 ssl.hurra.com
@@ -678,7 +678,7 @@ static-de.plista.com
 static.doubleclick.net
 static.emsservice.de
 static.etracker.com
-static.hotjar.com
+# static.hotjar.com
 static.plista.com
 static.scarabresearch.com
 static.showheroes.com
@@ -773,7 +773,7 @@ uss.xplosion.de
 us-u.openx.net
 v1.addthisedge.com
 v-a4nlu1k1yv.wc.yahoodns.net
-vars.hotjar.com
+# vars.hotjar.com
 v-az8h7hm0y.wc.yahoodns.net
 v-bh7mrskejy.wc.yahoodns.net
 v-bl7en3llmy.wc.yahoodns.net
@@ -833,7 +833,7 @@ www.googlecommerce.com
 www.googleoptimize.com
 www.lightboxcdn.com
 www.piwik.bayern.de
-www.summerhamster.com
+# www.summerhamster.com
 www.uciservice.com
 www.ugdturner.com
 www.usemaxserver.de
@@ -842,7 +842,7 @@ www.xing-share.com
 x.bidswitch.net
 xd.adnz.co
 xml.fastdlr.com
-x.skimresources.com
+# x.skimresources.com
 xtxunjauh1.kameleoon.eu
 yahoovod.hs.llnwd.net
 ybar-az8h7hm0yreport.wc.yahoodns.net
