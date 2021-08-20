@@ -24,16 +24,16 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 61022
+# Whitelist: 61371
 # Deadlist: 441543
 # Blacklist: 1390
 # 1. Source: 454 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.vzni.black.list
 # 2. Source: 1315 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.ts.black.list
-# 3. Source: 4733 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+# 3. Source: 4761 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 4. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 12339 Domains - V2021.08.19-20:46:09
+# 12393 Domains - V2021.08.20-03:35:50
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -85,6 +85,7 @@
 aaafashion.ru
 aaa-handel.net
 aacan.site
+aakaimai.com
 aalborgfrivilligraad.dk
 abaherhat.com
 abarqi.com
@@ -720,6 +721,7 @@ bocarora.com
 bodasi.de
 bodrumj.top
 bodycure-shop.de
+boeder-bike.de
 boehmer-handel.shop
 bogatey.com
 bogner.in.ua
@@ -742,6 +744,7 @@ boobie.at
 boofashions.com
 boohoo-shop.com
 bookingscheap.com
+booking-villamallorca.com
 boomaya.com
 boomboomgadgets.de
 boomjoo.co
@@ -1068,6 +1071,7 @@ colorinko.com
 colorjoey.com
 colorkenken.shop
 comeyour.com
+comfie.de
 comforttaxi.at
 comfy-bra.store
 comfylist.com
@@ -1985,6 +1989,7 @@ foxflix.de
 foxhandel.eu
 foxingo.shop
 foxusenet.de
+foxxum24.de
 fpjollet.com
 fragmentstudios.de
 fraktion-bfz-gruene.de
@@ -2052,6 +2057,7 @@ gaestehaus-lasser.at
 galacal.com
 galaxybal.com
 galaxylicht.shop
+galoplay.de
 gamarex.de
 game4future.com
 game-adventures.com
@@ -2079,6 +2085,7 @@ gaming-sky.de
 gaming-z0ne.com
 gamma24.de
 gammy-world.de
+gamoplay.de
 ganzheit-kosmetik.de
 garantiert-apotheke.com
 gardenmoebel.de
@@ -2154,6 +2161,7 @@ gerhard-marquardt.de
 gerhardt-marquardt.de
 germany-wuf.de
 german.zeelool.com
+gerplay.de
 gerritse-online.de
 gesangverein-spittelstein.de
 geschenkzone.at
@@ -2318,6 +2326,7 @@ grafpilati.at
 grandado.com
 grandeurlux.com
 grandiancia.com
+graposo.de
 gratispengar.at
 gratschmaier.at
 grauschwarzbrillen.de
@@ -3385,6 +3394,7 @@ luvay.de
 luvpear.com
 luvyle.com
 luxdentala.com
+luxedore.com
 luxfewo.de
 luxishop.de
 luxsofabezuege.com
@@ -3428,6 +3438,7 @@ majority-tech.de
 malawitreff.de
 maldives-hotelsresorts.com
 malen-und-reisen.de
+mallorca-homerentals.com
 malschule-usedom.de
 malsonia.de
 maltipoowelpen.com
@@ -3451,6 +3462,7 @@ marie-celine-graeber.de
 mariliarho.com
 marinatedegg.shop
 marinehelden.de
+marin-logistic.com
 mariov5.sg-host.com
 mariyahossu.com
 markbabb.com
@@ -3683,6 +3695,7 @@ mister24bike.de
 misterhaushalt.de
 misterjoux.com
 mister-tech.shop
+mitbella-shop.de
 mitbote.de
 mixfilms.de
 mixmedia.store
@@ -3693,8 +3706,10 @@ mkleider.de
 mk-praxis-berlin.de
 mlgatoj.com
 mmeny.com
+mmoyoprop.com
 mnml.la
 moaress.top
+mobeltops.com
 mobiflix.de
 mobila-willhaben.at
 mobileklean.com
@@ -3848,6 +3863,7 @@ muzam.de
 mvbergweiler.de
 mv-rosenau.at
 m-wanted.at
+mxows.com
 myadidas.xyz
 myawward.com
 mybordercollies.de
@@ -3989,6 +4005,7 @@ njeedecor.com
 nk-spedition.eu
 nls-logistics.com
 nobabyshoulddo.com
+noboplay.de
 nodeplay.de
 noderecords.de
 nofatsurvey.com
@@ -4042,6 +4059,7 @@ nsmlabp.com
 nsolidcnc.com
 ntwrkri.com
 nubn.shop
+nuduplay.de
 nuessing-hoersysteme.de
 numanvdw.com
 nurbest.com
@@ -4081,6 +4099,7 @@ ohne-rezept.org
 ohospitale.com
 ohpera.at
 okomia.com
+okvdo.top
 olade-market-discount.com
 olakork.com
 olandoo.net
@@ -4555,6 +4574,7 @@ radiowre.com
 radlersport.com
 radtrikotonlineshop.de
 rad-trikots.de
+radtyp.de
 rafplay.de
 raiment.nyc
 rainbeating.com
@@ -4717,6 +4737,7 @@ routenplaner-server.com
 routenplanung-heute.com
 royalbrands.shop
 royal-eu.com
+royalfright-logistics.com
 royalkitten.at
 royaloop.com
 royalpomskyhome.com
@@ -4727,6 +4748,7 @@ rubycloth.com
 rubyrin.com
 rubyteand.com
 rucksackverkauf.de
+rumuplay.de
 runaplay.de
 runtowinter.com
 ruthrahe.de
@@ -4741,6 +4763,7 @@ sadoplay.de
 sadplay.de
 safari-sells.com
 safretshop.com
+sagaplay.de
 sahinn-paradisehotel.com
 sahinnparadiseresortshotel.com
 sahinparadisehotelsresort.com
@@ -5313,6 +5336,7 @@ taurachbahn.at
 tausagun.com
 tb-ebner.at
 tbitcoin.me
+tchsrlt.top
 tderby.top
 tdubtunes.com
 teaching-resources-uk.com
@@ -5375,9 +5399,11 @@ tesdola.com
 tesento.com
 test4.com
 testedshops.de
+testmattrd.top
 testorino.de
 testversand.com
 testzuhause.at
+teva-osterreich.at
 tevlaria-elektra.com
 texaniuml.top
 tf-studio.at
@@ -5992,6 +6018,7 @@ weka-markt.com
 welkoo.de
 wellenkreise.at
 wellensteynjacke.com
+wellensteynjackenoutlet.org
 wellensteynjacket.com
 wellindal.com
 wellindal.de
@@ -6174,6 +6201,7 @@ www.99rabats.shop
 www.aaafashion.ru
 www.aaa-handel.net
 www.aacan.site
+www.aakaimai.com
 www.aalborgfrivilligraad.dk
 www.abaherhat.com
 www.abarqi.com
@@ -6795,6 +6823,7 @@ www.bocarora.com
 www.bodasi.de
 www.bodrumj.top
 www.bodycure-shop.de
+www.boeder-bike.de
 www.boehmer-handel.shop
 www.bogatey.com
 www.bogneronlineshop.com
@@ -6816,6 +6845,7 @@ www.boobie.at
 www.boofashions.com
 www.boohoo-shop.com
 www.bookingscheap.com
+www.booking-villamallorca.com
 www.boomaya.com
 www.boomboomgadgets.de
 www.boomjoo.co
@@ -7124,6 +7154,7 @@ www.colorinko.com
 www.colorjoey.com
 www.colorkenken.shop
 www.comeyour.com
+www.comfie.de
 www.comforttaxi.at
 www.comfy-bra.store
 www.comfylist.com
@@ -8020,6 +8051,7 @@ www.foxflix.de
 www.foxhandel.eu
 www.foxingo.shop
 www.foxusenet.de
+www.foxxum24.de
 www.fpjollet.com
 www.fragmentstudios.de
 www.fraktion-bfz-gruene.de
@@ -8086,6 +8118,7 @@ www.gaestehaus-lasser.at
 www.galacal.com
 www.galaxybal.com
 www.galaxylicht.shop
+www.galoplay.de
 www.gamarex.de
 www.game4future.com
 www.game-adventures.com
@@ -8113,6 +8146,7 @@ www.gaming-sky.de
 www.gaming-z0ne.com
 www.gamma24.de
 www.gammy-world.de
+www.gamoplay.de
 www.ganzheit-kosmetik.de
 www.garantiert-apotheke.com
 www.gardenmoebel.de
@@ -8184,6 +8218,7 @@ www.gerhard-griessler.at
 www.gerhard-marquardt.de
 www.gerhardt-marquardt.de
 www.germany-wuf.de
+www.gerplay.de
 www.gerritse-online.de
 www.gesangverein-spittelstein.de
 www.geschenkzone.at
@@ -8347,6 +8382,7 @@ www.grafpilati.at
 www.grandado.com
 www.grandeurlux.com
 www.grandiancia.com
+www.graposo.de
 www.gratispengar.at
 www.gratschmaier.at
 www.grauschwarzbrillen.de
@@ -9397,6 +9433,7 @@ www.luvay.de
 www.luvpear.com
 www.luvyle.com
 www.luxdentala.com
+www.luxedore.com
 www.luxfewo.de
 www.luxishop.de
 www.luxsofabezuege.com
@@ -9440,6 +9477,7 @@ www.majority-tech.de
 www.malawitreff.de
 www.maldives-hotelsresorts.com
 www.malen-und-reisen.de
+www.mallorca-homerentals.com
 www.malschule-usedom.de
 www.malsonia.de
 www.maltipoowelpen.com
@@ -9463,6 +9501,7 @@ www.marie-celine-graeber.de
 www.mariliarho.com
 www.marinatedegg.shop
 www.marinehelden.de
+www.marin-logistic.com
 www.mariyahossu.com
 www.markbabb.com
 www.markenwissen.at
@@ -9679,6 +9718,7 @@ www.mister24bike.de
 www.misterhaushalt.de
 www.misterjoux.com
 www.mister-tech.shop
+www.mitbella-shop.de
 www.mitbote.de
 www.mixfilms.de
 www.mixmedia.store
@@ -9689,8 +9729,10 @@ www.mkleider.de
 www.mk-praxis-berlin.de
 www.mlgatoj.com
 www.mmeny.com
+www.mmoyoprop.com
 www.mnml.la
 www.moaress.top
+www.mobeltops.com
 www.mobiflix.de
 www.mobila-willhaben.at
 www.mobileklean.com
@@ -9838,6 +9880,7 @@ www.muzam.de
 www.mvbergweiler.de
 www.mv-rosenau.at
 www.m-wanted.at
+www.mxows.com
 www.myadidas.xyz
 www.myawward.com
 www.mybordercollies.de
@@ -9978,6 +10021,7 @@ www.njeedecor.com
 www.nk-spedition.eu
 www.nls-logistics.com
 www.nobabyshoulddo.com
+www.noboplay.de
 www.nodeplay.de
 www.noderecords.de
 www.nofatsurvey.com
@@ -10031,6 +10075,7 @@ www.nsmlabp.com
 www.nsolidcnc.com
 www.ntwrkri.com
 www.nubn.shop
+www.nuduplay.de
 www.nuessing-hoersysteme.de
 www.numanvdw.com
 www.nurbest.com
@@ -10067,6 +10112,7 @@ www.ohne-rezept.org
 www.ohospitale.com
 www.ohpera.at
 www.okomia.com
+www.okvdo.top
 www.olade-market-discount.com
 www.olakork.com
 www.olandoo.net
@@ -10524,6 +10570,7 @@ www.radiowre.com
 www.radlersport.com
 www.radtrikotonlineshop.de
 www.rad-trikots.de
+www.radtyp.de
 www.rafplay.de
 www.raiment.nyc
 www.rainbeating.com
@@ -10685,6 +10732,7 @@ www.routenplaner-server.com
 www.routenplanung-heute.com
 www.royalbrands.shop
 www.royal-eu.com
+www.royalfright-logistics.com
 www.royalkitten.at
 www.royaloop.com
 www.royalpomskyhome.com
@@ -10695,6 +10743,7 @@ www.rubycloth.com
 www.rubyrin.com
 www.rubyteand.com
 www.rucksackverkauf.de
+www.rumuplay.de
 www.runaplay.de
 www.runtowinter.com
 www.ruthrahe.de
@@ -10709,6 +10758,7 @@ www.sadoplay.de
 www.sadplay.de
 www.safari-sells.com
 www.safretshop.com
+www.sagaplay.de
 www.sahinn-paradisehotel.com
 www.sahinnparadiseresortshotel.com
 www.sahinparadisehotelsresort.com
@@ -11272,6 +11322,7 @@ www.taurachbahn.at
 www.tausagun.com
 www.tb-ebner.at
 www.tbitcoin.me
+www.tchsrlt.top
 www.tderby.top
 www.tdubtunes.com
 www.teaching-resources-uk.com
@@ -11333,9 +11384,11 @@ www.tesdola.com
 www.tesento.com
 www.test4.com
 www.testedshops.de
+www.testmattrd.top
 www.testorino.de
 www.testversand.com
 www.testzuhause.at
+www.teva-osterreich.at
 www.tevlaria-elektra.com
 www.texaniuml.top
 www.tf-studio.at
@@ -11931,6 +11984,7 @@ www.weka-markt.com
 www.welkoo.de
 www.wellenkreise.at
 www.wellensteynjacke.com
+www.wellensteynjackenoutlet.org
 www.wellensteynjacket.com
 www.wellindal.com
 www.wellindal.de
