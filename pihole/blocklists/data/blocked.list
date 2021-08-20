@@ -25,6 +25,7 @@
 8663141.fls.doubleclick.net
 8847753.fls.doubleclick.net
 9130883.fls.doubleclick.net
+9360117.fls.doubleclick.net
 9526757.fls.doubleclick.net
 9592588.fls.doubleclick.net
 9750849.fls.doubleclick.net
@@ -104,11 +105,15 @@ api.exponea.com
 api.mixpanel.com
 api.permutive.com
 api.rlcdn.com
+api.sail-personalize.com
+api.sail-track.com
 api.theadex.com
 api.tinypass.com
 a.postrelease.com
 app.cdn.lookbookhq.com
 app-measurement.com
+aps.xplosion.de
+apv-launcher.minute.ly
 ariane.abtasty.com
 as.autobild.de
 as.bild.de
@@ -188,6 +193,7 @@ cdn.contentspread.net
 cdn.decibelinsight.net
 cdn.dimml.io
 cdn.districtm.io
+cdn.doubleverify.com
 cdn.emetriq.de
 cdn-eu.dynamicyield.com
 cdn.exactag.com
@@ -269,9 +275,11 @@ cs.emxdgt.com
 csm.nl.eu.criteo.net
 cs.ns1p.net
 customer.api.drift.com
+customers.kameleoon.com
 c.wort-suche.com
 cyberport.d3.sc.omtrdc.net
 d1ac2du043ydir.cloudfront.net
+d1miwkthq39xj8.cloudfront.net
 d1vl8wytztdz.cloudfront.net
 d22xmn10vbouk4.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
@@ -350,6 +358,7 @@ events.sd-nbb.de
 evnt.iol.it
 experience-eu.piano.io
 f23f026d-af06-45a2-8d42-9222f4656195.edge.permutive.app
+facesnotebook.com
 farm-de.plista.com
 fastlane-adv.rubiconproject.com
 fastlane.rubiconproject.com
@@ -358,6 +367,7 @@ fbc.wcfbc.net
 feadrope.net
 feedback.userreport.com
 files.upscore.com
+firebase-settings.crashlytics.com
 f.monetate.net
 fyrsbckgi-c.global.ssl.fastly.net
 gem.gbc.criteo.com
@@ -409,6 +419,7 @@ image-service.unbounce.com
 images.intellitxt.com
 imagesrv.adition.com
 imb01.wt-eu02.net
+impression.appsflyer.com
 improving.duckduckgo.com
 inpage-push.com
 insights.sport1.de
@@ -501,6 +512,7 @@ njrkf6rvmq.kameleoon.eu
 notify-bugs-fra1.rtl.de
 notify.bugsnag.com
 n-tv.met.vgwort.de
+o278969.ingest.sentry.io
 o.adtriba.com
 odr.mookie1.com
 offerimage.com
@@ -541,6 +553,7 @@ player.aniview.com
 player.daznservices.com
 pmc-com.videoplayerhub.com
 polarcdn-terrax.com
+polldenunciationdeveloping.com
 posterxxl-de.dcmn.com
 pp.lp4.io
 prd-collector-anon.ex.co
@@ -663,6 +676,7 @@ s.skimresources.com
 ssl.adklick.de
 ssl.google-analytics.com
 ssl.hurra.com
+ssl-rp-online.met.vgwort.de
 sslwidget.criteo.com
 ss.musthird.com
 ssum-sec.casalemedia.com
@@ -756,6 +770,7 @@ try.abtasty.com
 tt.onthe.io
 t.uimserv.net
 t.wayfair.de
+udm.scorecardresearch.com
 u.heatmap.it
 uipglob.semasio.net
 uir.uimserv.net
