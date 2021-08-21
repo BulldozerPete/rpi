@@ -1,6 +1,6 @@
 acdn.adnxs.com
 api.mixpanel.com
-app-measurement.com
+# app-measurement.com
 bam.nr-data.net
 bat.bing.com
 beacons.gcp.gvt2.com
@@ -12,12 +12,13 @@ cdp.cloud.unity3d.com
 chimpstatic.com
 collector.githubapp.com
 contributor.google.com
+# disney.demdex.net
 dit.whatsapp.net
 edge.quantserve.com
 etahub.com
 hotjar.com
 # hw-cdn2.adtng.com
-ichnaea-web.netflix.com
+# ichnaea-web.netflix.com
 mc.yandex.ru
 metrics.brightcove.com
 pagead2.googlesyndication.com

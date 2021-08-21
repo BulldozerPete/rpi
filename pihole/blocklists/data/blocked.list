@@ -201,7 +201,7 @@ app.convertful.com
 app.crossengage.io
 app.hubspot.com
 app.livechatoo.com
-app-measurement.com
+# app-measurement.com
 app.najva.com
 apprefaculty.pro
 aps.xplosion.de
@@ -548,7 +548,7 @@ di.rlcdn.com
 discoverydp.d3.sc.omtrdc.net
 dis.criteo.com
 dis.eu.criteo.com
-disney.demdex.net
+# disney.demdex.net
 disparagethence.com
 distillery.wistia.com
 dis.us.criteo.com
@@ -692,7 +692,7 @@ iabusprivacy.pmc.com
 ib.adnxs.com
 ib.adnxs-simple.com
 ice.360yield.com
-ichnaea-web.netflix.com
+# ichnaea-web.netflix.com
 i.clean.gg
 iclickcdn.com
 iconmedia.containers.piwik.pro
@@ -1397,7 +1397,7 @@ weaveradrenaline.com
 webedia-de.nuggad.net
 webgarden.at
 web.hb.ad.cpe.dotomi.com
-webhook.logentries.com
+# webhook.logentries.com
 web.mytoys.de
 websdk.appsflyer.com
 web-sdk.urbanairship.com
