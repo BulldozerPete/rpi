@@ -3419,6 +3419,7 @@ api.live.net
 apilocate.amap.com
 api.locize.io
 api.loganalytics.io
+api.logentries.com
 api.login.engadget.com
 api.loginhood.io
 api.login.techcrunch.com
@@ -10902,6 +10903,7 @@ datalab.naver.com
 data.linkedin.com
 data-live.flightradar24.com
 data.livefyre.com
+data.logentries.com
 data.mistat.india.xiaomi.com
 data.mistat.intl.xiaomi.com
 data.mistat.xiaomi.com
@@ -21153,6 +21155,7 @@ js.hs-scripts.com
 js.indexww.com
 js.intercomcdn.com
 js.js-bn.com
+js.logentries.com
 js.maxmind.com
 json.bild.de
 json.ludokingapi.com
@@ -39705,6 +39708,7 @@ webgains.com
 web.getmonero.org
 webgrab.wechat.com
 web.gslb.nyu.edu
+webhook.logentries.com
 webhostingtalk.com
 webhosts.ihouseelite.com
 webimg.mrn-news.de

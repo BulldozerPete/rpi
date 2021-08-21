@@ -194,6 +194,10 @@ static.apester.com
 
 # Logging (IoT)
 *.logentries.com
+api.logentries.com
+data.logentries.com
+js.logentries.com
+webhook.logentries.com
 
 # Messenger
 *.whatsapp.net
