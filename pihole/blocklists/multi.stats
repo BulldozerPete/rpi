@@ -19,8 +19,8 @@
 #                  https://t.me/adguardde
 # ---------------------------------------------
 
-# Exclude fake.txt: 12391
-# Exclude: 12391
+# Exclude fake.txt: 12401
+# Exclude: 12401
 
 # Whitelist: 61423
 # Deadlist: 441134
@@ -85,17 +85,101 @@
 # 54. Source: 37 - https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
 # 55. Source: 1135 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 56. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 57. Source: 1180 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 57. Source: 1172 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 58. Source: 387 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1169358
+# #. Source: 1169350
 
 Statistik multi.txt:
-== Source (unique): 610378
-++ Black:           610542 (+164)
--- White:           606312 (-4230)
--- Dead:            419659 (-186653)
--- Exclude:         415966 (-3693)
-++ Block:           416012 (+46)
--- Unblock:         415948 (-64)
-++ WWW-Domains:     543470 (+127522)
-++ FLD-Domains:     544271 (+801)
+== Source (unique): 610367
+++ Black:           610531 (+164)
+-- White:           606301 (-4230)
+-- Dead:            419648 (-186653)
+-- Exclude:         415955 (-3693)
+++ Block:           416001 (+46)
+-- Unblock:           >> (\.|^)0\.com$ - 0
+  >> (\.|^)7zap\.com$ - 0
+  >> (\.|^)aaplimg\.com$ - 0
+  >> (\.|^)adtidy\.org$ - 0
+  >> (\.|^)api\.binance\.com$ - 0
+  >> (\.|^)appattest\.apple\.com$ - 0
+  >> (\.)apple$ - 1
+  >> (\.|^)apple\.com$ - 32
+  >> (\-|\.|^)apple\.com\.akadns\.net$ - 0
+  >> (\-|\.|^)apple\.com\.edgekey\.net$ - 0
+  >> (\-|\.|^)apple\.com\.edgekey\.net\.globalredir\.akadns\.net$ - 0
+  >> (\-|\.|^)apple\.com\.edgesuite\.net$ - 0
+  >> (\-|\.|^)apple\.com-v1\.edgesuite\.net$ - 0
+  >> (\.|^)apple-dns\.net$ - 1
+  >> (\.|^)apple\.news$ - 0
+  >> (\.|^)apple\.tt\.omtrdc\.net$ - 0
+  >> (\.|^)apps\.apple\.com$ - 0
+  >> (\.|^)atomz\.com$ - 0
+  >> (\.|^)azure\.com$ - 9
+  >> (\.|^)battle\.net$ - 2
+  >> (\.|^)business\.apple\.com$ - 0
+  >> (\.|^)cdc\.gov$ - 1
+  >> (\.|^)cdn-apple\.com$ - 0
+  >> (\.|^)clamav\.net$ - 0
+  >> (\.|^)coinbase\.com$ - 0
+  >> (\.|^)ct\.sendgrid\.net$ - 3
+  >> (\.|^)damoh\.n-tv\.de$ - 0
+  >> (\.|^)damoh\.schneevonmorgen\.com$ - 2
+  >> (\.|^)dshield\.org$ - 0
+  >> (\.|^)dynatrace\.com$ - 3
+  >> (\.|^)evowise\.com$ - 0
+  >> (\.|^)googlevideo\.com$ - 0
+  >> (\.|^)gravatar\.com$ - 0
+  >> (\.|^)gvt1\.com$ - 0
+  >> (\.|^)gvt2\.com$ - 4
+  >> (\.|^)icloud\.com$ - 2
+  >> (\-|\.|^)icloud\.com\.akadns\.net$ - 0
+  >> (\-|\.|^)icloud\.com\.edgekey\.net$ - 0
+  >> (\.|^)icloud-content\.com$ - 0
+  >> (\.|^)itunes\.apple\.com$ - 2
+  >> (\-|\.|^)itunes-apple\.com\.akadns\.net$ - 0
+  >> (\-|\.|^)itunes\.apple\.com\.edgesuite\.net$ - 0
+  >> (\.|^)itunes\.com$ - 0
+  >> (\.|^)lehigh\.edu$ - 0
+  >> (\.|^)letsencrypt\.org$ - 0
+  >> (\.|^)lithium\.com$ - 1
+  >> (\.|^)logentries\.com$ - 0
+  >> (\.|^)me\.com$ - 0
+  >> (\.|^)msa\.akadns6\.net$ - 0
+  >> (\.|^)music\.163\.com$ - 3
+  >> (\.|^)mvps\.org$ - 0
+  >> (\.|^)mywot\.com$ - 0
+  >> (\.|^)mzstatic\.com$ - 0
+  >> (\.|^)netflix\.com$ - 4
+  >> (\.|^)nflxvideo\.net$ - 0
+  >> (\.|^)nintendo\.com$ - 2
+  >> (\.|^)nintendo\.net$ - 0
+  >> (\.|^)ntvde\.damoh\.schneevonmorgen\.com$ - 0
+  >> (\.)onion$ - 0
+  >> (\.|^)opendns\.com$ - 0
+  >> (\.|^)overwolf\.com$ - 3
+  >> (\.|^)paho\.org$ - 0
+  >> (\.|^)partners\.salesforce\.com$ - 2
+  >> (\.|^)paypal\.com$ - 3
+  >> (\.|^)privacy-center\.org$ - 0
+  >> (\.|^)push\.apple\.com$ - 0
+  >> (\.|^)safebrowsing\.apple$ - 0
+  >> (\.|^)safelinks\.protection\.outlook\.com$ - 0
+  >> (\.|^)scene7\.com$ - 0
+  >> (\.|^)school\.apple\.com$ - 0
+  >> (\.|^)settings-win\.data\.microsoft\.com$ - 0
+  >> (\.|^)shallalist\.de$ - 0
+  >> (\.|^)someonewhocares\.com$ - 0
+  >> (\.|^)sp-prod\.net$ - 1
+  >> (\.|^)t\.eloqua\.com$ - 10
+  >> (\.|^)tindersparks\.com$ - 0
+  >> (\.|^)un\.org$ - 0
+  >> (\.|^)visualstudio\.com$ - 0
+  >> (\.|^)whatsapp\.net$ - 3
+  >> (\.|^)who\.int$ - 0
+  >> (\.|^)wire\.com$ - 0
+  >> (\.|^)yottaa\.net$ - 0
+  >> (\.|^)yoyo\.org$ - 1
+  >> (\.|^)zoom\.us$ - 5
+415903 (-99)
+++ WWW-Domains:     543419 (+127516)
+++ FLD-Domains:     544223 (+804)
