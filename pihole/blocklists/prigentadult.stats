@@ -28,10 +28,10 @@
 #                  https://t.me/adguardde
 # ---------------------------------------------
 
-Downloade prigentadult              --> 3069915 prigentadult.raw
-Extrahiere gültige Domains          --> 2974694 prigentadult.domains
-Erstelle Domainliste für WWW Zusatz --> 468604 prigentadult.domains.www
-Erweitere Domains durch WWW         --> 468604 prigentadult.www
+Downloade prigentadult              --> 3069898 prigentadult.raw
+Extrahiere gültige Domains          --> 2974697 prigentadult.domains
+Erstelle Domainliste für WWW Zusatz --> 468605 prigentadult.domains.www
+Erweitere Domains durch WWW         --> 468605 prigentadult.www
 Erstelle Domainliste für FLD        --> 0 prigentadult.www.fld
-Erstelle prigentadult               --> 3443298 prigentadult.txt.tmp
+Erstelle prigentadult               --> 3443302 prigentadult.txt.tmp
 
