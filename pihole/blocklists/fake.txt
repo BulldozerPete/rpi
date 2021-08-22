@@ -24,8 +24,8 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 61423
-# Deadlist: 441134
+# Whitelist: 16084
+# Deadlist: 394525
 # Blacklist: 1390
 # 1. Source: 454 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.vzni.black.list
 # 2. Source: 1315 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.ts.black.list
@@ -33,7 +33,7 @@
 # 4. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 12401 Domains - V2021.08.21-16:28:11
+# 12405 Domains - V2021.08.22-09:08:39
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -130,6 +130,7 @@ adidasyeezynew.com
 adinhotelspa.com
 adler-immo.com
 adogadgets.com
+ador.com
 adria-fisch.at
 adriennegray.at
 adriennegray.ch
@@ -357,7 +358,6 @@ artaban.ru
 artemondo.eu
 arthaus-genzel.de
 art-technologies.at
-aryachaiy.com
 asancol.com
 asb-ruhrgebiet.de
 ashlen.co
@@ -608,7 +608,6 @@ beta-elec.store
 betrieblicheversicherung.com
 better-bikes24.de
 bettina-dagmara.de
-bettinakreativ.at
 bewerte-deinen-goldshop-278.de
 bewerte-einen-onlineshop.de
 bewertung-abgeben-edelmetallshops.de
@@ -792,7 +791,6 @@ brs-biogas.at
 brtechi.com
 bruckner-handel.de
 brucknermuehl.de
-brunnerhuette.at
 brunohuber.de
 brunos-haushalt.de
 brushprox.com
@@ -887,7 +885,6 @@ carethy.at
 cargservicesdelnc.com
 carhirenice.co.uk
 carls-bau.de
-carmen-video.at
 carola-stauche.de
 carrerah.com
 carshades.at
@@ -1153,6 +1150,7 @@ cunont.com
 cuntra.at
 cuoredicarta.it
 cupsandcurves.de
+cupshe.com
 curd-roth.de
 curlycurler.de
 currext.com
@@ -1387,7 +1385,6 @@ doloplay.de
 domako.de
 domatechnik.de
 domel-us.de
-dom-feldkirch.at
 dominik-uhlig.de
 dommsch.de
 domstrren.com
@@ -2780,6 +2777,7 @@ installateurmax.at
 installateurnotdienste.at
 installateur-notdienst-wien.co.at
 instametall.de
+instantcheckmate.com
 insvive.com
 intaliof.com
 inteltey.com
@@ -2863,6 +2861,7 @@ jieper.com
 jilg-market.de
 jimboo.de
 jjctrans.com
+jjshouse.com
 jkarnil.com
 jkbikesout.cc
 jkhckf.top
@@ -3292,6 +3291,7 @@ lifeworks-munich.de
 liftr.eu
 lighteu.de
 lightflix.de
+lightinthebox.com
 likelymore.com
 likelymorely.com
 lilabogen.de
@@ -4933,6 +4933,7 @@ shauntapparel.com
 sheadora.com
 shebeautys.com
 sheheaven.com
+shein.com
 sheistyle.com
 shelanu.at
 shell-dbr.de
@@ -5545,6 +5546,7 @@ top-markts.de
 topmodareps.es
 topmultimediashop.com
 top-of-software.de
+top-password.com
 topservice-buende.de
 topshopdeal.com
 top-steroide-kaufen.com
@@ -6250,6 +6252,7 @@ www.adidasyeezynew.com
 www.adinhotelspa.com
 www.adler-immo.com
 www.adogadgets.com
+www.ador.com
 www.adria-fisch.at
 www.adriennegray.at
 www.adriennegray.ch
@@ -6472,7 +6475,6 @@ www.artaban.ru
 www.artemondo.eu
 www.arthaus-genzel.de
 www.art-technologies.at
-www.aryachaiy.com
 www.asancol.com
 www.asb-ruhrgebiet.de
 www.ashlen.co
@@ -6716,7 +6718,6 @@ www.beta-elec.store
 www.betrieblicheversicherung.com
 www.better-bikes24.de
 www.bettina-dagmara.de
-www.bettinakreativ.at
 www.bewerte-deinen-goldshop-278.de
 www.bewerte-einen-onlineshop.de
 www.bewertung-abgeben-edelmetallshops.de
@@ -6897,7 +6898,6 @@ www.brs-biogas.at
 www.brtechi.com
 www.bruckner-handel.de
 www.brucknermuehl.de
-www.brunnerhuette.at
 www.brunohuber.de
 www.brunos-haushalt.de
 www.brushprox.com
@@ -6988,7 +6988,6 @@ www.cara-wahnsinn.de
 www.carethy.at
 www.cargservicesdelnc.com
 www.carls-bau.de
-www.carmen-video.at
 www.carola-stauche.de
 www.carrerah.com
 www.carshades.at
@@ -7238,6 +7237,7 @@ www.cunont.com
 www.cuntra.at
 www.cuoredicarta.it
 www.cupsandcurves.de
+www.cupshe.com
 www.curd-roth.de
 www.curlycurler.de
 www.currext.com
@@ -7463,7 +7463,6 @@ www.doloplay.de
 www.domako.de
 www.domatechnik.de
 www.domel-us.de
-www.dom-feldkirch.at
 www.dominik-uhlig.de
 www.dommsch.de
 www.domstrren.com
@@ -8833,6 +8832,7 @@ www.installateur-hansi.at
 www.installateurmax.at
 www.installateurnotdienste.at
 www.instametall.de
+www.instantcheckmate.com
 www.insvive.com
 www.intaliof.com
 www.inteltey.com
@@ -8916,6 +8916,7 @@ www.jieper.com
 www.jilg-market.de
 www.jimboo.de
 www.jjctrans.com
+www.jjshouse.com
 www.jkarnil.com
 www.jkbikesout.cc
 www.jkhckf.top
@@ -9336,6 +9337,7 @@ www.lifeworks-munich.de
 www.liftr.eu
 www.lighteu.de
 www.lightflix.de
+www.lightinthebox.com
 www.likelymore.com
 www.likelymorely.com
 www.lilabogen.de
@@ -10931,6 +10933,7 @@ www.shauntapparel.com
 www.sheadora.com
 www.shebeautys.com
 www.sheheaven.com
+www.shein.com
 www.sheistyle.com
 www.shelanu.at
 www.shell-dbr.de
@@ -11531,6 +11534,7 @@ www.top-markts.de
 www.topmodareps.es
 www.topmultimediashop.com
 www.top-of-software.de
+www.top-password.com
 www.topservice-buende.de
 www.topshopdeal.com
 www.top-steroide-kaufen.com

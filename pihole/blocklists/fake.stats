@@ -21,8 +21,8 @@
 
 # Exclude: 0
 
-# Whitelist: 61423
-# Deadlist: 441134
+# Whitelist: 16084
+# Deadlist: 394525
 
 # Blacklist: 1390
 
@@ -35,75 +35,8 @@
 Statistik fake.txt:
 == Source (unique): 7266
 ++ Black:           8651 (+1385)
--- White:           8640 (-11)
--- Dead:            6284 (-2356)
--- Unblock:           >> (\.|^)0\.com$ - 0
-  >> (\.|^)7zap\.com$ - 0
-  >> (\.|^)aaplimg\.com$ - 0
-  >> (\.|^)adtidy\.org$ - 0
-  >> (\.|^)api\.binance\.com$ - 0
-  >> (\.|^)appattest\.apple\.com$ - 0
-  >> (\.|^)apple-dns\.net$ - 0
-  >> (\.|^)apps\.apple\.com$ - 0
-  >> (\.|^)atomz\.com$ - 0
-  >> (\.|^)azure\.com$ - 0
-  >> (\.|^)battle\.net$ - 0
-  >> (\.|^)business\.apple\.com$ - 0
-  >> (\.|^)cdc\.gov$ - 0
-  >> (\.|^)cdn-apple\.com$ - 0
-  >> (\.|^)clamav\.net$ - 0
-  >> (\.|^)coinbase\.com$ - 0
-  >> (\.|^)ct\.sendgrid\.net$ - 0
-  >> (\.|^)damoh\.n-tv\.de$ - 0
-  >> (\.|^)damoh\.schneevonmorgen\.com$ - 0
-  >> (\.|^)dshield\.org$ - 0
-  >> (\.|^)dynatrace\.com$ - 0
-  >> (\.|^)evowise\.com$ - 0
-  >> (\.|^)googlevideo\.com$ - 0
-  >> (\.|^)gravatar\.com$ - 0
-  >> (\.|^)gvt1\.com$ - 0
-  >> (\.|^)gvt2\.com$ - 0
-  >> (\.|^)icloud-content\.com$ - 0
-  >> (\.|^)itunes\.apple\.com$ - 0
-  >> (\.|^)lehigh\.edu$ - 0
-  >> (\.|^)letsencrypt\.org$ - 0
-  >> (\.|^)lithium\.com$ - 0
-  >> (\.|^)logentries\.com$ - 0
-  >> (\.|^)msa\.akadns6\.net$ - 0
-  >> (\.|^)music\.163\.com$ - 0
-  >> (\.|^)mvps\.org$ - 0
-  >> (\.|^)mywot\.com$ - 0
-  >> (\.|^)mzstatic\.com$ - 0
-  >> (\.|^)netflix\.com$ - 0
-  >> (\.|^)nflxvideo\.net$ - 0
-  >> (\.|^)nintendo\.com$ - 0
-  >> (\.|^)nintendo\.net$ - 0
-  >> (\.|^)ntvde\.damoh\.schneevonmorgen\.com$ - 0
-  >> (\.|^)opendns\.com$ - 0
-  >> (\.|^)overwolf\.com$ - 0
-  >> (\.|^)paho\.org$ - 0
-  >> (\.|^)partners\.salesforce\.com$ - 0
-  >> (\.|^)paypal\.com$ - 0
-  >> (\.|^)privacy-center\.org$ - 0
-  >> (\.|^)push\.apple\.com$ - 0
-  >> (\.|^)safebrowsing\.apple$ - 0
-  >> (\.|^)safelinks\.protection\.outlook\.com$ - 0
-  >> (\.|^)scene7\.com$ - 0
-  >> (\.|^)school\.apple\.com$ - 0
-  >> (\.|^)settings-win\.data\.microsoft\.com$ - 0
-  >> (\.|^)shallalist\.de$ - 0
-  >> (\.|^)someonewhocares\.com$ - 0
-  >> (\.|^)sp-prod\.net$ - 0
-  >> (\.|^)t\.eloqua\.com$ - 0
-  >> (\.|^)tindersparks\.com$ - 0
-  >> (\.|^)un\.org$ - 0
-  >> (\.|^)visualstudio\.com$ - 0
-  >> (\.|^)whatsapp\.net$ - 0
-  >> (\.|^)who\.int$ - 0
-  >> (\.|^)wire\.com$ - 0
-  >> (\.|^)yottaa\.net$ - 0
-  >> (\.|^)yoyo\.org$ - 0
-  >> (\.|^)zoom\.us$ - 0
-6284 (-0)
-++ WWW-Domains:     12401 (+6117)
-++ FLD-Domains:     12401 (+0)
+-- White:           8647 (-4)
+-- Dead:            6286 (-2361)
+-- Unblock:         6286 (-0)
+++ WWW-Domains:     12405 (+6119)
+++ FLD-Domains:     12405 (+0)
