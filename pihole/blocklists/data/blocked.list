@@ -81,6 +81,7 @@ action.dstillery.com
 activision.ssl.sc.omtrdc.net
 ad11.adfarm1.adition.com
 ad1.adfarm1.adition.com
+ad2.adfarm1.adition.com
 ad3.adfarm1.adition.com
 ad4.adfarm1.adition.com
 ad4m.at
@@ -171,6 +172,7 @@ a.omappapi.com
 a.optmnstr.com
 a.optmstr.com
 a.optnmnstr.com
+api2.amplitude.com
 api.b2c.com
 api.bounceexchange.com
 api.devatics.io
@@ -478,6 +480,7 @@ c.parkingcrew.net
 cpc.cpstatic.ch
 cpx.golem.de
 cpxl.golem.de
+crashlyticsreports-pa.googleapis.com
 creativecdn.com
 cross.econda-monitor.de
 cs.emxdgt.com
@@ -516,8 +519,11 @@ d5phz18u4wuww.cloudfront.net
 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 d81mfvml8p5ml.cloudfront.net
 d9etzk30b05yg.cloudfront.net
+d9.flashtalking.com
 d.adroll.com
 daib.pl
+d.applovin.com
+d.applvn.com
 data-b640a0ce46.connect.de
 data.bunchbox.co
 data-ed91a21bf0.dastelefonbuch.de
@@ -862,9 +868,12 @@ mmsngaa.demdex.net
 mobileanalytics.us-east-1.amazonaws.com
 mond.post.ch
 mon-va.byteoversea.com
+mp.4dex.io
 mpp.vindicosuite.com
 mrb.upapi.net
 mreg.hit.gemius.pl
+ms.applovin.com
+ms.applvn.com
 mu5okw8mqc.kameleoon.eu
 munchkin.brightfunnel.com
 munchkin.marketo.net
@@ -881,6 +890,7 @@ n-tv.met.vgwort.de
 o278969.ingest.sentry.io
 o.adtriba.com
 oao-d.openx.net
+odb.outbrain.com
 odr.mookie1.com
 offerimage.com
 om.churchofjesuschrist.org
@@ -1028,6 +1038,8 @@ reveal.clearbit.com
 rev.linuxquestions.org
 rotumal.com
 r.skimresources.com
+rt.applovin.com
+rt.applvn.com
 rtax.criteo.com
 rtb.d.adup-tech.com
 rt.bunte.de

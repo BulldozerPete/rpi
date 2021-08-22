@@ -22,6 +22,7 @@ fls-eu.amazon.it
 fls-eu.amazon.nl
 fls-eu.amazon.sa
 fls-eu.amazon.se
+fls-eu.amazon-adsystem.com
 mads-eu.amazon.com
 mads.amazon-adsystem.com
 
@@ -110,6 +111,7 @@ xp.apple.com
 
 # Cookies (Spiegel/...)
 *.sp-prod.net
+*.mgr.consensu.org
 aggregator.service.usercentrics.eu
 api.usercentrics.eu
 apis.quantcast.mgr.consensu.org
