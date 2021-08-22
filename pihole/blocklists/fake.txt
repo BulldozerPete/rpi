@@ -24,7 +24,7 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 16084
+# Whitelist: 25324
 # Deadlist: 394525
 # Blacklist: 1390
 # 1. Source: 454 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.vzni.black.list
@@ -33,7 +33,7 @@
 # 4. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 12405 Domains - V2021.08.22-09:08:39
+# 12401 Domains - V2021.08.22-15:40:43
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -130,7 +130,6 @@ adidasyeezynew.com
 adinhotelspa.com
 adler-immo.com
 adogadgets.com
-ador.com
 adria-fisch.at
 adriennegray.at
 adriennegray.ch
@@ -3291,7 +3290,6 @@ lifeworks-munich.de
 liftr.eu
 lighteu.de
 lightflix.de
-lightinthebox.com
 likelymore.com
 likelymorely.com
 lilabogen.de
@@ -6252,7 +6250,6 @@ www.adidasyeezynew.com
 www.adinhotelspa.com
 www.adler-immo.com
 www.adogadgets.com
-www.ador.com
 www.adria-fisch.at
 www.adriennegray.at
 www.adriennegray.ch
@@ -9337,7 +9334,6 @@ www.lifeworks-munich.de
 www.liftr.eu
 www.lighteu.de
 www.lightflix.de
-www.lightinthebox.com
 www.likelymore.com
 www.likelymorely.com
 www.lilabogen.de
