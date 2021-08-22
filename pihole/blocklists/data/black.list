@@ -60,7 +60,7 @@ aa.online-metrix.net
 abc.esprit.de
 a.bf-ad.net
 a.bf-tools.net
-acdn.adnxs.com
+# acdn.adnxs.com
 ac.realvu.net
 activision.ssl.sc.omtrdc.net
 ad11.adfarm1.adition.com
@@ -123,7 +123,7 @@ api.bounceexchange.com
 api.devatics.io
 api-esp.piano.io
 api.exponea.com
-api.mixpanel.com
+# api.mixpanel.com
 api.permutive.com
 api.rlcdn.com
 api.sail-personalize.com
@@ -167,7 +167,7 @@ ayu97c9b5j.kameleoon.eu
 b2c.insticator.com
 backoffice.transmatico.com
 bam.eu01.nr-data.net
-bam.nr-data.net
+# bam.nr-data.net
 barstool-barstoolsports.zeustechnology.com
 barstool-d.openx.net
 baseendpoint.stern.de
@@ -189,7 +189,7 @@ bls.adalliance.io
 boot.pbstck.com
 bootstrap.api.drift.com
 browser-http-intake.logs.datadoghq.eu
-browser-update.org
+# browser-update.org
 btloader.com
 builder.lift.acquia.com
 buyer.dspx.tv
@@ -222,7 +222,7 @@ cdn-eu.dynamicyield.com
 cdn.exactag.com
 cdn.getsmartcontent.com
 cdn-gl.nmrodam.com
-cdn.heapanalytics.com
+# cdn.heapanalytics.com
 cdn.hubvisor.io
 cdn.imhd.io
 cdn.insurads.com
@@ -258,7 +258,7 @@ cdn.webpushr.com
 cdn.xplosion.de
 cdp.cloud.unity3d.com
 c.go-mpulse.net
-chimpstatic.com
+# chimpstatic.com
 clarium.global.ssl.fastly.net
 clevernt.com
 cm.everesttech.net
@@ -286,7 +286,7 @@ consent-wrapper.jameda.de
 content.livesportmedia.eu
 contextual.media.net
 contributions.guardianapis.com
-contributor.google.com
+# contributor.google.com
 conversation.api.drift.com
 cookie-cdn.cookiepro.com
 c.oracleinfinity.io
@@ -328,6 +328,7 @@ dcinfos-cache.abtasty.com
 ddacn6pr5v0tl.cloudfront.net
 default.exp-tas.com
 de-gmtdmp.mookie1.com
+# de.ioam.de
 delivery.adrecover.com
 de-makerist-main.collector.snplow.net
 derwesten.cleverpush.com
@@ -369,7 +370,7 @@ ens.nzz.ch
 epnt.ebay.com
 eq97f.publishers.tremorhub.com
 errors.client.optimizely.com
-etahub.com
+# etahub.com
 eu.api.fpjs.io
 eu.groupondata.com
 eum-eu-west-1.instana.io
@@ -405,6 +406,7 @@ glixaing.com
 global.proper.io
 googleads4.g.doubleclick.net
 googleads.g.doubleclick.net
+# google-analytics.com
 grunerandjahr.112.2o7.net
 gum.criteo.com
 halc.iadvize.com
@@ -420,7 +422,7 @@ hit-pool.upscore.com
 hits-secure.theguardian.com
 hit.uptrendsdata.com
 hl.upscore.com
-hotjar.com
+# hotjar.com
 htlb.casalemedia.com
 ht.redtube.com
 # hw-cdn2.adtng.com
@@ -524,7 +526,7 @@ mediacorp.gscontxt.net
 mediacorp.sc.omtrdc.net
 media.oadts.com
 metrics.api.drift.com
-metrics.brightcove.com
+# metrics.brightcove.com
 metrics-logger.spot.im
 metrics.notebooksbilliger.de
 metrics.n-tv.de
@@ -573,10 +575,10 @@ pixel.advertising.com
 pixel.ionos.de
 pixel.placed.com
 pixel.pointmediatracker.com
-pixel.quantserve.com
+# pixel.quantserve.com
 pixels.omnitagjs.com
 pixel.tapad.com
-pixel.wp.com
+# pixel.wp.com
 pix.spot.im
 platform.cid.samba.tv
 player.aniview.com
@@ -610,7 +612,7 @@ p.teads.tv
 pt.ispot.tv
 # pubads.g.doubleclick.net
 pub.headerlift.com
-publisher-assets.spot.im
+# publisher-assets.spot.im
 push.delivery.ethinking.de
 p.vtracy.de
 px1.vtrtl.de
@@ -756,7 +758,7 @@ tag.demandbase.com
 tag.durationmedia.net
 tag.measured.com
 tagm.tchibo.de
-tags.bkrtx.com
+# tags.bkrtx.com
 tags.bluekai.com
 tags.catapultx.com
 # tags.crwdcntrl.net
@@ -787,7 +789,7 @@ trackingapi.kaufda.de
 tracking.g2crowd.com
 tracking.immobilienscout24.de
 tracking.m6r.eu
-tracking.nw.de
+# tracking.nw.de
 track.noz.de
 track.realtimeboard.com
 tracksrv.zdf.de
@@ -798,7 +800,7 @@ trc.taboola.com
 trk.vidible.tv
 trmads.eu
 tr.outbrain.com
-tr.snapchat.com
+# tr.snapchat.com
 # try.abtasty.com
 tt.onthe.io
 t.uimserv.net
@@ -831,7 +833,7 @@ v-ch8697saxr.wc.yahoodns.net
 vc.hotjar.io
 vd.7vid.net
 vfde.demdex.net
-via.batch.com
+# via.batch.com
 video.adaptv.advertising.com
 # video.xxxjmp.com
 visitor-service.tealiumiq.com
@@ -879,11 +881,12 @@ www.econda-monitor.de
 www.everestjs.net
 www.generaltracking.de
 www.getback.ch
+# www-google-analytics.l.google.com
 www.googlecommerce.com
 www.googleoptimize.com
 www.lightboxcdn.com
 www.piwik.bayern.de
-www.smartsuppchat.com
+# www.smartsuppchat.com
 www.summerhamster.com
 www.uciservice.com
 www.ugdturner.com

@@ -1,3 +1,10 @@
+# ---------------------------------------------
+# Zelo*s Whitelist
+# ---------------------------------------------
+# GitHub: https://github.com/Zelo72
+# Mail:   zelo72@dismail.de
+# ---------------------------------------------
+
 # AdBlock-Detection (Bild/Sport1/...)
 script.ioam.de
 tagger.opecloud.com
@@ -5,12 +12,14 @@ tags.tiqcdn.com
 www.asadcdn.com
 
 # Amazon
+*.media-amazon.com
 aan.amazon.com
 aax-eu-retail-direct.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
 aax.amazon-adsystem.amazon.com
 aax.amazon-adsystem.com
 c.amazon-adsystem.com
+fls-eu.amazon-adsystem.com
 fls-eu.amazon.ae
 fls-eu.amazon.co.uk
 fls-eu.amazon.com
@@ -22,16 +31,40 @@ fls-eu.amazon.it
 fls-eu.amazon.nl
 fls-eu.amazon.sa
 fls-eu.amazon.se
-fls-eu.amazon-adsystem.com
 mads-eu.amazon.com
 mads.amazon-adsystem.com
 
+# Amazon Devices (Alexa, Kindle, ...)
+d3p8zr0ffa9t17.cloudfront.net
+data.alexa.com
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
+dxz5jxhrrzigf.cloudfront.net
+msh.amazon.co.uk
+msh.amazon.com
+msh.amazon.de
+prod.amcs-tachyon.com
+
+# Amazon Prime Video
+*.aiv-cdn.net
+*.aiv-cdn.net.c.footprint.net
+*.aiv-delivery.net
+*.amazonvideo.com
+*.atv-ext-eu.amazon.com
+*.atv-ext-fe.amazon.com
+*.atv-ext.amazon.com
+*.atv-ps.amazon.com
+*.primevideo.com
+*.pv-cdn.net
+d25xi40x97liuc.cloudfront.net
+dmqdd6hw24ucf.cloudfront.net
+
 # Apps (Mobile)
 app.link
-fundingchoicesmessages.google.com
 mobilesdk-us.kampyle.com
+sb.scorecardresearch.com
 
-# Apple https://support.apple.com/en-us/HT210060
+# Apple (https://support.apple.com/en-us/HT210060)
 *.aaplimg.com
 *.appattest.apple.com
 *.apple-dns.net
@@ -111,7 +144,6 @@ xp.apple.com
 
 # Cookies (Spiegel/...)
 *.sp-prod.net
-*.mgr.consensu.org
 aggregator.service.usercentrics.eu
 api.usercentrics.eu
 apis.quantcast.mgr.consensu.org
@@ -145,13 +177,28 @@ static.quantcast.mgr.consensu.org
 test.quantcast.mgr.consensu.org
 vendorlist.consensu.org
 
+# Discord
+*.discord.com
+*.discord.gg
+*.discord.media
+*.discordapp.com
+*.discordapp.net
+*.discordstatus.com
+
 # Disney+
+*.disney-plus.net
+*.disneyplus.com
+*.disneyplus.com.ssl.sc.omtrdc.net
+*.dss.map.fastly.net
+*.dssott.com
+*.dssott.com.akamaized.net
+*.search-api-disney.bamgrid.com
 akamai-san24.exacttarget.com.edgekey.net
 akamai-san39.exacttarget.com.edgekey.net
+disney.demdex.net
 e12906.dscx.akamaiedge.net
 exacttarget.com.edgekey.net
 image.mail.disneyplus.com
-disney.demdex.net
 
 # DNS
 whoami.akamai.net
@@ -165,16 +212,24 @@ graph.instagram.com
 consent.faz.net
 
 # Gaming
-*.overwolf.com
 *.battle.net
+*.epicgames.com
+*.epicgames.net
+*.overwolf.com
+*.riotgames.com
+*.unrealengine.com
 
 # Github
+*.ghcr.io
+*.github.com
+*.github.io
+*.github.map.fastly.net
+*.githubapp.com
+*.githubassets.com
+*.githubusercontent.com
 user-images.githubusercontent.com
 
 # Google
-*.googlevideo.com
-*.gvt1.com
-*.gvt2.com
 app-measurement.com
 fundingchoicesmessages.google.com
 people-pa.googleapis.com
@@ -194,18 +249,7 @@ interaction.apester.com
 renderer.apester.com
 static.apester.com
 
-# Logging (IoT)
-*.logentries.com
-api.logentries.com
-data.logentries.com
-js.logentries.com
-webhook.logentries.com
-
-# Messenger
-*.whatsapp.net
-
 # Microsoft
-*.azure.com
 *.visualstudio.com
 arc.msn.com
 browser.events.data.microsoft.com
@@ -226,8 +270,13 @@ v10.events.data.microsoft.com
 v20.events.data.microsoft.com
 
 # Netflix
-*.nflxvideo.net
 *.netflix.com
+*.netflix.net
+*.nflxext.com
+*.nflximg.com
+*.nflximg.net
+*.nflxso.net
+*.nflxvideo.net
 apiproxy-device-prod-nlb-3-a653f8a785200e05.elb.us-west-2.amazonaws.com
 customerevents.netflix.com
 dualstack.apiproxy-device-prod-nlb-1-4d12762d4ba53e45.elb.eu-west-1.amazonaws.com
@@ -240,14 +289,15 @@ dualstack.apiproxy-device-prod-nlb-4-f1dce6fa09ac5989.elb.eu-west-1.amazonaws.co
 dualstack.apiproxy-http1-199106617.us-east-1.elb.amazonaws.com
 dualstack.beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 dualstack.ichnaea-web-121909266.us-east-1.elb.amazonaws.com
-ichnaea.netflix.com
 ichnaea-web.netflix.com
+ichnaea.netflix.com
 nrdp.prod.ftl.netflix.com
 push.prod.netflix.com
 
 # Nintendo
 *.nintendo.com
 *.nintendo.net
+*.nintendowifi.net
 a1843.g.akamai.net
 image.ccg.nintendo.com
 image.ccg.nintendo.net
@@ -272,10 +322,16 @@ api.opinary.com
 tag.aticdn.net
 
 # Paypal
+*.braintreegateway.com
+*.paypal-dynamic-2.map.fastly.net
+*.paypal.ca
+*.paypal.co.uk
 *.paypal.com
+*.paypal.map.fastly.net
+*.paypalobjects.com
 t.paypal.com
 
-# Referral Clicks
+# Referrer (Clicks)
 a.nonstoppartner.net
 ad.doubleclick.net
 adservice.google.com
@@ -295,6 +351,14 @@ www.googleadservices.com
 # Shopping
 content.aimatch.com
 widgets.trustedshops.com
+
+# Sony (Playstation)
+*.playstation.com
+*.playstation.com.ssl.d1.sc.omtrdc.net
+*.playstation.net
+*.sonycoment.loris-e.llnwd.net
+*.sonyentertainmentnetwork.com
+*.sonyjpnpsg-1.hs.llnwd.net
 
 # Spotify
 wl.spotify.com
@@ -321,10 +385,20 @@ vz-cdn2.adtng.com
 vz-cdn2.trafficjunky.net
 
 # Twitch
+*.ext-twitch.tv
+*.jtvnw.net
+*.live-video.net
+*.ttvnw.net
+*.twitch.map.fastly.net
+*.twitch.tv
+*.twitchcdn.net
+*.twitchsvc.net
+countess-prod-public-176850629.us-west-2.elb.amazonaws.com
 countess.twitch.tv
 ink1001.com
 mi.twitch.tv
 movable-ink-397.com
+science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com
 static-cdn.jtvnw.net
 supervisor.ext-twitch.tv
 
@@ -335,18 +409,50 @@ syndication.twitter.com
 # Verschiedene
 cdn.optimizely.com
 
+# Webex
+*.ciscospark.com
+*.wbx2.com
+*.webex.com
+*.webex.com.cn
+*.webex.com.edgekey.net
+*.webex.com.ssl.sc.omtrdc.net
+admin-webex-com-690861900.us-east-2.elb.amazonaws.com
+
 # XBox
+*.xbox.com
+*.xboxab.com
+*.xboxab.net
+*.xboxlive.com
+*.xboxlive.com.akadns.net
+*.xboxlive.com.c.footprint.net
+*.xboxlive.com.edgekey.net
+*.xboxservices.com
 click.engage.xbox.com
 image.engage.xbox.com
 
 # Youtube
+*.googlevideo.com
+*.gvt1.com
+*.gvt2.com
+*.video.google.com
+*.youtube-ui.l.google.com
+*.youtube.googleapis.com
+*.youtubeeducation.com
+*.youtubei.googleapis.com
+*.yt3.ggpht.com
+*.ytimg.com
 s.youtube.com
+youtu.be
+youtube-nocookie.com
+youtube.com
 
 # Zertifikate
+*.lencr.org
 r3.o.lencr.org
 
 # Zoom
 *.zoom.us
+*.zoomgov.com
 click.zoom.us
 log.zoom.us
 logfiles.zoom.us
