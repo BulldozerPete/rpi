@@ -2942,6 +2942,7 @@ bauen-und-heimwerken.de
 bauermedia.co.uk
 baumschule-pflanzen.de
 bauplan-bauanleitung.de
+bausep.de
 bayernlb.de
 bazaarvoice.com
 bazoom.com
@@ -3193,6 +3194,7 @@ blizzard.com
 blizz.ly
 blob.officehome.msocdn.com
 blobs.officehome.msocdn.com
+blob.weather.microsoft.com
 blockadblock.com
 blockads.fivefilters.org
 blocklist.addons.mozilla.org
@@ -3891,6 +3893,7 @@ cdn.mplxtms.com
 cdn.mxpnl.com
 cdn.naver.com
 cdn-net.com
+cdn.onenote.net
 cdn.onesignal.com
 cdn.opencmp.net
 cdn.opinionlab.com
@@ -4137,6 +4140,7 @@ chbusiness.samsung.com
 cheatengine.org
 check4.facebook.com
 check6.facebook.com
+checkappexec.microsoft.com
 check.ddos-guard.net
 checkip.amazonaws.com
 checkout.naver.com
@@ -4453,8 +4457,10 @@ code.mi.com
 codenvy.io
 codeorigin.jquery.com
 codeproject.com
+codepush.appcenter.ms
 codepush.azurewebsites.net
 codepush.teams.microsoft.com
+codepush.trafficmanager.net
 codepushupdates.azureedge.net
 code.responsivevoice.org
 codesandbox.io
@@ -4481,6 +4487,7 @@ collect.igodigital.com
 collecting-consent.g5e.com
 collect.media.jio.com
 collector.appconsent.io
+collector.githubapp.com
 collector.lightstep.com
 collector.wallapop.com
 collegehumor.com
@@ -4646,6 +4653,7 @@ config.rcs.mnc861.mcc405.pub.3gppnetwork.org
 config.samqaicongen.com
 configs.nabstudio.com
 configs.ott.aetnd.com
+config.teams.microsoft.com
 config.uca.cloud.unity3d.com
 configuration.apple.com
 configuration.apple.com.akadns.net
@@ -5449,6 +5457,7 @@ dl2.soft98.ir
 dl.360safe.com
 d.la1-c1-ord.salesforceliveagent.com
 d.la1-c2-iad.salesforceliveagent.com
+dlassets-ssl.xboxlive.com
 dl-bia2.ir
 dl-canary.discordapp.net
 dl-client.dropbox.com
@@ -6311,6 +6320,7 @@ evidon.com.edgekey.net
 evidon.mgr.consensu.org
 eviltracker.net
 evite.com
+evoke-windowsservices-tas.msedge.net
 evowise.com
 evt.klarna.com
 evyy.net
@@ -8683,6 +8693,7 @@ img.nui.media
 img.onesignal.com
 img.over-blog-kiwi.com
 img.pr0gramm.com
+img-prod-cms-rt-microsoft-com.akamaized.net
 img.purch.com
 img.rapidvideo.com
 img.shouji.sogou.com
@@ -11680,6 +11691,7 @@ offers-api.cliqz.com
 office365.com
 officeclient.microsoft.com
 office.com
+office.de
 officedepot.com
 office.live.com
 office.net
@@ -11780,6 +11792,7 @@ onelink-translations.com
 onelogin.com
 onelouder.com
 onenetworkdirect.net
+onenote.com
 onenote.net
 oneplus.com
 oneplus.net
@@ -11976,12 +11989,12 @@ overleaf.com
 overloaded.crunchyroll.com
 overstock.com
 overture.com
-overwolf.com
 ovh.com
 ovh.co.uk
 ovh.net
 ovp.flowplayer.com
 ovp-loader.flowplayer.com
+ow1.res.office365.com
 owarisubs.lacumpa.biz
 o.webmd.com
 owlcation.com
@@ -12655,6 +12668,7 @@ prod.appnexus.map.fastly.net
 prod.cloud.rockstargames.com
 prod-collection.acompli.net
 prod.disqus.map.fastlylb.net
+prod.do.dsp.mp.microsoft.com
 prodfosho.flipboard.com
 prod.ftl.netflix.com
 prod-helpapp.sonymobile.com
@@ -18448,6 +18462,7 @@ www.baudoo.de
 www.bauen-und-heimwerken.de
 www.baumschule-pflanzen.de
 www.bauplan-bauanleitung.de
+www.bausep.de
 www.bayernlb.de
 www.bazaarvoice.com
 www.bazoom.com
@@ -22309,6 +22324,7 @@ www.oecd.org
 www.ofb.uz
 www.office365.com
 www.office.com
+www.office.de
 www.officedepot.com
 www.office.net
 www.offset.com
@@ -22358,6 +22374,7 @@ www.onelink-translations.com
 www.onelogin.com
 www.onelouder.com
 www.onenetworkdirect.net
+www.onenote.com
 www.onenote.net
 www.oneplus.com
 www.oneplus.net
@@ -22475,7 +22492,6 @@ www.over.com
 www.overleaf.com
 www.overstock.com
 www.overture.com
-www.overwolf.com
 www.ovh.com
 www.ovh.co.uk
 www.ovh.net
