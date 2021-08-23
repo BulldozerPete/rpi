@@ -178,12 +178,6 @@ static.quantcast.mgr.consensu.org
 test.quantcast.mgr.consensu.org
 vendorlist.consensu.org
 
-# Crashlytics
-*.crashlytics.com
-crashlyticsreports-pa.googleapis.com
-firebase-settings.crashlytics.com
-firebaselogging-pa.googleapis.com
-
 # Discord
 *.discord.com
 *.discord.gg
@@ -240,7 +234,6 @@ user-images.githubusercontent.com
 app-measurement.com
 fundingchoicesmessages.google.com
 people-pa.googleapis.com
-geller-pa.googleapis.com
 
 # Hulu
 dpm.demdex.net
@@ -420,10 +413,6 @@ syndication.twitter.com
 
 # Verschiedene
 cdn.optimizely.com
-
-# WhatsApp
-*.whatsapp.net
-*.whatsapp.com
 
 # Webex
 *.ciscospark.com
