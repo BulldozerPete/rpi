@@ -24,7 +24,7 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 25328
+# Whitelist: 25325
 # Deadlist: 394617
 # Blacklist: 1390
 # 1. Source: 454 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.vzni.black.list
@@ -33,7 +33,7 @@
 # 4. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 12393 Domains - V2021.08.23-16:12:36
+# 12393 Domains - V2021.08.23-16:31:19
 # ---------------------------------------------
 #
 1000gratisproben.com
