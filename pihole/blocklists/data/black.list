@@ -109,7 +109,7 @@ amplify.outbrain.com
 amplifypixel.outbrain.com
 ams.creativecdn.com
 analytics.analytics-egain.com
-# analyticsnew.overwolf.com
+analyticsnew.overwolf.com
 analytics.skyscanner.net
 analytics-static.ugc.bazaarvoice.com
 analytics.tiktok.com
@@ -179,8 +179,8 @@ b.criteo.com
 bea4.cnn.com
 beacon.krxd.net
 beacon.riskified.com
-# beacons.gcp.gvt2.com
-# beacons.gvt2.com
+beacons.gcp.gvt2.com
+beacons.gvt2.com
 beap.gemini.yahoo.com
 betotodilea.com
 bfe7807839944e829e97bd9fe4bda9c7.fp.measure.office.com
@@ -273,7 +273,7 @@ code.etracker.com
 collect-eu-central-1.tealiumiq.com
 collect-eu-west-1.tealiumiq.com
 collector-181.tvsquared.com
-# collector.githubapp.com
+collector.githubapp.com
 collector-px3vk96i6i.perimeterx.net
 collect.tealiumiq.com
 comcluster.cxense.com
@@ -465,7 +465,7 @@ jill.fc.yahoo.com
 j.ophan.co.uk
 js.adscale.de
 js.adsrvr.org
-# js-cdn.dynatrace.com
+js-cdn.dynatrace.com
 js.hsadspixel.net
 js.hs-banner.com
 js.smartredirect.de

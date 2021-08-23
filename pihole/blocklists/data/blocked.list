@@ -154,7 +154,7 @@ analytics-eu.clickdimensions.com
 analytics.getshogun.com
 analytics.kaltura.com
 analytics.navyfederal.org
-# analyticsnew.overwolf.com
+analyticsnew.overwolf.com
 analytics.ovh.com
 analytics.shareaholic.com
 analytics.skyscanner.net
@@ -271,11 +271,11 @@ b-code.liadm.com
 b.criteo.com
 bdimg.share.baidu.com
 bea4.cnn.com
-# beaconimages.netflix.net
+beaconimages.netflix.net
 beacon.krxd.net
 beacon.riskified.com
-# beacons.gcp.gvt2.com
-# beacons.gvt2.com
+beacons.gcp.gvt2.com
+beacons.gvt2.com
 beacon.tru.am
 beagle.prod.tda.link
 beap.gemini.yahoo.com
@@ -449,7 +449,7 @@ col.eum-appdynamics.com
 collect-eu-central-1.tealiumiq.com
 collect-eu-west-1.tealiumiq.com
 collector-181.tvsquared.com
-# collector.githubapp.com
+collector.githubapp.com
 collector-px3vk96i6i.perimeterx.net
 collect.tealiumiq.com
 comcluster.cxense.com
@@ -757,7 +757,7 @@ js.agkn.com
 js.alpixtrack.com
 js.appboycdn.com
 jsc.adskeeper.co.uk
-# js-cdn.dynatrace.com
+js-cdn.dynatrace.com
 jscdn.yieldbird.com
 jsc.mgid.com
 js.datadome.co
