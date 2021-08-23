@@ -480,7 +480,7 @@ c.parkingcrew.net
 cpc.cpstatic.ch
 cpx.golem.de
 cpxl.golem.de
-crashlyticsreports-pa.googleapis.com
+# crashlyticsreports-pa.googleapis.com
 creativecdn.com
 cross.econda-monitor.de
 cs.emxdgt.com
@@ -634,7 +634,7 @@ feadrope.net
 feedback.userreport.com
 fei.pro-market.net
 files.upscore.com
-firebase-settings.crashlytics.com
+# firebase-settings.crashlytics.com
 fkrkkmxsqeb5bj9r.s3.amazonaws.com
 fls.doubleclick.net
 flypool.org

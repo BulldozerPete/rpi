@@ -294,6 +294,8 @@ counter.scribblelive.com
 cpanel.nativeads.com
 cpx.golem.de
 cpxl.golem.de
+# crashlogs.whatsapp.net
+# crashlyticsreports-pa.googleapis.com
 creativecdn.com
 cross.econda-monitor.de
 cs.emxdgt.com
@@ -394,7 +396,8 @@ fbc.wcfbc.net
 feadrope.net
 feedback.userreport.com
 files.upscore.com
-firebase-settings.crashlytics.com
+# firebaselogging-pa.googleapis.com
+# firebase-settings.crashlytics.com
 f.monetate.net
 fyrsbckgi-c.global.ssl.fastly.net
 gem.gbc.criteo.com
@@ -405,6 +408,10 @@ glixaing.com
 global.proper.io
 googleads4.g.doubleclick.net
 googleads.g.doubleclick.net
+grs.dbankcloud.asia
+grs.dbankcloud.cn
+grs.dbankcloud.com
+grs.dbankcloud.eu
 grunerandjahr.112.2o7.net
 gum.criteo.com
 halc.iadvize.com
@@ -503,6 +510,8 @@ logs1407.xiti.com
 logs1409.xiti.com
 logs1412.xiti.com
 logs1413.xiti.com
+logservice1.hicloud.com
+logservice.hicloud.com
 logs.spilgames.com
 logs.xiti.com
 logx.optimizely.com
@@ -523,8 +532,17 @@ media.adcell.de
 mediacorp.gscontxt.net
 mediacorp.sc.omtrdc.net
 media.oadts.com
+metrics1.data.hicloud.com
+metrics2.data.hicloud.com
+metrics3.data.hicloud.com
+metrics4.data.hicloud.com
+metrics5.data.hicloud.com
 metrics.api.drift.com
+metrics.apple.com
 # metrics.brightcove.com
+metrics-config.icloud.com
+metrics.data.hicloud.com
+metrics.icloud.com
 metrics-logger.spot.im
 metrics.notebooksbilliger.de
 metrics.n-tv.de
@@ -597,6 +615,7 @@ privacyportal-de.onetrust.com
 privacyportal.onetrust.com
 privacy.stroeerdigitalgroup.de
 privacy.trustcommander.net
+# privatestats.whatsapp.net
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 profiles.tagger.opecloud.com
 profusesupport.com
@@ -674,6 +693,7 @@ secure.cdn.fastclick.net
 secure-dcr.imrworldwide.com
 secure-it.imrworldwide.com
 secure.make6pain.com
+# securemetrics.apple.com
 securepubads.g.doubleclick.net
 secure.quantserve.com
 secure-sg.imrworldwide.com
@@ -681,6 +701,7 @@ secure-sts-prod.imrworldwide.com
 segment-data-us-east.zqtk.net
 se.monetate.net
 servedbyadbutler.com
+servicesupport.hicloud.com
 services.vlitag.com
 sessions.bugsnag.com
 s.go-mpulse.net
@@ -742,6 +763,7 @@ stepstone.d1.sc.omtrdc.net
 st-eu.dynamicyield.com
 stm-cdn.cn.miaozhen.com
 subpixel.4players.de
+supportmetrics.apple.com
 sync.1rx.io
 sync.mathtag.com
 sync.search.spotxchange.com

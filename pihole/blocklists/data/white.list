@@ -178,6 +178,12 @@ static.quantcast.mgr.consensu.org
 test.quantcast.mgr.consensu.org
 vendorlist.consensu.org
 
+# Crashlytics
+*.crashlytics.com
+crashlyticsreports-pa.googleapis.com
+firebase-settings.crashlytics.com
+firebaselogging-pa.googleapis.com
+
 # Discord
 *.discord.com
 *.discord.gg
@@ -223,11 +229,11 @@ consent.faz.net
 # Github
 *.ghcr.io
 *.github.com
-*.github.io
 *.github.map.fastly.net
 *.githubapp.com
 *.githubassets.com
 *.githubusercontent.com
+github.io
 user-images.githubusercontent.com
 
 # Google

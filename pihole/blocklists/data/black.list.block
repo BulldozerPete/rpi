@@ -13,10 +13,14 @@ cdp.cloud.unity3d.com
 chimpstatic.com
 # collector.githubapp.com
 contributor.google.com
+# crashlogs.whatsapp.net
+# crashlyticsreports-pa.googleapis.com
 # disney.demdex.net
 # dit.whatsapp.net
 edge.quantserve.com
 etahub.com
+# firebaselogging-pa.googleapis.com
+# firebase-settings.crashlytics.com
 hotjar.com
 # hw-cdn2.adtng.com
 # ichnaea-web.netflix.com
@@ -26,6 +30,7 @@ metrics.brightcove.com
 pagead2.googlesyndication.com
 pixel.quantserve.com
 pixel.wp.com
+# privatestats.whatsapp.net
 p.skimresources.com
 pubads.g.doubleclick.net
 publisher-assets.spot.im
@@ -33,6 +38,7 @@ r.skimresources.com
 script.hotjar.com
 secure-dcr.imrworldwide.com
 secure-it.imrworldwide.com
+securemetrics.apple.com
 secure-sg.imrworldwide.com
 s.skimresources.com
 ssl.google-analytics.com
