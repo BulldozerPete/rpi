@@ -60,7 +60,6 @@ aa.online-metrix.net
 abc.esprit.de
 a.bf-ad.net
 a.bf-tools.net
-# acdn.adnxs.com
 ac.realvu.net
 activision.ssl.sc.omtrdc.net
 ad11.adfarm1.adition.com
@@ -109,7 +108,6 @@ amplify.outbrain.com
 amplifypixel.outbrain.com
 ams.creativecdn.com
 analytics.analytics-egain.com
-# analyticsnew.overwolf.com
 analytics.skyscanner.net
 analytics-static.ugc.bazaarvoice.com
 analytics.tiktok.com
@@ -123,7 +121,6 @@ api.bounceexchange.com
 api.devatics.io
 api-esp.piano.io
 api.exponea.com
-# api.mixpanel.com
 api.permutive.com
 api.rlcdn.com
 api.sail-personalize.com
@@ -132,7 +129,6 @@ api.theadex.com
 api.tinypass.com
 a.postrelease.com
 app.cdn.lookbookhq.com
-# app-measurement.com
 aps.xplosion.de
 apv-launcher.minute.ly
 ariane.abtasty.com
@@ -167,11 +163,9 @@ ayu97c9b5j.kameleoon.eu
 b2c.insticator.com
 backoffice.transmatico.com
 bam.eu01.nr-data.net
-# bam.nr-data.net
 barstool-barstoolsports.zeustechnology.com
 barstool-d.openx.net
 baseendpoint.stern.de
-# bat.bing.com
 bats.video.yahoo.com
 bbcdn-bbnaut.ibillboard.com
 b-code.liadm.com
@@ -179,8 +173,6 @@ b.criteo.com
 bea4.cnn.com
 beacon.krxd.net
 beacon.riskified.com
-# beacons.gcp.gvt2.com
-# beacons.gvt2.com
 beap.gemini.yahoo.com
 betotodilea.com
 bfe7807839944e829e97bd9fe4bda9c7.fp.measure.office.com
@@ -189,7 +181,6 @@ bls.adalliance.io
 boot.pbstck.com
 bootstrap.api.drift.com
 browser-http-intake.logs.datadoghq.eu
-# browser-update.org
 btloader.com
 builder.lift.acquia.com
 buyer.dspx.tv
@@ -222,7 +213,6 @@ cdn-eu.dynamicyield.com
 cdn.exactag.com
 cdn.getsmartcontent.com
 cdn-gl.nmrodam.com
-# cdn.heapanalytics.com
 cdn.hubvisor.io
 cdn.imhd.io
 cdn.insurads.com
@@ -258,7 +248,6 @@ cdn.webpushr.com
 cdn.xplosion.de
 cdp.cloud.unity3d.com
 c.go-mpulse.net
-# chimpstatic.com
 clarium.global.ssl.fastly.net
 clevernt.com
 cm.everesttech.net
@@ -273,7 +262,6 @@ code.etracker.com
 collect-eu-central-1.tealiumiq.com
 collect-eu-west-1.tealiumiq.com
 collector-181.tvsquared.com
-# collector.githubapp.com
 collector-px3vk96i6i.perimeterx.net
 collect.tealiumiq.com
 comcluster.cxense.com
@@ -286,7 +274,6 @@ consent-wrapper.jameda.de
 content.livesportmedia.eu
 contextual.media.net
 contributions.guardianapis.com
-# contributor.google.com
 conversation.api.drift.com
 cookie-cdn.cookiepro.com
 c.oracleinfinity.io
@@ -294,8 +281,6 @@ counter.scribblelive.com
 cpanel.nativeads.com
 cpx.golem.de
 cpxl.golem.de
-# crashlogs.whatsapp.net
-# crashlyticsreports-pa.googleapis.com
 creativecdn.com
 cross.econda-monitor.de
 cs.emxdgt.com
@@ -342,10 +327,8 @@ direct-events-collector.spot.im
 di.rlcdn.com
 discoverydp.d3.sc.omtrdc.net
 dis.eu.criteo.com
-# disney.demdex.net
 disparagethence.com
 dis.us.criteo.com
-# dit.whatsapp.net
 dmc.devatics.io
 dmp.theadex.com
 dmp.v.fwmrm.net
@@ -371,7 +354,6 @@ ens.nzz.ch
 epnt.ebay.com
 eq97f.publishers.tremorhub.com
 errors.client.optimizely.com
-# etahub.com
 eu.api.fpjs.io
 eu.groupondata.com
 eum-eu-west-1.instana.io
@@ -396,8 +378,6 @@ fbc.wcfbc.net
 feadrope.net
 feedback.userreport.com
 files.upscore.com
-# firebaselogging-pa.googleapis.com
-# firebase-settings.crashlytics.com
 f.monetate.net
 fyrsbckgi-c.global.ssl.fastly.net
 gem.gbc.criteo.com
@@ -411,7 +391,6 @@ googleads.g.doubleclick.net
 grs.dbankcloud.asia
 grs.dbankcloud.cn
 grs.dbankcloud.com
-grs.dbankcloud.eu
 grunerandjahr.112.2o7.net
 gum.criteo.com
 halc.iadvize.com
@@ -427,15 +406,12 @@ hit-pool.upscore.com
 hits-secure.theguardian.com
 hit.uptrendsdata.com
 hl.upscore.com
-# hotjar.com
 htlb.casalemedia.com
 ht.redtube.com
-# hw-cdn2.adtng.com
 iabusprivacy.pmc.com
 ib.adnxs.com
 ib.adnxs-simple.com
 ice.360yield.com
-# ichnaea-web.netflix.com
 i.clean.gg
 iconmedia.containers.piwik.pro
 id5-sync.com
@@ -472,7 +448,6 @@ jill.fc.yahoo.com
 j.ophan.co.uk
 js.adscale.de
 js.adsrvr.org
-# js-cdn.dynatrace.com
 js.hsadspixel.net
 js.hs-banner.com
 js.smartredirect.de
@@ -539,7 +514,6 @@ metrics4.data.hicloud.com
 metrics5.data.hicloud.com
 metrics.api.drift.com
 metrics.apple.com
-# metrics.brightcove.com
 metrics-config.icloud.com
 metrics.data.hicloud.com
 metrics.icloud.com
@@ -574,7 +548,6 @@ orbidder.otto.de
 ot.obi.de
 oxifwsabgd.nzz.ch
 p1cluster.cxense.com
-# pagead2.googlesyndication.com
 pages-stats.rbl.ms
 partner.googleadservices.com
 p.cpx.to
@@ -591,10 +564,8 @@ pixel.advertising.com
 pixel.ionos.de
 pixel.placed.com
 pixel.pointmediatracker.com
-# pixel.quantserve.com
 pixels.omnitagjs.com
 pixel.tapad.com
-# pixel.wp.com
 pix.spot.im
 platform.cid.samba.tv
 player.aniview.com
@@ -615,7 +586,6 @@ privacyportal-de.onetrust.com
 privacyportal.onetrust.com
 privacy.stroeerdigitalgroup.de
 privacy.trustcommander.net
-# privatestats.whatsapp.net
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 profiles.tagger.opecloud.com
 profusesupport.com
@@ -627,9 +597,7 @@ ps.eyeota.net
 p.skimresources.com
 p.teads.tv
 pt.ispot.tv
-# pubads.g.doubleclick.net
 pub.headerlift.com
-# publisher-assets.spot.im
 push.delivery.ethinking.de
 p.vtracy.de
 px1.vtrtl.de
@@ -693,7 +661,6 @@ secure.cdn.fastclick.net
 secure-dcr.imrworldwide.com
 secure-it.imrworldwide.com
 secure.make6pain.com
-# securemetrics.apple.com
 securepubads.g.doubleclick.net
 secure.quantserve.com
 secure-sg.imrworldwide.com
@@ -738,7 +705,6 @@ startribune.zeustechnology.com
 startsear.ch
 static.addtoany.com
 static.ads-twitter.com
-# static.cleverpush.com
 static.clicktripz.com
 static.criteo.net
 static-de.plista.com
@@ -777,10 +743,8 @@ tag.demandbase.com
 tag.durationmedia.net
 tag.measured.com
 tagm.tchibo.de
-# tags.bkrtx.com
 tags.bluekai.com
 tags.catapultx.com
-# tags.crwdcntrl.net
 tags-eu.tiqcdn.com
 tag.simpli.fi
 tags.srv.stackadapt.com
@@ -795,8 +759,6 @@ t.dcmn.io
 technical-service.net
 te.technical-service.net
 tg1.aniview.com
-tlp-03.kameleoon.com
-tlp-04.kameleoon.com
 tlx.3lift.com
 token.rubiconproject.com
 tpc.googlesyndication.com
@@ -808,7 +770,6 @@ trackingapi.kaufda.de
 tracking.g2crowd.com
 tracking.immobilienscout24.de
 tracking.m6r.eu
-# tracking.nw.de
 track.noz.de
 track.realtimeboard.com
 tracksrv.zdf.de
@@ -819,8 +780,6 @@ trc.taboola.com
 trk.vidible.tv
 trmads.eu
 tr.outbrain.com
-# tr.snapchat.com
-# try.abtasty.com
 tt.onthe.io
 t.uimserv.net
 t.wayfair.de
@@ -852,9 +811,7 @@ v-ch8697saxr.wc.yahoodns.net
 vc.hotjar.io
 vd.7vid.net
 vfde.demdex.net
-# via.batch.com
 video.adaptv.advertising.com
-# video.xxxjmp.com
 visitor-service.tealiumiq.com
 vis.optimizely.com
 vitals.vercel-insights.com
@@ -875,7 +832,6 @@ web.mytoys.de
 websdk.appsflyer.com
 web-sdk.urbanairship.com
 web.snrbox.com
-# web.vortex.data.microsoft.com
 web.vortex.data.msn.com
 web.webpushs.com
 wg-gesucht-d.openx.net
@@ -885,7 +841,6 @@ widgets.outbrain.com
 widgets.pinterest.com
 widget.whatsbroadcast.com
 widow5blackfr.com
-# wipe.de
 ws-eu.assoc-amazon.com
 wt.vhb.de
 w.usabilla.com
@@ -904,12 +859,10 @@ www.googlecommerce.com
 www.googleoptimize.com
 www.lightboxcdn.com
 www.piwik.bayern.de
-# www.smartsuppchat.com
 www.summerhamster.com
 www.uciservice.com
 www.ugdturner.com
 www.usemaxserver.de
-# www.userreport.com
 www.xing-share.com
 x.bidswitch.net
 xd.adnz.co
