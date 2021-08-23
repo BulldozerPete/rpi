@@ -166,6 +166,7 @@ graphql.usercentrics.eu
 iubenda.mgr.consensu.org
 marfeel.mgr.consensu.org
 message331.sp-prod.net
+notice.sp-prod.net
 pm.sourcepoint.mgr.consensu.org
 quantcast.mgr.consensu.org
 sdk-gcp.privacy-center.org
@@ -230,8 +231,10 @@ consent.faz.net
 user-images.githubusercontent.com
 
 # Google
+app-measurement.com
 fundingchoicesmessages.google.com
 people-pa.googleapis.com
+geller-pa.googleapis.com
 
 # Hulu
 dpm.demdex.net
@@ -249,10 +252,14 @@ renderer.apester.com
 static.apester.com
 
 # Microsoft
+*.events.data.microsoft.com
+*.pipe.aria.microsoft.com
+*.teams.microsoft.com
 *.visualstudio.com
 arc.msn.com
 browser.events.data.microsoft.com
 browser.pipe.aria.microsoft.com
+codepush.teams.microsoft.com
 dc.services.visualstudio.com
 g.live.com
 g.msn.com
@@ -407,6 +414,10 @@ syndication.twitter.com
 
 # Verschiedene
 cdn.optimizely.com
+
+# WhatsApp
+*.whatsapp.net
+*.whatsapp.com
 
 # Webex
 *.ciscospark.com
