@@ -24,8 +24,8 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 25325
-# Deadlist: 394617
+# Whitelist: 25339
+# Deadlist: 394128
 # Blacklist: 1390
 # 1. Source: 454 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.vzni.black.list
 # 2. Source: 1315 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.ts.black.list
@@ -33,7 +33,7 @@
 # 4. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 12393 Domains - V2021.08.23-16:31:19
+# 12383 Domains - V2021.08.24-08:58:53
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -356,6 +356,7 @@ artaban.ru
 artemondo.eu
 arthaus-genzel.de
 art-technologies.at
+aryachaiy.com
 asancol.com
 asb-ruhrgebiet.de
 ashlen.co
@@ -606,9 +607,11 @@ beta-elec.store
 betrieblicheversicherung.com
 better-bikes24.de
 bettina-dagmara.de
+bettinakreativ.at
 bewerte-deinen-goldshop-278.de
 bewerte-einen-onlineshop.de
 bewertung-abgeben-edelmetallshops.de
+bewusstsein-ibk.at
 bexcen.com
 beziehungskabarett.de
 beziehungspersoenlichkeit.de
@@ -788,6 +791,7 @@ brs-biogas.at
 brtechi.com
 bruckner-handel.de
 brucknermuehl.de
+brunnerhuette.at
 brunohuber.de
 brunos-haushalt.de
 brushprox.com
@@ -882,6 +886,7 @@ carethy.at
 cargservicesdelnc.com
 carhirenice.co.uk
 carls-bau.de
+carmen-video.at
 carola-stauche.de
 carrerah.com
 carshades.at
@@ -1066,6 +1071,7 @@ colorjoey.com
 colorkenken.shop
 comeyour.com
 comfie.de
+comforttaxi.at
 comfy-bra.store
 comfylist.com
 comfy-max.de
@@ -1675,7 +1681,6 @@ epicura.at
 equapulia.it
 equsi0n.com
 e-rad.net
-erdbau-niederwieser.at
 erdbeerblase.de
 erektslim.com
 eremea.de
@@ -1816,7 +1821,6 @@ fashukoh.com
 fashvia.shop
 fas-neubauer.de
 fasplay.de
-fastenundinnehalten.at
 faster-shopping.com
 fastflowp.top
 fastgamedownload.com
@@ -2233,7 +2237,6 @@ gold-barren-muenzen.de
 goldbarren-munzen.kaufen.de
 goldbarren-sicher-erwerben.net
 goldchef.de
-goldene-erde.at
 goldengate-goldkaufen.de
 goldengoose.at
 goldengoosedeluxebrand.at
@@ -2322,7 +2325,6 @@ grandeurlux.com
 grandiancia.com
 graposo.de
 gratispengar.at
-gratschmaier.at
 grauschwarzbrillen.de
 gravelmac.com
 grazerraeumung.at
@@ -2836,7 +2838,6 @@ jalousien-neufend.de
 jamunto.de
 janyproblem.com
 jasadoty.com
-jastella.at
 jaygeesj.com
 jb-brennholz.com
 jbstra.com
@@ -3663,7 +3664,6 @@ milanoo.com
 milchmangoo.com
 milf-direkt.com
 milforyou.com
-mililandz.com
 millionaersuchtfrau.de
 millionairex3.com
 millionenquizshow.de
@@ -4189,7 +4189,6 @@ paketmann.de
 palarbar.com
 pal-ed.com
 pallet-us.com
-palmangelshop.com
 palmangelsshop.co
 palmarkt.de
 pamura.com
@@ -5035,12 +5034,10 @@ smatam.com
 smilestyle.at
 smilewithstyle.at
 smilie.de
-smiss-training.at
 smokerkings.de
 sms-heute.com
 smushgame.com
 smxrt.de
-snackit.at
 sneakers4you.eu
 sneakersbrook18.com
 sneakerspalette-de.com
@@ -5256,7 +5253,6 @@ sugex.at
 sugex.de
 suli-bau.at
 sumbulyapir.com
-summerbuyhot.com
 sunafterrainstorm.com
 sunbeatz.de
 sundr.at
@@ -5655,7 +5651,6 @@ tubaxx.com
 tudio.de
 tuneboy.it
 turba-shop.com
-turmatelier.at
 turtleracers.de
 tusneumuehl.de
 tuuik.com
@@ -6467,6 +6462,7 @@ www.artaban.ru
 www.artemondo.eu
 www.arthaus-genzel.de
 www.art-technologies.at
+www.aryachaiy.com
 www.asancol.com
 www.asb-ruhrgebiet.de
 www.ashlen.co
@@ -6710,9 +6706,11 @@ www.beta-elec.store
 www.betrieblicheversicherung.com
 www.better-bikes24.de
 www.bettina-dagmara.de
+www.bettinakreativ.at
 www.bewerte-deinen-goldshop-278.de
 www.bewerte-einen-onlineshop.de
 www.bewertung-abgeben-edelmetallshops.de
+www.bewusstsein-ibk.at
 www.bexcen.com
 www.beziehungskabarett.de
 www.beziehungspersoenlichkeit.de
@@ -6889,6 +6887,7 @@ www.brs-biogas.at
 www.brtechi.com
 www.bruckner-handel.de
 www.brucknermuehl.de
+www.brunnerhuette.at
 www.brunohuber.de
 www.brunos-haushalt.de
 www.brushprox.com
@@ -6979,6 +6978,7 @@ www.cara-wahnsinn.de
 www.carethy.at
 www.cargservicesdelnc.com
 www.carls-bau.de
+www.carmen-video.at
 www.carola-stauche.de
 www.carrerah.com
 www.carshades.at
@@ -7149,6 +7149,7 @@ www.colorjoey.com
 www.colorkenken.shop
 www.comeyour.com
 www.comfie.de
+www.comforttaxi.at
 www.comfy-bra.store
 www.comfylist.com
 www.comfy-max.de
@@ -7745,7 +7746,6 @@ www.epicura.at
 www.equapulia.it
 www.equsi0n.com
 www.e-rad.net
-www.erdbau-niederwieser.at
 www.erdbeerblase.de
 www.erektslim.com
 www.eremea.de
@@ -7879,7 +7879,6 @@ www.fashukoh.com
 www.fashvia.shop
 www.fas-neubauer.de
 www.fasplay.de
-www.fastenundinnehalten.at
 www.faster-shopping.com
 www.fastflowp.top
 www.fastgamedownload.com
@@ -8289,7 +8288,6 @@ www.goldbarren-klug-kaufen.info
 www.gold-barren-muenzen.de
 www.goldbarren-sicher-erwerben.net
 www.goldchef.de
-www.goldene-erde.at
 www.goldengate-goldkaufen.de
 www.goldengoose.at
 www.goldengoosedeluxebrand.at
@@ -8378,7 +8376,6 @@ www.grandeurlux.com
 www.grandiancia.com
 www.graposo.de
 www.gratispengar.at
-www.gratschmaier.at
 www.grauschwarzbrillen.de
 www.gravelmac.com
 www.grazerraeumung.at
@@ -8885,7 +8882,6 @@ www.jalousien-neufend.de
 www.jamunto.de
 www.janyproblem.com
 www.jasadoty.com
-www.jastella.at
 www.jaygeesj.com
 www.jb-brennholz.com
 www.jbstra.com
@@ -9686,7 +9682,6 @@ www.milanoo.com
 www.milchmangoo.com
 www.milf-direkt.com
 www.milforyou.com
-www.mililandz.com
 www.millionaersuchtfrau.de
 www.millionairex3.com
 www.millionenquizshow.de
@@ -10195,7 +10190,6 @@ www.paketmann.de
 www.palarbar.com
 www.pal-ed.com
 www.pallet-us.com
-www.palmangelshop.com
 www.palmangelsshop.co
 www.palmarkt.de
 www.pamura.com
@@ -11024,12 +11018,10 @@ www.smatam.com
 www.smilestyle.at
 www.smilewithstyle.at
 www.smilie.de
-www.smiss-training.at
 www.smokerkings.de
 www.sms-heute.com
 www.smushgame.com
 www.smxrt.de
-www.snackit.at
 www.sneakers4you.eu
 www.sneakersbrook18.com
 www.sneakerspalette-de.com
@@ -11243,7 +11235,6 @@ www.sugex.at
 www.sugex.de
 www.suli-bau.at
 www.sumbulyapir.com
-www.summerbuyhot.com
 www.sunafterrainstorm.com
 www.sunbeatz.de
 www.sundr.at
@@ -11635,7 +11626,6 @@ www.tubaxx.com
 www.tudio.de
 www.tuneboy.it
 www.turba-shop.com
-www.turmatelier.at
 www.turtleracers.de
 www.tusneumuehl.de
 www.tuuik.com
