@@ -21,10 +21,10 @@
 
 # Exclude: 0
 
-# Whitelist: 25339
-# Deadlist: 394128
+# Whitelist: 25353
+# Deadlist: 444597
 
-# Blacklist: 1390
+# Blacklist: 1389
 
 # 1. Source: 454 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.vzni.black.list
 # 2. Source: 1315 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.ts.black.list
@@ -34,9 +34,9 @@
 
 Statistik fake.txt:
 == Source (unique): 7266
-++ Black:           8651 (+1385)
--- White:           8645 (-6)
--- Dead:            6275 (-2370)
--- Unblock:         6275 (-0)
-++ WWW-Domains:     12383 (+6108)
-++ FLD-Domains:     12383 (+0)
+++ Black:           8650 (+1384)
+-- White:           8644 (-6)
+-- Dead:            6168 (-2476)
+-- Unblock:         6168 (-0)
+++ WWW-Domains:     12169 (+6001)
+++ FLD-Domains:     12169 (+0)
