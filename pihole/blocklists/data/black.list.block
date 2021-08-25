@@ -1,52 +1,65 @@
-# 16fcb103336642d884388c1ca7d73b56.fp.measure.office.com
-# 1731b68a564f4fd8b54f20d7d28d7526.fp.measure.office.com
-# 2ead6849dcb944729e7101e957379d5c.fp.measure.office.com
-# 2f61c4ecc22941b6b80104f315c11ba6.fp.measure.office.com
-# 3176ccf816734174baa15511203c6b3e.fp.measure.office.com
-# 5a59c0cf3d524f6596a50d6adfc79311.fp.measure.office.com
-# 97a9681c48044dcfb03bba5e1bdbf650.fp.measure.office.com
-# 9f1fd2144bad4ecc9387540259a873eb.fp.measure.office.com
-# a1895ada0e1847c9bae7567488dffd9a.fp.measure.office.com
+16fcb103336642d884388c1ca7d73b56.fp.measure.office.com
+1731b68a564f4fd8b54f20d7d28d7526.fp.measure.office.com
+2ead6849dcb944729e7101e957379d5c.fp.measure.office.com
+2f61c4ecc22941b6b80104f315c11ba6.fp.measure.office.com
+3176ccf816734174baa15511203c6b3e.fp.measure.office.com
+5a59c0cf3d524f6596a50d6adfc79311.fp.measure.office.com
+97a9681c48044dcfb03bba5e1bdbf650.fp.measure.office.com
+9f1fd2144bad4ecc9387540259a873eb.fp.measure.office.com
+a1895ada0e1847c9bae7567488dffd9a.fp.measure.office.com
 acdn.adnxs.com
 ad.samsungadhub.com
 analyticsnew.overwolf.com
 api.ad.xiaomi.com
 api.mixpanel.com
 app-measurement.com
+asimov-win.settings.data.microsoft.com.akadns.net
 assoc-amazon.com
 bam.nr-data.net
 bat.bing.com
-# bb5aefe212b44166addcdf4475e6b955.fp.measure.office.com
+bb5aefe212b44166addcdf4475e6b955.fp.measure.office.com
 # beacons.gcp.gvt2.com
 # beacons.gvt2.com
-# bfe7807839944e829e97bd9fe4bda9c7.fp.measure.office.com
+bfe7807839944e829e97bd9fe4bda9c7.fp.measure.office.com
 browser-update.org
 c.bing.com
 cdn.heapanalytics.com
 cdp.cloud.unity3d.com
+ceuswatcab01.blob.core.windows.net
+ceuswatcab02.blob.core.windows.net
 chimpstatic.com
 # collector.githubapp.com
 contributor.google.com
 crashlogs.whatsapp.net
 crashlyticsreports-pa.googleapis.com
-# d6e9703b8c294e01b0bb672079e881f9.fp.measure.office.com
-# d9f7df8da41943d7a00f7aa5dd98e970.fp.measure.office.com
+d6e9703b8c294e01b0bb672079e881f9.fp.measure.office.com
+d9f7df8da41943d7a00f7aa5dd98e970.fp.measure.office.com
 data.mistat.india.xiaomi.com
+db5.vortex.data.microsoft.com.akadns.net
 # disney.demdex.net
 dit.whatsapp.net
+eaus2watcab01.blob.core.windows.net
+eaus2watcab02.blob.core.windows.net
 edge.quantserve.com
 etahub.com
-# f4aad85291f44f2d95aa811b9a552d14.fp.measure.office.com
+f4aad85291f44f2d95aa811b9a552d14.fp.measure.office.com
 firebaselogging-pa.googleapis.com
 firebase-settings.crashlytics.com
+geo.vortex.data.microsoft.com.akadns.net
 globalapi.ad.xiaomi.com
+google-analytics.com
+googlesyndication.com
+googletagmanager.com
+googletagservices.com
 hotjar.com
+hubblecontent.osi.office.net
 # hw-cdn2.adtng.com
 # ichnaea-web.netflix.com
 # js-cdn.dynatrace.com
 mc.yandex.ru
 metrics.brightcove.com
 mouseflow.com
+nexus.officeapps.live.com
 nmetrics.samsung.com
 open.oneplus.net
 pagead2.googlesyndication.com
@@ -64,22 +77,40 @@ secure-dcr.imrworldwide.com
 secure-it.imrworldwide.com
 securemetrics.apple.com
 secure-sg.imrworldwide.com
+# self.events.data.microsoft.com
+# settings-win.data.microsoft.com
 s.skimresources.com
 ssl.google-analytics.com
 static.cleverpush.com
 static.hotjar.com
 tags.bkrtx.com
 tags.crwdcntrl.net
+telecommand.telemetry.microsoft.com
 tracking.nw.de
 tr.snapchat.com
 try.abtasty.com
-# upload2.fp.measure.office.com
-# upload.fp.measure.office.com
+upload2.fp.measure.office.com
+upload.fp.measure.office.com
+# v10.events.data.microsoft.com
+v10.vortex-win.data.microsoft.com
+v10-win.vortex.data.microsoft.com.akadns.net
+# v20.events.data.microsoft.com
 vars.hotjar.com
 via.batch.com
 # video.xxxjmp.com
+vortex.data.microsoft.com
+vortex-win.data.microsoft.com
+watson.telemetry.microsoft.com
 web.vortex.data.microsoft.com
+weus2watcab01.blob.core.windows.net
+weus2watcab02.blob.core.windows.net
 wipe.de
+www.google-analytics.com
+www-google-analytics.l.google.com
+www.googlesyndication.com
+www.googletagmanager.com
+www-googletagmanager.l.google.com
+www.googletagservices.com
 www.smartsuppchat.com
 www.summerhamster.com
 www.userreport.com

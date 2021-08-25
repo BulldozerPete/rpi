@@ -250,20 +250,14 @@ static.apester.com
 # Microsoft Windows 10 - https://docs.microsoft.com/de-de/windows/privacy/manage-windows-2004-endpoints
 *.delivery.mp.microsoft.com
 *.dl.delivery.mp.microsoft.com
-*.events.data.microsoft.com
-*.pipe.aria.microsoft.com
 *.prod.do.dsp.mp.microsoft.com
-*.telecommand.telemetry.microsoft.com
 *.update.microsoft.com
 *.windowsupdate.com
 *.wns.windows.com
 adl.windows.com
 arc.msn.com
-bing.com
 blob.weather.microsoft.com
 blobs.officehome.msocdn.com
-browser.events.data.microsoft.com
-browser.pipe.aria.microsoft.com
 cdn.onenote.net
 checkappexec.microsoft.com
 config.edge.skype.com
@@ -283,7 +277,6 @@ login.live.com
 logincdn.msauth.net
 manage.devcenter.microsoft.com
 maps.windows.com
-mobile.pipe.aria.microsoft.com
 office.com
 oneclient.sfx.ms
 ow1.res.office365.com
@@ -295,17 +288,10 @@ tile-service.weather.microsoft.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
-watson.*.microsoft.com
 wdcp.microsoft.com
 www.msftconnecttest.com
 
 # Microsoft
-*.office.com
-*.office.de
-*.office.net
-*.office365.com
-*.onenote.com
-*.outlook.com
 *.teams.microsoft.com
 *.visualstudio.com
 codepush.appcenter.ms
