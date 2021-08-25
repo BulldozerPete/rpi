@@ -28,7 +28,7 @@
 #                  https://t.me/adguardde
 # ---------------------------------------------
 
-Downloade adguarddns                --> 59395 adguarddns.raw
+Downloade adguarddns                --> 59396 adguarddns.raw
 Extrahiere gültige Domains          --> 39171 adguarddns.domains
 Erstelle Domainliste für WWW Zusatz --> 31524 adguarddns.domains.www
 Erweitere Domains durch WWW         --> 31524 adguarddns.www
