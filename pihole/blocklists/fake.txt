@@ -24,16 +24,16 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 25403
+# Whitelist: 25405
 # Deadlist: 431526
 # Blacklist: 1389
-# 1. Source: 454 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.vzni.black.list
-# 2. Source: 1315 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.ts.black.list
+# 1. Source: 455 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.vzni.black.list
+# 2. Source: 1346 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.ts.black.list
 # 3. Source: 4766 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 4. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 12169 Domains - V2021.08.26-18:10:22
+# 12182 Domains - V2021.08.26-20:57:47
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -807,6 +807,7 @@ buecher-scout24.at
 buecherscout.at
 buechner-handel.de
 buenoschuhe.de
+buenting-elektrohandel.de
 buerozauber.de
 buffy.ch
 bulkcarriers-markt.com
@@ -839,6 +840,7 @@ bwbeat.com
 bw-bewegt.at
 bwr-media.de
 bw-wg.de
+bybande.de
 byberlin.de
 bybowie.de
 bydumont.de
@@ -1246,6 +1248,7 @@ delinero-markt.com
 deltaexpressdelivery.com
 deluxeaffaire.ch
 deluxeaffaire.com
+deluxemarkt.de
 deluxerep.com
 demetz-gmbh.de
 den-danske.com
@@ -2453,6 +2456,7 @@ haustechnik-kraemer.de
 haustrends.net
 hawahon.de
 hawalili.com
+hawalili.de
 hbb31.com
 h-birds.store
 hdvguenther.de
@@ -5167,6 +5171,7 @@ sugex.at
 sugex.de
 suli-bau.at
 sumbulyapir.com
+summervibes.de
 sunafterrainstorm.com
 sunbeatz.de
 sundr.at
@@ -5333,6 +5338,7 @@ thecathoodie.de
 thecrypto-genius.net
 thedesktopoffice.com
 thefunnysouls.com
+the-garden-pavilions-of-sobranie-russian.eshop.t-online.de
 thegmbh.de
 thegooddeal.ch
 thegreensnacks.com
@@ -5704,6 +5710,7 @@ vdd-osnabrueck.de
 vds-delivery.net
 veganfoodie.de
 vejaschweiz.com
+vejasneaker.at
 velenza.de
 veloberlin.de
 ventelo-media.com
@@ -6801,6 +6808,7 @@ www.buecher-scout24.at
 www.buecherscout.at
 www.buechner-handel.de
 www.buenoschuhe.de
+www.buenting-elektrohandel.de
 www.buerozauber.de
 www.buffy.ch
 www.bulkcarriers-markt.com
@@ -6830,6 +6838,7 @@ www.bwbeat.com
 www.bw-bewegt.at
 www.bwr-media.de
 www.bw-wg.de
+www.bybande.de
 www.byberlin.de
 www.bybowie.de
 www.bydumont.de
@@ -7216,6 +7225,7 @@ www.delinero-markt.com
 www.deltaexpressdelivery.com
 www.deluxeaffaire.ch
 www.deluxeaffaire.com
+www.deluxemarkt.de
 www.deluxerep.com
 www.demetz-gmbh.de
 www.den-danske.com
@@ -8399,6 +8409,7 @@ www.haustechnik-kraemer.de
 www.haustrends.net
 www.hawahon.de
 www.hawalili.com
+www.hawalili.de
 www.hbb31.com
 www.h-birds.store
 www.hdvguenther.de
@@ -11047,6 +11058,7 @@ www.sugex.at
 www.sugex.de
 www.suli-bau.at
 www.sumbulyapir.com
+www.summervibes.de
 www.sunafterrainstorm.com
 www.sunbeatz.de
 www.sundr.at
@@ -11567,6 +11579,7 @@ www.vdd-osnabrueck.de
 www.vds-delivery.net
 www.veganfoodie.de
 www.vejaschweiz.com
+www.vejasneaker.at
 www.velenza.de
 www.veloberlin.de
 www.ventelo-media.com

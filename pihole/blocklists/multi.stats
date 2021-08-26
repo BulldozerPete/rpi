@@ -19,10 +19,10 @@
 #                  https://t.me/adguardde
 # ---------------------------------------------
 
-# Exclude fake.txt: 12169
-# Exclude: 12169
+# Exclude fake.txt: 12182
+# Exclude: 12182
 
-# Whitelist: 25403
+# Whitelist: 25405
 # Deadlist: 431526
 
 # Blacklist global: 1522
@@ -43,7 +43,7 @@
 # 12. Source: 898 - https://v.firebog.net/hosts/static/w3kbl.txt
 # 13. Source: 53233 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 14. Source: 14801 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-# 15. Source: 70664 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 15. Source: 70738 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 16. Source: 94368 - https://dbl.oisd.nl/basic/
 # 17. Source: 239184 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 # 18. Source: 378 - https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
@@ -53,7 +53,7 @@
 # 22. Source: 317 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 # 23. Source: 1355 - https://orca.pet/notonmyshift/domains.txt
 # 24. Source: 38 - https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-# 25. Source: 44959 - https://phishing.army/download/phishing_army_blocklist_extended.txt
+# 25. Source: 45203 - https://phishing.army/download/phishing_army_blocklist_extended.txt
 # 26. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 # 27. Source: 18454 - https://raw.githubusercontent.com/cbuijs/shallalist/master/spyware/domains
 # 28. Source: 519 - https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA551/domains.txt
@@ -85,17 +85,17 @@
 # 54. Source: 37 - https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
 # 55. Source: 1100 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 56. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 57. Source: 1497 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 57. Source: 1536 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 58. Source: 383 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1226143
+# #. Source: 1226500
 
 Statistik multi.txt:
-== Source (unique): 619898
-++ Black:           620606 (+708)
--- White:           616587 (-4019)
--- Dead:            420695 (-195892)
--- Exclude:         417115 (-3580)
-++ Block:           417175 (+60)
--- Unblock:         417044 (-132)
-++ WWW-Domains:     541057 (+124013)
-++ FLD-Domains:     542300 (+1243)
+== Source (unique): 620204
+++ Black:           620912 (+708)
+-- White:           616893 (-4019)
+-- Dead:            421002 (-195891)
+-- Exclude:         417422 (-3580)
+++ Block:           417482 (+60)
+-- Unblock:         417351 (-132)
+++ WWW-Domains:     541493 (+124142)
+++ FLD-Domains:     542744 (+1251)
