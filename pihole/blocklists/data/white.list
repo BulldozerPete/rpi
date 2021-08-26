@@ -230,6 +230,9 @@ github.io
 user-images.githubusercontent.com
 google-analytics.com
 
+# Gaming
+*.overwolf.com
+*.battle.net^
 
 # Google
 app-measurement.com
