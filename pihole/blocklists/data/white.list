@@ -62,7 +62,6 @@ dmqdd6hw24ucf.cloudfront.net
 # Apps (Mobile)
 app.link
 mobilesdk-us.kampyle.com
-sb.scorecardresearch.com
 
 # Apple (https://support.apple.com/en-us/HT210060)
 *.aaplimg.com
@@ -224,7 +223,8 @@ consent.faz.net
 *.githubapp.com
 *.githubassets.com
 *.githubusercontent.com
-collector.githubapp.com
+# analytics-collector-28944298.us-east-1.elb.amazonaws.com
+# collector.githubapp.com
 github.io
 user-images.githubusercontent.com
 
