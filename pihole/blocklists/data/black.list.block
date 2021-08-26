@@ -12,7 +12,7 @@ ad.samsungadhub.com
 analyticsnew.overwolf.com
 api.ad.xiaomi.com
 api.mixpanel.com
-app-measurement.com
+# app-measurement.com
 asimov-win.settings.data.microsoft.com.akadns.net
 assoc-amazon.com
 bam.nr-data.net
@@ -47,10 +47,10 @@ firebaselogging-pa.googleapis.com
 firebase-settings.crashlytics.com
 geo.vortex.data.microsoft.com.akadns.net
 globalapi.ad.xiaomi.com
-google-analytics.com
+# google-analytics.com
 googlesyndication.com
-googletagmanager.com
-googletagservices.com
+# googletagmanager.com
+# googletagservices.com
 hotjar.com
 hubblecontent.osi.office.net
 # hw-cdn2.adtng.com
@@ -72,7 +72,7 @@ publisher-assets.spot.im
 r.skimresources.com
 sa.api.intl.miui.com
 samsungadhub.com
-sb.scorecardresearch.com
+# sb.scorecardresearch.com
 script.hotjar.com
 secure-dcr.imrworldwide.com
 secure-it.imrworldwide.com
@@ -107,11 +107,11 @@ weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
 wipe.de
 www.google-analytics.com
-www-google-analytics.l.google.com
+# www-google-analytics.l.google.com
 www.googlesyndication.com
-www.googletagmanager.com
-www-googletagmanager.l.google.com
-www.googletagservices.com
+# www.googletagmanager.com
+# www-googletagmanager.l.google.com
+# www.googletagservices.com
 www.smartsuppchat.com
 www.summerhamster.com
 www.userreport.com

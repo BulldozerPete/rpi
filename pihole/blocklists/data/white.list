@@ -62,6 +62,7 @@ dmqdd6hw24ucf.cloudfront.net
 # Apps (Mobile)
 app.link
 mobilesdk-us.kampyle.com
+sb.scorecardresearch.com
 
 # Apple (https://support.apple.com/en-us/HT210060)
 *.aaplimg.com
@@ -227,10 +228,19 @@ consent.faz.net
 # collector.githubapp.com
 github.io
 user-images.githubusercontent.com
+google-analytics.com
+
 
 # Google
+app-measurement.com
 fundingchoicesmessages.google.com
+googletagmanager.com
+googletagservices.com
 people-pa.googleapis.com
+www,googletagservices.com
+www-google-analytics.l.google.com
+www-googletagmanager.l.google.com
+www.googletagmanager.com
 
 # Hulu
 dpm.demdex.net
@@ -294,6 +304,8 @@ www.msftconnecttest.com
 # Microsoft
 *.teams.microsoft.com
 *.visualstudio.com
+*.events.data.microsoft.com
+*.pipe.aria.microsoft.com
 codepush.appcenter.ms
 codepush.teams.microsoft.com
 codepush.trafficmanager.net
@@ -301,6 +313,7 @@ dc.services.visualstudio.com
 g.msn.com
 global.in.ai.monitor.azure.com
 ic3.events.data.microsoft.com
+mobile.pipe.aria.microsoft.com
 prod.rewardsplatform.microsoft.com
 teams.events.data.microsoft.com
 
