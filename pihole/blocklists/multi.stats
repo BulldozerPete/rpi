@@ -43,7 +43,7 @@
 # 12. Source: 898 - https://v.firebog.net/hosts/static/w3kbl.txt
 # 13. Source: 53233 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 14. Source: 14801 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-# 15. Source: 70662 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 15. Source: 70664 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 16. Source: 94368 - https://dbl.oisd.nl/basic/
 # 17. Source: 239184 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 # 18. Source: 378 - https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
@@ -85,17 +85,17 @@
 # 54. Source: 37 - https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
 # 55. Source: 1100 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 56. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 57. Source: 1499 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 57. Source: 1497 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 58. Source: 383 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
 # #. Source: 1226143
 
 Statistik multi.txt:
-== Source (unique): 619892
-++ Black:           620600 (+708)
--- White:           616581 (-4019)
--- Dead:            420689 (-195892)
--- Exclude:         417109 (-3580)
-++ Block:           417169 (+60)
--- Unblock:         417040 (-130)
-++ WWW-Domains:     541055 (+124015)
-++ FLD-Domains:     542298 (+1243)
+== Source (unique): 619898
+++ Black:           620606 (+708)
+-- White:           616587 (-4019)
+-- Dead:            420695 (-195892)
+-- Exclude:         417115 (-3580)
+++ Block:           417175 (+60)
+-- Unblock:         417044 (-132)
+++ WWW-Domains:     541057 (+124013)
+++ FLD-Domains:     542300 (+1243)
