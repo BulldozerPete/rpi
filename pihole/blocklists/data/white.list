@@ -217,6 +217,10 @@ graph.instagram.com
 # FAZ
 consent.faz.net
 
+# Gaming
+*.overwolf.com
+*.battle.net
+
 # Github
 *.ghcr.io
 *.github.com
@@ -229,10 +233,6 @@ consent.faz.net
 github.io
 user-images.githubusercontent.com
 google-analytics.com
-
-# Gaming
-*.overwolf.com
-*.battle.net^
 
 # Google
 app-measurement.com
