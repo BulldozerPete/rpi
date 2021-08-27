@@ -12,9 +12,11 @@ ad.samsungadhub.com
 # analyticsnew.overwolf.com
 api.ad.xiaomi.com
 api.mixpanel.com
+api.segment.io
 # app-measurement.com
 asimov-win.settings.data.microsoft.com.akadns.net
 assoc-amazon.com
+atconnect.npo.nl
 bam.nr-data.net
 bat.bing.com
 bb5aefe212b44166addcdf4475e6b955.fp.measure.office.com
@@ -24,11 +26,16 @@ bfe7807839944e829e97bd9fe4bda9c7.fp.measure.office.com
 # browser.events.data.microsoft.com
 browser-update.org
 c.bing.com
+cdn-3.convertexperiments.com
+cdn.appconsent.io
 cdn.heapanalytics.com
+cdn.siftscience.com
+cdn.trustcommander.net
 cdp.cloud.unity3d.com
 ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
 chimpstatic.com
+collector.appconsent.io
 # collector.githubapp.com
 contributor.google.com
 crashlogs.whatsapp.net
@@ -43,10 +50,12 @@ eaus2watcab01.blob.core.windows.net
 eaus2watcab02.blob.core.windows.net
 edge.quantserve.com
 etahub.com
+ethn.io
 f4aad85291f44f2d95aa811b9a552d14.fp.measure.office.com
 firebaselogging-pa.googleapis.com
 firebase-settings.crashlytics.com
 geo.vortex.data.microsoft.com.akadns.net
+gj.mmstat.com
 globalapi.ad.xiaomi.com
 # google-analytics.com
 googlesyndication.com
@@ -54,14 +63,19 @@ googlesyndication.com
 # googletagservices.com
 hotjar.com
 hubblecontent.osi.office.net
+hubt.pornhub.com
 # hw-cdn2.adtng.com
 # ichnaea-web.netflix.com
+instant.page
 # js-cdn.dynatrace.com
+lcs.naver.com
 mc.yandex.ru
 metrics.brightcove.com
 mouseflow.com
 nexus.officeapps.live.com
 nmetrics.samsung.com
+omniture-ssl.walmart.com
+omniture.walmart.com
 open.oneplus.net
 pagead2.googlesyndication.com
 pixel.quantserve.com
@@ -70,6 +84,8 @@ privatestats.whatsapp.net
 p.skimresources.com
 pubads.g.doubleclick.net
 publisher-assets.spot.im
+pvtag.yahoo.co.jp
+rat.rakuten.co.jp
 r.skimresources.com
 sa.api.intl.miui.com
 samsungadhub.com
@@ -84,8 +100,11 @@ secure-sg.imrworldwide.com
 # settings-win.data.microsoft.com
 s.skimresources.com
 ssl.google-analytics.com
+sstats.adobe.com
+stags.bluekai.com
 static.cleverpush.com
 static.hotjar.com
+swa.bol.com
 tags.bkrtx.com
 tags.crwdcntrl.net
 telecommand.telemetry.microsoft.com
@@ -115,6 +134,7 @@ www.googlesyndication.com
 # www.googletagmanager.com
 # www-googletagmanager.l.google.com
 # www.googletagservices.com
+www.quantcast.com
 www.smartsuppchat.com
 www.summerhamster.com
 www.userreport.com
