@@ -26,17 +26,17 @@
 
 # Blacklist: 0
 
-# 1. Source: 121048 - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
-# 2. Source: 135207 - https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
+# 1. Source: 121051 - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+# 2. Source: 135221 - https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
 # 3. Source: 181 - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 # 4. Source: 14914 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 # 5. Source: 14801 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 # 6. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
-# #. Source: 286575
+# #. Source: 286592
 
 Statistik affiliatetracking.txt:
-== Source (unique): 153226
--- Exclude:         152902 (-324)
--- Unblock:         152900 (-2)
-++ WWW-Domains:     166139 (+13239)
-++ FLD-Domains:     166714 (+575)
+== Source (unique): 153240
+-- Exclude:         152916 (-324)
+-- Unblock:         152914 (-2)
+++ WWW-Domains:     166153 (+13239)
+++ FLD-Domains:     166728 (+575)
