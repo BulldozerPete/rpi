@@ -22,19 +22,19 @@
 # Statistik
 # ---------
 #
-# Exclude: 431526
+# Exclude: 437407
 # Whitelist: 0
 # Deadlist: 0
 # Blacklist: 0
-# 1. Source: 121051 - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
-# 2. Source: 135221 - https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
+# 1. Source: 121865 - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+# 2. Source: 136188 - https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
 # 3. Source: 181 - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 # 4. Source: 14914 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 # 5. Source: 14801 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 # 6. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 166728 Domains - V2021.08.27-03:35:42
+# 167600 Domains - V2021.08.28-03:35:30
 # ---------------------------------------------
 #
 000000.ads.tremorhub.com
@@ -250,8 +250,12 @@
 109.euleriancdn.net
 10.affex.org
 10.euleriancdn.net
+10ifin8529n.www.ryaktive.com
+10k78pgjh3p.bw.androidacy.com
 10-marketing.net.daraz.com
 10-patner.net.daraz.com
+10ro53kulyb.groove.so
+10v32f4a8gt.www.atlaslane.com
 11091521400593.affex.org
 11091521400593.euleriancdn.net
 110.affex.org
@@ -281,7 +285,9 @@
 119.affex.org
 119.euleriancdn.net
 11.affex.org
+11b6n4ty2x3.taxliencode.com
 11.euleriancdn.net
+11jboxuvhdn.www.jeddd.com
 11s02-ac2z8.ads.tremorhub.com
 11s02-k088n.ads.tremorhub.com
 11s02-w3opb.ads.tremorhub.com
@@ -329,6 +335,7 @@
 12.affex.org
 12build.actonservice.com
 12.euleriancdn.net
+12oulguqbf3.tapmyback.com
 13065830.log.optimizely.com
 130.affex.org
 130.euleriancdn.net
@@ -351,6 +358,7 @@
 13.affex.org
 13bp0qoheqo8.ddns.dataunlocker.com
 13.euleriancdn.net
+13js1lbtbj3.sparkloop.app
 13newsnow.com.102.112.2o7.net
 13partner.net.daraz.com
 140522114.log.optimizely.com
@@ -372,6 +380,7 @@
 1517mediamailer.1517.media
 1522880320.log.optimizely.com
 152media.com
+157nvwyfpqv.hausliebe.de
 1583d-793hj.ads.tremorhub.com
 1583d-d589l.ads.tremorhub.com
 1583d-o5wr7.ads.tremorhub.com
@@ -389,6 +398,7 @@
 163.affex.org
 163.euleriancdn.net
 1640630010.log.optimizely.com
+164fi5kesvt.www.usa-corporate.com
 166211981.log.optimizely.com
 16819.ads.tremorhub.com
 169.affex.org
@@ -396,6 +406,7 @@
 16.affex.org
 16ao.mathon.fr
 16.euleriancdn.net
+16i6nuuc2ej.koelewijn.nl
 16-marketing.net.daraz.com
 16-partner.net.daraz.com
 170.affex.org
@@ -407,6 +418,7 @@
 1767850220.log.optimizely.com
 177031030.log.optimizely.com
 1785480022.log.optimizely.com
+1796kpkzuwj.www.hawpar.com
 17991-2dldb.ads.tremorhub.com
 17991-2lyhy.ads.tremorhub.com
 17991-8jf8r.ads.tremorhub.com
@@ -414,6 +426,7 @@
 17991-qqcqw.ads.tremorhub.com
 17.affex.org
 17.euleriancdn.net
+17ev8cukhq7.timqueen.com
 1800contacts.demdex.net
 1800dentist.com.102.112.2o7.net
 18052925.im.intermiles.com
@@ -462,6 +475,9 @@
 1.appexchange.com
 1asr0l6zjb1.franchiseplus.nl
 1avhg3kanx9.www.earthclassmail.com
+1b6wvktphtz.stresshelden-coaching.de
+1baq2nvd6n7.www.keevowallet.com
+1bpmtrvkqkj.pettoonies.com
 1bva.societegenerale.fr
 1bw7etm93lf.www.woodbrass.com
 1c.affex.org
@@ -470,31 +486,44 @@
 1-cl0ud.com
 1-creative-1.com
 1ctc.sfr.fr
+1ddbsf9ac5v.vendorportal.bestseller.com
 1dental.com.102.112.2o7.net
 1.euleriancdn.net
 1ff98d3f0df77fc9fdedf4209cc4db4cc1844a69.cws.conviva.com
 1.forumgroup.com.au
+1fto0hm0foj.www.evservice.eu
+1fuc4xylyzh.www.taxmachine.be
 1g5hy8qru.shortfilms.watch
 1.getnspace.com
 1h2h54jkw.com
 1hty26q8kano.ddns.dataunlocker.com
 1i9d8.ads.tremorhub.com
 1.iugis.com
+1iy4gu0lpkp.my.gloryleague.basketball
 1j20h2oayahr.ddns.dataunlocker.com
 1j2n061x3td.www.digi.no
+1koa95e6z2j.www.future-fortune.com
 1kpv4njzilv.community.intersystems.com
 1.librestream.com
 1lniu-yllm6.ads.tremorhub.com
+1m639v56m9d.development.pit.taxmachine.be
+1m7bv0c62id.www.cybernetman.com
 1missionnutrition.postaffiliatepro.com
+1mnzt9u4qwf.www.alefcity.com
 1motormart.com.102.122.2o7.net
 1mvs.fonestarz.com
 1ncrivel.postaffiliatepro.com
+1o2m84yo30l.git.androidacy.com
 1.oceanfrontwealth.com
 1.om-x.co.jp
 1.onlinepoker.com
 1op1je6zs97.www.emanualonline.com
 1p3293dngsv.dodofacile.fr
+1py6pv6xsrh.app.tapmyback.com
+1q0yir6yp29.forms.earthdiscord.ga
 1q6ck0lrhrr.www.newsinside.org
+1qay1ae4aj3.nzbstars.com
+1r04b1coh3p.admin.dataunlocker.com
 1s3h4f7sl.com
 1.salesforce-partners.com
 1.sayge.ca
@@ -503,10 +532,18 @@
 1stnationalbank.com.102.112.2o7.net
 1stphorm.postaffiliatepro.com
 1stquest.postaffiliatepro.com
+1tb41yjaqmt.panpots.com
 1.topjob.de
+1tr4vpg759f.smoldragons.com
 1trmst2hn.affex.org
 1trmst2hn.euleriancdn.net
+1uwcex4qf9z.test-115.dapp.ml
+1vfiua08li1.dl.androidacy.com
 1winter.net.daraz.com
+1wqwyi3ax4h.bluepeak.gg
+1xejnhs1zd1.staging.aporia.com
+1xoyxfql71t.mailfloss.com
+1y10lvb64mr.www.freecodecamp.dev
 1ywk8ynty.benediktkick.com
 1.zeton.com
 1zzs6w25i8n.tube.inflatevids.xyz
@@ -554,6 +591,7 @@
 20.euleriancdn.net
 20khpt29leu8.ddns.dataunlocker.com
 20seven.bobst.com
+2107wrlgff5.development.taxmachine.be
 2108894897.log.optimizely.com
 211165120.log.optimizely.com
 211.affex.org
@@ -569,6 +607,8 @@
 21925.redirect.appmetrica.yandex.com
 21.affex.org
 21.euleriancdn.net
+21fhq0t574p.talentkit.io
+21x17yibi8r.filmustage.com
 221287000.log.optimizely.com
 22153974.branch.rocks
 2226200410.log.optimizely.com
@@ -595,12 +635,14 @@
 235.euleriancdn.net
 237.affex.org
 237.euleriancdn.net
+237i6tsglat.www.sidsplumbing.ie
 2380340583.log.optimizely.com
 238413261.log.optimizely.com
 2386590051.log.optimizely.com
 23944930.log.optimizely.com
 23.affex.org
 23.euleriancdn.net
+23t63tvyxz.marketingtornado.ca
 2401970420.log.optimizely.com
 2401970530.log.optimizely.com
 2417390805.log.optimizely.com
@@ -624,6 +666,7 @@
 24.euleriancdn.net
 24hrscsbnet.com.102.112.2o7.net
 24pokies.postaffiliatepro.com
+24rpe6zlfi5.app.aporia.com
 24yz9xknj5cz.ddns.dataunlocker.com
 2523150420.log.optimizely.com
 25378.redirect.appmetrica.yandex.com
@@ -634,9 +677,11 @@
 2599960034.log.optimizely.com
 25.affex.org
 25.euleriancdn.net
+25ix8gm8ien.sandbox.panprices.com
 25ssc-i72wt.ads.tremorhub.com
 25ssc-iowmv.ads.tremorhub.com
 25voj20abod.honeyswap.org
+25wyma1mavl.my.staging.gloryleague.basketball
 2609801114.log.optimizely.com
 261826549347986.wt-eu02.net
 264678230.log.optimizely.com
@@ -654,36 +699,48 @@
 2772910248.log.optimizely.com
 277918141.log.optimizely.com
 27.affex.org
+27bqjmht7ph.www.word.com.au
 27.euleriancdn.net
 27f19c7c68e3eadf7756fb7efdb661dd8909acf9.cws.conviva.com
 27gw3edw0u9l.ddns.dataunlocker.com
 27v9q.ads.tremorhub.com
 2800600325.log.optimizely.com
 2829i2p88jx.www.csaladinet.hu
+283ozd4kkx7.switchplus.online
 284748925.log.optimizely.com
 285545256993116.wt-eu02.net
 28554.redirect.appmetrica.yandex.com
 28554.redirect.appmetrica.yandex.ru
 2856500200.log.optimizely.com
 286813086616891.wt-eu02.net
+2878fhf5ss7.lols.gg
 28.affex.org
 28bbf0a3decf6d1165032bfd835d6e1844c5d44d.cws.conviva.com
 28.euleriancdn.net
 2900700422.log.optimizely.com
+2922qj5tf2n.swyftx.com.au
 29733.redirect.appmetrica.yandex.com
 297705730.log.optimizely.com
 29.affex.org
 29.euleriancdn.net
+2aa6f9qgrh9.acc.evservice.nl
 2ac6fbdbd2d44a9019f6cbc6eb1ebdda47ae3bd8.cws.conviva.com
 2.adam.com
 2.affex.org
 2.anistia.org.br
 2.atlasroofing.com
+2awb8ooqjhf.test.app.diggit.no
+2awk3sf9o0p.controlconceptsusa.com
+2aznmy49493.eyevolution.de
 2.brinkshome.com
+2c0lnk3bqpr.trusted-review.com
 2cc9bcd87e4511a3759bc9299721d1609b726e59.cws.conviva.com
 2ciy2-0b9fp.ads.tremorhub.com
 2ciy2-9kbup.ads.tremorhub.com
+2e718yf5jypb.test.digitalsurge.io
+2e7zgbpky6h.chinese.freecodecamp.org
 2.ed.west.com
+2eewdyu5z87.www.rubrik-data-control-analysis.com
 2efj.economies.cheque-dejeuner.com
 2efj.up.coop
 2.eqho.com
@@ -707,6 +764,7 @@
 2.mymoni.com
 2nyan.org
 2o7.net
+2p4rkhv1hd.mvtron.ru
 2q4q2.ads.tremorhub.com
 2.redirect.appmetrica.yandex.com
 2.redirect.appmetrica.yandex.ru
@@ -729,6 +787,7 @@
 2xl33-blbhp.ads.tremorhub.com
 2.yeli.fr
 2.yeti.fr
+2yqcaqbfnv.nextgen.shareablee.com
 301media.postaffiliatepro.com
 302631813489498.wt-eu02.net
 3036230066.log.optimizely.com
@@ -820,6 +879,7 @@
 3798881720.log.optimizely.com
 37.affex.org
 37.euleriancdn.net
+37p9frkcz1.www.dynablogger.com
 381160097.log.optimizely.com
 3889082.dev.att.llabs.io
 38.affex.org
@@ -903,6 +963,7 @@
 3suisses-prive-fr.eulerian.net
 3w.affex.org
 3w.euleriancdn.net
+3wn3w3skxpym.round.t3.gg
 400230361.log.optimizely.com
 40135.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.ru
@@ -969,6 +1030,7 @@
 4939847.t.hypers.com.cn
 4939850.t.hypers.com.cn
 4939865.t.hypers.com.cn
+493ro63z3fka.fjlaboratories.com
 4940.genieessp.com
 49.affex.org
 49.euleriancdn.net
@@ -1085,6 +1147,8 @@
 5.affex.org
 5bams-85j6m.ads.tremorhub.com
 5bams-irpi2.ads.tremorhub.com
+5brgdxdhtt.thebarrecollective.co
+5csfwdbxxl.jessehu.me
 5da80568d014aee4be12a26395bd2c077c26e282.cws.conviva.com
 5.euleriancdn.net
 5ew8d-b3mmu.ads.tremorhub.com
@@ -1098,6 +1162,7 @@
 5nbh3-h9cpz.ads.tremorhub.com
 5nbh3-uouba.ads.tremorhub.com
 5ngoi4s2jeuy.ddns.dataunlocker.com
+5qz5gmi6c6pn.boxoffice.adventuretix.com
 5sh6w-cy066.ads.tremorhub.com
 5sqfs-855oe.ads.tremorhub.com
 5sqfs-t0r87.ads.tremorhub.com
@@ -1254,6 +1319,7 @@
 77.euleriancdn.net
 77p2p.affex.org
 77p2p.euleriancdn.net
+77-trk-srv.com
 79533-pt0q1.ads.tremorhub.com
 7974570.mobstar.com
 79.affex.org
@@ -1306,6 +1372,7 @@
 823532764568303.wt-eu02.net
 827040521851188.wt-eu02.net
 828888230.log.optimizely.com
+8389369.log.optimizely.com
 8402787920.log.optimizely.com
 8407410.log.optimizely.com
 849036415619964.wt-eu02.net
@@ -1360,6 +1427,7 @@
 8rdzk.ads.tremorhub.com
 8swt2.ads.tremorhub.com
 8unl5-jgl9r.ads.tremorhub.com
+8w5zss0hlrdd.wrdie.com
 8wnfw03ew22c.ddns.dataunlocker.com
 908devices.actonservice.com
 90.affex.org
@@ -1379,6 +1447,7 @@
 929408468507536.mateti.net
 92.affex.org
 92.euleriancdn.net
+934eyk7mlx.pit.taxmachine.be
 934yg.ads.tremorhub.com
 93.affex.org
 93.euleriancdn.net
@@ -1413,6 +1482,7 @@
 9857064.hello.spriggy.com.au
 9857064.notice.spriggy.com.au
 98dms.ads.tremorhub.com
+9955951.pillar.app
 997311968670029.wt-eu02.net
 9984342.reddoorz.in
 99.affex.org
@@ -1432,6 +1502,7 @@
 9nl.org
 9oka42pnam4d.ddns.dataunlocker.com
 9ov95b3bx3ln.ddns.dataunlocker.com
+9pn8kscdm08g.app.polymersearch.com
 9rmjh-1etx5.ads.tremorhub.com
 9rmjh-1yl80.ads.tremorhub.com
 9rmjh-3ctab.ads.tremorhub.com
@@ -1574,6 +1645,7 @@ a11576.actonservice.com
 a11584.actonservice.com
 a11585.actonservice.com
 a11601.actonservice.com
+a1171.actonsoftware.com
 a11843.actonservice.com
 a11862.actonservice.com
 a11868.actonservice.com
@@ -2431,6 +2503,7 @@ a19891.actonservice.com
 a19895.actonservice.com
 a19900.actonservice.com
 a19913.actonsoftware.com
+a19930.actonservice.com
 a19931.actonservice.com
 a19932.actonsoftware.com
 a19933.actonsoftware.com
@@ -2453,6 +2526,7 @@ a20010.actonsoftware.com
 a20012.actonsoftware.com
 a20014.actonsoftware.com
 a20022.actonservice.com
+a20034.actonservice.com
 a20036.actonsoftware.com
 a20040.actonservice.com
 a2004.actonsoftware.com
@@ -2609,6 +2683,7 @@ a21319.actonservice.com
 a21341.actonservice.com
 a21344.actonservice.com
 a21346.actonservice.com
+a21347.actonservice.com
 a21357.actonservice.com
 a21360.actonservice.com
 a21363.actonsoftware.com
@@ -2656,6 +2731,7 @@ a21742.actonsoftware.com
 a21745.actonservice.com
 a21751.actonsoftware.com
 a21755.actonservice.com
+a21770.actonservice.com
 a21785.actonsoftware.com
 a21787.actonservice.com
 a21814.actonsoftware.com
@@ -5759,6 +5835,7 @@ a8clk.tsuchiya-kaban.jp
 a8clk.tsunorice.com
 a8clk.t-tree.net
 a8clk.unihertz.com
+a8clk.unlace.net
 a8clk.ur-s.me
 a8clk.videocash.tv
 a8clk.voice-inc.co.jp
@@ -5849,6 +5926,7 @@ a8cv.adornmonde.com
 a8cv.adv.gr.jp
 a8cv.aiambeauty.jp
 a8cv.air-wifiinternet.jp
+a8cv.akihabara-x.jp
 a8cv.all24.jp
 a8cv.all-plan.co.jp
 a8cv.al-on.com
@@ -6019,6 +6097,7 @@ a8cv.glow-clinic.com
 a8cv.goodlucknail.com
 a8cv.goqoo.me
 a8cv.grace-grace.info
+a8cv.grassbeaute.jp
 a8cv.greed-island.ne.jp
 a8cv.greencleansejuice.shop
 a8cv.haka.craht.jp
@@ -6034,6 +6113,7 @@ a8cv.highclassmoney.net
 a8cv.hilife-group.com
 a8cv.hi-tailor.jp
 a8cvhoiku.kidsmate.jp
+a8cv.hoken-laundry.com
 a8cv.holo-bell.com
 a8cv.honeys-onlineshop.com
 a8cv.hor.jp
@@ -6200,6 +6280,7 @@ a8cv.rawfood-lohas.com
 a8cv.raycop.co.jp
 a8cv.rebirthlab.com
 a8cv.recelsier.com
+a8cv.rehome-navi.com
 a8cv.renoveru.jp
 a8cv.repairman.jp
 a8cv.repitte.jp
@@ -6330,6 +6411,7 @@ a8cv.will-gocon.net
 a8cv.winkle.online
 a8cv.womanmoney.net
 a8cv.wordman.jp
+a8cv.workany.jp
 a8cv.worker.sukimaworks.app
 a8cv.workman.jp
 a8cv.www2.sundai.ac.jp
@@ -6407,6 +6489,7 @@ a8.eonet.ne.jp
 a8.epauler.co.jp
 a8.erasutamo.onlinestaff.jp
 a8.euleriancdn.net
+a8.everest.ac
 a8.evertrust-inc.com
 a8.exetime.jp
 a8.exwimax.jp
@@ -6482,6 +6565,7 @@ a8.kami2323.com
 a8.kateikyoushi.kuraveil.jp
 a8.kazahaya-store.com
 a8.kddi-hikari.com
+a8.kekkon.kuraveil.jp
 a8.kimonomachi.co.jp
 a8.kinkaimasu.jp
 a8.kinkennet.jp
@@ -6508,6 +6592,7 @@ a8.lens-labo.com
 a8.lens-ocean.com
 a8.leroman.jp
 a8.liver-rhythm.jp
+a8live-vote.eventos.work
 a8.logrenove.jp
 a8.looom.jp
 a8.looop-denki.com
@@ -6956,6 +7041,7 @@ ab.affex.org
 abalorios01.wt-eu02.net
 abba.affex.org
 abba.euleriancdn.net
+ab.beautyexperience.com
 abbottdiabetescare.com.102.112.2o7.net
 abbottdiagnostics.com.102.112.2o7.net
 abbottgps.com.102.112.2o7.net
@@ -7455,6 +7541,7 @@ acp.demdex.net
 acp.euleriancdn.net
 acpmagazines.demdex.net
 acpprograms.org
+acq.aicventures.com
 acq-au.americanexpress.com
 acq-hk.americanexpress.com
 acq-jp.americanexpress.com
@@ -7704,6 +7791,7 @@ adblender.ru
 adbmetrics.abc.es
 adbmetrics.blogasturias.com
 adbmetrics.canal10tv.com
+adbmetrics.canal-literatura.com
 adbmetrics.caravantur.eus
 adbmetrics.diariosur.es
 adbmetrics.diariovasco.com
@@ -7778,6 +7866,7 @@ addthis.com
 addthisedge.com
 addtoany.com
 ade.applicationinsights.io
+adeb.biccamera.com
 adeb.ecc.jp
 adebi.ethicame.com
 adebis01.job-con.jp
@@ -7849,6 +7938,7 @@ adebis.duo-chiba.net
 adebis.duo-fukui.net
 adebis.duo-fukushima.net
 adebis.duo-hokkaido.net
+adebis.duo-ibaraki.net
 adebis.duo-kanagawa.net
 adebis.duo-miyagi.net
 adebis.duo-saitama.net
@@ -7933,6 +8023,7 @@ adebis.mandahakko.com
 adebis-measure.concier.net
 adebis-measure.mc-doctor.net
 adebis-measure.mc-kaigo.net
+adebis-measure.mc-nurse.net
 adebis.medical-with.com
 adebis.melvita.com
 adebis.mens-liposuction.com
@@ -8061,6 +8152,7 @@ ade.scrubreath.com
 ade.scrubreath-k.com
 ad.ettoday.net
 ad.euleriancdn.net
+a.deutschehospitality.com
 adeventtracker.spotify.com
 adevis.reve21.co.jp
 a.devlog.games
@@ -8102,6 +8194,7 @@ adherent.attestationlegale.fr
 adhese.com
 adhesion.orpheopolis.fr
 adhigh.net
+ad.himediadx.com
 ad.houkei-shinjuku.com
 adi.affex.org
 ad.ichiban-boshi.com
@@ -8396,6 +8489,7 @@ adpromo.peppynet.com
 adpsavestime.ca.adpinfo.com
 adpushup.com
 adpx.metanetwork.com
+adr1.adore2005.com
 adready.com
 adreadytractions.com
 adreal.dt.co.kr
@@ -8785,6 +8879,7 @@ ads.reklamstore.com
 ads.resultsaccelerator.net
 adsrv.adplus.co.id
 adsrv.affex.org
+adsrv.euleriancdn.net
 adsrvr.org
 adsrvs.com
 ads.samba.tv
@@ -8878,6 +8973,7 @@ adult.euleriancdn.net
 adultnutritionlearningcenter.com.102.112.2o7.net
 adultswim.d2.hb.omtrdc.net
 adultswim.hb.omtrdc.net
+ad-unit02.carmo-kun.jp
 ad-unit.car-mo.jp
 adunity.com
 adv2.affex.org
@@ -8900,6 +8996,7 @@ advancement.affex.org
 advancement.euleriancdn.net
 advancing.acams.org
 advancname.good-items.jp
+advancname.resear-ch.com
 ad.vanfu.co.jp
 advanstar.actonservice.com
 advantageauburn.actonservice.com
@@ -9002,6 +9099,7 @@ adx.ads.oppomobile.com
 adx.affex.org
 adx.applicationinsights.azure.com
 adx.euleriancdn.net
+adx.int.monitor.azure.com
 adx.loganalytics.azure.com
 adx.monitor.azure.com
 ad.xn--o9jem5iv41o982db8k.jp
@@ -9138,6 +9236,7 @@ affiliate.fastestvpn.com
 affiliate.fastforecast.it
 affiliate.fiizy.com
 affiliate.fixerupcredit.com
+affiliate.fmasarovic.com
 affiliate.fsastore.com
 affiliatefuture.com
 affiliate.gastan.eu
@@ -9153,6 +9252,7 @@ affiliate.ilexexchange.com
 affiliate.induux.com
 affiliate.inmagine.com
 affiliate.jointhevip.co.uk
+affiliate.justapatch.com
 affiliate.kgcshop.jp
 affiliate.kinguin.net
 affiliate.klickstar.rocks
@@ -9161,9 +9261,11 @@ affiliate.learnfly.com
 affiliate.liri-bd.com
 affiliate.liva.com
 affiliate.livinglibations.com
+affiliate.localarea.com
 affiliate.logitravel.com
 affiliate.macsentry.com
 affiliate.magix.com
+affiliate.markets-logic.com
 affiliate.myfastbuds.com
 affiliate.mykring.com
 affiliate.myncmstore.com
@@ -9175,9 +9277,11 @@ affiliate.onemedall.com
 affiliate.openprovider.com
 affiliate.ouchi.coop
 affiliate.p-a.jp
+affiliate.pemftechnologies.com
 affiliate.petitwedding.com
 affiliatepro.weret.com
 affiliate.richestlife.com
+affiliates.4finance.lt
 affiliates-88herbs.postaffiliatepro.com
 affiliates.abaenglish.com
 affiliates.advance.fund
@@ -9219,17 +9323,21 @@ affiliates.hayabusafight.com
 affiliates.hola.org
 affiliates.hostarmada.com
 affiliates.hungrybark.com
+affiliates.hypercentage.com
 affiliates.ibscoach.org
 affiliates.info.care
 affiliates.instabank.no
 affiliates.instavisits.com
 affiliates.ioscout.io
 affiliates.jeffreymagone.com
+affiliates.keolalife.com
 affiliates.lacunabotanicals.com
+affiliates.landerapp.com
 affiliates.lolanextdoor.com
 affiliates.mattersofsize.com
 affiliates.mediamister.com
 affiliates.monotote.com
+affiliates.msicredit.com
 affiliates.mylaso.com
 affiliates.mylegaladviser.co.uk
 affiliate.snapad.net
@@ -9240,6 +9348,7 @@ affiliates.onlinecreditattorney.com
 affiliates.opiumpulses.com
 affiliates.petplan.es
 affiliates.postaffiliatepro.com
+affiliates.ppclabs.com
 affiliates.privadovpn.com
 affiliates.prosovlabs.com
 affiliates.proxpn.com
@@ -9255,6 +9364,7 @@ affiliates.sellics.com
 affiliates.shopsimplio.com
 affiliates.somasmarthome.com
 affiliates.spartanutrition.com
+affiliates.stake7.com
 affiliates.tacticalguru.com
 affiliates.templatemonster.com
 affiliates.thatsmybuddy.com
@@ -9284,6 +9394,7 @@ affiliate.tinonit.eu
 affiliate.tonybrownsjournal.com
 affiliate.trackpointads.com
 affiliate.treated.com
+affiliate.unisender.com
 affiliateuniverse.postaffiliatepro.com
 affiliate.vpn.express
 affiliatewindow.com
@@ -9321,6 +9432,7 @@ afiliacioncentral.com
 afiliacioncentral.postaffiliatepro.com
 afiliados.billin.net
 afiliados.danacosmeticos.com.br
+afiliados.njoytrends.com
 afiliados.petplan.es
 afi.school.web-marketing.ai
 afisha.affex.org
@@ -9462,6 +9574,7 @@ ahmad.euleriancdn.net
 ahmed.affex.org
 ahmed.euleriancdn.net
 ahnu.com.102.112.2o7.net
+ahojkanarskeostrovy-com.eulerian.com
 ahojkanarskeostrovy-com.eulerian.fr
 ahojkanarskeostrovy-com.eulerian.net
 ahom.com.102.122.2o7.net
@@ -9587,6 +9700,7 @@ ait.eulerian.eu
 ait.eulerian.fr
 ait.eulerian.net
 ai.thermo.com
+aj8md.johnhenry.ie
 aj.affex.org
 ajax.affex.org
 ajax.euleriancdn.net
@@ -9684,6 +9798,7 @@ albatross.creacoon.com
 albatross.customerpath.com.au
 albatross.euleriancdn.net
 albatross.mypromo.co
+albatross.newlog.io
 albatross.ohseesoftware.com
 albatross.theurbanunderground.com
 albatros.teamground.fr
@@ -9719,6 +9834,7 @@ aldebaran.euleriancdn.net
 aldec.actonsoftware.com
 aldesa.actonservice.com
 aldinord.demdex.net
+aldisued.demdex.net
 aldo.affex.org
 aldo.euleriancdn.net
 aldrin.shortest-route.com
@@ -9959,6 +10075,7 @@ alpo.com.102.122.2o7.net
 alquiler.carflex.es
 al.resulticks.com
 als.affex.org
+alsahb.cloud.avg.com
 als.euleriancdn.net
 alsgaj.chosun.com
 alsgaj.sportschosun.com
@@ -10265,6 +10382,7 @@ amp.advantagemedicalprofessionals.com
 amp.affex.org
 amp.bfr.com
 amp-bkup.net.daraz.com
+amp.citizen.co.za
 amp.euleriancdn.net
 amp.hallo24.de
 amphibian.30pin.com
@@ -10288,6 +10406,7 @@ amptrack.thisismoney.co.uk
 ams2.affex.org
 ams2.euleriancdn.net
 ams.affex.org
+ams.demdex.net
 ams.euleriancdn.net
 amsterdam.affex.org
 amsterdam.criteo.com
@@ -10354,6 +10473,7 @@ anaconda.affex.org
 anaconda.birdandbeeweddings.com
 anaconda.euleriancdn.net
 anaconda.festungshof.de
+anaconda.nguyen.pro
 anaconda.venturearc.io
 anaconda.webitizeicts.com
 anaconda.zephyrus.gg
@@ -10931,6 +11051,7 @@ angelfish.grayscale.design
 angelfish.minimalgoods.co
 angelfish.owlbear.rodeo
 angelfish.shorehamlife.com
+angelfish.wpsocialrocket.com
 angelina.affex.org
 angelina.euleriancdn.net
 angels.affex.org
@@ -11120,6 +11241,7 @@ anteater.slyvon.com
 anteater.stella-projects.de
 anteater.ttbwsd.com
 anteater.webitize.com
+anteater.wilcoweb.world
 anteater.youmadeit.work
 antelope.electricbrighton.com
 antelope.gabriellaroche.dev
@@ -11158,6 +11280,7 @@ antlion.cosmote-marathonios.gr
 antlion.hendrikhaack.de
 antlion.launch.fyi
 antlion.nomedium.dev
+antlion.rsllr.io
 antlion.streambus.com
 anto.affex.org
 anto.euleriancdn.net
@@ -11346,6 +11469,7 @@ a-perfumesclub-pl.eulerian.com
 a-perfumesclub-pl.eulerian.fr
 a-perfumesclub-pl.eulerian.net
 a.perfumesclub.pt
+a-perfumesclub-pt.eulerian.com
 a-perfumesclub-pt.eulerian.fr
 a-perfumesclub-pt.eulerian.net
 a-perfumesclub-uk.eulerian.com
@@ -11781,6 +11905,7 @@ app.thomsonreuters.com
 apptimize.com
 apptracker.gamedock.io
 apptracker.spilgames.com
+apptrack.umeng.com
 app.travellead.pl
 apptus.actonservice.com
 appuniverseapplication.com
@@ -11848,6 +11973,7 @@ aquatormarine.postaffiliatepro.com
 aquila.affex.org
 aquila.euleriancdn.net
 aqw.princessetamtam.co.uk
+ar36b7o1oohz.ddns.dataunlocker.com
 ara.affex.org
 arab.affex.org
 arab.euleriancdn.net
@@ -11934,6 +12060,7 @@ ares.buyersclub.se
 ares.euleriancdn.net
 arete.postaffiliatepro.com
 ar.euleriancdn.net
+arevoviewacxhb.cloud.avg.com
 arg.affex.org
 argenta.demdex.net
 argentina.affex.org
@@ -12026,6 +12153,7 @@ armstronginternational.actonservice.com
 armstrong.shortest-route.com
 armstrong.support.mapp.com
 army.affex.org
+army.demdex.net
 army.euleriancdn.net
 armytimes.com.102.112.2o7.net
 arn.demdex.net
@@ -12284,7 +12412,9 @@ aspire.affex.org
 aspire.euleriancdn.net
 aspire.ivywise.com
 aspire.uark.edu
+asp.larsgraubner.com
 asp.podlist.de
+asp.rikkeekelund.com
 aspringer01.wt-eu02.net
 asp.taishokunext.com
 asp-winterville.cit.affex.org
@@ -12309,6 +12439,7 @@ assets1.affex.org
 assets1.euleriancdn.net
 assets2.affex.org
 assets2.euleriancdn.net
+assets2.ihg.com
 assets2.suncorp.com.au
 assets2.thefirstclub.com
 assets.35mm.es
@@ -12423,6 +12554,7 @@ a.sutasutatto.jp
 a.svenskfast.se
 asvpnhb.cloud.avg.com
 as.welt.de
+aswhb.cloud.avg.com
 async.affex.org
 async.euleriancdn.net
 ata.affex.org
@@ -12434,6 +12566,7 @@ at.alltricks.de
 at.alltricks.es
 at.alltricks.fr
 at.alltricks.it
+at.alltricks.pt
 ataman.affex.org
 ataman.euleriancdn.net
 atarget.harley-davidson.com
@@ -13227,6 +13360,7 @@ automobileclubofsoutherncalifornia.demdex.net
 automotive.affex.org
 automotive.bizrate.com
 automotivecom.hb.omtrdc.net
+automotive.demdex.net
 automotive.encar.com
 automotive.euleriancdn.net
 automotive.horiba.com
@@ -13466,6 +13600,7 @@ awe.yandex.ru
 awfzfs.kwantum.nl
 awin1.com
 awin.com
+awklir.0506mall.com
 awogtl.1stopbedrooms.com
 awowwo.forever21.com
 aws.affex.org
@@ -13698,6 +13833,7 @@ b4.a0.top.mail.ru
 b4.a1.top.list.ru
 b4.affex.org
 b4.euleriancdn.net
+b4iueig9hl.asiahabit.com
 b4of3spi2qsp.ddns.dataunlocker.com
 b5.a0.top.list.ru
 b5.a0.top.mail.ru
@@ -13750,6 +13886,7 @@ babes.affex.org
 babes.euleriancdn.net
 babieskids.bizrate.com
 baboon.alexmedick.com
+baboon.bettergmailfilters.com
 baboon.hetisoptexel.nl
 baboon.ideapotential.com
 baboon.namegen.app
@@ -14127,6 +14264,7 @@ bass.jeremymolina.com
 bass.kathryncallaghan.co.uk
 bass.kidneystonediet.com
 basspro.com.102.122.2o7.net
+bassproshops.demdex.net
 bass.siterig.io
 bass.slugnews.com
 bass.taivo.ai
@@ -14248,6 +14386,7 @@ bc.bannerengineering.com
 bcbsnc.com.102.122.2o7.net
 bcbsnc.demdex.net
 bcc.affex.org
+bccard.demdex.net
 bcc.euleriancdn.net
 bcc-ltd.actonservice.com
 bcd.esprit.at
@@ -15161,6 +15300,7 @@ bird.affex.org
 bird.brondby.com
 bird.euleriancdn.net
 bird.recruitkit.com.au
+bird.resmy.co
 birds.affex.org
 birds.euleriancdn.net
 bird.webitizevoice.com
@@ -15580,6 +15720,7 @@ b.mirrorns.emailvision.net.daraz.com
 b.mitrust.com
 b.miwebflex.com
 bmjmse.softsurroundings.com
+bmmncj.anacondastores.com
 bmmuc-t32er.ads.tremorhub.com
 bmnbzt.pool-systems.de
 bmofinancial.demdex.net
@@ -15692,9 +15833,11 @@ bob.affex.org
 bobcad.actonservice.com
 bobcat.floriangaechter.com
 bobcat.nug.news
+bobcat.personalfinanceliteracy.com
 bobcat.pilvia.com
 bobcat.polarbearpages.com
 bobcat.pronounce.technology
+bobcat.pushplay.nl
 bobcat.snapshooter.io
 bobcat.sublidemand.co.uk
 bobcat.wdng-fotograf.de
@@ -15742,6 +15885,7 @@ boletines.affex.org
 boletines.euleriancdn.net
 boleto.affex.org
 boleto.euleriancdn.net
+bolfep.prospin.com.br
 bollyshare.net.daraz.com
 bollywood.affex.org
 bollywood.euleriancdn.net
@@ -16004,6 +16148,7 @@ branch3.zulln.se
 branch.affex.org
 branch.carvana.com
 branch.chelseafc.com
+branch.connect.actionnetwork.com
 branch-consumer.hipages.com.au
 branchct.ncapp04.com
 branch.edenledger.com
@@ -16381,6 +16526,7 @@ bugatti.affex.org
 bugatti.euleriancdn.net
 bugdsm.buffalo-boots.com
 bug.euleriancdn.net
+bug.henrydennis.blog
 bugherd.com
 bug.jm.sv
 bug.onlinedating.de
@@ -16550,6 +16696,7 @@ butterfly.coverworld.com.au
 butterfly.dharsh.dev
 butterfly.ecouch.com.au
 butterfly.euleriancdn.net
+butterfly.pastimelabs.net
 butterfly.rfortherestofus.com
 butterfly.scottspence.com
 butterfly.tralicom.mx
@@ -16707,6 +16854,7 @@ c4dv.copinesdevoyage.com
 c4.euleriancdn.net
 c4isrnet.com.102.112.2o7.net
 c5.affex.org
+c5ai4b502b.www.chandlerorchards.com
 c5.b7.a0.top.list.ru
 c5.b7.a1.top.mail.ru
 c5.bc.a1.top.mail.ru
@@ -16730,6 +16878,7 @@ c7.b7.a1.top.mail.ru
 c7.b9.a1.top.mail.ru
 c7.bb.a1.top.mail.ru
 c7.bc.a1.top.mail.ru
+c7d9n3okctza.ddns.dataunlocker.com
 c7.euleriancdn.net
 c869o2kyhidv.ddns.dataunlocker.com
 c8.affex.org
@@ -17269,6 +17418,7 @@ cardinal.affex.org
 cardinal.auftrag.app
 cardinal.businessfirstonline.co.uk
 cardinal.daniellemky.com
+cardinal.ensembleblock.com
 cardinal.euleriancdn.net
 cardinal.genx.be
 cardinalhealth.demdex.net
@@ -17313,6 +17463,7 @@ cargosupermarket.volga-dnepr.com
 cargurus.actonservice.com
 carharttinc.demdex.net
 caribou.christophzillgens.com
+caribou.clintgwinter.com
 caribou.color.io
 caribou.convodojo.com
 caribou.devops.shoes
@@ -17355,6 +17506,7 @@ carolina.actonservice.com
 caroline.affex.org
 caroline.euleriancdn.net
 carp.acda.app
+carp.amespacios.com
 carparts.com.102.112.2o7.net
 carpediem.affex.org
 carpediem.euleriancdn.net
@@ -17555,6 +17707,7 @@ cat.jp2.as.criteo.com
 cat.jp2.vip.prod.criteo.com
 cat.laravel-news.com
 cat.lasalturasresort.com
+cat.learnssg.com
 cat.mattr.global
 cat.nl.eu.criteo.com
 cat.oakandross.com
@@ -17587,6 +17740,7 @@ cat.tinylittlebusinesses.com
 cattle.ajyd.org.au
 cattle.apisyouwonthate.com
 cattle.bristol.gives
+cattle.calmerconversations.com
 cattle.domaincomet.com
 cattle.driftbot.io
 cattle.elitecanines.com.au
@@ -17630,6 +17784,7 @@ cbd.chronoba.com
 cbdfx.postaffiliatepro.com
 cbekol.decofire.pl
 cben9a9s1.com
+c.betaplace.com
 cb.euleriancdn.net
 cbf1.affex.org
 cbf1.euleriancdn.net
@@ -17764,6 +17919,7 @@ cda.boacompra.com
 cda.euleriancdn.net
 cd.affex.org
 cda.pagseguro.uol.com.br
+cdata.csob.cz
 cda.thecardservicescenter.com
 cd.b2.a1.top.mail.ru
 cdb5de569b84b5273b758afcebbedd427ae70317.cws.conviva.com
@@ -17824,6 +17980,7 @@ cdn1.thm.panoramainvestor.com.au
 cdn1.thm.stgeorge.com.au
 cdn1.thm.westpac.com.au
 cdn2.affex.org
+cdn2.basixloan.com
 cdn2.botovo.cz
 cdn2.cipofalva.hu
 cdn2.euleriancdn.net
@@ -17924,6 +18081,7 @@ cdn-ci62.actonsoftware.com
 cdn-ci63.actonsoftware.com
 cdn-ci65.actonsoftware.com
 cdn-ci66.actonsoftware.com
+cdn-ci67.actonsoftware.com
 cdn-ci68.actonsoftware.com
 cdn-ci69.actonsoftware.com
 cdn-ci71.actonsoftware.com
@@ -17935,6 +18093,7 @@ cdn-ci76.actonsoftware.com
 cdn-ci79.actonsoftware.com
 cdn-ci80.actonsoftware.com
 cdn-ci81.actonsoftware.com
+cdn-ci82.actonsoftware.com
 cdn-ci83.actonsoftware.com
 cdn-ci84.actonsoftware.com
 cdn-ci85.actonsoftware.com
@@ -18051,6 +18210,7 @@ cdp.affex.org
 cdpbvm.treenikauppa.fi
 cdp.euleriancdn.net
 cdp.fintechinnovate.com
+cdp.mrmcommerce.com
 cdr.affex.org
 cdr.euleriancdn.net
 cdrom.affex.org
@@ -18097,6 +18257,7 @@ cedexis-radar.net
 cedexis-test.com
 cedexis-testobject-tune-2.comcast.net
 cedexis-testobject-tune-3.comcast.net
+cedexis-testobject-tune.comcast.net
 cedric.affex.org
 cedric.euleriancdn.net
 cee.schroders.email
@@ -18237,6 +18398,7 @@ ceriumnetworks.actonsoftware.com
 cert.affex.org
 cert.credilo.com
 cert.euleriancdn.net
+certificate.affex.org
 certificate.euleriancdn.net
 certification.affex.org
 certification.euleriancdn.net
@@ -18264,6 +18426,7 @@ cf165.conf.affex.org
 cf165.conf.euleriancdn.net
 cf175.conf.affex.org
 cf175.conf.euleriancdn.net
+cf185.conf.affex.org
 cf185.conf.euleriancdn.net
 cf195.conf.affex.org
 cf195.conf.euleriancdn.net
@@ -18273,6 +18436,7 @@ cf.affex.org
 cfa.fidelity.com
 cfainstitute.org.102.112.2o7.net
 cfa.mystreetscape.com
+cfa.streetscape.com
 cfaxdev2.fidelity.com
 cfaxq1.fidelity.com
 cfaxq2.fidelity.com
@@ -18322,6 +18486,7 @@ cfjump.aminoz.com.au
 cfjump.aperolabel.com
 cfjump.aprilandoak.com.au
 cfjump.arkswimwear.com
+cfjump.aromababy.com
 cfjump.artistguitars.com.au
 cfjump.artistguitars.co.nz
 cfjump.assemblylabel.com
@@ -18380,6 +18545,7 @@ cfjump.blueillusion.com
 cfjump.bockersandpony.com.au
 cfjump.bondisands.com.au
 cfjump.boody.com.au
+cfjump.boody.co.nz
 cfjump.boost.com.au
 cfjump.boutiquefeel.com
 cfjump.bowwowinsurance.com.au
@@ -18412,6 +18578,7 @@ cfjump.circa.com.au
 cfjump.circahome.com.au
 cfjump.cityperfume.com.au
 cfjump.clarks.com.au
+cfjump.cleanair.fjbenjamin.com.sg
 cfjump.clearly.com.au
 cfjump.clearly.co.nz
 cfjump.clubx.com.au
@@ -18419,6 +18586,7 @@ cfjump.coachaustralia.com
 cfjump.colehaan.com.au
 cfjump.colettehayman.com.au
 cfjump.contiki.com
+cfjump.cookiediet.com.au
 cfjump.cookwarebrands.com.au
 cfjump.cooperst.com.au
 cfjump.cosette.com.au
@@ -18486,6 +18654,7 @@ cfjump.emma-sleep.co.nz
 cfjump.emuaustralia.com.au
 cfjump.enapelly.com.au
 cfjump.ergoflex.com.au
+cfjump.esrgear.com
 cfjump.esther.com.au
 cfjump.estro.com.au
 cfjump.evamattress.com.au
@@ -18779,6 +18948,7 @@ cfjump.superette.co.nz
 cfjump.supplementmart.com.au
 cfjump.svmoscow.com
 cfjump.sw.com.au
+cfjump.swiish.com
 cfjump.t2tea.com
 cfjump.takemetour.com
 cfjump.takingshape.com
@@ -18845,6 +19015,8 @@ cfjump.whitesmileteeth.com
 cfjump.wildfiresports.com.au
 cfjump.wildsecrets.com.au
 cfjump.wildsecrets.co.nz
+cfjump.wildsecretslingerie.com.au
+cfjump.wildsecretslingerie.co.nz
 cfjump.windsorsmith.com.au
 cfjump.wineselectors.com.au
 cfjump.workoutmeals.com.au
@@ -18975,6 +19147,7 @@ chameleon.loewen.digital
 chameleon.pendo.nl
 chameleon.rndm.uk
 chameleon.ryanmettler.com
+chameleon.scarecrew.org
 champion.affex.org
 champion.euleriancdn.net
 champions.affex.org
@@ -19109,6 +19282,7 @@ checkmate.affex.org
 checkmate.euleriancdn.net
 checkout.affex.org
 checkout.euleriancdn.net
+checkout.pcgamesupply.com
 check.paymentsmb.com
 checkpoint.affex.org
 checkpoint.euleriancdn.net
@@ -19221,6 +19395,7 @@ chickadee.hispanicinjobs.com
 chickadee.laravel.tips
 chickadee.mikebifulco.com
 chickadee.och.dev
+chickadee.serverlessfirst.com
 chicken.affex.org
 chicken.alpla.info
 chicken.clerklabs.com
@@ -19290,6 +19465,7 @@ chipmunk.balancer.fi
 chipmunk.crestedbuttejobs.com
 chipmunk.lostworldsfairs.com
 chipmunk.pixelko.de
+chipmunk.sqltoapi.com
 chiro.subluxation.com
 chirpify.actonservice.com
 chistjoseph.hrm.healthgrades.com
@@ -19662,6 +19838,7 @@ cj.peterhahn.co.uk
 cj.peterhahn.de
 cj.peterhahn.fr
 cj.peterhahn.nl
+c.jp.msn.com
 cjqrjj.dekorbizden.com
 cjrhml.snipes.ch
 cjudex.fittinglab.co.kr
@@ -19746,6 +19923,7 @@ classroominc.actonservice.com
 claude.affex.org
 claude.euleriancdn.net
 clay.affex.org
+clay.euleriancdn.net
 claymore.affex.org
 claymore.euleriancdn.net
 claynelsonlifebalance.actonservice.com
@@ -19976,6 +20154,7 @@ click.virt.s5.exacttarget.com
 click.virt.s6.exacttarget.com
 click.virt.s7.exacttarget.com
 click.web.thornburg.com
+click.wellmanexteriors.net
 click.xebia.fr
 click.xpand-it.com
 click.yieldit.com
@@ -20021,10 +20200,12 @@ clifford.users.euleriancdn.net
 cliftons.actonservice.com
 climate.affex.org
 climate.euleriancdn.net
+climbup.mv.treehousei.com
 clinch.co
 clinic.affex.org
 clinical.questdiagnostics.com
 clinic.euleriancdn.net
+clinic.knee-joint.net
 clinics-info.medley.life
 clinipace.actonsoftware.com
 clio.affex.org
@@ -20145,6 +20326,7 @@ cloudselling.actonservice.com
 cloudsense.actonservice.com
 cloudsocial.postaffiliatepro.com
 cloudsummer.net.daraz.com
+cloudtracer101.com
 cloud-trail.com
 cloud.trapptechnology.com
 cloudvirga.actonservice.com
@@ -20392,6 +20574,7 @@ cmp.fraserburghherald.co.uk
 cmp.freiepresse.de
 cmp.frontpages.gr
 cmp.fundorado.de
+cmp.gainsboroughstandard.co.uk
 cmp.gallowaygazette.co.uk
 cmp.gameprotv.com
 cmp.gamestar.com
@@ -20502,6 +20685,7 @@ cmp.m.advokatwatch.dk
 cmp.m.agriwatch.dk
 cmp.mamikreisel.de
 cmp.m.amwatch.dk
+cmp.matlockmercury.co.uk
 cmp.mavoiturecash.fr
 cmp.maz-job.de
 cmp.maz-online.de
@@ -20565,6 +20749,7 @@ cmp.pcworld.idg.com.au
 cmp.pcworld.pl
 cmp.pendletoday.co.uk
 cmp.peterboroughtoday.co.uk
+cmp.pocklingtonpost.co.uk
 cmp.policywatch.dk
 cmp.politikenadvertorial.dk
 cmp.politikenbyrum.dk
@@ -20597,6 +20782,7 @@ cmp.reseller.co.nz
 cmp.rheinpfalz-abo.de
 cmp.rheinpfalz.de
 cmp.ripleyandheanornews.co.uk
+cmp.ripongazette.co.uk
 cmp.rnd.de
 cmprofile.cards.citidirect.com
 cmp.rollingstone.de
@@ -20607,6 +20793,7 @@ cmp.sadorado.com
 cmp.saxo.com
 cmp.scotsman.com
 cmp.sheffieldtelegraph.co.uk
+cmp.shieldsgazette.com
 cmp.shippingwatch.com
 cmp.shippingwatch.dk
 cmp.shorehamherald.co.uk
@@ -20629,6 +20816,7 @@ cmp.staging-the-sun.com
 cmp.staging-thesun.co.uk
 cmp.staging-thesun.ie
 cmp.sthelensreporter.co.uk
+cmp.store.thetimes.ie
 cmp.stornowaygazette.co.uk
 cmp.stylebook.test.tortuga.cloud
 cmp.suceavanews.ro
@@ -20738,7 +20926,9 @@ cmts2-all.gw.affex.org
 cmts2-all.gw.euleriancdn.net
 cmttvv.bonprix.se
 c.musicradio.com
+cm.vacances-campings.fr
 cmworks.actonsoftware.com
+c.my.msn.com
 cn1.stadiumgoods.com
 cn2.stadiumgoods.com
 c-n7k-n04-01.rz.affex.org
@@ -20905,6 +21095,7 @@ cntr-di5.com
 cntr-di7.com
 cnt-tm-1.com
 cnt.top.elec.ru
+cnt.unlockxh3.com
 cnt.xhamster11.com
 cnt.xhamster13.com
 cnt.xhamster19.com
@@ -21073,7 +21264,11 @@ collector-1066.tvsquared.com
 collector-1074.tvsquared.com
 collector-1090.tvsquared.com
 collector-1091.tvsquared.com
+collector-11048.tvsquared.com
+collector-11102.tvsquared.com
+collector-11252.tvsquared.com
 collector-1173.tvsquared.com
+collector-1209.tvsquared.com
 collector-1221.tvsquared.com
 collector-1242.tvsquared.com
 collector-1302.tvsquared.com
@@ -21190,6 +21385,7 @@ collector-4988.tvsquared.com
 collector-4989.tvsquared.com
 collector-5081.tvsquared.com
 collector-5085.tvsquared.com
+collector-5101.tvsquared.com
 collector-5339.tvsquared.com
 collector-5350.tvsquared.com
 collector-5366.tvsquared.com
@@ -21200,9 +21396,52 @@ collector-5608.tvsquared.com
 collector-5663.tvsquared.com
 collector-5729.tvsquared.com
 collector-582.tvsquared.com
+collector-5965.tvsquared.com
 collector-5979.tvsquared.com
 collector-6008.tvsquared.com
+collector-6020.tvsquared.com
+collector-6058.tvsquared.com
+collector-6118.tvsquared.com
+collector-6267.tvsquared.com
+collector-6886.tvsquared.com
+collector-7002.tvsquared.com
+collector-7061.tvsquared.com
+collector-7189.tvsquared.com
+collector-7264.tvsquared.com
+collector-7281.tvsquared.com
+collector-7304.tvsquared.com
+collector-7557.tvsquared.com
+collector-7657.tvsquared.com
+collector-7668.tvsquared.com
+collector-7762.tvsquared.com
+collector-7799.tvsquared.com
+collector-7890.tvsquared.com
+collector-7919.tvsquared.com
+collector-7980.tvsquared.com
+collector-8013.tvsquared.com
+collector-8067.tvsquared.com
 collector-806.tvsquared.com
+collector-8095.tvsquared.com
+collector-8132.tvsquared.com
+collector-8159.tvsquared.com
+collector-8199.tvsquared.com
+collector-8312.tvsquared.com
+collector-8356.tvsquared.com
+collector-8392.tvsquared.com
+collector-8537.tvsquared.com
+collector-8558.tvsquared.com
+collector-8565.tvsquared.com
+collector-8649.tvsquared.com
+collector-8731.tvsquared.com
+collector-8748.tvsquared.com
+collector-8776.tvsquared.com
+collector-8826.tvsquared.com
+collector-8864.tvsquared.com
+collector-8867.tvsquared.com
+collector-8920.tvsquared.com
+collector-8948.tvsquared.com
+collector-8992.tvsquared.com
+collector-8997.tvsquared.com
 collector-915.tvsquared.com
 collector-994.tvsquared.com
 collector.affex.org
@@ -21224,7 +21463,9 @@ collector.xhamster14.com
 collector.xhamster15.com
 collector.xhamster17.com
 collector.xhamster18.com
+collector.xhamster19.com
 collector.xhamster1.desi
+collector.xhamster20.com
 collector.xhamster2.com
 collector.xhamster2.desi
 collector.xhamster32.com
@@ -21380,10 +21621,12 @@ comms.isflive.org
 comms.kf.org
 comms.nttdata.com
 comms.prathamusa.org
+comms.pureventilation.com.au
 comms.salesmethods.com
 comms.skybusiness.contact.sky
 comms.thenbs.com
 comms.thevanityportraitstudio.com
+comms.universalfans.com.au
 commsvc.brigitte.de
 commsvc.eltern.de
 commsvc.essen-und-trinken.de
@@ -21423,6 +21666,7 @@ communication.imec.be
 communication.imechyperspectral.com
 communication.imeciclink.com
 communication.imecistart.com
+communication.imecitf.com
 communication.interface.com.cn
 communication.jkseva.com
 communication.mersen.com
@@ -21482,7 +21726,9 @@ communications.law.ou.edu
 communications.lydallpm.com
 communications.manatt.com
 communications.marlboroughgroup.com
+communications.mediafilm.ca
 communications.optimagfx.com
+communications.ouvoir.ca
 communications.paragongri.com
 communications.parcours.fr
 communications.parmenion-im.co.uk
@@ -21506,6 +21752,7 @@ communications.worldtravelinc.com
 communications.ypo.org
 communication.teakmedia.com
 communication.thomas-krenn.com
+communication.tpg.ch
 communication.treston.com
 communication.villagebuilding.com.au
 communication.vo2-group.com
@@ -21792,6 +22039,7 @@ conforama-es.eulerian.net
 conforama-pt.eulerian.net
 congo.affex.org
 congo.euleriancdn.net
+congress.gov.102.122.2o7.net
 congstar01.webtrekk.net
 conheca.vindi.com.br
 coniferinsurance.actonsoftware.com
@@ -21885,6 +22133,7 @@ connect.hexagonmining.com
 connect.hexagonppm.com
 connect.highcon.net
 connect.hxgncontent.com
+connect.hxgnsmartnet.com
 connect.ihcspecialty.com
 connect.imam-us.org
 connect.info.halifaxhealthnews.org
@@ -22337,6 +22586,7 @@ consent.ehorses.nl
 consent.ehorses.pl
 consent.ehorses.ru
 consent.ehorses.se
+consent.elektro.net
 consent.elektronik-industrie.de
 consent.elektronik-journal.de
 consent.elektropraktiker.de
@@ -22382,6 +22632,7 @@ consent.enjoybrentwoodmore.magenta.archant.co.uk
 consent.enjoybrentwoodmore.uat.archant.co.uk
 consent.enjoybrentwoodmore.yellow.archant.co.uk
 consent.enjoycheltenhammore.black.archant.co.uk
+consent.enjoycheltenhammore.co.uk
 consent.enjoycheltenhammore.cyan.archant.co.uk
 consent.enjoycheltenhammore.magenta.archant.co.uk
 consent.enjoycheltenhammore.uat.archant.co.uk
@@ -22503,6 +22754,7 @@ consent.foodwithlove.de
 consent.ford-edge-forum.de
 consent.ford-explorer-forum.de
 consent.ford-puma-forum.de
+consent.forum.pinkun.com
 consent.forum-schacharena.de
 consent.francepropertyshop.com
 consent.free-fonts.com
@@ -22803,6 +23055,7 @@ consent.norfolkmag.magenta.archant.co.uk
 consent.norfolkmag.uat.archant.co.uk
 consent.norfolkmag.yellow.archant.co.uk
 consent.northdevongazette.black.archant.co.uk
+consent.northdevongazette.co.uk
 consent.northdevongazette.cyan.archant.co.uk
 consent.northdevongazette.magenta.archant.co.uk
 consent.northdevongazette.uat.archant.co.uk
@@ -23048,6 +23301,7 @@ consent.tga-praxis.de
 consent.thamesgatewaybusinessawards.com
 consent.thecomet.net
 consent.thecomet.uat.archant.co.uk
+consent.thefranceshow.com
 consent.theguardian.com
 consent.theneweuropean.co.uk
 consent.therapiealgorithmen.de
@@ -23294,6 +23548,7 @@ containerr-dw-1.net.daraz.com
 container-r-ht-1.net.daraz.com
 container-spring.net.daraz.com
 containerwinter.net.daraz.com
+contatok10i.postaffiliatepro.com
 contempo-django.staging.chartbeat.com
 contenido2.iberinform.es
 contenidos2.imq.es
@@ -23340,6 +23595,7 @@ content.360resourcing.co.uk
 content3.jiji.ng
 content3.lexisnexisrisk.com
 content3.risk.lexisnexis.com
+content4c.iberia.com
 content6.affex.org
 content6.euleriancdn.net
 content.6wind.com
@@ -23362,6 +23618,7 @@ content.affnselect.org
 content.agindustries.com
 content.agnitio.com
 content.allsafe.nl
+content.allstate.com
 content.alpharealcapital.com
 content.alticemedia.com
 content.amafiltration.com
@@ -23552,6 +23809,7 @@ content.kmo.attentia.be
 content.knetbooks.com
 content.koerber-pharma.com
 content.kookai.co.nz
+content.kylottery.com
 content.ladbrokes.com.au
 content.ladybugball.com
 content.lansweeper.com
@@ -23602,6 +23860,7 @@ content.moyersandstark.ca
 content.mrgmarketing.net
 content.mst.com
 content.msufcu.org
+content.multisorb.com
 content.mycoseva.com
 content.mycrm.com
 content.myonlyid.com
@@ -23668,6 +23927,7 @@ content.propertyfinder.qa
 content.propertyfinder.sa
 content.prophet.com
 content-p.telsi.fr
+content.purafil.com
 content.quark.com
 content.qudosbank.com.au
 contentquery.net
@@ -23677,6 +23937,7 @@ content.qumulo.com
 content.raytheoncyber.com
 content.rda.org.nz
 content.reachsolutions.co.uk
+content.realquest.com
 content.recordpoint.com
 content.redbookict.nl
 content.regencyfamily.com
@@ -23738,6 +23999,7 @@ content.supplypro.ca
 content.synaptic.co.uk
 content.syngeneintl.com
 content.tab.com.au
+content.tab.ubet.com
 content.tacticalma.com
 content.talon-sec.com
 content.tatatelebusiness.com
@@ -23756,6 +24018,7 @@ content-tm.wimdu.it
 content-tm.wimdu.nl
 content.torchlite.com
 content.truelearn.com
+content.uaf.com
 content-uk.fundingcircle.com
 content.uni-recycle.com
 content.uniserver.nl
@@ -23930,6 +24193,7 @@ copysmith.postaffiliatepro.com
 cor4.corsair.fr
 cor.affex.org
 coral.affex.org
+coral.animalo.com
 coral.bladestudy.net
 coral.defygravity.co
 coral.doublefine.com
@@ -24008,6 +24272,7 @@ correspond.capgroup.com
 correu.affex.org
 correu.euleriancdn.net
 cortalconsors.demdex.net
+cortalconsors.fr.102.112.2o7.net
 cort.com.102.112.2o7.net
 cort.demdex.net
 cortus.actonsoftware.com
@@ -24092,6 +24357,7 @@ counterstrike.euleriancdn.net
 counter.subtitlebee.com
 counter.tengrinews.kz
 counter.theconversation.com
+counter.websitevoice.com
 counter.yandro.ru
 countess.twitch.tv
 count.euleriancdn.net
@@ -24168,6 +24434,7 @@ coyote.devcord.com
 coyote.euleriancdn.net
 coyote.gnx.cloud
 coyote.highscoreweb.com
+coyote.hopr.swiss
 coyote.nickgurney.com
 coyote.pbnbuilds.com
 coyote.titlerun.xyz
@@ -24287,6 +24554,7 @@ cp.phiilu.com
 cpps.actonservice.com
 cpq.3cad.it
 cpr.comptoirdescotonniers.com
+c.prodigy.msn.com
 cprojects.radar.imgsmail.ru
 cp.ropescoursesinc.com
 cps.affex.org
@@ -24298,6 +24566,8 @@ cpt.affex.org
 cptest.affex.org
 cptest.euleriancdn.net
 cpt.euleriancdn.net
+cpw.affex.org
+cpw.demdex.net
 cpw.euleriancdn.net
 cpwrbr.blindsgalore.com
 cpx.to
@@ -24318,12 +24588,14 @@ cqubdd.metro.co.uk
 cqubdd.thisismoney.co.uk
 cquotient.com
 cqvqov.elex.ru
+cqz6fn6aox.aporia.com
 cr1.nbg.webtrekk.com
 cr2.nbg.webtrekk.com
 cra.affex.org
 crab.cachix.org
 crab.dunkeldbutchers.co.uk
 crab.flourmewithcookies.com
+crab.goalcanvas.com
 cracker.affex.org
 cracker.euleriancdn.net
 crackerjackentertainment.postaffiliatepro.com
@@ -24339,6 +24611,8 @@ craftmod.net.daraz.com
 crafts.affex.org
 crafts.euleriancdn.net
 craig.affex.org
+craig.demdex.net
+craig.euleriancdn.net
 crainsnewspro.com.102.112.2o7.net
 craiova.affex.org
 craiova.euleriancdn.net
@@ -24365,12 +24639,14 @@ crawdad.creepy.codes
 crawdad.dillonerhardt.com
 crawdad.internetassociation.org
 crawdad.jnishop.com
+crawdad.masteringlaravel.io
 crawdad.onceliving.com
 crawdad.pubsvp.co
 crawdad.tilboligen.no
 crawford-industries.actonservice.com
 crawl.affex.org
 crawler.affex.org
+crawler.euleriancdn.net
 crawl.euleriancdn.net
 crayfish.fansubbing.com
 crayfish.miamilo.com
@@ -24595,6 +24871,7 @@ crossroads.demdex.net
 crossroads.euleriancdn.net
 crow.adapt.cf
 crow.affex.org
+crow.centresustains.com
 crow.claudiakeil.de
 crowd.affex.org
 crowdcontrol.lotame.com
@@ -24602,6 +24879,7 @@ crowd.euleriancdn.net
 crowdignite.com
 crowdpointtech.postaffiliatepro.com
 crow.euleriancdn.net
+crow.gim.technology
 crow.kenchi.com
 crown.affex.org
 crown.demdex.net
@@ -24617,6 +24895,7 @@ crs.euleriancdn.net
 crsspxl.com
 crt.affex.org
 crt.demdex.net
+crt.euleriancdn.net
 crto.in
 crtracklink.com
 crtv.demdex.net
@@ -24690,6 +24969,7 @@ cs.analytics.lego.com
 c.sanfrancisco.travel
 csas.demdex.net
 cs.blundstone.com
+csc1.nhcash.com
 cs.c21-smica.com
 csc.affex.org
 cs.carbonsmart.co.uk
@@ -24711,6 +24991,7 @@ csf.euleriancdn.net
 csg.affex.org
 csg.euleriancdn.net
 csghyg.reginaclinic.jp
+c.sg.msn.com
 cshgreenwich.org.102.112.2o7.net
 cshm-sbsc01.v10.csngok.ok.affex.org
 cshm-sbsc01.v10.csngok.ok.euleriancdn.net
@@ -24758,6 +25039,7 @@ c.sourcepoint.classicfm.com
 c.sourcepoint.heart.co.uk
 c.sourcepoint.lbc.co.uk
 c.sourcepoint.lbcnews.co.uk
+c.sourcepoint.mygoldmusic.co.uk
 c.sourcepoint.popbuzz.com
 c.sourcepoint.radiox.co.uk
 c.sourcepoint.smoothradio.com
@@ -24890,6 +25172,7 @@ ct.euleriancdn.net
 ctfeug.bynco.com
 ctg.actonservice.com
 cthbrm.bridgeimoveis.com.br
+c.th.msn.com
 c.tienda.com
 ctiimage.actonservice.com
 ct.irl.co
@@ -25003,6 +25286,7 @@ curiosando.postaffiliatepro.com
 curiosity.affex.org
 curiosity.euleriancdn.net
 curious.cognyte.com
+curl7bike.com
 currencyfair.product.fidormarket.com
 currentargus.com.102.112.2o7.net
 cursos.affex.org
@@ -27506,6 +27790,7 @@ d4.c2.b5.a0.top.mail.ru
 d4.c2.b5.a1.top.list.ru
 d4.c2.b5.a1.top.mail.ru
 d4.c2.b6.a1.top.list.ru
+d4.c2.b6.a1.top.mail.ru
 d4.c2.b7.a0.top.mail.ru
 d4.c2.b7.a1.top.mail.ru
 d4.c2.b8.a1.top.mail.ru
@@ -28958,6 +29243,7 @@ d6.cf.bf.a0.top.mail.ru
 d6.cf.bf.a1.top.mail.ru
 d6.euleriancdn.net
 d6qk82g18cdy.ddns.dataunlocker.com
+d6rtza2u9rdj.yonzo.io
 d6-virusoflive.c1.b4.a1.top.mail.ru
 d71df273e01b3639362d0e13143c0d15e32bc5d5.cws.conviva.com
 d7.affex.org
@@ -30453,6 +30739,7 @@ d9.cd.bd.a1.top.mail.ru
 d9.cd.be.a0.top.list.ru
 d9.cd.be.a0.top.mail.ru
 d9.cd.be.a1.top.mail.ru
+d9.cd.bf.a0.top.list.ru
 d9.cd.bf.a0.top.mail.ru
 d9.cd.bf.a1.top.mail.ru
 d9.ce.b0.a1.top.list.ru
@@ -30606,6 +30893,7 @@ da.c2.b1.a0.top.mail.ru
 da.c2.b1.a1.top.list.ru
 da.c2.b1.a1.top.mail.ru
 da.c2.b1.a2.top.mail.ru
+da.c2.b2.a1.top.list.ru
 da.c2.b2.a1.top.mail.ru
 da.c2.b2.a2.top.mail.ru
 da.c2.b3.a0.top.mail.ru
@@ -32537,6 +32825,7 @@ dcu.demdex.net
 dcw.lgim.com
 dcxt-gs.hyundai.com
 dcxt-id.hyundaimotor.co.id
+dcxt-jp.hyundai.com
 dd.affex.org
 ddata.huntingtonbank.com
 ddbapp01.wt-eu02.net
@@ -32701,6 +32990,7 @@ dd.c5.b1.a2.top.mail.ru
 dd.c5.b2.a1.top.list.ru
 dd.c5.b2.a1.top.mail.ru
 dd.c5.b2.a2.top.mail.ru
+dd.c5.b3.a1.top.list.ru
 dd.c5.b3.a2.top.mail.ru
 dd.c5.b4.a1.top.list.ru
 dd.c5.b4.a1.top.mail.ru
@@ -33773,6 +34063,7 @@ demand.nec-solutioninnovators.com
 demand.simplivity.com
 demandwarecrocs.demdex.net
 demco.com.102.112.2o7.net
+demcor.postaffiliatepro.com
 dem.desiderimagazine.it
 demdex.com
 demdex.net
@@ -33951,6 +34242,7 @@ depression.euleriancdn.net
 de.promo.skf.com
 dept.affex.org
 dept.euleriancdn.net
+dept.provantage.com
 deputec.demdex.net
 derby.affex.org
 derby.euleriancdn.net
@@ -34097,6 +34389,7 @@ detnmz.sciencing.com
 detnmz.techwalla.com
 detox.affex.org
 detox.euleriancdn.net
+detpk97qaz.www.gaurang.page
 detroit.affex.org
 detroit.demdex.net
 detroit.euleriancdn.net
@@ -34160,6 +34453,7 @@ devcms.affex.org
 devcms.euleriancdn.net
 devdb.affex.org
 devdb.euleriancdn.net
+dev.demdex.net
 dev.demo.digiads.co.id
 deve.affex.org
 deve.euleriancdn.net
@@ -35041,6 +35335,7 @@ did.fashionworld.co.uk
 didi.affex.org
 didi.euleriancdn.net
 did.koempf24.de
+did.simplybe.co.uk
 didzrr.nutraholic.com
 dieessenz01.wt-eu02.net
 diego.affex.org
@@ -35051,6 +35346,7 @@ diemthi.euleriancdn.net
 diendan.affex.org
 diendan.euleriancdn.net
 diesel.affex.org
+diesel.demdex.net
 diesel.euleriancdn.net
 dieta.affex.org
 dieta.euleriancdn.net
@@ -35327,6 +35623,7 @@ discover.aesc.org
 discover.affex.org
 discover.amdesign.com
 discover.amramedical.com
+discover.anteris.com
 discover.ap.org
 discover.appointmentplus.com
 discover.aptly.de
@@ -35465,6 +35762,7 @@ distributor.affex.org
 distributor.euleriancdn.net
 distributors.affex.org
 distributors.euleriancdn.net
+distro.agkn.com
 dis.us.criteo.com
 dis.va.us.criteo.com
 dittmanincentives.actonservice.com
@@ -35856,6 +36154,7 @@ dog.asianjobsearch.com
 dogbert.affex.org
 dogbert.euleriancdn.net
 dog.christinamoore.us
+dog.diversityinjobs.com
 dog.euleriancdn.net
 dogfood-allseason.net.daraz.com
 dogfood.autumn.net.daraz.com
@@ -35984,9 +36283,11 @@ donkey.bahr.dev
 donkey.briangershon.com
 donkey.craigfro.st
 donkey.d2archive.com
+donkey.distortedfusion.com
 donkey.elegantmusicgroup.com
 donkey.euleriancdn.net
 donkey.guggenbichler.co.at
+donkey.hackoregon.org
 donkey.kontematik.com
 donkey.listkeeper.io
 donkey.masteringfinland.com
@@ -36073,6 +36374,7 @@ douglas.euleriancdn.net
 douglasgmbh.demdex.net
 doutthenhap.info
 dove.affex.org
+dove.ased.org
 dove.euleriancdn.net
 dove.fullcalendar.io
 dove.invivopilates.gr
@@ -36396,6 +36698,7 @@ dsp.omegamedia.vn
 dsp.oomph.co.id
 dsp.spacenine.biz
 dss.affex.org
+dss.demdex.net
 dss.euleriancdn.net
 d.sslns.emailvision.net.daraz.com
 dsvaci.24segons.es
@@ -36408,6 +36711,7 @@ dtags.4finance.com
 dtags.vivus.dk
 dtags.vivus.es
 dtags.vivus.se
+dtatdy.elegrina.gr
 dtc-330d.com
 dtc.affex.org
 dtc.euleriancdn.net
@@ -36672,6 +36976,7 @@ ea.bouquetnantais.com
 ea.boutique.elle.fr
 ea.brandalleybyme.fr
 eac.affex.org
+ea.camif.fr
 ea.campanile.com
 ea.camping-and-co.com
 ea.capitaine-matelas.com
@@ -36835,6 +37140,7 @@ ea.orchestra.fr
 ea.petit-bateau.fr
 ea.peugeot-assurance.fr
 ea.photocite.fr
+ea.pierreetvacances.com
 ea.pixmania.co.uk
 ea.pixmania.de
 ea.pixmania.ie
@@ -36873,6 +37179,7 @@ earth.euleriancdn.net
 earthworm.creatifmediagroup.com
 earthworm.elenabirkenwald.com
 earthworm.lidi.today
+earthworm.makethemdebate.com
 earthworm.mxdvl.com
 earthworm.ohmydeck.com
 earthworm.robbevanpetegem.be
@@ -36892,6 +37199,7 @@ ea.skoda.fr
 ea.smallable.com
 ea.smartbox.com
 ea.smartbox.dk
+ea.smartbox.se
 ea.sport2000.fr
 east2pony.com
 eastads.simpli.fi
@@ -36908,6 +37216,7 @@ eastus-1.in.applicationinsights.azure.com
 eastus2-0.in.ai.monitor.azure.com
 eastus2-0.in.applicationinsights.azure.com
 eastus-2.in.ai.monitor.azure.com
+eastus-2.in.applicationinsights.azure.com
 eastus-3.in.ai.monitor.azure.com
 eastus-3.in.applicationinsights.azure.com
 ea.sunparks.com
@@ -37045,6 +37354,7 @@ ebis.brandchee.com
 ebis.bulk.co.jp
 ebis.buysellonline.jp
 ebis.c-3-esthe.com
+ebis.caplan.jp
 ebis.career.nikkei.com
 ebis.care-tensyoku.com
 ebis.ce-parfait.com
@@ -37060,6 +37370,7 @@ ebiscname.native-phrase.com
 ebiscname.urr.jp
 ebiscname.yazuya.com
 ebis.codecamp.jp
+ebis.cookbiz.jp
 ebiscosme.tamagokichi.com
 ebis.coyori.com
 ebis.cp.claudia.co.jp
@@ -37225,6 +37536,7 @@ ebs.lib-ln-1.net.daraz.com
 ebs-paris-fr.eulerian.net
 ebs.par.vip.prod.criteo.com
 ebs.pulito.co.jp
+ebstrack.decencia.co.jp
 ebs.va1.vip.prod.criteo.com
 ebs.viosalon.com
 eb.tvert.jp
@@ -37410,6 +37722,7 @@ eda.euleriancdn.net
 ed.affex.org
 e.darpro-solutions.com
 edat01.webtrekk.net
+edb.demdex.net
 edc.affex.org
 edc.ca.102.112.2o7.net
 edc.demdex.net
@@ -37601,12 +37914,14 @@ eedition.euleriancdn.net
 eee.affex.org
 eee.euleriancdn.net
 ee.euleriancdn.net
+ee.hydro.com
 ee.impact.dk
 ee.impactextend.dk
 eel.aware7.de
 eel.beekeeperstudio.io
 eel.cuabuilders.com
 eel.ieo.do
+eel.jamespanther.com
 eel.somehowqualified.com
 eel.tunspress.com
 e.email-bkfs.com
@@ -37765,6 +38080,7 @@ e.itgovernanceusa.com
 eiydgc.12storeez.ru
 ejbbcf.finishline.com
 ejcgtv.spim.ru
+ejdkgx7ysj.www.nookgaming.com
 ejf0jnzueqsq.ddns.dataunlocker.com
 ejkmld.tradus.com
 ejournal.affex.org
@@ -38211,6 +38527,7 @@ email.abba-dev.waracle.net
 email.aboutamazon.com
 email.accel-kkr.com
 email-activecampaign.branch.rocks
+email-activecampaign.keylyst.com
 email.actonservice.com
 email.actonsoftware.com
 email.ada.com
@@ -38439,6 +38756,7 @@ email.inkshares.com
 email.in.pampers.com
 email.integrim.com
 email-invest.altamarcapital.com
+email.investblue.com.au
 email-iterable.branch.rocks
 email.jentezenfranklin.org
 email.jucm.com
@@ -38491,10 +38809,12 @@ email.mhr.co.uk
 email.mindfulchef.com
 email.mindojo.com
 email.missouriquiltco.com
+email.mixmax.com
 email-moengage.branch.rocks
 email.mris.net
 email.musicbed.com
 email.mymandg.co.uk
+email.mypopshop.app
 email.naem.org
 email.napster.com
 email.nebenan.de
@@ -38511,6 +38831,7 @@ email.olaz.de
 email.ontario.live
 email.openbay.com
 email.opengamma.com
+email.openphone.co
 email.opusbank.com
 email.oralb.com
 email.oralb.de
@@ -38575,6 +38896,7 @@ emails.accredible.com
 emails.acdlabs.com
 emails.advisor2advisor.com
 emails.affex.org
+email.sagecleaners.com
 email-sailthru.branch.io
 emails.allcal.com
 emails-amea.guardian.com
@@ -38607,6 +38929,7 @@ emails.crmstrategy.com.au
 emails.dcdental.com
 emails.delvepoint.com
 emails.dentalia.com
+emails.dmcsoftware.co.uk
 emails.docutrend.com
 emails.driveline.co.nz
 email.segment.com
@@ -38768,6 +39091,7 @@ email.wiseupmexico.com
 email.wooftrax.com
 email.workgamebalance.com
 email-www.partner.net.daraz.com
+email.xobalabs.com
 email.x-plane.com
 email.xtremelashes.com
 email-yesmail.branch.rocks
@@ -39012,6 +39336,7 @@ enderbycreditunion.com.102.112.2o7.net
 endesa.demdex.net
 endljp.abv.bg
 endljp.activenews.ro
+endljp.bazar.bg
 endljp.broshura.bg
 endljp.fakti.bg
 endljp.gong.bg
@@ -39190,6 +39515,7 @@ engage.figmarketing.com
 engage.garnica.one
 engage.gordon.edu
 engage.growthplay.com
+engage.gsehd.gwu.edu
 engage.halliburton.com
 engage.hamiltoncaptel.com
 engage.herrmann.com.au
@@ -39242,6 +39568,7 @@ engageru.3mrussia.ru
 engage.saggezza.com
 engage.sb.gwu.edu
 engage.schinnerer.com
+engage.schola.io
 engagesciences.com
 engage.shl.com
 engage.siriusdecisions.com
@@ -39373,6 +39700,7 @@ enterprise-selling.actonservice.com
 enterprisesg.demdex.net
 enterprisesolutions.aspiresys.com
 enterprisesolutions.bell.ca
+enterprises.polyswarm.io
 enterprises.proximus.be
 entertain.affex.org
 entertain.euleriancdn.net
@@ -39431,6 +39759,7 @@ eon.demdex.net
 eon.dominionaesthetic.com
 eon.euleriancdn.net
 eonline.com.102.112.2o7.net
+eo.pearlinsurance.com
 eopkhs.healthycell.com
 eos.affex.org
 eos.euleriancdn.net
@@ -39479,6 +39808,7 @@ epnt.ebay.at
 epnt.ebay.be
 epnt.ebay.ca
 epnt.ebay.ch
+epnt.ebay.cn
 epnt.ebay.co.jp
 epnt.ebay.com.au
 epnt.ebay.com.hk
@@ -40070,6 +40400,7 @@ ettd.douglas.it
 ettd.douglas.nl
 ettd.douglas.pl
 etude.epidemiologie-pop-ge.ch
+et.unclejeans.com
 etv.affex.org
 etv.euleriancdn.net
 etym6cero.com
@@ -40120,6 +40451,7 @@ eulerian.belambra.fr
 eulerian.brandalley.fr
 eulerian.canal-plus.com
 euleriancdn.net
+eulerian.darty.com
 eulerian.digitalrefresh.fr
 eulerian.eidershop.com
 eulerian.eveiletjeux.com
@@ -40238,6 +40570,7 @@ evangelinecreditu.com.102.112.2o7.net
 evans.affex.org
 evans.co.uk.102.112.2o7.net
 evans.euleriancdn.net
+evantaagartnercompany.demdex.net
 evasys.affex.org
 evasys.euleriancdn.net
 evaway.eulerian.net
@@ -40259,6 +40592,7 @@ event1.thermofisher.com
 event1.thermoscientific.com
 eventad.cybozu.co.jp
 event.affex.org
+event.api.driftt.com
 event.bcon.jp
 event.boozallen.com
 eventbright.work
@@ -40363,12 +40697,14 @@ events.mcfadyen.com
 events.microland.com
 events.mikescerealshack.co
 events.mkpartners.com
+events.myomnidata.com
 events.mywd.com
 events.newyorklifeinvestments.com
 events.nextviewconsulting.com
 events.nzprivatecapital.co.nz
 events.odt.net
 events.omrf.org
+events.paradyme360.com
 events-patner.net.daraz.com
 events.photosat.ca
 events.pollinate.co.uk
@@ -40585,6 +40921,8 @@ execution-ci360.stoloto.ru
 execution-ci360.telekom.si
 execution-ci360.telia.ee
 execution-ci360.uscellular.com
+execution-ci360.vero.fi
+execution.dna360.scholastic.com
 executiveboard.com.102.122.2o7.net
 executives.stantonchase.com
 exercise.affex.org
@@ -40754,6 +41092,7 @@ exp.mifarma.fr
 exp.mi-farma.it
 exp.mifarma.pt
 expo.affex.org
+expo.demdex.net
 expoeast.com.102.122.2o7.net
 expo.euleriancdn.net
 expo.nada.org
@@ -41005,6 +41344,7 @@ fakalipit-mbp.cit.affex.org
 fakalipit-mbp.cit.euleriancdn.net
 fake.affex.org
 fake.euleriancdn.net
+fakespot.postaffiliatepro.com
 faktoria.postaffiliatepro.com
 faktury.affex.org
 faktury.euleriancdn.net
@@ -41041,7 +41381,9 @@ fancy.affex.org
 fancybar.net
 fancy.euleriancdn.net
 fancyfeast.com.102.122.2o7.net
+fancyrat.calebporzio.com
 fancyrat.flatuicolors.com
+fancyrat.keurslager-goeminne.be
 fancyrat.melaniemagdalena.com
 fancyrat.roecklin.com
 fancyrat.spacestation.news
@@ -41150,6 +41492,7 @@ fatmedia.io
 fattal-alazman.postaffiliatepro.com
 faucet.com.102.112.2o7.net
 faucetdirect.com.102.112.2o7.net
+faucons.viessmann.fr
 faust.affex.org
 faust.euleriancdn.net
 favor1.fractal.jp
@@ -41516,6 +41859,7 @@ file1.euleriancdn.net
 file2.affex.org
 file2.euleriancdn.net
 file.affex.org
+file.bizrate.com
 filebox.affex.org
 filebox.euleriancdn.net
 file.ecapital.com
@@ -41823,6 +42167,7 @@ flame.euleriancdn.net
 flamenipper.33across.com
 flames.affex.org
 flames.euleriancdn.net
+flamingo.abihome.de
 flamingo.affex.org
 flamingo.apatonsrompus.com
 flamingo.euleriancdn.net
@@ -41974,6 +42319,7 @@ flyingfish.cloudqigong.com
 flyingfish.designguide.co
 flyingfish.editorslab.de
 flyingfish.jak-zrobic-strone.pl
+flyingfish.ngnfrance.com
 flyingfish.sayso.co
 flyingfish.whoisrepresented.org
 flyingfish.yieldscan.app
@@ -43022,6 +43368,7 @@ fso.euleriancdn.net
 fsproxyhn.kis.affex.org
 fsproxyhn.kis.euleriancdn.net
 fsproxyst.kis.affex.org
+fsproxyst.kis.euleriancdn.net
 fs.pushsquare.com
 fsresidential.actonservice.com
 fsrqafbaj124.ddns.dataunlocker.com
@@ -43323,6 +43670,7 @@ g3.function.17173.com
 g3.microsoft.com
 g4.affex.org
 g4.euleriancdn.net
+g50xn7zubz.thoria-global.com
 g5.affex.org
 g5.euleriancdn.net
 g6.affex.org
@@ -43377,6 +43725,7 @@ galerie.euleriancdn.net
 galerieslafayette.eulerian.net
 galeri.euleriancdn.net
 gal.euleriancdn.net
+galiciabanco.demdex.net
 galileo.affex.org
 galileo.euleriancdn.net
 galleries.affex.org
@@ -43510,6 +43859,7 @@ gateway1.euleriancdn.net
 gateway2.affex.org
 gateway2.euleriancdn.net
 gateway.affex.org
+gateway.azureserviceprofiler.net
 gateway.euleriancdn.net
 gateway.ingenious.cloud
 gateway.lib-oa-2.net.daraz.com
@@ -43541,6 +43891,7 @@ gaza.euleriancdn.net
 gaz-electricitezomation.carte-gr.total.fr
 gazelle.editorclub.com
 gazelle.emanager.gg
+gazelle.laurenagray.com
 gazelle.paavanblog.com
 gazeta.affex.org
 gazeta.euleriancdn.net
@@ -43570,6 +43921,7 @@ gbc3.fr.eu.criteo.com
 gbc3.hk.as.criteo.com
 gbc3.va.us.criteo.com
 gbc4.da.us.criteo.com
+gbc4.fr.eu.criteo.com
 gbc4.hk.as.criteo.com
 gbc4.jp2.as.criteo.com
 gbc4.nl.eu.criteo.com
@@ -43673,6 +44025,7 @@ geaux.louisianacat.com
 gecfnc.foresight.jp
 gecko.amoiresort.com
 gecko.anagodeck.com
+gecko.lpkr.net
 gecko.protectdownsinfants.org
 gecko.rrrelax.app
 gecko.withclarify.com
@@ -44072,6 +44425,7 @@ gib.affex.org
 gibbon.711.st
 gibbon.doctorsolutions.gr
 gibbon.ehubhealth.com
+gibbon.makrislawoffice.com
 gibbs.affex.org
 gibbs.euleriancdn.net
 gib.euleriancdn.net
@@ -44272,6 +44626,7 @@ glassguide-au.autovistagroup.com
 glb12pkgr.com
 glb21pkgr.com
 glb.mybusinessacademy.ph
+gldsta-02-or.com
 gl.euleriancdn.net
 gl.eulerian.com
 gl.eulerian.eu
@@ -44355,6 +44710,7 @@ glsemails.globallearningsystems.com
 gls.euleriancdn.net
 glsforms.globallearningsystems.com
 glt.shipwithglt.com
+glue.evansadhesive.com
 glwdce.thewinecollective.com.au
 glxdlf.tickets.ua
 glynndevins16.actonsoftware.com
@@ -44579,6 +44935,7 @@ go.321capital.com
 go.321moonshot.com
 go3.3dtrekprinting.com
 go.33management.com
+go.33realty.com
 go.360apartmentrenovations.com
 go.360connect.com
 go.360incentives.com
@@ -44611,6 +44968,7 @@ go.401techbridge.org
 go.47club.jp
 go.47co.jp
 go4.blackducksoftware.com
+go.4cadgroup.com
 go.4cconsulting.com
 go4clients.postaffiliatepro.com
 go.4flyers.com
@@ -44748,6 +45106,7 @@ go.actzero.ai
 go.acue.org
 go.acuityads.com
 go.acuityhealthanalytics.com
+go.acuityrm.com
 go.aculab.com
 go.acumium.com
 go.acunetix.com
@@ -44899,6 +45258,7 @@ go.agforcets.com
 go.aggreco.pt
 go.aggregage.com
 go.agi-glassplant.com
+go.agi-group.com
 go.agilcon.com
 go.agilcon.si
 go.agileframeworks.com
@@ -45019,6 +45379,7 @@ go.allianceonellc.com
 go.alliancetrustcompany.com
 go.alliedair.net
 go.alliedmachine.com
+go.alliednational.com
 go.alliedoffices.com
 go.alliedsvcs.com
 go.allied-telesis.co.jp
@@ -45037,6 +45398,7 @@ go.allstarbaseballacademy.com
 go.allstarsoftballacademy.com
 go.allstocker.com
 go.alltrustinsurance.com
+go.al-manager.com
 go.almex.jp
 go.almoproav.com
 go.alorica.com
@@ -45073,6 +45435,7 @@ go.alula.net
 go.alumdev.columbia.edu
 go.alvernolabs.com
 go.alvinailey.org
+go.alwaysberry.com
 go.alwusa.com
 go.amacad.org
 go.ama-campus.com
@@ -45409,10 +45772,12 @@ goat.morality.network
 go.atm-realestate.jp
 go.at-office.co.jp
 go.atomica.com
+goat.purposevisionfuture.com
 go.atrco.com
 go.atrenne.com
 go.atrium.ai
 go.atsautomation.com
+goat.sebald.capital
 go.atseurope-express.com
 go.atsg.net
 goat.sigr.li
@@ -45541,6 +45906,7 @@ go.azitas.co.jp
 goazlf.mytoys.de
 go.azn.co.jp
 go.aztex.com
+go.azulaico.com
 go.azurgroup.ca
 go.b2b.postnl.nl
 go.b2ttraining.com
@@ -45856,6 +46222,7 @@ go.bluewatertech.com
 go.bluewhalespa.com
 go.blumarktax.com
 go.blytheducation.com
+go.bmbgroup.com
 go.bmw-group.jp
 go.bmw.jp
 go.bngpartners.jp
@@ -45901,6 +46268,7 @@ go.bonzai-intranet.com
 go.boody.com.au
 go.booker25.com
 go.bookingprotect.com
+go.books.brodart.com
 go.boomexchange.com
 go.boomtownroi.com
 go.boopsie.com
@@ -45964,6 +46332,7 @@ go.breastcancerindex.com
 go.breatheforchange.com
 go.breederscupexperiences.com
 go.brennancenter.org
+go.brentonengineering.com
 go.brentwoodlivery.ca
 go.breslin.biz
 go.bretford.com
@@ -46031,6 +46400,7 @@ go.brunnerworks.com
 go.bruns-pak.com
 go.brunswick.com
 go.brushup.net
+go.brusiant.com
 go.bryter.com
 go.brytercx.com
 go.bryter.io
@@ -46092,6 +46462,8 @@ go.businesstransfer.jp
 go.business.ucf.edu
 gobusiness.upc.ch
 go.busybusy.com
+go.butcherjoseph.com
+go.butech-sa.com
 go.buyersedgeplatform.com
 go.buyersedgepurchasing.com
 go.buymatsonline.com
@@ -46178,6 +46550,7 @@ go.canadianctb.ca
 go.canadorecollege.ca
 go.canary-app.jp
 go.cancertypeid.com
+go.candlewoodpartners.com
 go.candoris.com
 go.canexiahealth.com
 go.canningproperties.com
@@ -46322,6 +46695,7 @@ go.cateringwholesalers.com
 go.catfinancial.com
 go.catharsisproductions.com
 go.catholiccharitiesfortworth.org
+go.cattledogdigital.com
 go.cattledogdigital.io
 go.cavallo.com
 go.cavendishmaxwell.com
@@ -46509,6 +46883,7 @@ go.churchdevelopment.net
 go.churchillfrank.com
 go.ciab.com
 go.ciacexport.it
+go.cialfo.com.sg
 go.cibse.org
 go.cicerotherapies.com
 go.cicplus.com
@@ -46673,6 +47048,7 @@ go.codat.io
 go.codaworx.com
 go.codecontrol.io
 go.codefuel.com
+go.codetechcorp.com
 go.codeware.com
 go.codexdna.com
 go.cofa.jp
@@ -47281,6 +47657,7 @@ go.devsutd.com
 go.dexterra.com
 go.dezaan.com
 go.dezaan.net
+go.dfaingredients.com
 go.dfepharma.com
 go.dfmdevelopment.com
 go.dfree.biz
@@ -47332,6 +47709,7 @@ go.digitalskills.odu.edu
 go.digitalskills.sdsu.edu
 go.digitalskills.unlv.edu
 go.digitalskills.wisc.edu
+go.digitalspine.io
 go.digitalzonein.com
 go.digneyyork.com
 go.dignitymemorial.com
@@ -47441,6 +47819,7 @@ go.drivewyze.com
 go.drkaske.de
 go.drndata.com
 go.dronebase.com
+go.drone-kawagoe.shop
 go.dropesac.com
 go.dropsource.com
 go.dropsuite.com
@@ -47754,6 +48133,7 @@ go.energymonitor.ai
 go.energypower.com.au
 go.energyproexchange.com
 go.enersavings.com
+go.enersys.com
 go.enesproppe.com
 go.enet-kawasaki.jp
 go.enetworks.gy
@@ -47815,6 +48195,7 @@ go.epiccontestsolutions.com
 go.epicvue.com
 go.epiduralstimulationnow.com
 go.epiinc.com
+go.epilabelers.com
 go.epilepsy.com
 go.ep-insuranceservices.com
 go.epiqglobal.com
@@ -47976,6 +48357,7 @@ go.execuvets.com
 go.exeros-technologies.com
 go.exertishammer.com
 go.exertis.info
+go.exhibition.digital
 go.exinda.com
 go.expalas.com
 go.expandopedia.com
@@ -48364,6 +48746,7 @@ go.fountainhouse.org
 go.fourblock.org
 go.fourkites.com
 go.fourlane.com
+go.foxcale.com
 go.foxit.co.jp
 go.foxitinfo.com
 go.foxjet.com
@@ -48442,6 +48825,7 @@ go.fukudai-co.jp
 go.fukudai-trans.jp
 go.fulcrumlabs.ai
 go.fules.jp
+go.fullbay.com
 go.fullcircleinsights.com
 go.fullcontact.com
 go.fulltankcreative.com
@@ -48629,6 +49013,7 @@ go.getneighbourly.ca
 go.getnetset.com
 go.getnewlook.com
 go.getpantheon.com
+go.getquorum.com
 go.getreadyforthefuture.com
 go.getsidecar.com
 go.getskout.com
@@ -48782,6 +49167,8 @@ go.goldprospectors.org
 go.goldstackers.com.au
 go.goldstreetdesigns.com
 go.golfnowbusiness.com
+go.golfzongolf.com
+go.golfzonusa.com
 go.gomaco.com
 gogo.maihays.ga
 go.gomercatus.com
@@ -48892,6 +49279,7 @@ go.greenwoodsystem.com
 go.gregabbott.com
 go.gregorydickow.com
 go.greycastlesecurity.com
+go.greydon.com
 go.greyson.com
 go.greysteel.com
 go.gridalternatives.org
@@ -48949,6 +49337,7 @@ go.guardicore.com
 go.gubit.jp
 go.guerbet.com
 go.guidance.com
+go.guidedent.co.jp
 go.guidedogsofamerica.org
 go.guideit.com
 go.guidelight.com
@@ -49285,6 +49674,7 @@ go.hovione.com
 go.howardcm.com
 go.howardcompany.com
 go.hr4uk.com
+go.hrcg-us.com
 go.hrcts.com
 go.hrgpros.com
 go.hrgrapevine.com
@@ -49424,6 +49814,7 @@ go.idex-hs.com
 go.idinvest.com
 go.idsgrp.com
 go.id-systems.com
+go.idtechnology.com
 go.iecis.com
 go.iedoki.co.jp
 go.ieltsusa.org
@@ -50141,6 +50532,7 @@ go.kitoiro.com
 go.kkrbn-loungemembers.com
 go.klarivis.com
 go.klauke.emerson.com
+go.klcfinancial.com
 go.kleen-tex.jp
 go.kleer.com
 go.klient.com
@@ -50169,6 +50561,7 @@ go.knowledgeplace.jp
 go.knowns.co.jp
 go.knowwho.com
 go.kobe-match.co.jp
+go.koboltworkstest.com
 go.kodansha.co.jp
 go.kognity.com
 go.ko-ma-tsu.co.jp
@@ -50206,6 +50599,7 @@ go.ksmmedia.com
 go.kssretail.com
 go.kt-21.com
 go.kte-corp.co.jp
+go.ktommy.tk
 go.kubco.com
 go.kubiibo.or.jp
 go.kublr.com
@@ -50241,6 +50635,7 @@ go.l2tmedia.com
 go.lab-aids.com
 go.labarchives.com
 go.labbase.biz
+go.labconnect.com
 go.label-academy.com
 go.labelawards.com
 go.labelexpo-americas.com
@@ -50751,6 +51146,7 @@ go.marathoncapital.com
 go.marathon-health.com
 go.marcatofestival.com
 go.marchnetworks.com
+go.marcofi.com
 go.marcomcentral.com
 go.marco-melbourne.com.au
 go.marcus-fukuoka.com
@@ -50781,6 +51177,7 @@ go.marketinggeneral.com
 go.marketing.generalcomspa.it
 go.marketing.graviebenefits.com
 go.marketing.hcibulletin.com
+go.marketing.healthforall.ch
 go.marketing.hitachi-systems-security.com
 go.marketing.kflex.com
 go.marketing.kx.com
@@ -51007,6 +51404,7 @@ go.merchantgrowth.com
 go.merchantsbonding.com
 go.mercurygate.com
 go.mercuryinsurance.com
+go.mercyforanimals.org
 go.mercytechnology.net
 go.merganser.com
 go.meridiancapital.com
@@ -51401,6 +51799,7 @@ go.my.life
 go.mymajors.com
 go.mynavi-works.jp
 go.mynpp.com
+go.myomnidata.com
 go.myoresearch.com
 go.myparadigm.com
 go.myparity.com
@@ -51472,6 +51871,7 @@ go.navitrust.com
 go.navmanwirelessinfo.com
 go.navmart.com
 go.navysealfoundation.org
+go.nbaexperiences.com
 go.nbapremium.com
 go.nbe-inc.com
 go.nb-shinbun.co.jp
@@ -51491,6 +51891,7 @@ go.ncti.org
 go.ncu.edu
 go.ncuscr.org
 go.ndbb.jp
+go.ndc-inc.com
 go.ndi.tv
 gondor.affex.org
 gondor.euleriancdn.net
@@ -51551,6 +51952,7 @@ go.netradyne.com
 go.netsparker.com
 go.netstock.co
 go.netsuite.com
+go.netsweeper.com
 go.nettechnology.com
 go.networkcablingservices.com
 go.networkmediapartners.com
@@ -51656,6 +52058,7 @@ go.nikkei-r.co.jp
 go.nikola.tech
 go.nilesaudio.com
 go.nimbleuser.com
+go.nimway.sonynetwork.co.jp
 go.ninjarmm.com
 go.ninjaselling.com
 go.n-insight.co.jp
@@ -51844,6 +52247,7 @@ go.octoly.com
 go.octopai.com
 go.oculist.co.uk
 good.affex.org
+goodcell-tq.postaffiliatepro.com
 good.euleriancdn.net
 goodfeel.affex.org
 goodfeel.euleriancdn.net
@@ -51953,6 +52357,7 @@ go.onebulimbariverfront.com.au
 go.on.ebury.com
 go.onecallcm.com
 go.onecareer.jp
+go.onecemcement.com
 go.onecommute.com
 go.onecompath.com
 go.oneflow.com
@@ -52062,6 +52467,7 @@ go.orghivemarketing.com
 go.origamirisk.com
 go.origininvestments.com
 go.orion-novotus.com
+go.orionpackaging.com
 go.oriontalent.com
 go.orisintel.com
 go.orixrentec.jp
@@ -52086,6 +52492,8 @@ go.osequip.com
 goosevpn.postaffiliatepro.com
 go.osgconnect.com
 go.oshamanual.com
+go.osicreative.com
+go.ossid.com
 go.ossur.com
 go.ossur.com.br
 go.otf.co.jp
@@ -52101,6 +52509,7 @@ go.outintheclouds.com
 go.outkast.com.au
 go.outlogic.io
 go.outoftheboxtechnology.com
+go.outsense.jp
 go.outsource.net
 go.outsourcing.com
 go.ovarro.com
@@ -52164,6 +52573,7 @@ go.pandowealth.com
 go.pankind.org.au
 go.panoviewn.jp
 go.panthera.org
+go.pantherlabel.com
 go.pantone.com
 go.papayapay.com
 go.paperjam.lu
@@ -52171,6 +52581,7 @@ go.paperlessparts.com
 go.paperlessproposal.com
 go.papertube.co
 go.par.activengage.com
+go.paradyme360.com
 go.paragonaviationgroup.com
 go.paragonbioservices.com
 go.paragondigitalservices.com
@@ -52619,6 +53030,7 @@ go.princehotels.co.jp
 go.princewinestore.com.au
 go.principiaconsulting.com
 go.printerlogic.com
+go.print-n-apply.com
 go.printsome.com
 go.prior.co.jp
 go.priorityroofs.com
@@ -52835,6 +53247,7 @@ go.quinnox.com
 go.quintanarootri.com
 go.quintelaepenalva.pt
 go.quintevents.com
+go.quintrooms.com
 go.quocard.com
 go.quodd.com
 go.quorumdms.com
@@ -52928,6 +53341,7 @@ go.r-contena.jp
 go.rcorporation.com.au
 go.rcsw.nl
 gordon.affex.org
+gordon.demdex.net
 gordon.euleriancdn.net
 gordonrees.actonsoftware.com
 go.rd-woods.co.jp
@@ -53095,6 +53509,7 @@ go.revintsolutions.com
 go.rev.io
 go.revireo.com
 go.reviveagencynews.com
+go.revoboats.com
 go.revol.co.jp
 go.revolentgroup.com
 go.revolution360.com.au
@@ -53375,6 +53790,7 @@ go.sannou.co.jp
 go.sanoh-corp.jp
 go.sans.org
 go.sansui-sha.co.jp
+go.sansyu-corp.jp
 go.santeos.com
 go.santiagosolutionsgroup.com
 go.santillanausa.com
@@ -53674,6 +54090,7 @@ go.shullmanortho.com
 go.shulman.ca
 go.shuttle-japan.jp
 go.shuttlewagon.com
+go.shuttleworth.com
 go.shuuwa.co.jp
 go.siadah.com
 go.sia.edu
@@ -54047,6 +54464,7 @@ go.spoted.com.au
 go.spoted.nz
 go.spottswoode.com
 go.spraguepest.com
+go.spread-over.com
 go.spreadsheetscheduler.com
 go.spreedly.com
 go.springaxis.com
@@ -54804,6 +55222,7 @@ go.timberlyne.com
 go.timbersresorts.com
 go.timely.md
 go.timemachine.ai
+go.timesaerospace.aero
 go.timeshareexitteam.com
 go.timesharesonly.com
 go.tinyclues.com
@@ -54912,6 +55331,7 @@ go.torreya.com
 go.tortoiseadvisors.com
 go.tortoiseecofin.com
 go.tosei-corporation.co.jp
+go.toshibatec.co.jp
 go.toshin.com
 go.toshinikueisha.com
 go.toshinshikoku.com
@@ -55147,6 +55567,7 @@ go.twistertrimmer.com
 go.twisthink.com
 go.twitchadvertising.tv
 go.twmetals.com
+go.tw.nuro.jp
 go.twogethermartech.com
 go.twolabs.com
 go.twowestadvisors.com
@@ -55704,6 +56125,7 @@ go.websolutionoffers.com
 go.web.test.kaller.tryconsid.se
 go.webuild.io
 go.webwirkung.ch
+go.wecanjp.com
 go.wecharge.com
 go.weddingplanner.nl
 go.weddingpro.com
@@ -55731,6 +56153,7 @@ go.welldoc.com
 go.welldyne.com
 go.wellez.net
 go.wellingtonexperience.com
+go.wellmanexteriors.net
 go.wellnet.com
 go.wellsrx.com
 go.wellstraffic.com
@@ -55933,6 +56356,7 @@ go.xeikon.com
 go.xellia.net
 go.xellia.us
 go.xello.world
+go.xemuae.com
 go.xenial.com
 go.xentegra.com
 go.xilica.com
@@ -55979,6 +56403,7 @@ go.yewno.com
 go.yit.fi
 go.y-logi.com
 go.ylopo.com
+go.ymcasf.org
 go.ymeadows.com
 go.yoke.net
 go.yokohama-style.jp
@@ -56171,6 +56596,7 @@ graphs.affex.org
 graphs.euleriancdn.net
 grass.affex.org
 grass.euleriancdn.net
+grasshoppe.limmocafe.com
 grassroots.affex.org
 grassroots.euleriancdn.net
 grassrootsunwired.actonservice.com
@@ -56510,6 +56936,7 @@ guppy.estimate.taxi
 guppy.ironmic.fm
 guppy.omana.me
 guppy.setasign.com
+guppy.under2.agency
 guq9.vente-unique.it
 gurgle.babycenter.com
 gurgle.everydayhealth.com
@@ -56616,6 +57043,7 @@ gyzwcl.sconto.cz
 gz.affex.org
 gzbcuy.mamarella.com
 gzc.affex.org
+gzc.euleriancdn.net
 gz.euleriancdn.net
 gzidix.lampgallerian.se
 gzimdi.soloautos.mx
@@ -56709,6 +57137,7 @@ haddock.laboiteare.com
 haddock.nilsmielke.de
 haddock.pablo.dev
 haddock.petar.dev
+haddock.simgenie.app
 haddock.slack.rocks
 hades.affex.org
 hades.euleriancdn.net
@@ -56742,6 +57171,7 @@ hale.affex.org
 hale.euleriancdn.net
 halesowennews-gb.halesowennews.co.uk
 hal.euleriancdn.net
+haleytest.actonia.net
 half1hell.com
 halibut.codehooks.io
 halibut.jimruegolfinstruction.com
@@ -56790,6 +57220,7 @@ hamster.consentkit.io
 hamster.darkbit.io
 hamster.darstellendekuenste.de
 hamster.euleriancdn.net
+hamster.taksal.co
 hamza.affex.org
 hamza.euleriancdn.net
 han1.postaffiliatepro.com
@@ -56953,6 +57384,7 @@ hawaiianairlinesinc.demdex.net
 hawaii.demdex.net
 hawaii.euleriancdn.net
 hawk.affex.org
+hawk.affio.co.uk
 hawk.euleriancdn.net
 hawk.functionvstyle.com
 hawk.getuserflow.com
@@ -57058,6 +57490,7 @@ hd.gbc.criteo.com
 hdicsm.autoscout24.be
 hdkecx.market.kz
 hdlrul.ijinet.com
+hdmory.bestwestern.it
 hdnagl.womensecret.com
 h.dnsdelegation.io
 hd.pe.fr
@@ -57499,6 +57932,7 @@ hihgfed.carte-gr.total.fr
 hihihi.affex.org
 hihihi.euleriancdn.net
 hiho.affex.org
+hiho.demdex.net
 hijxfm.gaspedaal.nl
 hikari.affex.org
 hikari.euleriancdn.net
@@ -57508,6 +57942,7 @@ hikmxb.botovo.cz
 hi.koalendar.com
 hilbert.affex.org
 hilbert.euleriancdn.net
+hilclare.com
 hilda.affex.org
 hilda.euleriancdn.net
 hilfe.affex.org
@@ -57920,6 +58355,7 @@ hornet.affex.org
 hornet.euleriancdn.net
 hornet.jeffgable.com
 hornet.lifewithpectus.com
+hornet.newburycompanies.com
 hornet.sigerr.dev
 hornet.stechstudio.com
 hornet.thunderbite.com
@@ -57957,6 +58393,7 @@ horses.affex.org
 horses.euleriancdn.net
 horse.uhaveto.click
 horse.usemiso.com
+horse.vesuvius-publishing.com
 horse.vibecreativemarketing.com
 horse.whit.by
 horse.zwei-bags.com
@@ -58040,6 +58477,7 @@ host9.euleriancdn.net
 host.affex.org
 host.aponet.de
 hostarmada.postaffiliatepro.com
+hosted.affex.org
 hosted.euleriancdn.net
 hostel.affex.org
 hostel.euleriancdn.net
@@ -58072,6 +58510,7 @@ hostmaster.smac-ssp.com
 hostmaster.sprout-ad.com
 hostmaster.ta-adquick.info
 hostmaster.wag0n.com
+hostmaster.wizeraz.net
 host.mshsgroup.com
 host.naviant.com
 hosts.affex.org
@@ -58111,6 +58550,7 @@ hotlivecodecs.euleriancdn.net
 hotmail.affex.org
 hotmail.euleriancdn.net
 hotmediacodecs.affex.org
+hotmediacodecs.euleriancdn.net
 hotnewcodecs.affex.org
 hotnewcodecs.euleriancdn.net
 hotoctopuss.postaffiliatepro.com
@@ -58653,6 +59093,7 @@ i66.affex.org
 i66.euleriancdn.net
 i67.affex.org
 i67.euleriancdn.net
+i68.affex.org
 i68.euleriancdn.net
 i69.affex.org
 i69.euleriancdn.net
@@ -58936,6 +59377,7 @@ idealo-partner-com.affex.org
 ideas.360factors.com
 ideas.affex.org
 ideas.euleriancdn.net
+idec.actonsoftware.com
 ideecadeau-fr.affex.org
 ide.euleriancdn.net
 idefix.affex.org
@@ -59000,6 +59442,7 @@ iedsak.joeysturgistones.com
 ieee.affex.org
 ieee.demdex.net
 ieee.euleriancdn.net
+ieeexplore.demdex.net
 ie.euleriancdn.net
 ie.fastbridge.org
 ie-go.kelkoogroup.net
@@ -59019,6 +59462,7 @@ i.euleriancdn.net
 if0q4-hvi9b.ads.tremorhub.com
 if.affex.org
 ifbjhp.aands-inc.co.jp
+if.demdex.net
 if.euleriancdn.net
 ifgexecutive-com.eulerian.net
 iflix.hb.omtrdc.net
@@ -59420,6 +59864,7 @@ img2.getawaytoday.com
 img2.massageenvy.com
 img2.my.eloan.com
 img2.otto.nl
+img2.prosper.com
 img2.tmrs.com
 img3.affex.org
 img3.aweber.com
@@ -59660,6 +60105,7 @@ indicadores.euleriancdn.net
 indicator2.larcier-intersentia.com
 indie.goindium.com
 indigo.affex.org
+indigoaviation.demdex.net
 indigobusiness.actonsoftware.com
 indigo.ca.102.112.2o7.net
 indigo.demdex.net
@@ -59680,6 +60126,8 @@ indra.euleriancdn.net
 indus.affex.org
 indus.euleriancdn.net
 industrial.affex.org
+industrial-content.filtrationgroup.com
+industrial.euleriancdn.net
 industrial.mtu-solutions.com
 industrialproducts.pidilite.com
 industrialsupplies.com.102.112.2o7.net
@@ -59883,7 +60331,9 @@ info.aiabbs.aleragroup.com
 info.aiabrg.aleragroup.com
 info.aia-co.aleragroup.com
 info.aiacommunity.com
+info.aicure.com
 info.aimservices.co.jp
+info.aiotech.com.cn
 info.air2o.com
 info.aircuity.com
 info.air-weigh.com
@@ -60468,6 +60918,7 @@ info.coherence-communication.fr
 info.cois.org
 info.coitgroup.com
 info.colibrium.com
+info.colinjamesmethod.com
 info.collab9.com
 info.collegelacite.ca
 info.collexia.co.jp
@@ -60553,6 +61004,7 @@ info.cortecwatertreatment.com
 info.cosfa.co.jp
 info.costar.co.uk
 info.counsilmanhunsaker.com
+info.coventrywcs.com
 info.coxbusiness.com
 info.cpa.com
 info.cpenow.com
@@ -60727,6 +61179,7 @@ info.divido.com
 info.divurgent.com
 info.d-labo.co.jp
 info.d-made.net
+info.dmipvc.fr
 info.dm-s.co.jp
 info.dm-watch.jp
 info.dna-bkfs.com
@@ -60779,11 +61232,13 @@ info.dynamiccap.com
 info.dynamicratings.com
 info.dynamictechservices.com
 info.e4-services.com
+info.eaglehillconsulting.com
 info.eagleinvsys.com
 info.eammosca.com
 info.early-cross.com
 info.earth-ek.co.jp
 info.earthintegrate.com
+info.earthling-tokyo.jp
 info.earthlinkbusiness.com
 info.easternflorida.edu
 info.eastonwealth.com.au
@@ -61159,6 +61614,7 @@ info.go4sight.com
 info.goanritsu.com
 info.goascenda.net
 info.goascribe.com
+info.goavant.net
 info.gocoderz.com
 info.goddess-c.com
 info.godowntownbaltimore.com
@@ -61248,6 +61704,7 @@ info.halogistics.com
 info.hamiltoncourtfx.com
 info.hamlan.com.au
 info.handifoam.com
+info.hang-out-official.com
 info.hansonwade.com
 info.hape.co.jp
 info.haptic.co.jp
@@ -61610,6 +62067,7 @@ info.jpmc.jp
 info.jpntrust.co.jp
 info.jppestservices.com
 info.jpwconsulting.com
+info.jr76erscamps.com
 info.jsol-biz-innovation.com
 info.jsolmarketing.jp
 info.jtc-i.co.jp
@@ -61689,6 +62147,7 @@ info.koeki.com
 info.koeki-net.com
 info.koelnmesse.com.sg
 info.kokonoe.co.jp
+info.kollmorgen.cn
 info.kollmorgen.com
 info.komatsu.com
 info.kommunforbundet.fi
@@ -61906,6 +62365,7 @@ info.market-bridge.com
 info.marketingcube.com.au
 info.marketing.spxflow.com
 info.marketing-x.goo.ne.jp
+info.marketinvoice.com
 info.marketmakers.co.uk
 info.markmonitor.com
 info.marshbellofram.com
@@ -61988,6 +62448,7 @@ info.mercatus.com
 info.mercent.com
 info.mercyships.org.uk
 info.mercyships.se
+info.mergertech.com
 info.mergeworld.com
 info.meriwest.com
 info.merixfinancial.com
@@ -62012,6 +62473,7 @@ info.mightycube.co.jp
 info.mikeferry.com
 info.milanounica.it
 info.milesmediation.com
+info.milestone.com
 info.milestoneinternet.com
 info.milestoneleadership.com
 info.milin.nl
@@ -62158,6 +62620,7 @@ info.nbfoodbank.org
 info.ncfp.org
 info.ncoi.nl
 info.ndbh.com
+info.ndgai.com
 info.neato.agency
 info.necando.com
 info.neirelo.com
@@ -62214,6 +62677,7 @@ info.nicholsonclinic.com
 info.nico-soda.jp
 info.nidec-machinetool.com
 info.nightley.jp
+info.nihonasset-navi.jp
 info.nihonhousing.co.jp
 info.nihonkiin.or.jp
 info.nilex.com
@@ -62789,6 +63253,7 @@ inform.euleriancdn.net
 inform.infrastructure.org.au
 info.rmi.org
 inform.janssenpro.eu
+inform.liilix.com
 inform.milestonegroup.com
 inform.milestonegroup.com.au
 inform.navitaslifesciences.com
@@ -62977,6 +63442,7 @@ info.shoei-bijutsu.co.jp
 info.shopinsurancecanada.ca
 info.showa21.jp
 info.sideinc.com
+info.sido-japan.com
 info.siege-corp.com
 info.sierraolympic.com
 info.sigmagroup.com
@@ -64333,6 +64799,7 @@ iphone.euleriancdn.net
 iphufr.circleline.com
 ipinfo.io
 ipinternational.actonservice.com
+i.pipii.tv
 ip-it.affex.org
 ip-it.euleriancdn.net
 ipkasp.nissan.co.jp
@@ -64444,6 +64911,7 @@ ira.affex.org
 ir.active2035.com
 ira.euleriancdn.net
 ir.affex.org
+ir.aicventures.com
 iran.affex.org
 iran.euleriancdn.net
 iranwhois.net.daraz.com
@@ -64525,12 +64993,14 @@ isa.affex.org
 isabel.affex.org
 isabel.demdex.net
 isabel.euleriancdn.net
+isaca.demdex.net
 isa.euleriancdn.net
 is.affex.org
 isatap.affex.org
 isatap.euleriancdn.net
 i.savacard.lv
 isbamic.actonservice.com
+isbhb.cloud.avg.com
 isboost.co.jp
 isc.affex.org
 isc.euleriancdn.net
@@ -65245,9 +65715,11 @@ jlffeu.nadula.com
 jlgskx.auto1.fi
 jl.johnsonlambert.com
 jljyry.trucks.nl
+jll.demdex.net
 jln3.cl-brands.com
 jln3.clstudios.com
 jlnyti.mugo.com.tr
+jlpg2.pg2-p.jp
 jlsuru.surusuru.jp
 jlvqky.elegrina.pl
 jlxlbu.lacoste.pl
@@ -65518,6 +65990,8 @@ jspbmt.sperky-eshop.cz
 jsp.euleriancdn.net
 js.postoro.de
 j.sprout-ad.com
+jsqmt.qq.com
+js.qnimble.com
 js-repository.destinia.com
 js.rush-member.com
 jss.affex.org
@@ -65538,6 +66012,7 @@ js.wizeraz.net
 jswlpe.modainpelle.com
 js.wpsite.help
 js.zaigenkakuho.jp
+jt7xx-g9k19.ads.tremorhub.com
 jt7xx-lwzsy.ads.tremorhub.com
 jt7xx-nk36o.ads.tremorhub.com
 jt7xx-woimk.ads.tremorhub.com
@@ -65784,6 +66259,7 @@ kali.affex.org
 kali.euleriancdn.net
 kaliningrad.affex.org
 kaliningrad.euleriancdn.net
+kallerupstone.viessmann.dk
 k.allsecur.fr
 kaloo.ga
 kalooga.com
@@ -65825,6 +66301,7 @@ kangaroo.happilydivorcedbook.com
 kangaroo.hiresuccess.com
 kangaroo.kraenk.de
 kangaroo.triplightfantastic.com
+kangaroo.websitecarbonaudit.com
 kang.euleriancdn.net
 kani.affex.org
 kani.euleriancdn.net
@@ -65955,6 +66432,7 @@ k.calledelregalo.es
 k.campanile.com
 kcc.affex.org
 kcc.euleriancdn.net
+kcecv.doctork.jp
 kc.euleriancdn.net
 kcf.wowma.jp
 kchppo.greatdays.se
@@ -65975,6 +66453,7 @@ kdarje.garten-und-freizeit.de
 kdc.affex.org
 kdc.demdex.net
 kdc.euleriancdn.net
+kddi.demdex.net
 kd.euleriancdn.net
 kdfgqg.mia-moda.de
 kdfjmo.lodki-lodki.ru
@@ -66000,6 +66479,7 @@ keeper.affex.org
 keeper.euleriancdn.net
 keepintouch.sanlam.co.uk
 keet1liod.com
+keetonsonline.actonsoftware.com
 ke.euleriancdn.net
 kefscj.location-vacances-express.com
 kegenix.postaffiliatepro.com
@@ -66015,6 +66495,7 @@ keitai.euleriancdn.net
 keith.affex.org
 keith.euleriancdn.net
 kekw.givetip.to
+kellogg.demdex.net
 kelly.affex.org
 kelly.euleriancdn.net
 kelvin.affex.org
@@ -66157,6 +66638,7 @@ kia.affex.org
 kiackw.mrcat.com.br
 kia.euleriancdn.net
 ki.affex.org
+kiamotors.demdex.net
 kick.affex.org
 kickdyn.com
 kickdyn.co.uk
@@ -66423,6 +66905,7 @@ koa.affex.org
 koa.euleriancdn.net
 ko.affex.org
 koala.affex.org
+koalaahb.cloud.avg.com
 koala.euleriancdn.net
 koala.getslopes.com
 koala.ignacioyrocio.com
@@ -66545,6 +67028,7 @@ kpbjlv.pharmaca.com
 kpbzar.warbyparker.com
 kpejwx.vacansoleil.nl
 kp.euleriancdn.net
+kpfcep.runningboardwarehouse.com
 kpi.affex.org
 kpi.euleriancdn.net
 kpmg.demdex.net
@@ -66845,6 +67329,7 @@ l85rl-cvnjs.ads.tremorhub.com
 l85rl-f9zu2.ads.tremorhub.com
 l85rl-qidng.ads.tremorhub.com
 l85rl-sqakw.ads.tremorhub.com
+l85rl-xz6ij.ads.tremorhub.com
 l85rl-yqb56.ads.tremorhub.com
 l85rl-z2o0u.ads.tremorhub.com
 l9bjkkhaycw6f8f4.soundcloud.com
@@ -67025,6 +67510,7 @@ landsend.demdex.net
 landsnail.bindle.io
 landsnail.brownfield.dev
 landsnail.fixable.pro
+landsnail.motin.eu
 landstar.actonservice.com
 landuscooperative.actonservice.com
 landuse.kentaku.co.jp
@@ -67295,6 +67781,7 @@ lea.affex.org
 lead-123.com
 lead.affex.org
 leadamore.postaffiliatepro.com
+lead-analytics-1000.com
 lead-analytics.biz
 leadboltmobile.net
 leadeal.eulerian.net
@@ -67328,6 +67815,7 @@ leadscope.de
 leads.euleriancdn.net
 leadsforbpack.com
 leads.lntnxt.com
+leads-tracker.advboucle.com
 leady.com
 lea.euleriancdn.net
 leaf.affex.org
@@ -67382,6 +67870,7 @@ learn.fusionrm.com
 learn.gobonfire.com
 learn.govinvest.com
 learn.hcss.com
+learn.healthyinteractions.com
 learn.hedera.com
 learn.hederahashgraph.com
 learn.houzz.com
@@ -67408,6 +67897,7 @@ learn.masteryconnect.com
 learn.mays.tamu.edu
 learn.miami.edu
 learn.middlebury.edu
+learnmore.magnushealth.com
 learnmore.mayorschallenge.bloomberg.org
 learn.more.mortgagebuilder.com
 learnmore.protiviti.com
@@ -67475,6 +67965,7 @@ led.affex.org
 ledburyreporter-gb.ledburyreporter.co.uk
 led.euleriancdn.net
 ledgeviewpartners.actonservice.com
+ledradn.com
 lee.affex.org
 leech.affex.org
 leech.bouma.dev
@@ -67515,6 +68006,7 @@ legends.affex.org
 legends.euleriancdn.net
 leggingarmy.postaffiliatepro.com
 legion.affex.org
+legion.demdex.net
 legion.euleriancdn.net
 lego.affex.org
 lego.com.102.112.2o7.net
@@ -67537,6 +68029,7 @@ l.email.nxtwowcher.co.uk
 l.email.wowcher.co.uk
 lemingfootwear.postaffiliatepro.com
 lemming.nicolasmenard.com
+lemming.scottspence.com
 lemming.viaduct.app
 lemming.vivian.do
 lemming.waeiendom.no
@@ -67585,6 +68078,7 @@ leopard.laszlo.cloud
 leopard.understandit.se
 leopon.jmk.wtf
 leopon.luckycasts.com
+leopon.originalmineral.com
 lepelican.eulerian.net
 lepoint.demdex.net
 lequipe.eulerian.net
@@ -67680,6 +68174,7 @@ lgemea.demdex.net
 lg.euleriancdn.net
 lgituk.auto-onderdelen24.nl
 lgrhmd.klook.com
+lg.roturadepantalla.com
 lgsmartad.com
 lgylib.dg-home.ru
 lgyvfv.nix-wie-weg.de
@@ -67747,6 +68242,7 @@ libproxy.affex.org
 libproxy.euleriancdn.net
 libra.affex.org
 libra.euleriancdn.net
+library.acspubs.org
 library.affex.org
 library.axial.net
 library.euleriancdn.net
@@ -67767,6 +68263,7 @@ licensing.affex.org
 licensing.euleriancdn.net
 licensinginsights.ascap.com
 lic.euleriancdn.net
+lichln.blingpainting.com
 lider.affex.org
 lider.euleriancdn.net
 lidia.affex.org
@@ -67866,6 +68363,7 @@ limpet.eddiehinkle.com
 limpet.padbury.app
 limpet.pioneerlandscapingllc.com
 limpet.timetotellamfi.com
+limpet.yago.dev
 lims.affex.org
 lims.euleriancdn.net
 lina.affex.org
@@ -67877,6 +68375,7 @@ lincolnfinancialgroup.lfg.com
 lincoln-financial.lfd.com
 lincoln-groupbenefits.lfg.com
 linda.affex.org
+linda.demdex.net
 linda.euleriancdn.net
 line6agar.com
 line.affex.org
@@ -67913,6 +68412,7 @@ linkback.hani.co.kr
 linkback.itworld.co.kr
 linkback.khan.co.kr
 linkback.mediatoday.co.kr
+linkback.seoul.co.kr
 linkback.sportsseoul.com
 link.bambu.social
 link.battelle.org
@@ -67986,6 +68486,7 @@ linkminter.postaffiliatepro.com
 link.miratelemundo.com
 link.mktg.almosafer.com
 link.mktg.tajawal.com
+link.mobstar.com
 link.mochica.jp
 link.moodagent.com
 link.mypostcard.com
@@ -68181,6 +68682,7 @@ linux.pp.affex.org
 linux.pp.euleriancdn.net
 linzess.com.102.112.2o7.net
 lio8.destinia.com.pa
+liod1ours.com
 lion.affex.org
 lion.danaly.com
 lion.demdex.net
@@ -68416,6 +68918,7 @@ lm.euleriancdn.net
 lmfjmq.smaryu.com
 lmgvur.scbt.com
 lmi.demdex.net
+lm.keria.com
 lmknjb1.com
 lmoda01.webtrekk.net
 lmorsb.highstreettv.com
@@ -68432,6 +68935,7 @@ ln.euleriancdn.net
 lnezkw.iturbo.fr
 lnjdyh.mydawa.com
 lnk2.patpat.com
+lnkd.demdex.net
 lnkdin.us
 lnss.lifetouch.com
 lntsyq.cloture-et-jardin.fr
@@ -68476,6 +68980,7 @@ local.api.euleriancdn.net
 local.api.eulerian.com
 local.api.eulerian.eu
 local.api.eulerian.fr
+local.api.eulerian.net
 localberkshire-gb.localberkshire.co.uk
 local.com.102.112.2o7.net
 local.com.102.122.2o7.net
@@ -68485,6 +68990,7 @@ localhost.apps.net.daraz.com
 localhost.blog.affex.org
 localhost.blog.euleriancdn.net
 localhost.demdex.net
+localhost.euleriancdn.net
 localhost.m.affex.org
 localhost.m.euleriancdn.net
 localhost.net.daraz.com
@@ -68576,6 +69082,7 @@ logindustdiplonges.carte-gr.total.fr
 logindustemages.carte-gr.total.fr
 logindustwaykonectoryz.carte-gr.total.fr
 login.edognet.hu
+login.eki-net.com
 login.euleriancdn.net
 login-marketing.net.daraz.com
 login.ninah-consulting.com
@@ -68637,6 +69144,7 @@ logstash.seekda.com
 logs.theccaa.com
 log.strm.yandex.ru
 logs.unchecky.com
+logs.world-family.co.jp
 logtransform.hicloud.com
 log.video.taobao.com
 log.v-mate.mobi
@@ -68650,6 +69158,7 @@ lojas.demdex.net
 lojas.euleriancdn.net
 loke.affex.org
 loke.euleriancdn.net
+loki8lave.com
 loki.affex.org
 loki.euleriancdn.net
 loko.affex.org
@@ -68726,6 +69235,7 @@ loto.euleriancdn.net
 lotoquebec-com.eulerian.net
 lottery.affex.org
 lottery.euleriancdn.net
+lotteshopping.demdex.net
 lotto.affex.org
 lotto.euleriancdn.net
 lottomatrixaffiliates.com
@@ -68812,6 +69322,7 @@ lpbhnv.nbcconnecticut.com
 lpbhnv.nbcnewyork.com
 lpbhnv.nbcsandiego.com
 lpbhnv.nbcwashington.com
+lpbhnv.necn.com
 lpbhnv.telemundo47.com
 lpbhnv.telemundopr.com
 lp.bigm2y.com
@@ -68822,6 +69333,7 @@ lp.cellact.co.il
 lp.cellact.com
 lp.cellact.net
 lp.cellactpro.net
+lp.chemicaldaily.co.jp
 lp.chemicaldaily.com
 lp.clientcommand.com
 lp.creativeone.com
@@ -68835,6 +69347,7 @@ lp.deloittecomunicacao.com.br
 lp.digitalturbine.com
 lp.docusnap.com
 lp.dynabook.com
+lpe1t726gv.diggit.no
 lp.elosoft.com.br
 lp.embarcadero.com
 lp.e-mcast.co.jp
@@ -69338,10 +69851,12 @@ macho.affex.org
 macho.euleriancdn.net
 machtfit.actonservice.com
 mack7oyes.com
+mackerel.feedrunner.io
 mackerel.getthenest.io
 mackerel.hellodeco.co
 mackerel.klemensyoga.de
 mackerel.passiveincome.io
+mackerel.vimops.com
 ma.climate.emerson.com
 ma.cloudonline.com
 m.acmgloballab.com
@@ -69406,6 +69921,7 @@ mafia.affex.org
 mafia.euleriancdn.net
 mafiahairdresser.actonservice.com
 mafiawars.affex.org
+mafiawars.euleriancdn.net
 maformationofficinale.actonservice.com
 ma.fundbook.co.jp
 mafu.supporterz.jp
@@ -69987,6 +70503,7 @@ mail.8591.euleriancdn.net
 mail85.aosag.net
 mail.85cc.affex.org
 mail.85cc.euleriancdn.net
+mail.85st.affex.org
 mail.85st.euleriancdn.net
 mail86.aosag.net
 mail87.aosag.net
@@ -70067,6 +70584,7 @@ mail.cafonline.org.uk
 mail.calnexinfo.com
 mail.carahsoftmail.com
 mail.carte-gr.total.fr
+mail.casinotips247.com
 mail.cbtpamarketing.com
 mailcheck.affex.org
 mailcheck.euleriancdn.net
@@ -70475,6 +70993,7 @@ mailer.ahipmail.org
 mailer.ahipmarketing.org
 mailer.aleremail.com
 mailer.alerts.xact.com
+mailer.allmy-data.com
 mailer.alphabroder.com
 mailer.americancollegemail.com
 mailer.aoc.co.uk
@@ -70567,6 +71086,7 @@ mail.flipkeylistings.com
 mail.floatme.io
 mail.foremostmailer.com
 mail.for-me-online.de
+mail.forum.affex.org
 mail.forum.euleriancdn.net
 mail.fpi-mail.com
 mail.francescas.com
@@ -70889,6 +71409,7 @@ main.euleriancdn.net
 ma.inglisweden.com
 mainmark.uretek.jp
 mainpost01.wt-eu02.net
+ma.insinkerator.emerson.com
 maint.affex.org
 ma.integroup.jp
 maintenance.affex.org
@@ -70978,6 +71499,7 @@ mami.euleriancdn.net
 ma.mitsuihome.co.jp
 mamka.aviasales.ru
 mamkt.ht-bc.jp
+mammal.autoidle.com
 mammal.botwise.games
 mammal.haglund.dev
 mammal.nickpetrie.co
@@ -71019,11 +71541,13 @@ manalyticshub.com
 manatee.biodom.bio
 manatee.creativepassport.net
 manatee.spectrum.app
+manatee.wemaketechsimple.com
 manchester.affex.org
 manchester.euleriancdn.net
 mandant.net.anwalt.de
 mandarin.affex.org
 mandarin.euleriancdn.net
+mandarinorientalmanagementusa.demdex.net
 mandrake.affex.org
 mandrake.euleriancdn.net
 mandrillapp.com
@@ -71251,6 +71775,7 @@ marketing1.yealink.com
 marketing.2016cle.com
 marketing.2177third.com
 marketing.2238market.com
+marketing2.absolutelybryce.com
 marketing2.achilles.com
 marketing2.channel-impact.com
 marketing2.extremereach.com
@@ -71295,6 +71820,7 @@ marketing.absoft.co.uk
 marketing.absoluteexhibits.com
 marketing.absolutelybryce.com
 marketing.acadian-asset.com
+marketing.accelerationgroup.nl
 marketing.access2dayhealth.com
 marketing.accessdata.com
 marketing.accesshardware.com
@@ -71344,6 +71870,7 @@ marketing.afcweb.com
 marketing.affex.org
 marketing.affiliate.logitravel.com
 marketing.afsic.net
+marketing.aftermath.com
 marketing.afterschoolallstars.org
 marketing.agathonforministries.com
 marketing.agdirect.com
@@ -71378,6 +71905,7 @@ marketing.allegiantmarketinggroup.com
 marketing.allencomm.com
 marketing.alliants.com
 marketing.alliedeg.us
+marketing.allmy-data.com
 marketing.allsystemsgofurniture.com
 marketing.almalasers.com
 marketing.almusnet.com
@@ -71670,6 +72198,7 @@ marketing.candorcircuitboards.com
 marketing.capellaspace.com
 marketing.capillarytech.com
 marketing.capita-ibs.co.uk
+marketing.capitalsupport.com
 marketing.caplin.com
 marketing.caplugs.com
 marketing.capsahealthcare.com
@@ -71732,6 +72261,8 @@ marketing.channeleyes.com
 marketing.channelmanagement.com
 marketing.charityfirst.com
 marketing.chartec.net
+marketing.charter-dev.flixbus.com
+marketing.charter.flixbus.com
 marketing-chef.net.daraz.com
 marketing.chemometec.com
 marketing.chirpify.com
@@ -71767,6 +72298,7 @@ marketing.click.co.uk
 marketing.clickrain.com
 marketing.clientsfirst-us.com
 marketing.cliffordpower.com
+marketing.cliftons.com
 marketing.clilaws.com
 marketing.climbhire.co
 marketing.clinicalcomm.com
@@ -71864,6 +72396,7 @@ marketing.crbcunninghams.co.uk
 marketing.creativechannel.com
 marketing.creativevalue.co
 marketing.creativevisions.com
+marketing.credoreference.com
 marketing.crfu.co.nz
 marketing.criteo.com
 marketingcrm.bluetek.fr
@@ -72251,6 +72784,7 @@ marketing.geoimage.com.au
 marketing.georgejon.com
 marketing.geowarehouse.ca
 marketing.getcertain.ca
+marketing.getdiscoverorg.com
 marketing.getfidelis.com
 marketing.getoverdrive.com
 marketing.ggob.com
@@ -72359,6 +72893,7 @@ marketing.healthactioncouncil.org
 marketing.healthbenefitapp.com
 marketing.healthcarousel.com
 marketing.healthcasts.co
+marketing.healthforall.ch
 marketing.hellogain.com
 marketing.hellomedia.com
 marketing.hellonuvue.com
@@ -72529,6 +73064,7 @@ marketing.invitria.com
 marketing-in.vps.no
 marketing.iofficedelivers.com
 marketing.iongroup.com
+marketing.ioufinancial.com
 marketing.iriworldwide.com
 marketing.ironwoodbrokers.com
 marketing.irvingtexas.com
@@ -72702,6 +73238,7 @@ marketing.maa-sports.com
 marketing.machtfit.de
 marketing.macmiller.com
 marketing.mafiahairdresser.com
+marketing.maformationofficinale.com
 marketing.magellanhealth.com
 marketing.magnamachine.com
 marketing.magnet.ie
@@ -72748,6 +73285,7 @@ marketing.mbitiontolearn.com
 marketing.mcchrystalgroup.com
 marketing.mcdermottcosta.com
 marketing.mcgrawpowersports.com
+marketing.mcloudcorp.com
 marketing.mcommgroup.com
 marketing.mcpartners.co.uk
 marketing.mdbeautyclinic.ca
@@ -72767,6 +73305,7 @@ marketing.medxm1.com
 marketing.meetingone.com
 marketing.meetinreykjavik.is
 marketing.meetprestige.com
+marketing.megin.fi
 marketing.melitta.ca
 marketing.melitta.com
 marketing.menudrive.com
@@ -73318,6 +73857,7 @@ marketing.risingfall.com
 marketing.rittertech.com
 marketing.riverfrontig.com
 marketing.rmcls.com
+marketing.rme360.com
 marketing.rmhoffman.com
 marketing.rmhoist.com
 marketing-r.net.daraz.com
@@ -73739,6 +74279,7 @@ marketing.triton.co.uk
 marketing.tr.netsalesmedia.pl
 marketing.truckertools.com
 marketing.trucode.com
+marketing.truenorthadvisors.com
 marketing.trulioo.com
 marketing.trusolis.com
 marketing.trustaltus.com
@@ -74077,6 +74618,7 @@ markov.affex.org
 markov.euleriancdn.net
 marks.affex.org
 marksandspencer.com.102.122.2o7.net
+marksandspencer.demdex.net
 marks.demdex.net
 marks.euleriancdn.net
 marktest.pt
@@ -74156,6 +74698,7 @@ martorusa.actonservice.com
 maru.affex.org
 maru.euleriancdn.net
 marvel.affex.org
+marvel.demdex.net
 marvel.euleriancdn.net
 marvel.hb-api.omtrdc.net
 marvin.affex.org
@@ -74220,6 +74763,7 @@ mastercardadvisors.com.102.122.2o7.net
 mastercardbrandcenter.com.102.122.2o7.net
 mastercardbusiness.com.102.122.2o7.net
 mastercard.com.102.122.2o7.net
+mastercard.demdex.net
 mastercardeasysavings.com.102.122.2o7.net
 mastercardfoundation.org.102.122.2o7.net
 mastercardgiftcard.com.102.122.2o7.net
@@ -74250,6 +74794,7 @@ matador.affex.org
 matador.euleriancdn.net
 mat.aegps.com
 mat.affex.org
+matby.eulerian.net
 match.affex.org
 matchesfashion.demdex.net
 match.euleriancdn.net
@@ -74295,6 +74840,7 @@ matrixstats.euleriancdn.net
 ma.tss.se
 matsubun.matsubun.com
 matt.affex.org
+mattel.demdex.net
 matt.euleriancdn.net
 matthewk.tantawy.app
 matthewsaurora.matw.com
@@ -74373,6 +74919,7 @@ mb1.affex.org
 mb1.euleriancdn.net
 mb2.affex.org
 mb2.euleriancdn.net
+mb9eo-7w62j.ads.tremorhub.com
 mb9eo.ads.tremorhub.com
 mb9eo-nkrlx.ads.tremorhub.com
 mba2.lmu.edu
@@ -74445,6 +74992,7 @@ mcc.engineering.northwestern.edu
 mcc.euleriancdn.net
 mccfii.durmaplay.com
 mc.checkpoint.com
+mcclatchy.demdex.net
 mccoy.affex.org
 mccoy.euleriancdn.net
 mcdmetric.aaa.com
@@ -74760,6 +75308,7 @@ me0e78g3v3lp.ddns.dataunlocker.com
 me1294hlx.com
 meadowlark.bump.sh
 meadowlark.garrettdimon.com
+meadowlark.hirebarista.com
 meadowlark.hownow.guide
 meadowlark.pixelbox.digital
 meadowlark.psynapse.no
@@ -75105,6 +75654,7 @@ member.usenix.org
 memberweb.com.102.112.2o7.net
 meme.affex.org
 meme.euleriancdn.net
+mem.euleriancdn.net
 memhosp.hrm.healthgrades.com
 memo.affex.org
 memo.euleriancdn.net
@@ -75432,6 +75982,7 @@ metrics.ameise-shop.at
 metrics.americanairlines.be
 metrics.americanairlines.ch
 metrics.americanairlines.cl
+metrics.americanairlines.cn
 metrics.americanairlines.co.cr
 metrics.american-airlines.co.kr
 metrics.americanairlines.com
@@ -75559,6 +76110,7 @@ metrics.buysearchsell.com.au
 metrics.caesars.com
 metrics.cairnspost.com.au
 metrics.caixabank.es
+metrics.calif.aaa.com
 metrics.canada.travel
 metrics.cancer.gov
 metrics.canter.net
@@ -76024,6 +76576,7 @@ metrics.mysanantonio.com
 metrics.mytributes.com.au
 metrics.myturnstone.com
 metrics.mzstatic.com
+metrics.n11.com
 metrics.nab.com.au
 metrics.nascar.com
 metrics.nationalgeographic.com
@@ -76492,6 +77045,8 @@ metrika.myseldon.com
 metrika.yandex.ru
 metrix.avon.uk.com
 metrix.firstam.com
+metrix.livenation.com
+metrix.ticketmaster.ca
 metrix.us.ovhcloud.com
 metrix.youravon.com
 metro.affex.org
@@ -76615,6 +77170,7 @@ mhz-design.actonservice.com
 mia.affex.org
 mia.euleriancdn.net
 mi.affex.org
+mialbj6.com
 miami.affex.org
 miami.euleriancdn.net
 miass.affex.org
@@ -76859,6 +77415,7 @@ minisrclink.cool
 miniusa.demdex.net
 mink.faq-bregenzerwald.com
 mink.iss.guru
+mink.kids.dev
 mink.xconfessions.com
 minmin.affex.org
 minmin.euleriancdn.net
@@ -76964,6 +77521,7 @@ mitchell.euleriancdn.net
 mit.db.com
 mit.dws.com
 mit.dws.de
+mite.aaronbailey.com
 mite.cotinga.io
 mite.downtotheearth.co.uk
 mitel.qm-g.com
@@ -76980,6 +77538,7 @@ mitrust.com.102.112.2o7.net
 mitsubishi.affex.org
 mitsubishi.demdex.net
 mitsubishi.euleriancdn.net
+mitsuifudosangroup.demdex.net
 mitv.tracking.miui.com
 mitylite.actonservice.com
 miumiu.com.102.122.2o7.net
@@ -87850,6 +88409,7 @@ mkt.emea.neogen.com
 mkt.enterprise.kt.com
 mkt.environmentsatwork.com
 mktes.grupo-sm.com
+mkt.etudes.jp
 mkt.euleriancdn.net
 mkt.foodsafety.neogen.com
 mktg.a2la.org
@@ -88054,6 +88614,7 @@ mlkjia.carte-gr.total.fr
 mlm.affex.org
 mlm.euleriancdn.net
 mlnadvertising.com
+mloar9ue5n.www-staging.word.com.au
 ml.opst.co.jp
 mlp.affex.org
 mlp.euleriancdn.net
@@ -88085,6 +88646,7 @@ m.marketfinance.com
 mmarketing.net.daraz.com
 mmarkhigh.actonservice.com
 mmc.affex.org
+mmc.demdex.net
 mmc.euleriancdn.net
 mm.championenergyservices.com
 mmc-ltd.actonservice.com
@@ -88258,6 +88820,7 @@ mobileapptracking.com
 mobileautumn.net.daraz.com
 mobileconstellation.com.102.112.2o7.net
 mobile-content-f.autozone.com
+mobilecontent.projectdrgn.com
 mobile.dev.affex.org
 mobiledev.affex.org
 mobiledev.demdex.net
@@ -88379,14 +88942,17 @@ moldova.euleriancdn.net
 mole.bteam.co
 mole.bubblefoundation.org.uk
 mole.dansksejlunion.dk
+mole.energizer.eu
 mole.getfamealy.com
 mole.gostartupco.com
 mole.rtbhouse.com
 molet.eulerian.net
 mole.twotwentyweb.com
 mole.vcntlee.com
+mole.workw.co
 mollusk.12grados.com
 mollusk.forwardmx.io
+mollusk.laravelhacker.com
 mollusk.saferingz.com
 mollusk.tryplayroom.com
 mollusk.working.actor
@@ -88418,12 +88984,14 @@ mon3.euleriancdn.net
 mona.affex.org
 monaco.affex.org
 monaco-edu.eulerian.net
+monaco.euleriancdn.net
 mona.euleriancdn.net
 mon.affex.org
 monalisa.affex.org
 monalisa.euleriancdn.net
 monarchads.com
 monarch.affex.org
+monarch.demdex.net
 monarch.euleriancdn.net
 monavie.affex.org
 monavie.euleriancdn.net
@@ -88456,6 +89024,7 @@ moneymutual.com.102.122.2o7.net
 moneytm.o2.co.uk
 mongo.affex.org
 mongo.euleriancdn.net
+mongoose.base-training.com.au
 mongoose.cse-algolia.fr
 mongoose.jasonlbeggs.com
 mongoose.mlle-o.fr
@@ -88487,6 +89056,7 @@ monitoring.nbg.webtrekk.com
 monk.affex.org
 monk.euleriancdn.net
 monkey.affex.org
+monkey.colinjohnston.com
 monkey.compulsivo.co
 monkey.euleriancdn.net
 monkey.southafricahat.com
@@ -88508,6 +89078,7 @@ monoprix-ea.eulerian.net
 monrifitalia01.wt-eu02.net
 monroe.affex.org
 monroecollege.actonsoftware.com
+monroe.demdex.net
 monroe.euleriancdn.net
 monshowroom.eulerian.net
 mon.simpli.fi
@@ -88550,6 +89121,7 @@ moodle.net.daraz.com
 moody.actonsoftware.com
 moody.affex.org
 moody.euleriancdn.net
+moodyscorp.demdex.net
 moo.euleriancdn.net
 mookie1.com
 moon.affex.org
@@ -88603,6 +89175,7 @@ morigin.affex.org
 morigin.euleriancdn.net
 mormoraiaitalia01.wt-eu02.net
 morningstar.affex.org
+morningstar.demdex.net
 morningstar.euleriancdn.net
 morpheus.affex.org
 morpheus.euleriancdn.net
@@ -88682,6 +89255,7 @@ mountain.euleriancdn.net
 mountainstar.hrm.healthgrades.com
 mountsaintvincent.actonservice.com
 mouse.affex.org
+mouse.andrewstiefel.com
 mouse.anthony-noel.com
 mouse.botreach.co
 mousecomputer.demdex.net
@@ -88695,6 +89269,7 @@ mouvement-leclerc.eulerian.net
 mov.affex.org
 movdrl.agriconomie.com
 move.affex.org
+move.azets.com
 move.azets.dk
 move.azets.fi
 move.azets.no
@@ -88750,6 +89325,7 @@ mp-ec.mediplus-orders.jp
 mpe.euleriancdn.net
 mp.euleriancdn.net
 mp.ferchau.com
+mpg.enersys.com
 mpglie.apartmentguide.com
 mphlrt.snipes.at
 m.photoshelter.com
@@ -90809,6 +91385,7 @@ mtcvyv.karakartal.com
 mtcvyv.sporx.com
 mtcvyv.superfb.com
 mtcvyv.webaslan.com
+mteme7li1d6r.vertexmarketingagency.com
 m-test.affex.org
 m.test.affex.org
 mtest.affex.org
@@ -90871,6 +91448,7 @@ mug.da1.vip.prod.criteo.com
 mugen.affex.org
 mugen.euleriancdn.net
 mug.hk5.vip.prod.criteo.com
+mug.jp2.vip.prod.criteo.com
 mug.par.vip.prod.criteo.com
 mug.va1.vip.prod.criteo.com
 muhttw.spotlightstores.com
@@ -91608,6 +92186,7 @@ mxm.demdex.net
 mxm.euleriancdn.net
 mx.mse21.affex.org
 mx.mse21.euleriancdn.net
+mx.mse3.affex.org
 mx.mse3.euleriancdn.net
 mx.mse4.affex.org
 mx.mse4.euleriancdn.net
@@ -91789,6 +92368,7 @@ my.npace.org
 myob.com.au.102.112.2o7.net
 myob.co.nz.102.112.2o7.net
 myoccu.demdex.net
+my.odysseybattery.com
 myoffice.affex.org
 myoffice.euleriancdn.net
 my.orhp.com
@@ -91983,6 +92563,7 @@ na.brenntag.com
 nabtrade.demdex.net
 nac.affex.org
 nac.euleriancdn.net
+nachri.org.102.122.2o7.net
 nacsmedia.convenience.org
 nada.affex.org
 nada.euleriancdn.net
@@ -92238,6 +92819,7 @@ nc.affex.org
 n.carmax.com
 ncaudienceexchange.com
 ncaw6-fttg2.ads.tremorhub.com
+ncb.nocibe.fr
 ncc.affex.org
 nccaf.ncc-mens.com
 nccer.actonservice.com
@@ -92287,7 +92869,9 @@ nebraska.euleriancdn.net
 nebula.affex.org
 nebula.euleriancdn.net
 nec.affex.org
+nec.demdex.net
 nec.euleriancdn.net
+neck6bake.com
 necro.affex.org
 necro.euleriancdn.net
 ned.affex.org
@@ -92341,6 +92925,7 @@ neptune.euleriancdn.net
 neptun.euleriancdn.net
 nero.affex.org
 nero.euleriancdn.net
+nesn.demdex.net
 neso.r.niwepa.com
 ness.affex.org
 ness.euleriancdn.net
@@ -92677,6 +93262,7 @@ news.bpsecinc.com
 news.bradken.com
 news.bridgetowermedia.com
 news.brokersalliance.com
+news.bureauveritas.com
 news.caamp.org
 news.cadolto.com
 news.cardflight.com
@@ -92852,6 +93438,7 @@ newstest.euleriancdn.net
 news.thebosco.com
 news.thedailyrecord.com
 news.thedolancompany.com
+news-tqr.bureauveritas.com
 news.trakref.com
 news.tri-implants.swiss
 news.twloha.com
@@ -92897,6 +93484,7 @@ newyear.affex.org
 newyear.euleriancdn.net
 newyork.affex.org
 newyork.com.102.122.2o7.net
+newyorkcompany.demdex.net
 newyorker.com.102.112.2o7.net
 newyork.euleriancdn.net
 newyorklife.demdex.net
@@ -93001,6 +93589,7 @@ niagara.gus.global
 nic.affex.org
 nicaragua.affex.org
 nicaragua.euleriancdn.net
+nicca.nctexchem.com
 nic.demdex.net
 nice3aiea.com
 nice.affex.org
@@ -93264,6 +93853,7 @@ noe.affex.org
 noedw-0wabr.ads.tremorhub.com
 noedw-1k275.ads.tremorhub.com
 noedw-cnrb2.ads.tremorhub.com
+noedw-n2th7.ads.tremorhub.com
 noedw-uivtt.ads.tremorhub.com
 noedw-x3cua.ads.tremorhub.com
 noe.euleriancdn.net
@@ -93307,6 +93897,7 @@ noodlypastafarian.net
 nook.com.102.122.2o7.net
 noor.affex.org
 noor.euleriancdn.net
+nooucp8qw1va.test.li.finance
 noproxy.affex.org
 noproxy.euleriancdn.net
 noptifi.carte-gr.total.fr
@@ -95600,6 +96191,7 @@ omniture.chip.de
 omniture.chip.eu
 omniture.com
 omniture-dc-sec.cadence.com
+omniture.demdex.net
 omniture.direct.asda.com
 omniture.dunnedwards.com
 omniture.dupontregistry.com
@@ -95705,6 +96297,7 @@ oms.snnow.ca
 oms.symantec.com
 oms.todaysparent.com
 oms.travelocity.ca
+oms.travelocity.com
 oms.tsc.ca
 oms.usnews.com
 oms.venere.com
@@ -95719,6 +96312,7 @@ omtrdc.jobsdb.com
 omtrdc.net
 om.triphomes.com
 omtrkpix.rd.com
+omtr.sstats.q8.dk
 om.vacationrentals.com
 om.vegasmeansbusiness.com
 om.venere.com
@@ -95768,6 +96362,7 @@ one.fanuc.eu
 onefeed.co.uk
 onehope.org.102.122.2o7.net
 oneittelemetry.blob.core.windows.net
+one.lansingbp.com
 onelink.me
 onelove.affex.org
 onelove.euleriancdn.net
@@ -97775,6 +98370,7 @@ online.expolifestyle.com
 online.fia-china.com
 onlinegames.affex.org
 onlinegames.euleriancdn.net
+online.getpayd.com
 online.govexecmediagroup.com
 online.hausinvest.de
 online.hdeexpo.com
@@ -97949,6 +98545,7 @@ opodo.co.uk.102.122.2o7.net
 opoffice.actonservice.com
 opossum.eyalgantz.com
 opossum.roleup.com
+opossum.stephanieharari.com
 opossum.swisscovid.info
 opplegacy.org.102.112.2o7.net
 oppl.enghouseinteractive.es
@@ -98057,6 +98654,7 @@ orange.eulerian.net
 orangetheory.demdex.net
 orangutan.checkcontrast.com
 orangutan.clarity2.dev
+orangutan.dreamsuccess.org
 orangutan.equaliteam.com
 orangutan.userflow.com
 orangutan.va4indieauthors.com
@@ -98068,6 +98666,7 @@ orbis.actonservice.com
 orbit.affex.org
 orbital.affex.org
 orbital.euleriancdn.net
+orbit.demdex.net
 orbit.euleriancdn.net
 orca.affex.org
 orca.euleriancdn.net
@@ -98339,6 +98938,7 @@ otter.euleriancdn.net
 otter.goetheanum.media
 otter.gpu.stream
 otter.jetting.no
+otter.johnfoster.com
 otter.kieransmith.me
 otter.preferredequineonline.com
 otter.quarterdeck.co.uk
@@ -98400,6 +99000,7 @@ outlook.affex.org
 outlook.euleriancdn.net
 outnro.chaye.kr
 outreach.adgm.com
+outreach.allmy-data.com
 outreach.ansecurity.com
 outreach.biteinvestments.com
 outreach.connectednation.org
@@ -98537,6 +99138,7 @@ p2.danskebank.ie
 p2.danskebank.no
 p2.danskebank.se
 p2.euleriancdn.net
+p2.nationalirishbank.ie
 p2.northernbank.co.uk
 p2.p2.danskebank.dk
 p2p.affex.org
@@ -98547,18 +99149,23 @@ p3.affex.org
 p3.euleriancdn.net
 p3.p2.danskebank.dk
 p4.affex.org
+p4dt2-20xd9.ads.tremorhub.com
+p4dt2-4nrdw.ads.tremorhub.com
 p4dt2-5cqkv.ads.tremorhub.com
 p4dt2-8d2sv.ads.tremorhub.com
 p4dt2-980w2.ads.tremorhub.com
 p4dt2-9fzxj.ads.tremorhub.com
 p4dt2-cn4bp.ads.tremorhub.com
+p4dt2-eh3n2.ads.tremorhub.com
 p4dt2-hr9oj.ads.tremorhub.com
 p4dt2-kmd8d.ads.tremorhub.com
 p4dt2-oeh34.ads.tremorhub.com
 p4dt2-oj5qi.ads.tremorhub.com
+p4dt2-p0ofr.ads.tremorhub.com
 p4dt2-r71si.ads.tremorhub.com
 p4dt2-uma55.ads.tremorhub.com
 p4dt2-weet1.ads.tremorhub.com
+p4dt2-x71s7.ads.tremorhub.com
 p4dt2-yc3on.ads.tremorhub.com
 p4dt2-yvv6p.ads.tremorhub.com
 p4.euleriancdn.net
@@ -98576,6 +99183,7 @@ p80.pool.euleriancdn.net
 p8.affex.org
 p8.euleriancdn.net
 p8s.oxbowshop.com
+p9jhxqlkmn.miniso.com.gr
 pa5xjc.m1guelpf.me
 pa.adultnutritionlearningcenter.com.102.112.2o7.net
 pa.affex.org
@@ -98650,6 +99258,7 @@ page.khronos.agency
 page.maxfrank.com
 page.mc-lifecareer.com
 page.northstateconsultingllc.com
+page.pennmedicine.princetonhcs.org
 page.plaritown.co.jp
 page.prevision.io
 pagerank.affex.org
@@ -98719,6 +99328,7 @@ pages.euleriancdn.net
 pages.exterro.com
 pages.fatblaster.com.au
 pages.f-cre.com
+pages.fiduciarytrust.com
 pages.financialintelligence.informa.com
 pages.foxholemedals.com.au
 pages.frtservices.com
@@ -98799,6 +99409,7 @@ pages.wavefront.com
 pages.whatcounts.com
 pages.yesware.com
 pages.yokogawa.com
+page.teachme-biz.com
 page.teachme.jp
 page.terguspharma.com
 page.thalesgroup.com
@@ -98870,6 +99481,7 @@ pan.affex.org
 panama.affex.org
 panama.euleriancdn.net
 panasonic.affex.org
+panasonic.demdex.net
 panasonic.euleriancdn.net
 panasonicglobal.demdex.net
 pancho.affex.org
@@ -98888,6 +99500,7 @@ pandora.affex.org
 pandoraas.demdex.net
 pandora.demdex.net
 pandora.euleriancdn.net
+pandoramedia.demdex.net
 panduit.com.102.112.2o7.net
 panel100.com
 panel2.affex.org
@@ -98975,6 +99588,7 @@ paragon.affex.org
 paragon.euleriancdn.net
 paraguay.affex.org
 paraguay.euleriancdn.net
+parakeet.jorenvanhocht.be
 parakeet.phantomphone.net
 parakeet.quotetweet.com
 parall.ax
@@ -99061,6 +99675,7 @@ pardot.bynder.com
 pardot.cadactive.com
 pardot.californiafamilyfitness.com
 pardot.camstar.industrysoftware.automation.siemens.com
+pardot.cancer.be
 pardot.canterbury.ac.uk
 pardot.careermap.jp
 pardot.cartagenia.com
@@ -99414,6 +100029,7 @@ pardot.veneerservices.com
 pardot.verhinderungspflege-beantragen.de
 pardot.videologygroup.com
 pardot.vikingcruises.cn
+pardot.vinacapital.com
 pardot.vindi.com.br
 pardot.vinuni.edu.vn
 pardot.virnect.com
@@ -99557,6 +100173,7 @@ partner.publisherdiscovery.com
 partner.quantummultiverse.world
 partner.quicklizard.com
 partners.3dma.co
+partners.420queenz.com
 partners.9spokes.com
 partners.aelieve.com
 partners.affex.org
@@ -99591,6 +100208,7 @@ partnership.localytics.com
 partnerships.inman.com
 partnerships.sophia.org
 partners.iquitsugar.com
+partners.lawnprosoftware.com
 partners.legacyarmour.com
 partners.linkpal.co
 partners.lykon.com
@@ -99633,6 +100251,7 @@ partner.wpokies.com
 parto.affex.org
 parto.euleriancdn.net
 partridge.antonius.me
+partridge.basketbalacademieherentals.be
 partridge.flooint.com
 partridge.printcardinal.com
 partridge.unfamiliar.land
@@ -99824,6 +100443,7 @@ pbuci7pdjgez.furucombo.app
 pbx.affex.org
 pbx.euleriancdn.net
 pc022-869d8.ads.tremorhub.com
+pc031-edgup.ads.tremorhub.com
 pc041-nsg2n.ads.tremorhub.com
 pc046-dhgif.ads.tremorhub.com
 pc051-k4snh.ads.tremorhub.com
@@ -99835,13 +100455,16 @@ pc083-5w49p.ads.tremorhub.com
 pc083-8d45x.ads.tremorhub.com
 pc083-8yo5j.ads.tremorhub.com
 pc083-aipdx.ads.tremorhub.com
+pc083-cyee6.ads.tremorhub.com
 pc083-ejbky.ads.tremorhub.com
 pc083-h2ow3.ads.tremorhub.com
 pc083-ii06c.ads.tremorhub.com
+pc083-n2ryf.ads.tremorhub.com
 pc083-nxx8f.ads.tremorhub.com
 pc083-pflqt.ads.tremorhub.com
 pc083-pnaiu.ads.tremorhub.com
 pc083-qhhn9.ads.tremorhub.com
+pc083-x9u50.ads.tremorhub.com
 pc083-yuxru.ads.tremorhub.com
 pc083-zjbmn.ads.tremorhub.com
 pc084-l9x8h.ads.tremorhub.com
@@ -99850,9 +100473,11 @@ pc11.euleriancdn.net
 pc1.affex.org
 pc1.euleriancdn.net
 pc20160301.com
+pc206-0l26r.ads.tremorhub.com
 pc206-3rjst.ads.tremorhub.com
 pc2.affex.org
 pc2.euleriancdn.net
+pc4486fwes35.qa.grapeisfruit.com
 pc4.datarunsdeep.com.au
 pc4.sightful.eu
 pc.adresult.jp
@@ -99886,6 +100511,7 @@ pclab.affex.org
 pclab.euleriancdn.net
 pclandrmbx.com
 p.classroombookings.com
+pcl.demdex.net
 pclick.yahoo.com
 p.climalife.dehon.com
 p.clubgraph.com
@@ -99912,11 +100538,14 @@ pcworld.affex.org
 pcworld.com.102.122.2o7.net
 pcworld.euleriancdn.net
 pcykgc.onetravel.com
+pd11434-9eehf.ads.tremorhub.com
 pd11434-as6b2.ads.tremorhub.com
 pd11434-jd2mm.ads.tremorhub.com
 pd11434-l67ab.ads.tremorhub.com
 pd11434-p8x6r.ads.tremorhub.com
+pd13201-atndv.ads.tremorhub.com
 pd.2bc.co.jp
+pd9cs7s.reinentertainment.com
 pda.affex.org
 pda.euleriancdn.net
 pd.affex.org
@@ -100138,6 +100767,7 @@ penny.euleriancdn.net
 pennymacloanservices.demdex.net
 pension.affex.org
 pension.euleriancdn.net
+pentagonfcu.demdex.net
 pentairmg.demdex.net
 penta.postaffiliatepro.com
 pentas.best-sr.com
@@ -100322,6 +100952,8 @@ pfmram.slamjam.com
 pf.newegg.com
 pfulof.dickiesworkwear.com
 pfxahb.cloud.avg.com
+pfxihb.cloud.avg.com
+pfxpciehb.cloud.avg.com
 pg6.sip.euleriancdn.net
 pgadmin.affex.org
 pgadmin.euleriancdn.net
@@ -100447,6 +101079,7 @@ pharma.euleriancdn.net
 pharm.affex.org
 pharm.euleriancdn.net
 pharnacat.postaffiliatepro.com
+pharos.affex.org
 pharos.euleriancdn.net
 phase6.wt-eu02.net
 phcbi-solution.phchd.com
@@ -100672,6 +101305,7 @@ pigeon.affex.org
 pigeon.ashlean.com
 pigeon.euleriancdn.net
 pigeon.plumbingone.com
+pigeon.summershakeup.org
 pigeon.surtitlesolutions.com
 pigeon.sushi.com
 pigeon.thankyuu.com
@@ -100710,6 +101344,7 @@ pim.euleriancdn.net
 pimp.affex.org
 pimp.euleriancdn.net
 pimpoint.inriver.com
+pi.msi.org
 pin.affex.org
 pine.affex.org
 pineapple.affex.org
@@ -100797,6 +101432,7 @@ pippio.canvaspeople.com
 pippio.com
 pippio.eb.emediausa.com
 pippio.ebulletins.co.uk
+pippio.emedia-us.com
 pippio.punchbowl.com
 pippio.zdb2bmail.com
 pippio.zdimg.net
@@ -100840,6 +101476,7 @@ pi.t.demo.pardot.com
 piter.affex.org
 piter.euleriancdn.net
 pi.tiny.cloud
+pitneybowes.demdex.net
 pi.tnlbusiness.com
 pi.t.pardot.com
 pi.tribalcompliance.com
@@ -100868,6 +101505,7 @@ pix.am5.vip.prod.criteo.net
 pixanalytics2.pixnet.net
 pixanalytics.pixnet.net
 pix.as.criteo.net
+pixaws.esm1.net
 pix.da1.vip.prod.criteo.net
 pix.eads.com
 pixel.ad
@@ -101004,6 +101642,7 @@ plan.affex.org
 planarian.614deals.com
 planarian.bluestein.de
 planarian.dailylocation.com
+planarian.dtesta.com
 planarian.fatsackfails.com
 planarian.reverberate.org
 planarian.sexcam-gutscheine.de
@@ -101063,9 +101702,11 @@ platon.affex.org
 platon.euleriancdn.net
 platt.actonsoftware.com
 platypus.affex.org
+platypus.cmp.is
 platypus.colly.com
 platypus.euleriancdn.net
 platypus.facet.net
+platypus.protone.media
 platypus.seniorstowork.com
 platypus.simplesell.de
 platypus.tompec.com
@@ -101466,6 +102107,7 @@ pmpubs.com
 pm.redbull.com
 pms.affex.org
 pms.euleriancdn.net
+pmt.affex.org
 pmt.euleriancdn.net
 pmu01.eulerian.net
 pmu02.eulerian.net
@@ -101571,6 +102213,7 @@ polar.affex.org
 polarbear.bellec.mx
 polarbear.codeday.org
 polarbear.hvjw.nl
+polarbear.marlandandriley.com.au
 polarbyte.com
 polar.euleriancdn.net
 polaris.affex.org
@@ -101633,6 +102276,7 @@ pontus.euleriancdn.net
 ponudadana.postaffiliatepro.com
 pony.affex.org
 pony.bylt.co
+pony.conversionmate.de
 pony.euleriancdn.net
 pony.ftm.cat
 pony.gugg.at
@@ -101668,7 +102312,9 @@ pop.euleriancdn.net
 pop.eulerian.com
 pop.eulerian.eu
 pop.eulerian.fr
+pop.eulerian.net
 popeye.affex.org
+popeye.euleriancdn.net
 popgate.affex.org
 popgate.euleriancdn.net
 popgom.eulerian.net
@@ -101689,6 +102335,7 @@ poqwo3.com
 por.affex.org
 po.rciadventure.com
 porcupine.dvresolve.com
+porcupine.laurentnguyen.com
 porcupine.simpleprax.de
 porcupine.srhdesign.co.uk
 porcupine.wtmap.co
@@ -101702,7 +102349,9 @@ porno.euleriancdn.net
 porpoise.azettl.net
 porpoise.deschtimes.com
 porpoise.fruittreecottage.com.au
+porpoise.groupcalendar.app
 porpoise.jackwhiting.co.uk
+porpoise.plan2wed.app
 porsche01.wt-eu02.net
 porsche.affex.org
 porsche.demdex.net
@@ -101728,6 +102377,7 @@ portal.efficientscale.com
 portal.euleriancdn.net
 portal.fidormarket.com
 portalha.dev.cedexis.com
+portal.ineteconomics.org
 portal.insight.maruedr.com
 portal.propertycampaign.com
 portal.ropescoursesinc.com
@@ -101767,6 +102417,8 @@ positiveshift.postaffiliatepro.com
 possibilities.theajinetwork.com
 possum.chrisportela.com
 possum.invitebuy.com.br
+possum.sneakerstrocparis.com
+possum.whendoesthemarketopen.com
 po.st
 posta.affex.org
 posta.euleriancdn.net
@@ -102006,6 +102658,7 @@ premieremoisson.eulerian.net
 premier.euleriancdn.net
 premierinn.com.102.122.2o7.net
 premium.affex.org
+premium.demdex.net
 premium.euleriancdn.net
 premium.landix-club.net
 premium.leadsbridge.com
@@ -102115,6 +102768,7 @@ primary.euleriancdn.net
 primary.hasegawa.jp
 primate.builds.gg
 primate.dmarcdigests.com
+primate.johnathan.org
 primate.logology.co
 primate.northtownsremodeling.com
 primate.oleggera.com
@@ -102192,6 +102846,7 @@ privacy.cafemeins.de
 privacy.criteo.com
 privacy.criteoemail.com
 privacy.da1.vip.prod.criteo.com
+privacy.demdex.net
 privacy.eu.criteo.com
 privacy.euleriancdn.net
 privacy.hk5.vip.prod.criteo.com
@@ -102378,6 +103033,7 @@ profiling.outokumpu.com
 profiling.plannja.com
 profiling.qacitizensbankonline.com
 profiling.ruukki.com
+profiling.signaturemgmgrand.com
 profiling.vdara.com
 profitabledisplaycontent.com
 profit.affex.org
@@ -102794,6 +103450,7 @@ pts.euleriancdn.net
 ptt.affex.org
 ptt.euleriancdn.net
 ptuhb.cloud.avg.com
+pt.umeng.com
 pt.vuzix.com
 ptw-i.actonservice.com
 pty11165b.affex.org
@@ -102828,6 +103485,7 @@ publication.coffra.fr
 publications.affex.org
 publications.euleriancdn.net
 public-check3-at.test.tiaa-cref.org
+public-check3-at.test.tiaa.org
 public.euleriancdn.net
 publicidad.affex.org
 publicidad.davivienda.com.pa
@@ -102879,6 +103537,7 @@ puffin.gamepal.app
 puffin.geocode.earth
 puffin.jem.dev
 puffin.nex4.net
+puffin.oputy.com
 pugster.com.102.112.2o7.net
 puldal.petflow.com
 pull.affex.org
@@ -102899,6 +103558,7 @@ pulsar.ebay.com.my
 pulsar.ebay.com.sg
 pulsar.ebay.co.th
 pulsar.ebay.co.uk
+pulsar.ebay.de
 pulsar.ebay.es
 pulsar.ebay.fr
 pulsar.ebay.ie
@@ -102917,6 +103577,7 @@ pultegroup.demdex.net
 puma01.webtrekk.net
 puma.affex.org
 puma.com.102.112.2o7.net
+puma.demdex.net
 puma.euleriancdn.net
 puma.insurrectioncollection.com
 puma.islingtonmecc.org.uk
@@ -103019,6 +103680,7 @@ pvrugd.nieruchomosci-online.pl
 pvsb.com.102.112.2o7.net
 pv.sogou.com
 pwa.affex.org
+pw-adebis.premium-water.net
 pwa.euleriancdn.net
 pw.affex.org
 pwaffs.postaffiliatepro.com
@@ -103127,6 +103789,7 @@ q4cdn.com
 q4rvrfvxzigk.ddns.dataunlocker.com
 q4web.com
 q4websystems.com
+q51x5d27xt87.app.polymerdev.com
 q88.actonservice.com
 qa1.affex.org
 qa1.euleriancdn.net
@@ -103323,6 +103986,8 @@ qsourd.carte-gr.total.fr
 qt2jzpkd7u2b.ddns.dataunlocker.com
 qt5jl7r111h7.allesvoormijnvakantie.nl
 qt.affex.org
+qtbm.fundourselves.com
+qtbm.welendus.com
 qtdkxs.travellink.dk
 qt.euleriancdn.net
 qtfnvf.ethika.com
@@ -103798,6 +104463,7 @@ rat1.com
 rat.affex.org
 rat.am5.vip.prod.criteo.com
 rate2self.com
+rate.demdex.net
 rates.affex.org
 rates.euleriancdn.net
 rates.gardenstateloans.com
@@ -103822,6 +104488,7 @@ raven.konquadrat.de
 raven.omamao.ch
 raven.prijzenvolger.com
 ravensburger01.webtrekk.net
+raven.sgoudie.com
 raven.vethelpdirect.com
 raven.zimristats.com
 ravi.affex.org
@@ -103883,6 +104550,7 @@ rbs.affex.org
 rbs.com.102.112.2o7.net
 rbs.com.102.122.2o7.net
 rbs.co.uk.102.122.2o7.net
+rbs.demdex.net
 rbs.es.102.112.2o7.net
 rbs.euleriancdn.net
 rbsm.com.102.122.2o7.net
@@ -104432,6 +105100,7 @@ refer.labseries.com
 refer.laroche-posay.us
 refer.lasenza.ca
 refer.lasenza.com
+refer.lastcall.com
 refer.last-stitch.com
 refer.latexforless.com
 refer.lauramercier.com
@@ -104704,6 +105373,7 @@ reg.koretech.com
 reglotv.e-leclerc.eulerian.net
 regmdr.pref.ims.dialog-direct.com
 reg.nojitter.com
+regstat.betfair.com
 regstat.paddypower.com
 reg.ubmamgevents.com
 reg.ubmamg-media.com
@@ -104862,6 +105532,7 @@ repdata.wlbz2.com
 repdata.wltx.com
 repdata.wtsp.com
 repdata.wusa9.com
+repdata.wzzm13.com
 repentignychevrolet.eulerian.net
 rep.euleriancdn.net
 repfitness.postaffiliatepro.com
@@ -105067,6 +105738,7 @@ resources.biz-tech-insights.com
 resources.boldonjames.com
 resources.broadleafresults.com
 resources.bruderman.com
+resources.camarda.com
 resources.cartus.com
 resources.cibtvisas.com
 resources.cisecurity.org
@@ -105206,6 +105878,7 @@ ressources.promoneuve.fr
 rest.affex.org
 restaurant.affex.org
 restaurant.com.102.112.2o7.net
+restaurant.demdex.net
 restaurant.euleriancdn.net
 restaurant-hospitality.com.102.122.2o7.net
 rest.euleriancdn.net
@@ -105524,6 +106197,7 @@ rjfdvh.godmeetsfashion.com
 rjg2.destinia.ly
 rjgglf.ncchomelearning.co.uk
 rjmfmd.ewalia.at
+rjreynolds.demdex.net
 rk.affex.org
 rkdms.com
 rk.euleriancdn.net
@@ -105675,6 +106349,7 @@ rocky.affex.org
 rocky.euleriancdn.net
 rocvym.savagex.fr
 rod.affex.org
+rodent.botreach.de
 rodent.covisitor.app
 rodent.dualist.com
 rodent.kevindendievel.com
@@ -105682,6 +106357,7 @@ rodent.kubernetesreadme.com
 rodent.livelinor.dk
 rodent.mamuso.dev
 rodent.terrywrightstudio.com
+rodent.xilaluna.com
 rodeo.affex.org
 rodeo.euleriancdn.net
 rod.euleriancdn.net
@@ -105874,6 +106550,7 @@ rp.affex.org
 rpc.affex.org
 rpc.demdex.net
 rpc.euleriancdn.net
+rpeoa7oy1v.internal.madisonspecs.com
 rp.euleriancdn.net
 rpfkgf.rp-online.de
 rpfkgf.saarbruecker-zeitung.de
@@ -106056,6 +106733,7 @@ rts1.eulerian.net
 rts.affex.org
 rt.services.visualstudio.com
 rts.euleriancdn.net
+rts.eulerian.com
 rts.eulerian.eu
 rts.eulerian.fr
 rts.eulerian.net
@@ -106141,6 +106819,7 @@ rverxn.autosphere.fr
 rv.euleriancdn.net
 rvhxht.smulderstextiel.nl
 rviunh.tosowoong.com
+rvjqkjz1efai.ddns.dataunlocker.com
 rvk5h3te7djx.ddns.dataunlocker.com
 rvlife.postaffiliatepro.com
 rvtwqp.winparts.se
@@ -107266,6 +107945,7 @@ s4.parkeren-denbosch.nl
 s4.parkeren-denhaag.nl
 s4.parkerenindestad.nl
 s4.parkeren-maastricht.nl
+s4.partner.yoomoney.ru
 s4.rotterdamparkeren.nl
 s503497033.hs.eloqua.com
 s508159127.hs.eloqua.com
@@ -107846,6 +108526,7 @@ safe.euleriancdn.net
 safeguard.cloudkettle.com
 safein.affex.org
 safein.euleriancdn.net
+safe.joinmosaic.com
 safelink.ocs.com
 safe.lovefromhomegiftbaskets.com
 safe.peoplesafe.co.uk
@@ -108805,9 +109486,11 @@ scorpion.byteside.com
 scorpion.clare.ink
 scorpion.euleriancdn.net
 scorpion.gamedao.co
+scorpion.indexforwp.com
 scorpion.smskmail.com
 scorpion.sommcellar.co.uk
 scorpion.the-m1.world
+scotiabank.demdex.net
 scott.affex.org
 scott.euleriancdn.net
 scottishpower.co.uk.102.122.2o7.net
@@ -108980,6 +109663,7 @@ seagull.affex.org
 seagull.euleriancdn.net
 seagull.wwnorton.com
 seahorsebio.actonsoftware.com
+seahorse.brightwayhealth.org
 seahorse.cognito.wiki
 seahorse.dexterityvisuals.com
 seahorseinfo.agilent.com
@@ -109110,6 +109794,7 @@ secure10.euleriancdn.net
 secure11.affex.org
 secure11.euleriancdn.net
 secure1.affex.org
+secure1a.valic.com
 secure.1-cl0ud.com
 secure1.desjardinsassurancesgenerales.com
 secure1.desjardinsgeneralinsurance.com
@@ -109194,6 +109879,7 @@ secure.bass2poll.com
 secure.benn8bord.com
 secure.bike6debt.com
 secure.blue2fund.com
+secure.boat3deer.com
 secure.bod-grp.com
 secure.bolt8snap.com
 secure.bred4tula.com
@@ -109248,6 +109934,7 @@ securedata.solucious.be
 securedata.unsw.edu.au
 secure.dawn3host.com
 secure.deng3rada.com
+secure.dens1raec.com
 secure.desjardinsassurancesgenerales.com
 secure.desjardinsgeneralinsurance.com
 secured.euleriancdn.net
@@ -109376,6 +110063,7 @@ secure-lax.adnxs.com
 secure.lazy8krti.com
 secure.lead5beat.com
 secure.left5lock.com
+secure.line6agar.com
 secure.link5view.com
 secure.liod1ours.com
 secure.list1holp.com
@@ -109449,6 +110137,7 @@ secure.oboe3broo.com
 secureod.odfl.com
 secure.oita4bali.com
 secure.omni.hillspet.com
+secure.omniture.optimum.net
 secure.orthology.com
 secure.otto5loki.com
 secure.ours3care.com
@@ -109492,6 +110181,7 @@ secure.rtrcdn.com
 secure.ruth8badb.com
 secure.ryke4peep.com
 secure.said3page.com
+secure.sale0home.com
 secure.saon6harz.com
 secure.scan6show.com
 secure.sears.ca.102.122.2o7.net
@@ -109594,11 +110284,13 @@ secure.yami8alea.com
 secure.yeld9auto.com
 secure.yirr5frog.com
 secure.zando.co.za
+securian.demdex.net
 securitasdirect.eulerian.net
 security2.affex.org
 security2.euleriancdn.net
 security.affex.org
 security.claroty.com
+security.demdex.net
 security.euleriancdn.net
 security.flatt.tech
 securityhealth.org.102.112.2o7.net
@@ -109729,11 +110421,13 @@ send1.alsearsmd.com
 send2.alsearsmd.com
 send2fax.com.102.122.2o7.net
 send.affex.org
+send.bridor.com
 send.creditplus.com
 sender.affex.org
 sender.euleriancdn.net
 sender.pcma.org
 send.euleriancdn.net
+sendgrid.employeelinkapp.com
 sendgrid.euleriancdn.net
 sendgridlinks.neuroflowsolution.com
 sendgrid.me
@@ -110492,6 +111186,7 @@ share.getsetup.io
 share.ggu.edu
 share.go2bank.com
 share.greenlightcard.com
+share.greenlight.com
 share.hanacure.com
 share.highlandsolutions.com
 share.hospicesource.net
@@ -110583,8 +111278,10 @@ share.yandex.ru
 sharing.affex.org
 sharing.euleriancdn.net
 shark.affex.org
+shark.codeswitch.be
 shark.euleriancdn.net
 shark.fapnite.com
+shark.getplayback.com
 shark.johnschmidt.de
 shark.popdog.com
 shark.renebyte.com
@@ -110667,6 +111364,7 @@ shipsmarter.idrivelogistics.com
 ship.swacargo.com
 shipyea.point2pointglobal.com
 shire.affex.org
+shire.demdex.net
 shire.euleriancdn.net
 shiremedinfo.com.102.112.2o7.net
 shiseido.demdex.net
@@ -110960,9 +111658,11 @@ silver.affex.org
 silverbladebrands.postaffiliatepro.com
 silver.euleriancdn.net
 silverfish.camaleon.gt
+silverfish.dailybuilds.com
 silverfish.djordjevanjek.com
 silverfish.skillsandjobs.eu
 silverfish.smsk.email
+silverfish.trustduty.com
 silvergoldtobuy.eulerian.net
 silverpop.com
 silversage.com.102.112.2o7.net
@@ -111204,6 +111904,7 @@ site.master-progress.co.jp
 site.mugenreport.com
 site.newzstand.com
 site.nextenergy.jp
+site-research.net
 sites.affex.org
 sites.atosmedical.com
 sites.atosmedical.co.uk
@@ -111401,6 +112102,7 @@ sle02.eulerian.net
 sle03.eulerian.net
 s.leannestaples.com
 sleep.affex.org
+sleepandglow.postaffiliatepro.com
 sleep.euleriancdn.net
 sleeponcommand.com
 sleeps.vermontteddybear.com
@@ -111589,6 +112291,7 @@ smetric.ads.microsoft.com
 smetric.amespi.jp
 smetricas.fgv.br
 smetric.atg.se
+smetric.atlanticbay.com
 smetric.bahamabreeze.com
 smetric.baur.de
 smetric.baylorhealth.com
@@ -111605,6 +112308,7 @@ smetric.eddiev.com
 smetric.efgonlineplus.de
 smetric.eflora.co.jp
 smetric.e-nichii.net
+smetric.ezbodyparts.com
 smetric.golloyds.com
 smetric.hilton.com
 smetric.iccu.com
@@ -111916,6 +112620,7 @@ smetrics.amway-qas.com.gt
 smetrics.amway-qas.com.hn
 smetrics.amway-qas.com.mx
 smetrics.amway-qas.com.pa
+smetrics.amway-qas.com.sv
 smetrics.amway-qas.com.ua
 smetrics.amway-qas.com.uy
 smetrics.amway-qas.com.ve
@@ -111928,6 +112633,7 @@ smetrics.amway-qas.fi
 smetrics.amway-qas.fr
 smetrics.amway-qas.gr
 smetrics.amway-qas.hr
+smetrics.amway-qas.hu
 smetrics.amway-qas.ie
 smetrics.amway-qas.it
 smetrics.amway-qas.nl
@@ -112237,6 +112943,7 @@ smetrics.bottegaverde.at
 smetrics.bottegaverde.de
 smetrics.bottegaverde.es
 smetrics.bottegaverde.it
+smetrics.boxuong.com.vn
 smetrics.boyihui.com
 smetrics.breezeforcats.com
 smetrics.brelyse.com
@@ -112459,6 +113166,7 @@ smetrics.contractormag.com
 smetrics.converse.com
 smetrics.converse.co.uk
 smetrics.cookhouseandpub.co.uk
+smetrics.cookieskids.com
 smetrics.coolibar.com
 smetrics.coordinatedcarehealth.com
 smetrics.copart.com
@@ -112513,6 +113221,7 @@ smetrics.creditscore.com
 smetrics.credomobile.com
 smetrics.crimewatchdaily.com
 smetrics.crocs.at
+smetrics.crocsaustralia.com.au
 smetrics.crocs.ca
 smetrics.crocs.co.jp
 smetrics.crocs.co.kr
@@ -112897,6 +113606,7 @@ smetrics.fuelman.com
 smetrics.fullscoperms.com
 smetrics.fuzeon.com
 smetrics.fxsolutions.com
+smetrics.gamestop.ca
 smetrics.gatesnotes.com
 smetrics.gatewaylms.abbott.com
 smetrics.gazyva.com
@@ -113648,6 +114358,7 @@ smetrics.mrrooter.ca
 smetrics.mrrooter.com
 smetrics.mrt.com
 smetrics.msg.com
+smetrics.m.similac.com
 smetrics.mslifelines.com
 smetrics.mtlabs.jp
 smetrics.mufso.com
@@ -113836,9 +114547,11 @@ smetrics.opsm.com.au
 smetrics.opsm.co.nz
 smetrics.optic2000.com
 smetrics.optimum.net
+smetrics.optoiq.com
 smetrics.optum.com
 smetrics.orangetheory.com
 smetrics.orbis.co.jp
+smetrics.orchardmag.com
 smetrics.orderannualreports.com
 smetrics.oreck.com
 smetrics.oreillyauto.com
@@ -114076,6 +114789,7 @@ smetrics.ray-ban.com
 smetrics.rbcgam.com
 smetrics.rbcgma.com
 smetrics.rbfhealth.org
+smetrics.rbsmarketplace.com.cn
 smetrics.rbsmarketplace.ru
 smetrics.rbsm.com
 smetrics.rci.com
@@ -114682,6 +115396,7 @@ smetrics.timberland.de
 smetrics.timberland.es
 smetrics.timberland.fr
 smetrics.timberland.it
+smetrics.timberlandonline.co.uk
 smetrics.time.com
 smetrics.timeforkids.com
 smetrics.timeinc.com
@@ -115056,6 +115771,7 @@ smetric.yardhouse.com
 smetrix.511tactical.com
 smetrix.avon.uk.com
 smetrix.youravon.com
+smetr.sophia.org
 sm.euleriancdn.net
 smf.affex.org
 smf.euleriancdn.net
@@ -115178,6 +115894,7 @@ smtp13.euleriancdn.net
 smtp14.affex.org
 smtp14.euleriancdn.net
 smtp15.affex.org
+smtp15.euleriancdn.net
 smtp16.affex.org
 smtp16.euleriancdn.net
 smtp1.affex.org
@@ -117522,6 +118239,7 @@ snake.euleriancdn.net
 snake.hotelamoi.com
 snake.joeharby.com
 snake.kiramclean.com
+snake.planecq.com
 snapads.com
 snap.affex.org
 snapengage.com
@@ -117728,6 +118446,7 @@ solarwinds.affex.org
 solarwindscom.postaffiliatepro.com
 solarwinds.demdex.net
 solarwinds.euleriancdn.net
+solarwindsworldwidellc.demdex.net
 solarworld01.webtrekk.net
 sole.affex.org
 sole.bkosmetik.com
@@ -117737,6 +118456,7 @@ sole.euleriancdn.net
 sole.iapses.com
 soleil.affex.org
 soleil.euleriancdn.net
+sole.maraispatrimoine.com
 sole.riverwalkdental.com.au
 sole.tailwind.club
 sol.euleriancdn.net
@@ -117976,6 +118696,7 @@ somni.cineplex.com
 somni.cineplexdigitalmedia.com
 somni.clinicaladvisor.com
 somni.clinicalpainadvisor.com
+somni.cn.saxobank.com
 somni.cpobd.com
 somni.cpobostitch.com
 somni.cpocampbellhausfeld.com
@@ -118041,6 +118762,7 @@ somni.holidaycheck.com
 somni.holidaycheck.cz
 somni.holidaycheck.de
 somni.holidaycheck.es
+somni.holidaycheck.fr
 somni.holidaycheck.it
 somni.holidaycheck.nl
 somni.holidaycheck.pl
@@ -118091,6 +118813,7 @@ somni.rei.com
 somni.renalandurologynews.com
 somni.rheumatologyadvisor.com
 somni.rocketaccount.com
+somni.rocketauto.com
 somni.rocketcompanies.com
 somni.rockethomes.com
 somni.rockethq.com
@@ -118846,6 +119569,7 @@ spr.demdex.net
 spreadco.postaffiliatepro.com
 spreadshirt.com.102.112.2o7.net
 spreadshirt.co.uk.102.112.2o7.net
+spreadshirt.demdex.net
 spreadshirt.es.102.112.2o7.net
 spreadshirt.fi.102.112.2o7.net
 spreadshirt.fr.102.112.2o7.net
@@ -118989,6 +119713,7 @@ squid.invoice.build
 squirrel.affex.org
 squirrel.cividi.ch
 squirrel.cobaltconnect.com
+squirrel.ethanelientz.com
 squirrel.euleriancdn.net
 squirrel.honeysqueeze.app
 squirrel.laravel-mix.com
@@ -119001,6 +119726,7 @@ sr1.euleriancdn.net
 sr2.euleriancdn.net
 sr3.affex.org
 sr3.euleriancdn.net
+sr59t7wbx5.claricelin.com
 sra.affex.org
 sra.euleriancdn.net
 sr.affex.org
@@ -119410,6 +120136,7 @@ ssc.blurb.ca
 ssc.blurb.de
 ssc.blurb.es
 ssc.blurb.fr
+ssc.budgetair.be
 ssc.budgetair.co.uk
 ssc.budgetair.fr
 ssc.budgetair.nl
@@ -120099,6 +120826,7 @@ st4.affex.org
 st4.euleriancdn.net
 st6.affex.org
 st6.euleriancdn.net
+st-a8.tscubic.com
 sta.affex.org
 stable.affex.org
 stable.euleriancdn.net
@@ -120397,6 +121125,7 @@ static.spacenine.biz
 static-ssl.upsight-api.com
 static.ssp.shufoo.net
 statictm-tradimo.eccdn.net
+static.tongdun.net
 static.upsight-api.com
 static.va1.vip.prod.criteo.net
 stat.incompliance.cz
@@ -121095,6 +121824,7 @@ stats.iamzero.dev
 stats.iata.org
 stats.ibuildings.net
 stats.icimusique.ca
+stats.ideologicalconflict.org
 stats.idle.cafe
 stats.iefg.org
 stats.ifiwasgame.com
@@ -121460,6 +122190,7 @@ stats.notecardtweets.com
 stats.nothingbutnylon.com
 stats.notocd.com
 stats.noverant.com
+stats.now2021.de
 stats.nowicki.io
 stats.nrcaknights.com
 stats.ntietz.com
@@ -122020,6 +122751,7 @@ stats.vashurok.ru
 stats.vattenfall.se
 stats.vdfu-news.de
 stats.vdsnow.ru
+stats.vegamuze.be
 stats.vehix.com.102.112.2o7.net
 stats.ventizo.com
 stats.verticalaxion.com
@@ -122197,6 +122929,7 @@ stefanini2.actonsoftware.com
 stefanini.actonsoftware.com
 stefanpiaskowski01.webtrekk.net
 stehly.justfashionnow.com
+steinbackhaus.viessmann.com
 steinernehaus.viessmann.at
 steinersports.com.102.112.2o7.net
 steiner-vision-at.affex.org
@@ -122499,12 +123232,14 @@ striker.euleriancdn.net
 string.affex.org
 string.euleriancdn.net
 s.tritoninfosec.com
+strk.chegg.com
 stroeer01.webtrekk.net
 strokeawareness.com.102.122.2o7.net
 strong.affex.org
 strong.euleriancdn.net
 stroudnewsandjournal-gb.stroudnewsandjournal.co.uk
 str.shawconnect.ca
+str.showcase.ca
 str.slice.ca
 struq.com
 strx.mrsfields.com
@@ -122634,6 +123369,7 @@ sub.info.mouser.com
 sublimeskinz.com
 sublimeskinz.eulerian.net
 sub.maihays.tk
+sub.mens-skin-care.info
 submission.accessplanit.com
 submit.affex.org
 submit.euleriancdn.net
@@ -122657,6 +123393,7 @@ subscriber.beasleyallen.com
 subscriber.euleriancdn.net
 subscriber.franchiseinsights.com
 subscribers.luxurylink.com
+subscriber.smallbusinessstartup.com
 subscription.coface.com
 subscriptionmanagement.53.com
 subscriptions.affex.org
@@ -122737,6 +123474,7 @@ success.zaius.com
 suche.affex.org
 suche.euleriancdn.net
 sucmetrics.hypovereinsbank.de
+sucmetrics.ucfin.it
 sucmetrics.unicreditbanca.it
 sucmetrics.unicredit.de
 sucmetrics.unicreditgroup.eu
@@ -123097,6 +123835,7 @@ sv.plan-b.co.jp
 svpn.affex.org
 svpn.euleriancdn.net
 svpxbr.drsquatch.com
+svr007phz.com
 svr-prc-01.com
 svs.affex.org
 svs.euleriancdn.net
@@ -123183,6 +123922,7 @@ sw88.thewaltdisneycompany.eu
 swa.and.co.uk
 swa.asnbank.nl
 swa.autoanything.com
+swa.b2cjewels.com
 swa.bol.com
 swa.castorama.fr
 swa.cdgp.fr
@@ -123230,6 +123970,7 @@ swamp.affex.org
 swamp.euleriancdn.net
 swan.affex.org
 swanageandwarehamvoice-gb.swanageandwarehamvoice.co.uk
+swan.auftragapp.com
 swan.datingjungle.de
 swan.euleriancdn.net
 swa.nexive.it
@@ -123326,6 +124067,7 @@ sw.euleriancdn.net
 swf.affex.org
 swf.euleriancdn.net
 swid.euleriancdn.net
+swift.1821graphicnovel.gr
 swift.affex.org
 swift.ciudadanob.com
 swift.efedorenko.com
@@ -123367,6 +124109,7 @@ sword.euleriancdn.net
 swordfish.affex.org
 swordfishdc.com
 swordfish.dnsmanager.io
+swordfish.elvietanny.com
 swordfish.euleriancdn.net
 swordfish.floofs.com
 swordfish.holzschuhe.at
@@ -123422,6 +124165,7 @@ syemld.xlmoto.it
 sy.euleriancdn.net
 syf.demdex.net
 syfwnf.society6.com
+syfyblastr.demdex.net
 sykc.madeindesign.ch
 syktyvkar.affex.org
 syktyvkar.euleriancdn.net
@@ -123624,6 +124368,7 @@ tacticalma.actonsoftware.com
 tactilews.com
 tactixsocialmedia.actonsoftware.com
 tad.affex.org
+ta.demdex.net
 tad.euleriancdn.net
 t.admissions.olemiss.edu
 ta.euleriancdn.net
@@ -123682,6 +124427,7 @@ tags.eq.natwestinternational.com
 tags.eq.rbsinternational.com
 tags.euleriancdn.net
 tags.extole.com
+tags.foxnews.com
 tags.greenfeatheronline.com
 tags.harpercollins.com
 tags.homecredit.co.in
@@ -123775,6 +124521,7 @@ talk.affex.org
 talk.euleriancdn.net
 talkincloud.com.102.122.2o7.net
 talkline-de.affex.org
+talkto.assurity.sg
 talkto.comreal.com
 tallahassee.affex.org
 tallahassee.com.102.112.2o7.net
@@ -123991,6 +124738,7 @@ tasteofhome.com.102.122.2o7.net
 tata.affex.org
 tata.demdex.net
 tata.euleriancdn.net
+tataunistore.demdex.net
 tatehj.nylaarp.com
 tatiana.affex.org
 tatiana.euleriancdn.net
@@ -124015,6 +124763,8 @@ tax.euleriancdn.net
 taxi.affex.org
 taxi.com.102.122.2o7.net
 taxi.euleriancdn.net
+taxinsider.taxsystems.com
+taxinsider.taxsystemsplc.com
 taxnorthamerica.altusgroup.com
 tax.ryan.com
 taxslayerllc.demdex.net
@@ -124375,6 +125125,7 @@ telus.hb-api.omtrdc.net
 telus.hb.omtrdc.net
 telusmobility.com.102.122.2o7.net
 telxbr.pulsesmall.com
+temail.playamo.com
 temasekpolytechnic.demdex.net
 te.mirapodo.de
 te-mirapodo-de.oghub.io
@@ -124449,6 +125200,7 @@ te-quelle-de.oghub.io
 tera.affex.org
 teracom.actonservice.com
 teradata.com.102.122.2o7.net
+teraes.hgreg.com
 tera.euleriancdn.net
 terdzl.ohmyglasses.jp
 terence.affex.org
@@ -124821,6 +125573,7 @@ tf2.affex.org
 tf2.euleriancdn.net
 tf.affex.org
 tfb1.usinestreet.fr
+tfbmqfzkgpj0.ddns.dataunlocker.com
 tfdtpa.dot-st.com
 t.festo.com
 tf.euleriancdn.net
@@ -125072,6 +125825,7 @@ thisiswiltshire-gb.thisiswiltshire.co.uk
 thjhaj.zooart.com.pl
 thkb.wobz.fr
 thm12.visa.com
+thmep.bitbay.net
 thmgfi.hotelplanner.com
 thm.visa.com
 thm.v.me
@@ -125141,6 +125895,7 @@ tick.builtnoble.dev
 ticker.affex.org
 ticker.euleriancdn.net
 ticket.affex.org
+ticketea.postaffiliatepro.com
 ticket.euleriancdn.net
 ticketflippinghub.postaffiliatepro.com
 ticketing.affex.org
@@ -125180,6 +125935,7 @@ ti.euleriancdn.net
 tif.affex.org
 tifbs.net
 tif.euleriancdn.net
+tiffanyandcompany.demdex.net
 tiffany.ca.102.112.2o7.net
 tiffany.com.102.112.2o7.net
 tiffany.com.au.102.112.2o7.net
@@ -125191,7 +125947,9 @@ tiga.affex.org
 tiga.euleriancdn.net
 tiger.affex.org
 tiger.aofinance.com.au
+tiger.devlib.se
 tiger.euleriancdn.net
+tiger.goreachkit.com
 tigermediaholdings.postaffiliatepro.com
 tiger.melissajclark.ca
 tigermonetize.com
@@ -125228,6 +125986,7 @@ timberland.es.102.112.2o7.net
 timberland.fr.102.112.2o7.net
 timberland.it.102.112.2o7.net
 timberlandonline.co.uk.102.112.2o7.net
+tim.demdex.net
 time1.affex.org
 time1.euleriancdn.net
 time2.affex.org
@@ -125264,6 +126023,7 @@ tim.euleriancdn.net
 timewarnercable.com.102.122.2o7.net
 tim.hb-api.omtrdc.net
 tim.hb.omtrdc.net
+timing.whenandhowagency.com
 timmy.affex.org
 timmy.euleriancdn.net
 timon.affex.org
@@ -125443,6 +126203,7 @@ tk.euleriancdn.net
 tk-fnac.storetail.io
 tk.healthwarehouse.com
 t.kinliser.co.jp
+tkjcqb.forrent.com
 tk.kitchendiet.fr
 tk.klm.com
 tk.lcl.fr
@@ -125527,6 +126288,7 @@ tm.cbd.ae
 tmc.demdex.net
 tmcdn.homeaway.com
 tmc.euleriancdn.net
+tmck.milestonegoldcard.com
 tm.clearcover.com
 tm.clearmatch.co
 tmcontent.imvu.com
@@ -125551,6 +126313,7 @@ tmh4pshu0f3n.com
 tmhb.cloud.avg.com
 tm.highlow.net
 tm.holidaylettings.co.uk
+tmi.my529.org
 t.missioncap.com
 t.missionglobal.com
 tm.kotak.com
@@ -125580,6 +126343,7 @@ tm.regions.com
 tm.regionsqa.com
 tm.regionstest.com
 tm.remit2india.com
+tm.reserve.tokyodisneyresort.jp
 tmrpe.astrazeneca.com
 tms.affex.org
 tms.euleriancdn.net
@@ -126302,6 +127066,7 @@ tracking.bnppre.fr
 tracking.bonava.de
 tracking.bonava.dk
 tracking.bonava.ee
+tracking.bonava.fi
 tracking.bonava.lt
 tracking.bonava.lv
 tracking.bonava.no
@@ -126372,6 +127137,7 @@ tracking.go.beacontrust.com
 tracking.go.lorainccc.edu
 tracking.goodnesslover.com
 tracking.go.onshape.com
+tracking.goshare.co
 tracking.guidehouse.com
 tracking.gxmedia-ads.com
 tracking.hardoxwearparts.com
@@ -126506,6 +127272,7 @@ tracking.patientengagementhit.com
 tracking.pdtest.yamatatsu-nyannyan.tokyo
 tracking.peco.com
 tracking.pella.com
+tracking.pennmedicine.princetonhcs.org
 tracking.pepsicopartners.com
 tracking.petrelocation.com
 tracking.pgi.com
@@ -126578,6 +127345,7 @@ tracking.ssab.se
 tracking.ssab.us
 trackingssl.agemployeebenefits.be
 trackingssl.aginsurance.be
+trackingssl.agpensionandhealthservices.com
 trackingssl.agrealestate.eu
 trackingssl.drysolutions.be
 trackingssl.funalia.be
@@ -126600,6 +127368,7 @@ tracking.tchibo.cz
 tracking.tchibo.de
 tracking.tchibo.dk
 tracking.tchibo.hu
+tracking.tchibo.pl
 tracking.tchibo.sk
 tracking.tdk.com
 tracking.tdk.com.cn
@@ -126731,6 +127500,7 @@ track.xuite.net
 track.yellostrom.de
 tr.acq-pjms.fr
 trac.roomster.com
+tr.actiflip.devisdirect.com
 tr.activeprospects.info
 tractorbluebook.com.102.122.2o7.net
 tractorsupply.demdex.net
@@ -126813,7 +127583,9 @@ trailers.euleriancdn.net
 trailers.transwest.com
 trailinvestigator.com
 trail-route.com
+trail.thomsonreuters.ca
 trail.thomsonreuters.com
+trail.thomsonreuters.co.uk
 trail-viewer.com
 trail-web.com
 train.affex.org
@@ -127027,6 +127799,7 @@ travelaudience.com
 travel.caradonna.com
 travel.cruisesforless.com
 travel.dealchecker.co.uk
+traveldealcomparisons.com
 travel.easyvoyage.com
 travel.ec-ovc.com
 travel.ecsc-ovc.com
@@ -127466,6 +128239,7 @@ tr.gdfsuez-globalenergy.info
 tr.gen.espmp-agfr.net
 tr.gestion.banque-casino.fr
 tr.gestion.banque-revillon.fr
+tr.gestion.cafineo.fr
 tr.gestion.cetelem.fr
 tr.gestion.coficabail.fr
 tr.gestion.cofinoga.fr
@@ -127528,6 +128302,7 @@ triggit.com
 trillian.affex.org
 trillian.euleriancdn.net
 tr-immobilienfinanzierung-de.affex.org
+tr.impayes.filiassur.com
 tr.info.actionlogement.fr
 tr.info.adria.tm.fr
 tr.info.aeroportdeauville.com
@@ -127635,6 +128410,7 @@ tr.info.vip-mag.co.uk
 tr.info.webikeo.fr
 trinidad.affex.org
 trinidad.euleriancdn.net
+trinidad.sears.com
 trinity.affex.org
 trinityconsultants.actonservice.com
 trinity.euleriancdn.net
@@ -127814,6 +128590,7 @@ tr.livrephoto.espmp-aufr.net
 tr-logitravel-com.affex.org
 tr.loreal.ifop.com
 tr.louisvuittonmalletier.com
+tr.louvre-boites.com
 tr.ltbu02o.espmp-agfr.net
 tr.ltbu.espmp-nifr.net
 tr.lvmhappening.lvmh.fr
@@ -127823,6 +128600,7 @@ tr.magvet.info
 tr.mail306.com
 tr.mailatia.com
 tr.mail.banque-casino.fr
+tr.mail.car-n-cash.com
 tr.mail.cdiscount.com.co
 tr.mail.cdiscount.com.ec
 tr.mail.cdiscount.com.pa
@@ -127980,6 +128758,7 @@ tr.news.corsicalinea.com
 tr.news.cotemaison.fr
 tr.news.cporadio.tv
 tr.news.crystal-mobility.com
+tr.news.crystal-partenaires.com
 tr.news.davidson-distribution.com
 tr.news.delifrance.com
 tr.news.deneuville-chocolat.fr
@@ -128603,6 +129382,7 @@ tr-zooroyal-de.affex.org
 tr.zsdc.espmp-agfr.net
 ts01.affex.org
 ts01.euleriancdn.net
+ts17.affex.org
 ts17.euleriancdn.net
 ts1.affex.org
 ts1.euleriancdn.net
@@ -128703,6 +129483,7 @@ tst16infra.com
 tst.affex.org
 t.staging-mail.tabcorp.com.au
 t-s.tamiflu.com
+t-s.tarceva.com
 tst-cdna.paymentncb.cofidis.fr
 tst.euleriancdn.net
 t-s.tnkase.com
@@ -128882,6 +129663,7 @@ turtle.franzwalter.com
 turtle.geshem.space
 turtle.hackstock.net
 turtle.leonalef.it
+turtle.mushtache.com
 turtle.mydataroom.io
 turtle.olivier.cx
 turtle.sid.scot
@@ -128922,6 +129704,7 @@ tver.affex.org
 t.veranstaltungsticket-bahn.de
 tver.euleriancdn.net
 tv.euleriancdn.net
+tvkfms.nta.co.jp
 tvl8.supdecreation.com
 tvnz.co.nz.102.122.2o7.net
 tvonline.affex.org
@@ -128998,6 +129781,7 @@ twsdne.petenkoiratarvike.com
 twzu.lerunning.fr
 tx1.cimbclicks.com.my
 tx.affex.org
+txcontent.iherb.cn
 txcontent.iherb.com
 tx.cybercodersrecruiting.com
 txeemx.aritaum.com
@@ -129452,6 +130236,7 @@ unvalidated.g.msn.com
 unyzea.aboutyou.sk
 uoblij.farmaline.be
 uobsoe.com
+uofcdl.lagos.com
 uog.gus.global
 uogzih.profinfo.pl
 uol.com.br.102.112.2o7.net
@@ -129578,6 +130363,7 @@ url259.artcollection.io
 url3630.newsletter.experience-muse.com
 url3981.kazooby.com
 url4142.dev.att.llabs.io
+url4248.checkle.com
 url5060.settlyt.com
 url5290.dev-portal.icanbwell.com
 url6013.qa-app11-sendgrid.branch.rocks
@@ -129597,6 +130383,7 @@ url9420.playfueasy.com
 url9576.oneshift.com
 url9609.account.experience-muse.com
 url.affex.org
+url-all-info.cn-shanghai.log.aliyuncs.com
 urldelivery.com
 url.euleriancdn.net
 url.msgcorp.jp
@@ -129736,6 +130523,7 @@ ut.actonsoftware.com
 ut.affex.org
 utah.affex.org
 utah.euleriancdn.net
+utahtechcouncil.mv.treehousei.com
 utarget.ru
 utbwuu.ultracasas.com
 utcial.fitpetmall.com
@@ -129901,6 +130689,7 @@ vampire.affex.org
 vampirebat.datingmedellin.com
 vampirebat.febolos.es
 vampirebat.jake8n.com
+vampirebat.ngndigital.com
 vampirebat.sharpend.io
 vampirebat.stiftung-palliativ-zuhause.de
 vampirebat.swingnsail.com
@@ -130151,6 +130940,7 @@ verify.affex.org
 verify.apple.affex.org
 verify.apple.euleriancdn.net
 verify.euleriancdn.net
+verify.marvel.com
 verify.metlife.com
 verify.newdaycards.com
 verify.philippineairlines.com
@@ -130318,6 +131108,7 @@ victoria.affex.org
 victoria.euleriancdn.net
 victory.affex.org
 victory.euleriancdn.net
+vicuna.atlascables.com
 vicuna.callisoma.com
 vicuna.casa-moebel.at
 vicuna.equity.no
@@ -130814,6 +131605,7 @@ vodafonein.demdex.net
 vodafone.it.102.122.2o7.net
 vodafoneit.demdex.net
 vodafoneturkey.demdex.net
+vodafoneuk.demdex.net
 vod.euleriancdn.net
 vodka.affex.org
 vodka.euleriancdn.net
@@ -131116,6 +131908,7 @@ volvo.demdex.net
 volvo.euleriancdn.net
 volzye.bullguard.com
 vo.mynaturesdelight.com
+vonagemarketingllc.demdex.net
 vonazon.actonservice.com
 voodoo.affex.org
 voodoodigital.users.affex.org
@@ -131124,6 +131917,7 @@ voodoo.euleriancdn.net
 voopter-com-br.affex.org
 voqmux.glamira.com.tr
 voqwao.commonhaus.co.kr
+voronezh.affex.org
 voronezh.euleriancdn.net
 vortala.actonservice.com
 vortex.affex.org
@@ -131417,6 +132211,7 @@ vulture.dbored.com
 vulture.downzeroky.com
 vulture.itsgrafton.com
 vulture.lagosdesaliencia.com
+vulture.lrntngn.com
 vungle.com
 vuqgzz.fiftyoutlet.com
 vuukle.com
@@ -131644,6 +132439,7 @@ waptest.affex.org
 waptest.euleriancdn.net
 wa.quarks.de
 war.affex.org
+warbler.strikingcontra.st
 warbler.tailwind-colors.com
 warbler.todoscout.com
 warbler.tuuter.nl
@@ -131737,6 +132533,7 @@ water.dupont.com
 water.euleriancdn.net
 water.mastermeter.com
 waters.com.102.112.2o7.net
+waterscorporation.demdex.net
 water.tetrapak.com
 wat.euleriancdn.net
 watfordobserver-gb.watfordobserver.co.uk
@@ -131824,6 +132621,7 @@ wdukge.midwayusa.com
 wdwwfu.poshvu.ru
 we.affex.org
 wealthcarecapital.actonservice.com
+wealth.financialnewswire.com.au
 wealth.informabi.com
 wealthmanagement.com.102.122.2o7.net
 weare.ballymoregroup.com
@@ -131834,7 +132632,10 @@ weareknitters.eulerian.net
 weare.ninetyone.com
 wearevoice-gb.wearevoice.co.uk
 wearvalleyadvertiser-gb.wearvalleyadvertiser.co.uk
+weasel.funktionslust.digital
+weasel.madebytune.be
 weasel.ovadia.org
+weasel.sharethegoods.ca
 weasel.vvys.me
 weather.affex.org
 weather.com.102.112.2o7.net
@@ -132425,6 +133226,7 @@ web13247.euleriancdn.net
 web13248.affex.org
 web13248.euleriancdn.net
 web13249.affex.org
+web13249.euleriancdn.net
 web13250.affex.org
 web13250.euleriancdn.net
 web13.affex.org
@@ -135828,6 +136630,7 @@ web3541.euleriancdn.net
 web3542.affex.org
 web3542.euleriancdn.net
 web3543.affex.org
+web3543.euleriancdn.net
 web3544.affex.org
 web3544.euleriancdn.net
 web3545.affex.org
@@ -137206,6 +138009,7 @@ web4407.affex.org
 web4407.euleriancdn.net
 web4408.affex.org
 web4408.euleriancdn.net
+web4409.affex.org
 web4409.euleriancdn.net
 web4410.affex.org
 web4410.euleriancdn.net
@@ -139286,6 +140090,7 @@ web5741.affex.org
 web5741.euleriancdn.net
 web5742.affex.org
 web5742.euleriancdn.net
+web5743.affex.org
 web5743.euleriancdn.net
 web5744.affex.org
 web5744.euleriancdn.net
@@ -140213,6 +141018,7 @@ web6325.euleriancdn.net
 web6326.affex.org
 web6326.euleriancdn.net
 web6327.affex.org
+web6327.euleriancdn.net
 web6328.affex.org
 web6328.euleriancdn.net
 web6329.affex.org
@@ -141697,6 +142503,7 @@ webclasseur.affex.org
 webclasseur.euleriancdn.net
 webclient.affex.org
 webclient.euleriancdn.net
+web-cntr-07.com
 web.collaboration-access.com
 webcollage.com
 webcollage.net
@@ -142135,6 +142942,7 @@ web.innovaciondespachos.com
 web.integrim.com
 web.internal.communications.bnpparibas
 web.investis.com
+web.iotap.com
 web.ipcoop.com
 web.irdeto.com
 web.judsonu.edu
@@ -142301,6 +143109,7 @@ webshop.euleriancdn.net
 webshop.loading-systems.com
 website.affex.org
 website.euleriancdn.net
+websiteexploration.com
 websites.affex.org
 website-security.geotrust.com
 website-security.rapidssl.com
@@ -142334,6 +143143,7 @@ webstats.hertzian.io
 webstats.kronos.com
 webstats.lasoo.com.au
 webstats.redearthsystems.com
+webstats.tripsta.net
 webstats.vodafone.com
 webstat.vodafone.com
 webster.affex.org
@@ -142561,6 +143371,7 @@ wezbvq.heine-shop.nl
 we.zebranding.com
 wezowski.postaffiliatepro.com
 wfa.affex.org
+wfa.demdex.net
 wfa.euleriancdn.net
 wf.affex.org
 wfahb.cloud.avg.com
@@ -142631,6 +143442,7 @@ whitefish.autharmor.com
 whitefish.centralvillagesocial.com
 whitefish.finanzritter.com
 whitefish.johnsandtaylor.com
+whitefish.motualis.com
 whitefish.wifiacademy.net
 whitehavennews-gb.whitehavennews.co.uk
 whitehouseblackmarket.com.102.122.2o7.net
@@ -142750,13 +143562,16 @@ wildcat.mediumrare.co
 wildcat.vivritiamc.com
 wildebeest.gmk.today
 wildebeest.quarva.dev
+wildebeest.sanapiel.co
 wildebeest.soft-spoken.dev
 wildebeest.theheritagelodge.com
 wildebeest.trigo.dev
 wildersol1.affex.org
 wildersol1.euleriancdn.net
 wild.euleriancdn.net
+wildfowl.dualascent.com
 wildfowl.getmoneyoff.com
+wildwolf.minter.io
 wileypublishing.demdex.net
 wiljekoffie.365werk.nl
 will.affex.org
@@ -142887,6 +143702,7 @@ winston.affex.org
 winston.euleriancdn.net
 winstonindustriesmarketing.actonsoftware.com
 winsupersite.com.102.122.2o7.net
+wintechnologies.demdex.net
 winter.affex.org
 winter.euleriancdn.net
 wintermute.affex.org
@@ -143053,6 +143869,7 @@ wombat.affex.org
 wombat.dfordesign.style
 wombat.euleriancdn.net
 wombat.modinfinity.com
+wombat.tigil.fr
 women.affex.org
 women.euleriancdn.net
 womensshoes.bizrate.com
@@ -143071,6 +143888,7 @@ woodpecker.day4.agency
 woodpecker.eatfresh.tech
 woodpecker.ember.ly
 woodpecker.groupe-montagne.ch
+woodpecker.oliveandblossom.com
 woodpecker.seabits.com
 woodruffsweitzer.actonservice.com
 woodstock.affex.org
@@ -143080,6 +143898,7 @@ woodward.actonservice.com
 woodworkingone.wurthlac.com
 woody.affex.org
 woody.euleriancdn.net
+woojeh.yellowkorner.com
 woopic.com
 woopra.com
 woow.affex.org
@@ -143226,6 +144045,7 @@ wraith.affex.org
 wraith.euleriancdn.net
 wrapper-api-fra.sp-prod.net
 wrapper-api.sp-prod.net
+wren.camdenmecc.org.uk
 wren.efficient.app
 wren.ewaldvanderveken.dev
 wren.femi.io
@@ -143248,6 +144068,7 @@ wroclaw.affex.org
 wroclaw.euleriancdn.net
 wrongweather.postaffiliatepro.com
 wrrvti.motorparks.co.uk
+wrs.demdex.net
 wr-studios.actonservice.com
 wrw0.ekosport.at
 ws01.affex.org
@@ -143476,6 +144297,7 @@ wvw.truckscale.com
 wvw.unitedsiteservices.com
 wvw.uplone.com
 wvw.vetsolutions.org
+wvw.westbridgefunds.com.au
 wvww.nrgllc.com
 wvw.worldchocolatemasters.com
 wvw.yotelecom.co.uk
@@ -143685,6 +144507,7 @@ ww2.whirks.com
 ww2.whiteboardsandpinboards.com.au
 ww2.womensworldbanking.org
 ww2.zefr.com
+ww2.zenithperformancesolutions.com
 ww2.zolawindows.com
 ww2.zupply.com.au
 ww3.achieve3000.com
@@ -143804,6 +144627,7 @@ www.1000mercis.com
 www.1001-onlinewinacties.com
 www.100-flannelman.com
 www.1010data.com
+www-105.aig.com
 www.105app.com
 www-107.aig.com
 www.10.affex.org
@@ -143941,6 +144765,7 @@ www1.leddental.com
 www1.limelightcrm.com
 www1.logicalis.de
 www1.mcs.co.uk
+www1.mcsrentalsoftware.com
 www1.mew--mew.com
 www1.mom-mom-mommy.net
 www1.moringa-supplement.biz
@@ -143953,6 +144778,7 @@ www1.oneconnectft.com.sg
 www1.ourchanginglive.biz
 www1.peoplesec.biz
 www1.pet-deodorant.net
+www1.piolax-md.co.jp
 www1.postpartum-diet.info
 www1.pulsenetwork.com
 www1.relinkmedical.com
@@ -144211,6 +145037,7 @@ www2.alliantpurchasing.com
 www2.alliedtelecom.net
 www2.allycoffee.com
 www2.almacgroup.com
+www2.al-mane.com
 www2.almfirst.com
 www2.alpametrology.com
 www2.alphafmc.com
@@ -144295,6 +145122,7 @@ www2.asdamediapartnerships.com
 www2.ashtonwoods.com
 www2.aspenavionics.com
 www2.aspirepropertymanagement.com.au
+www2.aspiretravelclub.co.uk
 www2.aspris.com
 www2.aspriscs.co.uk
 www2.asset-intertech.com
@@ -144587,6 +145415,7 @@ www2.bsdspeclink.com
 www2.b-talent.com
 www2.bt-blue.com
 www2.btetechnologies.com
+www2.bucorp.com
 www2.building.co.jp
 www2.buildingos.com
 www2.bulldogadjusters.com
@@ -144953,6 +145782,7 @@ www2.csl-group.com
 www2.ctcsoftware.com
 www2.ctera.com
 www2.ctoscredit.com.my
+www2.ctu.ceptes.com
 www2.cuebiq.com
 www2.culturalcruiseseurope.com
 www2.cumberland.com
@@ -145056,9 +145886,11 @@ www2.devonocresa.com
 www2.dextersolutions.net
 www2.diabsolut.com
 www2.dialamerica.com
+www2.dialogue.net
 www2.diamona-harnisch.com
 www2.dianomi.com
 www2.dic-global.com
+www2.dictation.getolympus.com
 www2.die-interaktiven.de
 www2.difusionudp.udp.cl
 www2.digicomp.ch
@@ -145588,6 +146420,7 @@ www2.gmoretech.com
 www2.gmsmobility.com
 www2.go2income.com
 www2.go2morris.com
+www2.go2uti.com
 www2.gocanvas.com
 www2.go.fau.edu
 www2.gogreenfeather.com
@@ -145598,6 +146431,7 @@ www2.goldsgym.com
 www2.golmn.com
 www2.gomarketsaus.com
 www2.gomra.com
+www2.goodfridayappeal.com.au
 www2.goodhabitz.com
 www2.goodpractice.com
 www2.goodrebels.com
@@ -145755,6 +146589,7 @@ www2.hljhpro.com.tw
 www2.hmarkets.com
 www2.hnavi.co.jp
 www2.hni.com
+www2.hogenhouck.nl
 www2.hoivatilat.fi
 www2.hokkyoku-saitoanna.tk
 www2.hokushu.net
@@ -145889,6 +146724,7 @@ www2.indicator.nl
 www2.industrialphysics.com
 www2.industrios.com
 www2.industrybuilt.com
+www2.inedge.com
 www2.infinity-ss.com
 www2.info.eb.com
 www2.infomine.com
@@ -146397,6 +147233,7 @@ www2.metronet-uk.com
 www2.metropolitanrisk.com
 www2.mettel.net
 www2.meyn.com
+www2.mfpoer.com
 www2.mgnevents.co.uk
 www2.mhaok.org
 www2.mi9retail.com
@@ -146414,6 +147251,7 @@ www2.milengo.com
 www2.mileway.com
 www2.mileway-testing.j2.digital
 www2.millcreek-mgmt.com
+www2.millwoodrise.com.au
 www2.mimosa.co
 www2.mindcrest.com
 www2.mind-force.de
@@ -146593,6 +147431,7 @@ www2.nicfraternity.org
 www2.nichifutsu.co.jp
 www2.nichiha.com
 www2.nico-lab.com
+www2.nicolab.com
 www2.nicoletcollege.edu
 www2.nicriscapital.com
 www2.nicris.info
@@ -147348,6 +148187,7 @@ www2.serviceaide.com
 www2.servicedeskinstitute.com
 www2.servicedeskshow.com
 www2.servicemasterclean.ca
+www2.servicemasterdsi.com
 www2.servicepower.com
 www2.servicioprofesional.eu
 www2.sesame.org
@@ -147551,6 +148391,7 @@ www2.staub.ca
 www2.steadmed.com
 www2.stef.com
 www2.stem.com
+www2.stem.jp.net
 www2.stemonix.com
 www2.stepsfwd.org
 www2.stepstoneglobal.com
@@ -148097,6 +148938,7 @@ www2.wellcentive.com
 www2.welocalize.com
 www2.welton.com
 www2.wengercorp.com
+www2.westbankcorp.com
 www2.westbrook.co.uk
 www2.westchesterpublishingservices.com
 www2.westcoastconnection.com
@@ -148161,6 +149003,7 @@ www2.xfilespro.com
 www2.xinnix.com
 www2.xmlfg.com
 www2.xoriant.com
+www2.xpanddigital.com.au
 www2.xppower.com
 www2.xtremelashes.com
 www2.xybion.com
@@ -148472,6 +149315,7 @@ www.5min.com
 www5.osoujihonpo.com
 www5.osoujihonpo-fc.com
 www5.rcanalytics.com
+www5.scansource.com
 www5.skyline.com
 www5.thalesgroup.com
 www5.untangle.com
@@ -148493,6 +149337,7 @@ www6.hooklogic.com
 www.6sense.com
 www6.thalesgroup.com
 www.778669.com
+www.77-trk-srv.com
 www.7.affex.org
 www7.affex.org
 www7.bimobject.com
@@ -149622,6 +150467,7 @@ www.cloud.affex.org
 www.cloud.euleriancdn.net
 www.cloud-exploration.com
 www.cloudpath82.com
+www.cloudtracer101.com
 www.cloud-trail.com
 www.cloud.trapptechnology.com
 www.clr.vn
@@ -149848,6 +150694,7 @@ www.cultura.affex.org
 www.cultura.euleriancdn.net
 www.cupidrecession.com
 www.curiosando.org
+www.curl7bike.com
 www.curulate.com
 www.custom-emailing.com
 www.customer.affex.org
@@ -149951,6 +150798,7 @@ www.dens1raec.com
 www.dental.affex.org
 www.dental.euleriancdn.net
 www.denver.affex.org
+www.denver.euleriancdn.net
 www.deployads.com
 www.depreciatewide.com
 www.deruiter.seminis.com
@@ -150257,6 +151105,7 @@ www.email.procterandgamble.com
 www.emailretargeting.com
 www.emails.eilcompanies.com
 www.emailsendr.net
+www.email.shredit.com
 www.email.supersavvyme.com
 www.email.ua.pampers.com
 www.email.uk.pampers.com
@@ -150650,6 +151499,7 @@ www.geoadnxs.com
 www.geo.affex.org
 www.geocomply.com
 www.geodis.co
+www.geo.euleriancdn.net
 www.geogslb.com
 www.geoplugin.net
 www.georgia.affex.org
@@ -150688,6 +151538,7 @@ www.glass.affex.org
 www.glass.euleriancdn.net
 www.glb12pkgr.com
 www.glb21pkgr.com
+www.gldsta-02-or.com
 www.glimr.io
 www.glispa.com
 www.global.affex.org
@@ -150885,6 +151736,7 @@ www.hf.euleriancdn.net
 www.hi.affex.org
 www.hi.euleriancdn.net
 www.hightechwellness.com
+www.hilclare.com
 www.hilltopads.net
 www.himediads.com
 www.hims1nice.com
@@ -151053,6 +151905,7 @@ www.info.davidrio.com
 www.info.devoteam.com
 www-info.dolmen-tech.com
 www.info.dotvox.com
+www.info.dunnhumby.com
 www.info.euleriancdn.net
 www.info.evaxtampax.es
 www.info.evaxtampax.pt
@@ -151061,6 +151914,7 @@ www.info.learnsmartsystems.com
 www.infolinks.com
 www.info.mitie.com
 www.info.ndnu.edu
+www.info.oshiboriconcept.com
 www.info.osucascades.edu
 www.info.otrs.jp
 www.info.pampers.co.il
@@ -151379,6 +152233,7 @@ www.ldfr-cloud.net
 www.ldg-exh.mitsubishielectric.co.jp
 www.lduhtrp.net
 www.lead-123.com
+www.lead-analytics-1000.com
 www.lead-analytics.biz
 www.leadboltmobile.net
 www.leadenhancer.com
@@ -151400,6 +152255,7 @@ www.learn.euleriancdn.net
 www.learning.affex.org
 www.learning.euleriancdn.net
 www.learnmore.cengage.com
+www.ledradn.com
 www.legacy.affex.org
 www.legacy.euleriancdn.net
 www.legacy.omrf.org
@@ -151459,6 +152315,7 @@ www.links.euleriancdn.net
 www.linksynergy.com
 www.linux.affex.org
 www.linux.euleriancdn.net
+www.liod1ours.com
 www.lipetsk.affex.org
 www.lipetsk.euleriancdn.net
 www.liqwid.net
@@ -151510,6 +152367,7 @@ www.log.optimizely.com
 www.logsss.com
 www.loja.affex.org
 www.loja.euleriancdn.net
+www.loki8lave.com
 www.lol.affex.org
 www.lol.euleriancdn.net
 www.longabeach.com
@@ -151772,6 +152630,7 @@ www.mg.affex.org
 www.mg.euleriancdn.net
 www.mgid.com
 www.mi.affex.org
+www.mialbj6.com
 www.miami.affex.org
 www.miami.euleriancdn.net
 www.micpn.com
@@ -151803,6 +152662,7 @@ www.mir.euleriancdn.net
 www.mirror.affex.org
 www.mirror.euleriancdn.net
 www.misc1bulk.com
+www.mis.tourisme-montreal.org
 www.mixpanel.com
 www.mkt001.com
 www.mkt002.com
@@ -162784,6 +163644,7 @@ www.navrcholu.cz
 www.navy9gear.com
 www.ncaudienceexchange.com
 www.n-core-pipe.com
+www.neck6bake.com
 www.nedstat.com
 www.nedstat.info
 www.nedstat.net
@@ -164082,6 +164943,7 @@ www.siteimproveanalytics.io
 www.siteimprove.com
 www.siteimprove.net
 www.sitelabweb.com
+www.site-research.net
 www.sites.affex.org
 www.sitescoutadserver.com
 www.sitescout.com
@@ -164197,6 +165059,7 @@ www.sparkflow.net
 www.spb.affex.org
 www.spb.euleriancdn.net
 www-spd.affex.org
+www-spd.euleriancdn.net
 www.speciallyspecifiedsandwich.com
 www.specificclick.net
 www.speedcurve.com
@@ -164331,6 +165194,7 @@ www.students.affex.org
 www.students.euleriancdn.net
 www.stud.euleriancdn.net
 www.studio.affex.org
+www.studio.euleriancdn.net
 www.stu.euleriancdn.net
 www.style.affex.org
 www.style.euleriancdn.net
@@ -164381,6 +165245,7 @@ www.survio.com
 www.survio.se
 www.svn.affex.org
 www.svn.euleriancdn.net
+www.svr007phz.com
 www.svr-prc-01.com
 www.swat8toot.com
 www.switchadhub.com
@@ -164675,6 +165540,7 @@ www.transport.euleriancdn.net
 www.trappcloudservices.trapptechnology.com
 www.travel.affex.org
 www.travelaudience.com
+www.traveldealcomparisons.com
 www.travel.euleriancdn.net
 www.travian.affex.org
 www.travian.euleriancdn.net
@@ -165012,6 +165878,7 @@ www.web-01-gbl.com
 www.web.abrigo.com
 www.webads.eu
 www.web.affex.org
+www.web-cntr-07.com
 www.webcollage.com
 www.webcollage.net
 www.webcontentassessor.com
@@ -165035,6 +165902,7 @@ www.web-path.com
 www.webserviceaward.com
 www.website.affex.org
 www.website.euleriancdn.net
+www.websiteexploration.com
 www.webspectator.com
 www.webstats.affex.org
 www.webstats.euleriancdn.net
@@ -165210,6 +166078,7 @@ www.zazzle.es.102.112.2o7.net
 www.zazzle.fr.102.112.2o7.net
 www.zazzle.nl.102.112.2o7.net
 www.zazzle.pt.102.112.2o7.net
+www.zazzle.se.102.112.2o7.net
 www.zbuckz.com
 www.zcbmn14.com
 www.zccna.net
@@ -165720,6 +166589,7 @@ xray.euleriancdn.net
 xray.imgsmail.ru
 xray.mail.ru
 xrhrrk.steepandcheap.com
+xrijtp.wineenthusiast.com
 xrxfaa.giannakazakou.gr
 xrxybn.kotofey-shop.ru
 xs.affex.org
@@ -165853,6 +166723,7 @@ yahya.affex.org
 yahya.euleriancdn.net
 yak.animeawards.guide
 yak.auclantis.com
+yak.condacore.com
 yak.flutterblog.net
 yak.giftme.today
 yak.gregsullivan.com
@@ -166347,6 +167218,7 @@ zarzadzanie.affex.org
 zarzadzanie.euleriancdn.net
 zatbg-5912u.ads.tremorhub.com
 zatbg-f113d.ads.tremorhub.com
+zatbg-re40e.ads.tremorhub.com
 zatodr.trenbe.com
 zatong.icaniwill.se
 zaventemdijleland.viessmann.be
