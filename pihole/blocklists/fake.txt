@@ -24,7 +24,7 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 25237
+# Whitelist: 21863
 # Deadlist: 429738
 # Blacklist: 1389
 # 1. Source: 455 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.vzni.black.list
@@ -33,7 +33,7 @@
 # 4. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 12232 Domains - V2021.08.28-20:47:38
+# 12234 Domains - V2021.08.29-00:02:19
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -1307,6 +1307,7 @@ dexia-hyp.de
 dezuu.at
 dgestionqc.com
 dgsys.de
+dhgate.com
 dh-immobilien.at
 dhk-transport.com
 diamant-eventcenter.de
@@ -7304,6 +7305,7 @@ www.dexia-hyp.de
 www.dezuu.at
 www.dgestionqc.com
 www.dgsys.de
+www.dhgate.com
 www.dh-immobilien.at
 www.dhk-transport.com
 www.diamant-eventcenter.de

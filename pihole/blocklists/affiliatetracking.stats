@@ -18,8 +18,8 @@
 #                  https://t.me/adguardde
 # ---------------------------------------------
 
-# Exclude data/dead.list: 437407
-# Exclude: 437407
+# Exclude data/dead.list: 429738
+# Exclude: 429738
 
 # Whitelist: 0
 # Deadlist: 0
