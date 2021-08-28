@@ -238,13 +238,13 @@ google-analytics.com
 # Google
 app-measurement.com
 fundingchoicesmessages.google.com
-google-analytics.com
+# google-analytics.com
 googletagmanager.com
 googletagservices.com
 people-pa.googleapis.com
-www-google-analytics.l.google.com
+# www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
-www.google-analytics.com
+# www.google-analytics.com
 www.googletagmanager.com
 www.googletagservices.com
 

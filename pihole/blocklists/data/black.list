@@ -637,7 +637,7 @@ assets.tapad.com
 as.welt.de
 aswpsdkeu.com
 aswpsdkus.com
-# atconnect.npo.nl
+atconnect.npo.nl
 a.teads.tv
 atf.containers.piwik.pro
 atlas.atsptp.com
@@ -855,8 +855,8 @@ ced-ns.sascdn.com
 ced.sascdn.com
 cefb899791e0abeef1e26d1a5ad69200.nrb.footprintdns.com
 certify-js.alexametrics.com
-# ceuswatcab01.blob.core.windows.net
-# ceuswatcab02.blob.core.windows.net
+ceuswatcab01.blob.core.windows.net
+ceuswatcab02.blob.core.windows.net
 cf18484a877c1f13a79e8f1abe80f600.nrb.footprintdns.com
 cfa.fidelity.com
 c.go-mpulse.net
@@ -1029,7 +1029,7 @@ data.photorank.me
 data-ssl.stepstone.de
 db5-eap.settings-win.data.microsoft.com.akadns.net
 db5.settings-win.data.microsoft.com.akadns.net
-# db5.vortex.data.microsoft.com.akadns.net
+db5.vortex.data.microsoft.com.akadns.net
 db7fec8998c08e17ff56098da4b15200.nrb.footprintdns.com
 d.ba-content.de
 dc8xl0ndzn2cb.cloudfront.net
@@ -1114,8 +1114,8 @@ e7da1d30254c4ce2ac78d5c91d0e6000.nrb.footprintdns.com
 e7f7c024898264124dcf5223a281c700.nrb.footprintdns.com
 e7ffb8379648481359ffa56e8a7bb400.nrb.footprintdns.com
 ea93fdc7f77b1dce67f303f7065e0700.nrb.footprintdns.com
-# eaus2watcab01.blob.core.windows.net
-# eaus2watcab02.blob.core.windows.net
+eaus2watcab01.blob.core.windows.net
+eaus2watcab02.blob.core.windows.net
 eb0c08b2256148fcb472a926fbfbc000.nrb.footprintdns.com
 eb0fb3f6949f41d0b2b15cd3de92c600.nrb.footprintdns.com
 eb2.3lift.com
@@ -1231,7 +1231,7 @@ geoip.insticator.com
 geoip-js.com
 geolocation-db.com
 geo.settings-win.data.microsoft.com.akadns.net
-# geo.vortex.data.microsoft.com.akadns.net
+geo.vortex.data.microsoft.com.akadns.net
 geo.yahoo.com
 get.optad360.io
 get.s-onetag.com
@@ -1278,7 +1278,7 @@ hpr.outbrain.com
 htlb.casalemedia.com
 ht.redtube.com
 ht.tube8.com
-# hubblecontent.osi.office.net
+hubblecontent.osi.office.net
 hub.com.pl
 # hubt.pornhub.com
 # hw-cdn2.adtng.com
@@ -1437,7 +1437,7 @@ mb.moatads.com
 mcs-va.tiktok.com
 mc.webvisor.org
 mc.yandex.com
-# mc.yandex.ru
+mc.yandex.ru
 mdsngpush.finanzen.net
 mdx4zwets6.kameleoon.eu
 meanlifeenergy.top
@@ -1515,7 +1515,7 @@ offerimage.com
 olx.hit.gemius.pl
 om.dowjoneson.com
 omniture.chip.de
-# omniture-ssl.walmart.com
+omniture-ssl.walmart.com
 # omniture.walmart.com
 onet.hit.gemius.pl
 online.mps-gba.de
@@ -1804,7 +1804,7 @@ startribune.zeustechnology.com
 startsear.ch
 static.addtoany.com
 static.ads-twitter.com
-# static.cleverpush.com
+static.cleverpush.com
 static.clicktripz.com
 static.criteo.net
 static-de.plista.com
@@ -1839,7 +1839,7 @@ stun.services.mozilla.com
 subpixel.4players.de
 supportmetrics.apple.com
 swa.and.co.uk
-# swa.bol.com
+swa.bol.com
 s.yjtag.jp
 sync.1rx.io
 sync.atsptp.com
@@ -1883,7 +1883,7 @@ technical-service.net
 ted.dailymail.co.uk
 telecommand.alpha.telemetry.microsoft.com
 telecommand.df.telemetry.microsoft.com
-# telecommand.telemetry.microsoft.com
+telecommand.telemetry.microsoft.com
 tentacles.smartocto.com
 te.technical-service.net
 tg1.aniview.com
@@ -2026,9 +2026,9 @@ visitor-service.tealiumiq.com
 vis.optimizely.com
 vitals.vercel-insights.com
 vop-yahoo.akamaized.net
-# vortex.data.microsoft.com
+vortex.data.microsoft.com
 vortex-sandbox.data.microsoft.com
-# vortex-win.data.microsoft.com
+vortex-win.data.microsoft.com
 vortex-win-sandbox.data.microsoft.com
 vs.webtrekk.net
 vwj3o45y6f.kameleoon.eu
@@ -2044,7 +2044,7 @@ watson7.alpha.telemetry.microsoft.com
 watson.alpha.telemetry.microsoft.com
 watson.df.telemetry.microsoft.com
 watson.ppe.telemetry.microsoft.com
-# watson.telemetry.microsoft.com
+watson.telemetry.microsoft.com
 wa.wdr.de
 wa.web.de
 waz.cleverpush.com
@@ -2066,8 +2066,8 @@ web.vortex-sandbox.data.msn.com
 web.webpushs.com
 wer.alpha.telemetry.microsoft.com
 wes.df.telemetry.microsoft.com
-# weus2watcab01.blob.core.windows.net
-# weus2watcab02.blob.core.windows.net
+weus2watcab01.blob.core.windows.net
+weus2watcab02.blob.core.windows.net
 wg-gesucht-d.openx.net
 widget.beop.io
 widget-mediator.zopim.com
@@ -2111,7 +2111,7 @@ www.fastly-insights.com
 www.generaltracking.de
 www.getback.ch
 # www.google-analytics.com
-# www-google-analytics.l.google.com
+www-google-analytics.l.google.com
 www.googlecommerce.com
 www.googleoptimize.com
 # www.googlesyndication.com
