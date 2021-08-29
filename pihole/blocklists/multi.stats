@@ -25,9 +25,9 @@
 # Whitelist: 25235
 # Deadlist: 434812
 
-# Blacklist global: 2169
+# Blacklist global: 2172
 # Blacklist source: 
-# Blacklist: 2169
+# Blacklist: 2172
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 # 2. Source: 662 - https://v.firebog.net/hosts/Admiral.txt
@@ -53,7 +53,7 @@
 # 22. Source: 317 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 # 23. Source: 1355 - https://orca.pet/notonmyshift/domains.txt
 # 24. Source: 50 - https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-# 25. Source: 45425 - https://phishing.army/download/phishing_army_blocklist_extended.txt
+# 25. Source: 44887 - https://phishing.army/download/phishing_army_blocklist_extended.txt
 # 26. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 # 27. Source: 18454 - https://raw.githubusercontent.com/cbuijs/shallalist/master/spyware/domains
 # 28. Source: 527 - https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA551/domains.txt
@@ -77,7 +77,7 @@
 # 46. Source: 8728 - https://winhelp2002.mvps.org/hosts.txt
 # 47. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 # 48. Source: 3548 - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
-# 49. Source: 27450 - https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
+# 49. Source: 27103 - https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 # 50. Source: 90146 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # 51. Source: 5433 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 # 52. Source: 2204 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
@@ -85,17 +85,17 @@
 # 54. Source: 37 - https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
 # 55. Source: 1075 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 56. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 57. Source: 1513 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 57. Source: 1503 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 58. Source: 382 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1226473
+# #. Source: 1225578
 
 Statistik multi.txt:
-== Source (unique): 619134
-++ Black:           620078 (+944)
--- White:           616187 (-3891)
--- Dead:            421639 (-194548)
--- Exclude:         418032 (-3607)
-++ Block:           418124 (+92)
--- Unblock:         418050 (-74)
-++ WWW-Domains:     540443 (+122393)
-++ FLD-Domains:     541695 (+1252)
+== Source (unique): 619013
+++ Black:           619960 (+947)
+-- White:           616070 (-3890)
+-- Dead:            421684 (-194386)
+-- Exclude:         418077 (-3607)
+++ Block:           418171 (+94)
+-- Unblock:         418097 (-74)
+++ WWW-Domains:     540550 (+122453)
+++ FLD-Domains:     541803 (+1253)
