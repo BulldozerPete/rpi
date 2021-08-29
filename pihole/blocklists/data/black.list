@@ -600,6 +600,7 @@ api2.amplitude.com
 api.addefend.com
 # api.ad.xiaomi.com
 api.bounceexchange.com
+# api.cleverpush.com
 api.company-target.com
 api.devatics.io
 api.enthusiastgaming.net
@@ -886,6 +887,7 @@ c.go-mpulse.net
 clarium.global.ssl.fastly.net
 cl.canva.com
 clevernt.com
+# cleverpush.com
 click.oneplus.cn
 click.oneplus.com
 click.uol.com.br
@@ -1308,6 +1310,7 @@ hbopenbid.pubmatic.com
 hb.vntsm.com
 hbx.media.net
 h.df-srv.de
+heise.cleverpush.com
 hexagon-analytics.com
 hifi-d.openx.net
 hit-pool.upscore.com
@@ -1433,6 +1436,7 @@ licensing.bitmovin.com
 lifestreet.com
 lightning.cnn.com
 likemore-go.imgsmail.ru
+liveapi.cleverpush.com
 live.ec2.cxo.name
 live.rezync.com
 liveticker.abendblatt.de
@@ -1657,6 +1661,7 @@ prod.fe.telemetry.microsoft.com
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 prod-m-node-3111.ssp.advertising.com
 # prod.rewardsplatform.microsoft.com
+production.cleverpush.com
 profiles.tagger.opecloud.com
 profusesupport.com
 prophet.heise.de

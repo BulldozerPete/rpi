@@ -12,6 +12,7 @@ acdn.adnxs.com
 ad.samsungadhub.com
 analyticsnew.overwolf.com
 api.ad.xiaomi.com
+api.cleverpush.com
 api.mixpanel.com
 api.segment.io
 app-measurement.com
@@ -37,6 +38,7 @@ ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
 cf.iadsdk.apple.com
 chimpstatic.com
+cleverpush.com
 collector.appconsent.io
 # collector.githubapp.com
 config.ioam.de
