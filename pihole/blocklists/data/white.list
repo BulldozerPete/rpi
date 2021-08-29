@@ -144,7 +144,7 @@ ws-ee-maidsvc.icloud.com
 xp.apple.com
 
 # Cookies (Spiegel/...)
-*.mgr.consensu.org
+# *.mgr.consensu.org
 *.sp-prod.net
 aggregator.service.usercentrics.eu
 api.usercentrics.eu
@@ -219,8 +219,8 @@ graph.instagram.com
 consent.faz.net
 
 # Gaming
-*.overwolf.com
-*.battle.net
+# *.overwolf.com
+# *.battle.net
 
 # Github
 *.ghcr.io
@@ -235,7 +235,7 @@ github.io
 user-images.githubusercontent.com
 
 # Google
-app-measurement.com
+# app-measurement.com
 fundingchoicesmessages.google.com
 # google-analytics.com
 googletagmanager.com
