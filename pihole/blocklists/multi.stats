@@ -77,7 +77,7 @@
 # 46. Source: 8728 - https://winhelp2002.mvps.org/hosts.txt
 # 47. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 # 48. Source: 3548 - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
-# 49. Source: 27414 - https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
+# 49. Source: 27450 - https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 # 50. Source: 90146 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # 51. Source: 5433 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 # 52. Source: 2204 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
@@ -85,17 +85,17 @@
 # 54. Source: 37 - https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
 # 55. Source: 1075 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 56. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 57. Source: 1515 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 57. Source: 1513 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 58. Source: 382 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1226439
+# #. Source: 1226473
 
 Statistik multi.txt:
-== Source (unique): 619102
-++ Black:           620046 (+944)
--- White:           616155 (-3891)
--- Dead:            421607 (-194548)
--- Exclude:         418000 (-3607)
-++ Block:           418092 (+92)
--- Unblock:         418018 (-74)
-++ WWW-Domains:     540411 (+122393)
-++ FLD-Domains:     541664 (+1253)
+== Source (unique): 619134
+++ Black:           620078 (+944)
+-- White:           616187 (-3891)
+-- Dead:            421639 (-194548)
+-- Exclude:         418032 (-3607)
+++ Block:           418124 (+92)
+-- Unblock:         418050 (-74)
+++ WWW-Domains:     540443 (+122393)
+++ FLD-Domains:     541695 (+1252)
