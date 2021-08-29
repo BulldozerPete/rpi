@@ -25,7 +25,7 @@
 #
 # Exclude: 0
 # Whitelist: 25237
-# Deadlist: 429738
+# Deadlist: 434812
 # Blacklist: 1389
 # 1. Source: 455 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.vzni.black.list
 # 2. Source: 1346 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.ts.black.list
@@ -33,7 +33,7 @@
 # 4. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 12232 Domains - V2021.08.29-03:34:18
+# 12228 Domains - V2021.08.29-06:39:06
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -607,7 +607,6 @@ bettinakreativ.at
 bewerte-deinen-goldshop-278.de
 bewerte-einen-onlineshop.de
 bewertung-abgeben-edelmetallshops.de
-bewusstsein-ibk.at
 bexcen.com
 beziehungskabarett.de
 beziehungspersoenlichkeit.de
@@ -2974,7 +2973,6 @@ kettenkonzept.de
 kettyboutique.com
 kfactem.com
 kfz-hogen.de
-kfz-tiptop.at
 kiatajhizd.com
 kickoutracism.de
 kickvee.com
@@ -6635,7 +6633,6 @@ www.bettinakreativ.at
 www.bewerte-deinen-goldshop-278.de
 www.bewerte-einen-onlineshop.de
 www.bewertung-abgeben-edelmetallshops.de
-www.bewusstsein-ibk.at
 www.bexcen.com
 www.beziehungskabarett.de
 www.beziehungspersoenlichkeit.de
@@ -8945,7 +8942,6 @@ www.kettenkonzept.de
 www.kettyboutique.com
 www.kfactem.com
 www.kfz-hogen.de
-www.kfz-tiptop.at
 www.kiatajhizd.com
 www.kickoutracism.de
 www.kickvee.com
