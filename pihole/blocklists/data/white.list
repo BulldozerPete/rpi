@@ -6,6 +6,8 @@
 # ---------------------------------------------
 
 # AdBlock-Detection (Bild/Sport1/...)
+*.de.ioam.de
+de.ioam.de
 script.ioam.de
 tagger.opecloud.com
 tags.tiqcdn.com
@@ -144,7 +146,7 @@ ws-ee-maidsvc.icloud.com
 xp.apple.com
 
 # Cookies (Spiegel/...)
-# *.mgr.consensu.org
+*.mgr.consensu.org
 *.sp-prod.net
 aggregator.service.usercentrics.eu
 api.usercentrics.eu
@@ -219,8 +221,8 @@ graph.instagram.com
 consent.faz.net
 
 # Gaming
-# *.overwolf.com
-# *.battle.net
+*.overwolf.com
+*.battle.net
 
 # Github
 *.ghcr.io
@@ -229,21 +231,23 @@ consent.faz.net
 *.githubapp.com
 *.githubassets.com
 *.githubusercontent.com
-# analytics-collector-28944298.us-east-1.elb.amazonaws.com
-# collector.githubapp.com
+analytics-collector-28944298.us-east-1.elb.amazonaws.com
+collector.githubapp.com
 github.io
 user-images.githubusercontent.com
 
 # Google
-# app-measurement.com
+app-measurement.com
 fundingchoicesmessages.google.com
-# google-analytics.com
+geller-pa.googleapis.com
+google-analytics.com
 googletagmanager.com
 googletagservices.com
 people-pa.googleapis.com
-# www-google-analytics.l.google.com
+ssl.google-analytics.com
+www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
-# www.google-analytics.com
+www.google-analytics.com
 www.googletagmanager.com
 www.googletagservices.com
 
@@ -460,6 +464,8 @@ analytics.twitter.com
 syndication.twitter.com
 
 # Verschiedene
+*.cleverpush.com
+*.whatsapp.net
 cdn.optimizely.com
 
 # Webex
