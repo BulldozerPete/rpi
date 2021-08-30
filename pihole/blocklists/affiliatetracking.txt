@@ -26,15 +26,15 @@
 # Whitelist: 0
 # Deadlist: 0
 # Blacklist: 0
-# 1. Source: 121342 - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
-# 2. Source: 135512 - https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
+# 1. Source: 121346 - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+# 2. Source: 135533 - https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
 # 3. Source: 181 - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 # 4. Source: 14914 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 # 5. Source: 14801 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 # 6. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 166993 Domains - V2021.08.29-17:01:43
+# 167014 Domains - V2021.08.30-03:34:05
 # ---------------------------------------------
 #
 000000.ads.tremorhub.com
@@ -373,6 +373,7 @@
 14.euleriancdn.net
 14.partner.net.daraz.com
 1502491130.log.optimizely.com
+1513920040.log.optimizely.com
 1514ec8923859126303de089a5cfca4df381f64b.cws.conviva.com
 1517media.actonsoftware.com
 1517mediamailer.1517.media
@@ -555,6 +556,7 @@
 200summit.com
 2010.affex.org
 2010.euleriancdn.net
+2011190031.log.optimizely.com
 2011.affex.org
 2011.euleriancdn.net
 2-01-276e-0004.cdx.cedexis.net
@@ -770,6 +772,7 @@
 2tty.overstappen.nl
 2tx0d-an0sj.ads.tremorhub.com
 2tx0d-sjots.ads.tremorhub.com
+2tx0d-xuumb.ads.tremorhub.com
 2tx0d-yuwc6.ads.tremorhub.com
 2.virtusdatacentres.com
 2.vivonslenergieautrement.fr
@@ -862,6 +865,7 @@
 3635011020.log.optimizely.com
 365.affex.org
 365.euleriancdn.net
+3668300174.log.optimizely.com
 367171131378433.wt-eu02.net
 3685650700.log.optimizely.com
 369.postaffiliatepro.com
@@ -985,6 +989,7 @@
 441togndm65g.ddns.dataunlocker.com
 444170171787319.wt-eu02.net
 445b2eba1211f043d37dc4994c50112384f41204.cws.conviva.com
+4478010023.log.optimizely.com
 448wbryciprt.ddns.dataunlocker.com
 44.affex.org
 44.euleriancdn.net
@@ -999,6 +1004,7 @@
 45.gs
 46445044.log.optimizely.com
 4669020.log.optimizely.com
+469816027576686.mateti.net
 46.affex.org
 46.euleriancdn.net
 470719744966924.wt-eu02.net
@@ -1228,6 +1234,7 @@
 671130969507772.wt-eu02.net
 675392712.log.optimizely.com
 675646983570972.mateti.net
+678pd-i3tvn.ads.tremorhub.com
 67.affex.org
 67.euleriancdn.net
 6874301.notifications.br.live
@@ -1511,12 +1518,14 @@
 9rmjh-of8dp.ads.tremorhub.com
 9rmjh-oyqsg.ads.tremorhub.com
 9rmjh-penq1.ads.tremorhub.com
+9rmjh-qjwhr.ads.tremorhub.com
 9rmjh-sj730.ads.tremorhub.com
 9rmjh-t0k0q.ads.tremorhub.com
 9rmjh-t3nqm.ads.tremorhub.com
 9rmjh-tggb8.ads.tremorhub.com
 9rmjh-tumfb.ads.tremorhub.com
 9rmjh-tzvnx.ads.tremorhub.com
+9rmjh-wlnge.ads.tremorhub.com
 9rmjh-z42n5.ads.tremorhub.com
 9rmjh-z7c2s.ads.tremorhub.com
 9rmjh-zt7gk.ads.tremorhub.com
@@ -3827,6 +3836,7 @@ a33741.actonsoftware.com
 a33748.actonsoftware.com
 a33773.actonsoftware.com
 a33790.actonsoftware.com
+a33830.actonsoftware.com
 a33845.actonsoftware.com
 a33855.actonsoftware.com
 a33870.actonsoftware.com
@@ -9089,6 +9099,7 @@ ae03.eulerian.fr
 ae03.eulerian.net
 ae04.eulerian.com
 ae04.eulerian.fr
+ae04.eulerian.net
 ae.affex.org
 a.easyazon.com
 aec.faro.com
@@ -15065,6 +15076,7 @@ bicesteradvertiser-gb.bicesteradvertiser.net
 bi.concordesolutions.com
 bid.affex.org
 bidbpo.dr-10.com
+bidcast-bcserver-aws-fr.bidswitch.net
 bidcast-bcserver-gce-jp.bidswitch.net
 bidcast-bcserver-gce-or.bidswitch.net
 bidcast-bcserver-gce-sc.bidswitch.net
@@ -16784,6 +16796,7 @@ c6.ba.a1.top.mail.ru
 c6.be.a0.top.mail.ru
 c6.euleriancdn.net
 c7.affex.org
+c7.b0.a1.top.list.ru
 c7.b0.a2.top.mail.ru
 c7.b3.a2.top.mail.ru
 c7.b5.a1.top.mail.ru
@@ -21149,6 +21162,7 @@ collector-1328.tvsquared.com
 collector-1346.tvsquared.com
 collector-1368.tvsquared.com
 collector-1379.tvsquared.com
+collector-1383.tvsquared.com
 collector-1454.tvsquared.com
 collector-1498.tvsquared.com
 collector-1550.tvsquared.com
@@ -38513,6 +38527,7 @@ email.giftloop.co
 email.gitpod.io
 email.gncu.org
 email.go-fleet.ch
+email.gojourny.com
 email.goodrx.com
 email.govisibly.com
 email.govx.com
@@ -40190,6 +40205,7 @@ eu1.euleriancdn.net
 eu1.hidemyass.com
 eu.affex.org
 e.ubertidricksettlement.com
+eu.bidswitch.net
 eucalyptus.affex.org
 eucalyptus.euleriancdn.net
 e.uccs.edu
@@ -41865,6 +41881,7 @@ fish.canyouexplain.me
 fish.com.102.122.2o7.net
 fisher.affex.org
 fisher.euleriancdn.net
+fisherinvestments.demdex.net
 fish.euleriancdn.net
 fish.eventpay.be
 fisheye.affex.org
@@ -42790,6 +42807,7 @@ fp.free-peace.co.jp
 fp.fruitionpartners.com
 fpghll.rossmann.hu
 fphfdx.partswarehouse.com
+fp-int.fraudmetrix.cn
 fp.joyobank.chance.co.jp
 fpl.com.102.122.2o7.net
 fp.mandatumlife.fi
@@ -43885,6 +43903,7 @@ geo.ngtv.io
 geoplugin.net
 geoportal.affex.org
 geoportal.euleriancdn.net
+geoproxy.am5.vip.prod.criteo.net
 geoproxy.criteo.net
 geoproxy.par.vip.prod.criteo.net
 geo.query.yahoo.com
@@ -58520,6 +58539,7 @@ hugo.affex.org
 hugoboss01.webtrekk.net
 hugo.euleriancdn.net
 hu-go.kelkoogroup.net
+hukcoburg.demdex.net
 hukhiz.accentjobs.be
 hulk.affex.org
 hulk.digiads.co.id
@@ -129980,6 +130000,7 @@ usub.affex.org
 usub.euleriancdn.net
 us.vendura.com
 us.vtex.com
+us-west.2-01-276e-000b.cdx.cedexis.net
 us-west.bidswitch.net
 uswincard.com
 uswin.postaffiliatepro.com
