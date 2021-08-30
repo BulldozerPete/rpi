@@ -20,10 +20,10 @@ ad.samsungadhub.com
 # analytics-collector-28944298.us-east-1.elb.amazonaws.com
 # analyticsnew.overwolf.com
 api.ad.xiaomi.com
-# api.cleverpush.com
+api.cleverpush.com
 api.mixpanel.com
 api.segment.io
-# app-measurement.com
+app-measurement.com
 asimov-win.settings.data.microsoft.com.akadns.net
 assoc-amazon.com
 atconnect.npo.nl
@@ -49,12 +49,12 @@ ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
 cf.iadsdk.apple.com
 chimpstatic.com
-# cleverpush.com
+cleverpush.com
 collector.appconsent.io
 # collector.githubapp.com
 config.ioam.de
 contributor.google.com
-# crashlogs.whatsapp.net
+crashlogs.whatsapp.net
 crashlyticsreports-pa.googleapis.com
 # d3b278f2.de.ioam.de
 # d3p8zr0ffa9t17.cloudfront.net
@@ -63,12 +63,12 @@ d9f7df8da41943d7a00f7aa5dd98e970.fp.measure.office.com
 data.mistat.india.xiaomi.com
 db5.vortex.data.microsoft.com.akadns.net
 # de.ioam.de
-# derwesten.cleverpush.com
+derwesten.cleverpush.com
 # device-metrics-us-2.amazon.com
 # device-metrics-us.amazon.com
 # disney.demdex.net
 # disneyplus.com.ssl.sc.omtrdc.net
-# dit.whatsapp.net
+dit.whatsapp.net
 # dxz5jxhrrzigf.cloudfront.net
 eaus2watcab01.blob.core.windows.net
 eaus2watcab02.blob.core.windows.net
@@ -87,7 +87,7 @@ globalapi.ad.xiaomi.com
 googlesyndication.com
 # googletagmanager.com
 # googletagservices.com
-# heise.cleverpush.com
+heise.cleverpush.com
 hotjar.com
 ht.youporn.com
 hubblecontent.osi.office.net
@@ -98,7 +98,7 @@ iadsdk.apple.com
 instant.page
 # js-cdn.dynatrace.com
 lcs.naver.com
-# liveapi.cleverpush.com
+liveapi.cleverpush.com
 mc.yandex.ru
 metrics.brightcove.com
 mouseflow.com
@@ -112,9 +112,9 @@ pixel.quantserve.com
 # pixel.spotify.com
 # pixel-static.spotify.com
 pixel.wp.com
-# privatestats.whatsapp.net
+privatestats.whatsapp.net
 # prod.rewardsplatform.microsoft.com
-# production.cleverpush.com
+production.cleverpush.com
 p.skimresources.com
 pubads.g.doubleclick.net
 publisher-assets.spot.im
@@ -133,14 +133,14 @@ secure-sg.imrworldwide.com
 # self.events.data.microsoft.com
 # settings-win.data.microsoft.com
 s.skimresources.com
-# ssl.google-analytics.com
+ssl.google-analytics.com
 sstats.adobe.com
 stags.bluekai.com
-# static.cleverpush.com
+static.cleverpush.com
 static.hotjar.com
 sumo.com
 swa.bol.com
-# t3n.cleverpush.com
+t3n.cleverpush.com
 tags.bkrtx.com
 tags.crwdcntrl.net
 telecommand.telemetry.microsoft.com
@@ -160,7 +160,7 @@ via.batch.com
 vortex.data.microsoft.com
 vortex-win.data.microsoft.com
 watson.telemetry.microsoft.com
-# waz.cleverpush.com
+waz.cleverpush.com
 wcs.naver.com
 web.vortex.data.microsoft.com
 weus2watcab01.blob.core.windows.net
