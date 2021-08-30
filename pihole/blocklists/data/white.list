@@ -154,7 +154,7 @@ ws-ee-maidsvc.icloud.com
 xp.apple.com
 
 # Cookies (Spiegel/...)
-# *.mgr.consensu.org
+*.mgr.consensu.org
 *.sp-prod.net
 aggregator.service.usercentrics.eu
 api.usercentrics.eu
@@ -256,14 +256,15 @@ github.io
 user-images.githubusercontent.com
 
 # Google
-# app-measurement.com
+*.googleapis.com
+app-measurement.com
 fundingchoicesmessages.google.com
 geller-pa.googleapis.com
 google-analytics.com
 googletagmanager.com
 googletagservices.com
 people-pa.googleapis.com
-# ssl.google-analytics.com
+ssl.google-analytics.com
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 www.google-analytics.com
@@ -524,12 +525,13 @@ analytics.twitter.com
 syndication.twitter.com
 
 # Verschiedene
-# *.cleverpush.com
+*.cleverpush.com
+*.crashlytics.com
 cdn.optimizely.com
 
 # WhatsApp
-# *.whatsapp.com
-# *.whatsapp.net
+*.whatsapp.com
+*.whatsapp.net
 
 # Webex
 *.ciscospark.com

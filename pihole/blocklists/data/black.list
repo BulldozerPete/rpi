@@ -954,7 +954,7 @@ counter.yadro.ru
 cpanel.nativeads.com
 cpx.golem.de
 cpxl.golem.de
-crashlyticsreports-pa.googleapis.com
+# crashlyticsreports-pa.googleapis.com
 creativecdn.com
 cross.econda-monitor.de
 cr-p22000.ladsp.jp
@@ -1082,7 +1082,7 @@ deliver.ptgncdn.com
 delivery.adrecover.com
 de-makerist-main.collector.snplow.net
 derekseamancom.api.oneall.com
-derwesten.cleverpush.com
+# derwesten.cleverpush.com
 # device-metrics-us-2.amazon.com
 # device-metrics-us.amazon.com
 dev.visualwebsiteoptimizer.com
@@ -1105,7 +1105,7 @@ dis.eu.criteo.com
 disparagethence.com
 distillery.wistia.com
 dis.us.criteo.com
-dit.whatsapp.net
+# dit.whatsapp.net
 dj1.baidu.com
 dmc.devatics.io
 dmp.theadex.com
@@ -1253,7 +1253,7 @@ feedback.userreport.com
 fff.dailymail.co.uk
 files.upscore.com
 # firebaselogging-pa.googleapis.com
-firebase-settings.crashlytics.com
+# firebase-settings.crashlytics.com
 fling.cid.samba.tv
 fls.doubleclick.net
 f.monetate.net
@@ -1310,7 +1310,7 @@ hbopenbid.pubmatic.com
 hb.vntsm.com
 hbx.media.net
 h.df-srv.de
-heise.cleverpush.com
+# heise.cleverpush.com
 hexagon-analytics.com
 hifi-d.openx.net
 hit-pool.upscore.com
@@ -1436,7 +1436,7 @@ licensing.bitmovin.com
 lifestreet.com
 lightning.cnn.com
 likemore-go.imgsmail.ru
-liveapi.cleverpush.com
+# liveapi.cleverpush.com
 live.ec2.cxo.name
 live.rezync.com
 liveticker.abendblatt.de
@@ -1661,7 +1661,7 @@ prod.fe.telemetry.microsoft.com
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 prod-m-node-3111.ssp.advertising.com
 # prod.rewardsplatform.microsoft.com
-production.cleverpush.com
+# production.cleverpush.com
 profiles.tagger.opecloud.com
 profusesupport.com
 prophet.heise.de
@@ -1925,7 +1925,7 @@ sync.sxp.smartclip.net
 sync.taboola.com
 sync-tm.everesttech.net
 sz.met.vgwort.de
-t3n.cleverpush.com
+# t3n.cleverpush.com
 t.9gag.com
 tagan.adlightning.com
 tag.aumago.com
@@ -2134,7 +2134,7 @@ watson.ppe.telemetry.microsoft.com
 # watson.telemetry.microsoft.com
 wa.wdr.de
 wa.web.de
-waz.cleverpush.com
+# waz.cleverpush.com
 waz.met.vgwort.de
 wbtrkk.deutschlandcard.de
 wbtrkk.teufel.de
