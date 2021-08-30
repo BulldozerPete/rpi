@@ -71,12 +71,20 @@ sb.scorecardresearch.com
 *.aaplimg.com
 *.appattest.apple.com
 *.apple-dns.net
+*.apple.com.akadns.net
 *.apps.apple.com
 *.business.apple.com
 *.cdn-apple.com
+*.icloud-apple.com.akadns.net
 *.icloud-content.com
+*.icloud.com.akadns.net
+*.itunes-apple.com.akadns.net
 *.itunes.apple.com
+*.ls-apple.com.akadns.net
+*.ls2-apple.com.akadns.net
 *.mzstatic.com
+*.origin-apple.com.akadns.net
+*.push-apple.com.akadns.net
 *.push.apple.com
 *.safebrowsing.apple
 *.school.apple.com
@@ -211,6 +219,17 @@ image.mail.disneyplus.com
 
 # DNS
 whoami.akamai.net
+
+# Epic Games
+*.epicgames-download1.akamaized.net
+*.epicgames-pubassets.akamaized.net
+*.epicgames.com
+*.epicgames.dev
+*.epicgames.net
+*.fortnite-vod.akamaized.net
+*.unrealengine.com
+catalogv2-svc-prod06-pub-772318179.us-east-1.elb.amazonaws.com
+epicgames.map.fastly.net
 
 # Facebook
 connect.facebook.com
@@ -409,6 +428,27 @@ www.googleadservices.com
 content.aimatch.com
 widgets.trustedshops.com
 
+# Steam
+*.s.team
+*.steam-chat.com
+*.steambroadcast.akamaized.net
+*.steamcdn-a.akamaihd.net
+*.steamchina.com
+*.steamcommunity-a.akamaihd.net
+*.steamcommunity.com
+*.steamcontent.com
+*.steamgames.com
+*.steampowered.com
+*.steampowered.com.8686c.com
+*.steamstatic.com
+*.steamstatic.com.8686c.com
+*.steamstore-a.akamaihd.net
+*.steamusercontent-a.akamaihd.net
+*.steamusercontent.com
+*.steamuserimages-a.akamaihd.net
+*.steamvideo-a.akamaihd.net
+*.valvesoftware.com
+
 # Sony (Playstation)
 *.playstation.com
 *.playstation.com.ssl.d1.sc.omtrdc.net
@@ -418,6 +458,26 @@ widgets.trustedshops.com
 *.sonyjpnpsg-1.hs.llnwd.net
 
 # Spotify
+*.audio-ak-spotify-com.akamaized.net
+*.audio-akp-bbr-spotify-com.akamaized.net
+*.audio4-ak-spotify-com.akamaized.net
+*.heads-ak-spotify-com.akamaized.net
+*.pscdn.co
+*.scdn.co
+*.spoti.fi
+*.spotify-com.akamaized.net
+*.spotify.com
+*.spotify.com.edgesuite.net
+*.spotify.edgekey.net
+*.spotify.map.fastly.net
+*.spotifycdn.com
+*.spotifycdn.map.fastly.net
+*.spotifycdn.net
+*.spotifycharts.com
+*.spotifycodes.com
+*.spotifyjobs.com
+*.spotilocal.com
+spotify.demdex.net
 wl.spotify.com
 
 # Streaming/Videos
@@ -465,8 +525,11 @@ syndication.twitter.com
 
 # Verschiedene
 *.cleverpush.com
-*.whatsapp.net
 cdn.optimizely.com
+
+# WhatsApp
+*.whatsapp.com
+*.whatsapp.net
 
 # Webex
 *.ciscospark.com
