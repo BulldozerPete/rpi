@@ -26,14 +26,14 @@
 # Whitelist: 0
 # Deadlist: 0
 # Blacklist: 0
-# 1. Source: 121346 - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+# 1. Source: 121348 - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 # 2. Source: 181 - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
-# 3. Source: 14914 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+# 3. Source: 14929 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 # 4. Source: 13963 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 # 5. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 152601 Domains - V2021.08.30-15:46:00
+# 152623 Domains - V2021.08.31-03:34:10
 # ---------------------------------------------
 #
 0001.ya-man.com
@@ -19222,6 +19222,7 @@ compare.liligo.com
 compare.loli-pop.co.uk
 compare.mapquest.com
 compare.meilleureslocations.fr
+compare.minube.com
 compare.minube.com.ar
 compare.minube.com.br
 compare.minube.com.co
@@ -25511,6 +25512,7 @@ dynamic.criteo.com
 dynamic.da1.vip.prod.criteo.com
 dynamic.euleriancdn.net
 dynamic.hk5.vip.prod.criteo.com
+dynamic.par.vip.prod.criteo.com
 dynamics.affex.org
 dynamics.euleriancdn.net
 dynamictsi.actonsoftware.com
@@ -65654,6 +65656,7 @@ mkt10878.com
 mkt10879.com
 mkt1087.com
 mkt10880.com
+mkt10881.com
 mkt10883.com
 mkt10884.com
 mkt10886.com
@@ -65765,6 +65768,7 @@ mkt1099.com
 mkt109.com
 mkt11002.com
 mkt11003.com
+mkt11004.com
 mkt11007.com
 mkt11008.com
 mkt11009.com
@@ -65774,12 +65778,16 @@ mkt11011.com
 mkt11012.com
 mkt11013.com
 mkt11016.com
+mkt11017.com
 mkt11018.com
 mkt1101.com
+mkt11021.com
 mkt11023.com
 mkt11024.com
+mkt11027.com
 mkt11028.com
 mkt1102.com
+mkt11033.com
 mkt1103.com
 mkt1104.com
 mkt1105.com
@@ -79415,6 +79423,7 @@ myway.affex.org
 myway.euleriancdn.net
 my-wb.fr
 myweb.affex.org
+mywebapitrack.com
 myweb.euleriancdn.net
 mywebsite.affex.org
 mywebsite.euleriancdn.net
@@ -98422,6 +98431,7 @@ smetrics.10daily.com.au
 smetrics.10play.com.au
 smetrics.123inkjets.com
 smetrics.1800contacts.com
+smetrics.1800yahoo.com
 smetrics1.experian.com
 smetrics.1saleaday.com
 smetrics.2020census.gov
@@ -98517,6 +98527,7 @@ smetrics.aclu.org
 smetrics.act4yourheart.com
 smetrics.actemra.com
 smetrics.actemrahcp.com
+smetrics.actemrainfo.com
 smetrics.activase.com
 smetrics.activatepharmacycard.com
 smetrics.active.com
@@ -100154,6 +100165,7 @@ smetrics.kone.vn
 smetrics.kpmgifrsinstitute.com
 smetrics.kpmg.us
 smetrics.krugerseed.com
+smetrics.kyndryl.com
 smetrics.kyohisho.jp
 smetrics.labaie.com
 smetrics.labsafety.com
@@ -101822,6 +101834,8 @@ smetrics.yrcw.com
 smetrics.ytv.com
 smetrics.zacks.com
 smetrics.zagg.com
+smetrics.zalando.gf
+smetrics.zalando.id
 smetrics.zalando.sh
 smetrics.zales.com
 smetrics.zalesoutlet.com
@@ -113021,6 +113035,7 @@ track.sublytics-5df8eec4bca66.com
 track.sublytics-5f04ec02ca223.com
 track.sublytics-600afc6bd3e89.com
 track.sublytics-602424689e430.com
+track.sublytics-610c0bdd48cf6.com
 tracks.yclients.com
 track-test.workframe.com
 track.thegoodjobs.com
@@ -138817,6 +138832,7 @@ www.mkt10878.com
 www.mkt10879.com
 www.mkt1087.com
 www.mkt10880.com
+www.mkt10881.com
 www.mkt10883.com
 www.mkt10884.com
 www.mkt10886.com
@@ -138928,6 +138944,7 @@ www.mkt1099.com
 www.mkt109.com
 www.mkt11002.com
 www.mkt11003.com
+www.mkt11004.com
 www.mkt11007.com
 www.mkt11008.com
 www.mkt11009.com
@@ -138937,12 +138954,16 @@ www.mkt11011.com
 www.mkt11012.com
 www.mkt11013.com
 www.mkt11016.com
+www.mkt11017.com
 www.mkt11018.com
 www.mkt1101.com
+www.mkt11021.com
 www.mkt11023.com
 www.mkt11024.com
+www.mkt11027.com
 www.mkt11028.com
 www.mkt1102.com
+www.mkt11033.com
 www.mkt1103.com
 www.mkt1104.com
 www.mkt1105.com
@@ -148719,6 +148740,7 @@ www.mytestcholesterol.fr
 www.mythings.com
 www.myvisualiq.net
 www.my-wb.fr
+www.mywebapitrack.com
 www.myxheat.com
 wwwna.alsglobal.com
 www.n.affex.org
