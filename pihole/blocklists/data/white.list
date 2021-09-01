@@ -36,6 +36,8 @@ fls-eu.amazon.sa
 fls-eu.amazon.se
 mads-eu.amazon.com
 mads.amazon-adsystem.com
+global.safebrowsing.service.amazonsilk.com
+configuration-vending.service.amazonsilk.com
 
 # Amazon Devices (Alexa, Kindle, ...)
 d3p8zr0ffa9t17.cloudfront.net
