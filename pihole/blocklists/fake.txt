@@ -24,8 +24,8 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 25235
-# Deadlist: 434812
+# Whitelist: 25300
+# Deadlist: 419736
 # Blacklist: 1389
 # 1. Source: 455 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.vzni.black.list
 # 2. Source: 1346 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.ts.black.list
@@ -33,7 +33,7 @@
 # 4. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 12228 Domains - V2021.08.29-17:02:19
+# 12226 Domains - V2021.09.01-03:34:40
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -2549,7 +2549,6 @@ hoerstern.at
 hog-honigberg.de
 hoisingtonshop.com
 hokaoneoneosterreich.at
-hokaoneosterreich.com
 holafancy.com
 holidaypartner.co
 hollistercoaustria.at
@@ -8524,7 +8523,6 @@ www.hoerstern.at
 www.hog-honigberg.de
 www.hoisingtonshop.com
 www.hokaoneoneosterreich.at
-www.hokaoneosterreich.com
 www.holafancy.com
 www.holidaypartner.co
 www.hollistercoaustria.at

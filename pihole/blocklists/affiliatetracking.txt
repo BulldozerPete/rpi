@@ -22,18 +22,18 @@
 # Statistik
 # ---------
 #
-# Exclude: 413431
+# Exclude: 419736
 # Whitelist: 0
 # Deadlist: 0
 # Blacklist: 0
-# 1. Source: 121348 - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+# 1. Source: 121353 - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 # 2. Source: 181 - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 # 3. Source: 14929 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 # 4. Source: 13963 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 # 5. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 152623 Domains - V2021.08.31-03:34:10
+# 152628 Domains - V2021.09.01-03:34:05
 # ---------------------------------------------
 #
 0001.ya-man.com
@@ -13729,6 +13729,7 @@ bhc-diabetesus-email.com
 bhc.euleriancdn.net
 bh.euleriancdn.net
 bhg.com.102.112.2o7.net
+b.hk5.vip.prod.criteo.com
 b.hlserve.com
 bhm.affex.org
 bhm.euleriancdn.net
@@ -26134,6 +26135,7 @@ ebooks.euleriancdn.net
 ebook.velki.com.br
 ebpdjt.style--plus.jp
 ebs.affex.org
+ebs.am5.vip.prod.criteo.com
 ebs.criteo.com
 ebs.da1.vip.prod.criteo.com
 ebs.euleriancdn.net
@@ -31951,8 +31953,10 @@ gbc6.hk.as.criteo.com
 gbc6.va.us.criteo.com
 gbc7.da.us.criteo.com
 gbc7.hk.as.criteo.com
+gbc7.nl.eu.criteo.com
 gbc7.va.us.criteo.com
 gbc8.da.us.criteo.com
+gbc8.fr.eu.criteo.com
 gbc8.hk.as.criteo.com
 gbc8.va.us.criteo.com
 gb.campaigns.diageo-one.com
@@ -32127,6 +32131,7 @@ geoportal.affex.org
 geoportal.euleriancdn.net
 geoproxy.am5.vip.prod.criteo.net
 geoproxy.criteo.net
+geoproxy.hk5.vip.prod.criteo.net
 geoproxy.par.vip.prod.criteo.net
 geo.query.yahoo.com
 george.affex.org
