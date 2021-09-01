@@ -156,7 +156,7 @@ ws-ee-maidsvc.icloud.com
 xp.apple.com
 
 # Cookies (Spiegel/...)
-*.mgr.consensu.org
+# *.mgr.consensu.org
 *.sp-prod.net
 aggregator.service.usercentrics.eu
 api.usercentrics.eu
@@ -242,8 +242,8 @@ graph.instagram.com
 consent.faz.net
 
 # Gaming
-*.overwolf.com
-*.battle.net
+# *.overwolf.com
+# *.battle.net
 
 # Github
 *.ghcr.io
@@ -258,20 +258,20 @@ github.io
 user-images.githubusercontent.com
 
 # Google
-*.googleapis.com
-app-measurement.com
+# *.googleapis.com
+# app-measurement.com
 fundingchoicesmessages.google.com
-geller-pa.googleapis.com
-google-analytics.com
-googletagmanager.com
-googletagservices.com
+# geller-pa.googleapis.com
+# google-analytics.com
+# googletagmanager.com
+# googletagservices.com
 people-pa.googleapis.com
-ssl.google-analytics.com
-www-google-analytics.l.google.com
-www-googletagmanager.l.google.com
-www.google-analytics.com
-www.googletagmanager.com
-www.googletagservices.com
+# ssl.google-analytics.com
+# www-google-analytics.l.google.com
+# www-googletagmanager.l.google.com
+# www.google-analytics.com
+# www.googletagmanager.com
+# www.googletagservices.com
 
 # Hulu
 dpm.demdex.net
@@ -532,8 +532,8 @@ syndication.twitter.com
 cdn.optimizely.com
 
 # WhatsApp
-*.whatsapp.com
-*.whatsapp.net
+# *.whatsapp.com
+# *.whatsapp.net
 
 # Webex
 *.ciscospark.com
