@@ -24,8 +24,8 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 25300
-# Deadlist: 419736
+# Whitelist: 25304
+# Deadlist: 420837
 # Blacklist: 1389
 # 1. Source: 455 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.vzni.black.list
 # 2. Source: 1346 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.ts.black.list
@@ -33,7 +33,7 @@
 # 4. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 12226 Domains - V2021.09.01-03:34:40
+# 12220 Domains - V2021.09.01-09:58:35
 # ---------------------------------------------
 #
 1000gratisproben.com
@@ -603,7 +603,6 @@ beta-elec.store
 betrieblicheversicherung.com
 better-bikes24.de
 bettina-dagmara.de
-bettinakreativ.at
 bewerte-deinen-goldshop-278.de
 bewerte-einen-onlineshop.de
 bewertung-abgeben-edelmetallshops.de
@@ -2965,7 +2964,6 @@ kelsen-fnac.com
 keltenheuriger.at
 kemeterac.com
 kenbagsshop.com
-kendricklouis.com
 kennelschmengersandalen.de
 ketousesh.com
 kettenkonzept.de
@@ -4869,7 +4867,6 @@ sharopink.com
 shauntapparel.com
 sheadora.com
 sheheaven.com
-shein.com
 sheistyle.com
 shelanu.at
 shell-dbr.de
@@ -6628,7 +6625,6 @@ www.beta-elec.store
 www.betrieblicheversicherung.com
 www.better-bikes24.de
 www.bettina-dagmara.de
-www.bettinakreativ.at
 www.bewerte-deinen-goldshop-278.de
 www.bewerte-einen-onlineshop.de
 www.bewertung-abgeben-edelmetallshops.de
@@ -8933,7 +8929,6 @@ www.kelsen-fnac.com
 www.keltenheuriger.at
 www.kemeterac.com
 www.kenbagsshop.com
-www.kendricklouis.com
 www.kennelschmengersandalen.de
 www.ketousesh.com
 www.kettenkonzept.de
@@ -10784,7 +10779,6 @@ www.sharopink.com
 www.shauntapparel.com
 www.sheadora.com
 www.sheheaven.com
-www.shein.com
 www.sheistyle.com
 www.shelanu.at
 www.shell-dbr.de
