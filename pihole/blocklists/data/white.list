@@ -272,6 +272,7 @@ people-pa.googleapis.com
 # www.google-analytics.com
 # www.googletagmanager.com
 # www.googletagservices.com
+id.google.com
 
 # Hulu
 dpm.demdex.net
@@ -335,8 +336,8 @@ www.msftconnecttest.com
 # Microsoft
 *.teams.microsoft.com
 *.visualstudio.com
-*.events.data.microsoft.com
-*.pipe.aria.microsoft.com
+# *.events.data.microsoft.com
+# *.pipe.aria.microsoft.com
 codepush.appcenter.ms
 codepush.teams.microsoft.com
 codepush.trafficmanager.net
