@@ -26,14 +26,14 @@
 # Whitelist: 0
 # Deadlist: 0
 # Blacklist: 0
-# 1. Source: 121353 - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+# 1. Source: 121355 - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 # 2. Source: 181 - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 # 3. Source: 14929 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 # 4. Source: 13963 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 # 5. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 152628 Domains - V2021.09.01-09:57:24
+# 152630 Domains - V2021.09.02-03:35:09
 # ---------------------------------------------
 #
 0001.ya-man.com
@@ -31946,6 +31946,7 @@ gbc4.hk.as.criteo.com
 gbc4.va.us.criteo.com
 gbc5.da.us.criteo.com
 gbc5.hk.as.criteo.com
+gbc5.nl.eu.criteo.com
 gbc5.va.us.criteo.com
 gbc6.da.us.criteo.com
 gbc6.fr.eu.criteo.com
@@ -31958,6 +31959,7 @@ gbc7.va.us.criteo.com
 gbc8.da.us.criteo.com
 gbc8.fr.eu.criteo.com
 gbc8.hk.as.criteo.com
+gbc8.nl.eu.criteo.com
 gbc8.va.us.criteo.com
 gb.campaigns.diageo-one.com
 gbc.criteo.com
