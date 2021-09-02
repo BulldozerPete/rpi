@@ -22,7 +22,7 @@
 # Statistik
 # ---------
 #
-# Exclude: 420837
+# Exclude: 433496
 # Whitelist: 0
 # Deadlist: 0
 # Blacklist: 0
@@ -33,7 +33,7 @@
 # 5. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 152630 Domains - V2021.09.02-03:35:09
+# 152629 Domains - V2021.09.02-13:00:18
 # ---------------------------------------------
 #
 0001.ya-man.com
@@ -88451,7 +88451,6 @@ plausible.plausible.tangodelta.media
 plausible.play.date
 plausible.powercheck.ch
 plausible.prod.sketch.com
-plausible.promlabs.com
 plausible.promlens.com
 plausible.prufit.co
 plausible.pumpkint.com
