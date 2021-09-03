@@ -24,8 +24,8 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 12295
-# Deadlist: 433496
+# Whitelist: 12305
+# Deadlist: 442492
 # Blacklist: 1264
 # 1. Source: 455 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.vzni.black.list
 # 2. Source: 1347 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.ts.black.list
@@ -33,7 +33,7 @@
 # 4. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10844 Domains - V2021.09.02-13:01:27
+# 10846 Domains - V2021.09.03-09:24:50
 # ---------------------------------------------
 #
 1200isplenty.com
@@ -823,6 +823,7 @@ casual-lust.com
 casuals.at
 casuals.ch
 catalia.de
+catan.pl
 catwebh.com
 cb-estate.com
 cb-photo.at
@@ -6157,6 +6158,7 @@ www.casual-lust.com
 www.casuals.at
 www.casuals.ch
 www.catalia.de
+www.catan.pl
 www.catwebh.com
 www.cb-estate.com
 www.cb-photo.at

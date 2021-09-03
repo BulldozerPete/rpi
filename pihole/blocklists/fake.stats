@@ -21,8 +21,8 @@
 
 # Exclude: 0
 
-# Whitelist: 12295
-# Deadlist: 433496
+# Whitelist: 12305
+# Deadlist: 442492
 
 # Blacklist: 1264
 
@@ -36,7 +36,7 @@ Statistik fake.txt:
 == Source (unique): 7326
 ++ Black:           8585 (+1259)
 -- White:           8582 (-3)
--- Dead:            5502 (-3080)
--- Unblock:         5502 (-0)
-++ WWW-Domains:     10844 (+5342)
-++ FLD-Domains:     10844 (+0)
+-- Dead:            5503 (-3079)
+-- Unblock:         5503 (-0)
+++ WWW-Domains:     10846 (+5343)
+++ FLD-Domains:     10846 (+0)
