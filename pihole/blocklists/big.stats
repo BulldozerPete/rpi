@@ -21,7 +21,9 @@
 #                  https://t.me/adguardde
 # ---------------------------------------------
 
-# Exclude: 0
+# Exclude data/white.list: 308
+# Exclude data/dead.list: 442492
+# Exclude: 442800
 
 # Whitelist: 0
 # Deadlist: 0
@@ -29,11 +31,12 @@
 # Blacklist: 0
 
 # 1. Source: 10846 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/fake.txt
-# 2. Source: 537041 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt
+# 2. Source: 537043 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt
 # 3. Source: 1230179 - https://dbl.oisd.nl
-# #. Source: 1778066
+# #. Source: 1778068
 
 Statistik big.txt:
-== Source (unique): 1450531
-++ WWW-Domains:     1457726 (+7195)
-++ FLD-Domains:     1457913 (+187)
+== Source (unique): 1450533
+-- Exclude:         1411909 (-38624)
+++ WWW-Domains:     1418744 (+6835)
+++ FLD-Domains:     1418885 (+141)
