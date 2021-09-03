@@ -6,8 +6,8 @@
 # ---------------------------------------------
 
 # AdBlock-Detection (Bild/Sport1/...)
-*.de.ioam.de
-de.ioam.de
+# *.de.ioam.de
+# de.ioam.de
 script.ioam.de
 tagger.opecloud.com
 tags.tiqcdn.com
