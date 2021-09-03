@@ -22,7 +22,7 @@
 # Exclude fake.txt: 10846
 # Exclude: 10846
 
-# Whitelist: 12305
+# Whitelist: 12307
 # Deadlist: 442492
 
 # Blacklist global: 2224
@@ -97,5 +97,5 @@ Statistik multi.txt:
 -- Exclude:         416451 (-3561)
 ++ Block:           416487 (+36)
 -- Unblock:         416384 (-103)
-++ WWW-Domains:     535791 (+119407)
-++ FLD-Domains:     537041 (+1250)
+++ WWW-Domains:     535793 (+119409)
+++ FLD-Domains:     537043 (+1250)
