@@ -22,7 +22,7 @@
 # Statistik
 # ---------
 #
-# Exclude: 444115
+# Exclude: 453739
 # Whitelist: 0
 # Deadlist: 0
 # Blacklist: 0
@@ -33,7 +33,7 @@
 # 5. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 151573 Domains - V2021.09.04-03:35:46
+# 151577 Domains - V2021.09.05-03:35:12
 # ---------------------------------------------
 #
 000.affex.org
@@ -65774,6 +65774,7 @@ mkt1886.com
 mkt1887.com
 mkt1888.com
 mkt1889.com
+mkt188.com
 mkt1890.com
 mkt1891.com
 mkt1892.com
@@ -78318,6 +78319,7 @@ mycomm2.hackensackmeridian.org
 my.connexuscu.org
 mydailyhotel.eulerian.net
 mydas.mobi
+mydatabankapp.com
 mydays-at.affex.org
 mydays-ch.affex.org
 mydays-de.affex.org
@@ -91016,7 +91018,6 @@ repdata.sctimes.com
 repdata.usatoday.com
 repdata.wgrz.com
 repdata.wlbz2.com
-repdata.wtsp.com
 repdata.wusa9.com
 repdata.wzzm13.com
 repentignychevrolet.eulerian.net
@@ -94337,6 +94338,7 @@ sanalytics.mybusinessbankcard.com
 sanalytics.myfsloan.com
 sanalytics.mz-web.de
 sanalytics.nascar.com
+sanalytics.nba.com
 sanalytics.ncaa.com
 sanalytics.netshops.com
 sanalytics.own-business-day.com
@@ -138746,6 +138748,7 @@ www.mkt1886.com
 www.mkt1887.com
 www.mkt1888.com
 www.mkt1889.com
+www.mkt188.com
 www.mkt1890.com
 www.mkt1891.com
 www.mkt1892.com
@@ -147666,6 +147669,7 @@ www.myaudience.de
 www.mybestdc.com
 www.mybuys.com
 www.mydas.mobi
+www.mydatabankapp.com
 www.mydefense.info
 www.mydeliverytracker.com
 www.mydocument.cigna.com

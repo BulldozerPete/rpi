@@ -21,22 +21,22 @@
 
 # Exclude: 0
 
-# Whitelist: 12305
-# Deadlist: 442492
+# Whitelist: 12311
+# Deadlist: 453739
 
 # Blacklist: 1264
 
 # 1. Source: 455 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.vzni.black.list
 # 2. Source: 1347 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.ts.black.list
-# 3. Source: 4823 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+# 3. Source: 4839 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 4. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
-# #. Source: 8108
+# #. Source: 8124
 
 Statistik fake.txt:
-== Source (unique): 7326
-++ Black:           8585 (+1259)
--- White:           8582 (-3)
--- Dead:            5503 (-3079)
--- Unblock:         5503 (-0)
-++ WWW-Domains:     10846 (+5343)
-++ FLD-Domains:     10846 (+0)
+== Source (unique): 7342
+++ Black:           8601 (+1259)
+-- White:           8598 (-3)
+-- Dead:            5521 (-3077)
+-- Unblock:         5521 (-0)
+++ WWW-Domains:     10881 (+5360)
+++ FLD-Domains:     10881 (+0)

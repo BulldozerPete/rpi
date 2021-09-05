@@ -18,8 +18,8 @@
 #                  https://t.me/adguardde
 # ---------------------------------------------
 
-# Exclude data/dead.list: 444115
-# Exclude: 444115
+# Exclude data/dead.list: 453739
+# Exclude: 453739
 
 # Whitelist: 0
 # Deadlist: 0
@@ -35,7 +35,7 @@
 
 Statistik affiliatetracking.txt:
 == Source (unique): 139717
--- Exclude:         137767 (-1950)
--- Unblock:         137766 (-1)
-++ WWW-Domains:     151012 (+13246)
-++ FLD-Domains:     151573 (+561)
+-- Exclude:         137769 (-1948)
+-- Unblock:         137768 (-1)
+++ WWW-Domains:     151016 (+13248)
+++ FLD-Domains:     151577 (+561)
