@@ -18,24 +18,24 @@
 #                  https://t.me/adguardde
 # ---------------------------------------------
 
-# Exclude data/dead.list: 453739
-# Exclude: 453739
+# Exclude data/dead.list: 448091
+# Exclude: 448091
 
 # Whitelist: 0
 # Deadlist: 0
 
 # Blacklist: 0
 
-# 1. Source: 121988 - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+# 1. Source: 121489 - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 # 2. Source: 181 - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
-# 3. Source: 14929 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+# 3. Source: 14955 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 # 4. Source: 13963 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 # 5. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
-# #. Source: 151485
+# #. Source: 151012
 
 Statistik affiliatetracking.txt:
-== Source (unique): 139717
--- Exclude:         137769 (-1948)
--- Unblock:         137768 (-1)
-++ WWW-Domains:     151016 (+13248)
-++ FLD-Domains:     151577 (+561)
+== Source (unique): 139313
+-- Exclude:         137463 (-1850)
+-- Unblock:         137462 (-1)
+++ WWW-Domains:     150723 (+13261)
+++ FLD-Domains:     151264 (+541)
