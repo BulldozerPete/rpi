@@ -25,7 +25,7 @@
 #                  AdGuard (DE)
 #                  https://t.me/adguardde
 # ---------------------------------------------
-# 53820 Domains - 2021.09.07-03:32:44
+# 53821 Domains - 2021.09.07-09:47:31
 # ---------------------------------------------
 #
 006a039c957c142bb.com
@@ -1958,6 +1958,7 @@ adnetworkperformance.com
 ad.netzquadrat.de
 adneutralads.com
 ad-nex.com
+adnext.co
 adnext.fr
 adngin.com
 adnico.jp
@@ -4465,12 +4466,7 @@ beacon.affil.walmart.com
 beacon.aimtell.com
 beacon.errorception.com
 beacon.flow.io
-beacon.gcion.com
-beacon.gu-web.net
-beacon.heliumnetwork.com
-beacon.indieclick.com
 beacon.kmi-us.com
-beacon.livefyre.com
 beacon.nrholding.net
 beacon.riskified.com
 beacon.rum.dynapis.com
@@ -4791,6 +4787,7 @@ billionpops.com
 billypub.com
 bilsyndication.com
 bimathyphy.com
+bi.medscape.com
 bimlocal.com
 binalbamp.com
 binarybusiness.de
@@ -4838,7 +4835,6 @@ bitcoin-pay.eu
 bitcoin-pocket.de
 bitcoin-pocket.eu
 bitcoset.com
-bitdash-reporting.appspot.com
 biteburied.com
 bitesizememorable.com
 bitonclick.com
@@ -5059,7 +5055,6 @@ bongacams7.com
 bongacams.com
 bonitrust.de
 bonnieradnetwork.se
-bonsai.internetbrands.com
 bonuscounter.de
 bonusmaniac.com
 bonzai.ad
@@ -5143,7 +5138,6 @@ bqcgrwahvuapq.com
 bqiovml.com
 br.ac.travelocity.com
 braggingreorganizeunderworld.com
-brain.foresee.com
 brainian.club
 brainient.com
 brainlyads.com
@@ -5208,7 +5202,6 @@ bridgetrack.com
 bridgevine.com
 briefing.actonservice.com
 briggbrought.pro
-bright.bncnt.com
 brightedge.com
 brighteroption.com
 brightfunnel.com
@@ -5285,14 +5278,12 @@ bthwkw.bazarchic.com
 btloader.com
 btnativedirect.com
 btncdn.com
-btn.clickability.com
 btnibbler.com
 btnldivewzzfso.com
 btonzfjleinuax.com
 btpnav.com
 btptod.aerzteblatt.de
 btrace.qq.com
-btrace.video.qq.com
 btr.domywife.com
 btrll.com
 btserve.com
@@ -5383,7 +5374,6 @@ business.franchiseopportunities.com
 businessmaking.progress.com
 business-pages.edfenergy.com
 business.samsungusa.com
-business.sharedcount.com
 business.vodafone.com
 business.vodafone.co.nz
 busions.com
@@ -6617,6 +6607,7 @@ collect.helsana.ch
 collecting.click
 collection-day.com
 collection.saga.co.uk
+collect.iteam-dress.com
 collect.meilleurtaux.com
 collector-api.99designs.com
 collector.automote.co.nz
@@ -7733,6 +7724,7 @@ d2ojfulajn60p5.cloudfront.net
 d2pxbld8wrqyrk.cloudfront.net
 d2q52i8yx3j68p.cloudfront.net
 d2qz7ofajpstv5.cloudfront.net
+d2r1yp2w7bby2u.cloudfront.net
 d2r3rw91i5z1w9.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
 d2ry9vue95px0b.cloudfront.net
@@ -12179,6 +12171,7 @@ goodads.de
 goodadvert.ru
 goodbookbook.com
 goodcounter.org
+goodmeasure.io
 goodtag.it
 goofypismica.com
 googleadapis.l.google.com
@@ -14033,9 +14026,12 @@ intendalinetang.com
 intendspatteremerald.com
 intensifier.de
 intentanalysis.com
+intent.cmo.com.au
+intent.goodgearguide.com.au
 intenthq.com
 intentlyrecreate.com
 intentmedia.net
+intent.pcworld.idg.com.au
 intentsuntune.casa
 inter1ads.com
 interact-analytics.com
@@ -14129,6 +14125,7 @@ ioredi.com
 iotechnologies.com
 iovation.com
 ip2c.landscape.co.jp
+ip2c.org
 ip2location.com
 ip2map.com
 ip2phrase.com
@@ -28732,6 +28729,7 @@ tiglesoshi.pro
 tilanalytics.timesinternet.in
 tillatingmer.fun
 tiller.co
+tillertag-a.akamaihd.net
 tilltucked.com
 tilt.bankofamerica.com
 timai-mao.com
@@ -33347,6 +33345,7 @@ www.adnetworkme.com
 www.adnetworkperformance.com
 www.adneutralads.com
 www.ad-nex.com
+www.adnext.co
 www.adnext.fr
 www.adngin.com
 www.adnico.jp
@@ -40376,6 +40375,7 @@ www.goodads.de
 www.goodadvert.ru
 www.goodbookbook.com
 www.goodcounter.org
+www.goodmeasure.io
 www.goodtag.it
 www.goofypismica.com
 www.googleadservices.com
@@ -41804,6 +41804,7 @@ www.iople.com
 www.ioredi.com
 www.iotechnologies.com
 www.iovation.com
+www.ip2c.org
 www.ip2location.com
 www.ip2map.com
 www.ip2phrase.com

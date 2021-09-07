@@ -258,7 +258,7 @@ github.io
 user-images.githubusercontent.com
 
 # Google
-# *.googleapis.com
+*.googleapis.com
 # app-measurement.com
 fundingchoicesmessages.google.com
 # geller-pa.googleapis.com
@@ -530,6 +530,7 @@ syndication.twitter.com
 # Verschiedene
 *.cleverpush.com
 *.crashlytics.com
+*.sentry.io
 cdn.optimizely.com
 
 # WhatsApp

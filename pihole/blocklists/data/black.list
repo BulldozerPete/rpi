@@ -954,7 +954,7 @@ counter.yadro.ru
 cpanel.nativeads.com
 cpx.golem.de
 cpxl.golem.de
-crashlyticsreports-pa.googleapis.com
+# crashlyticsreports-pa.googleapis.com
 creativecdn.com
 cross.econda-monitor.de
 cr-p22000.ladsp.jp
@@ -1253,7 +1253,7 @@ fed67a8354314beca07f1f4186ae1500.nrb.footprintdns.com
 feedback.userreport.com
 fff.dailymail.co.uk
 files.upscore.com
-firebaselogging-pa.googleapis.com
+# firebaselogging-pa.googleapis.com
 # firebase-settings.crashlytics.com
 fling.cid.samba.tv
 fls.doubleclick.net
@@ -1563,7 +1563,7 @@ nrb.footprintdns.com
 ns1.footprintdns.com
 ns2.footprintdns.com
 n-tv.met.vgwort.de
-o278969.ingest.sentry.io
+# o278969.ingest.sentry.io
 o.adtriba.com
 oa.openxcdn.net
 oca7.alpha.telemetry.microsoft.com
