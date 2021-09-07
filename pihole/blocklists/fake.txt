@@ -24,16 +24,16 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 12311
-# Deadlist: 453739
-# Blacklist: 1264
-# 1. Source: 455 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.vzni.black.list
+# Whitelist: 12333
+# Deadlist: 448153
+# Blacklist: 1265
+# 1. Source: 459 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.vzni.black.list
 # 2. Source: 1347 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.ts.black.list
 # 3. Source: 4839 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 4. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10881 Domains - V2021.09.05-03:36:23
+# 10889 Domains - V2021.09.07-09:50:39
 # ---------------------------------------------
 #
 1200isplenty.com
@@ -2824,6 +2824,7 @@ lasharlay.com
 lasportivadeutschland.de
 lastore.net
 lastresortshipping.com
+lasuperhousse.com
 latticeci.com
 laubholzwerk.at
 laura-dresses.com
@@ -3097,6 +3098,7 @@ media-marktonline.com
 mediamartinsen.de
 mediamoritz.de
 medianeptun.com
+medianlokal.com
 media-north.de
 mediapart.center
 medias-markets.com
@@ -3546,6 +3548,7 @@ nootica.de
 noracora.com
 nordic-electronics.de
 nordischesdesign.com
+nordperlen-verchen.de
 nordsee-hooksiel.de
 nordvian.com
 norfolkhotels24.com
@@ -4440,6 +4443,7 @@ soentgen-media.de
 sofa-sauber.com
 sofawunsch.de
 sofort-kredite.online
+softjobs.eu
 softwaresammler.de
 sogoplay.de
 sohab-coswig.de
@@ -8125,6 +8129,7 @@ www.lasharlay.com
 www.lasportivadeutschland.de
 www.lastore.net
 www.lastresortshipping.com
+www.lasuperhousse.com
 www.latticeci.com
 www.laubholzwerk.at
 www.laura-dresses.com
@@ -8394,6 +8399,7 @@ www.media-marktonline.com
 www.mediamartinsen.de
 www.mediamoritz.de
 www.medianeptun.com
+www.medianlokal.com
 www.media-north.de
 www.mediapart.center
 www.medias-markets.com
@@ -8821,6 +8827,7 @@ www.nootica.de
 www.noracora.com
 www.nordic-electronics.de
 www.nordischesdesign.com
+www.nordperlen-verchen.de
 www.nordsee-hooksiel.de
 www.nordvian.com
 www.norfolkhotels24.com
@@ -9688,6 +9695,7 @@ www.soentgen-media.de
 www.sofa-sauber.com
 www.sofawunsch.de
 www.sofort-kredite.online
+www.softjobs.eu
 www.softwaresammler.de
 www.sogoplay.de
 www.sohab-coswig.de
