@@ -745,7 +745,7 @@ bmedia.justservingfiles.net
 bofa.demdex.net
 boot.pbstck.com
 bootstrap.api.drift.com
-browser.events.data.microsoft.com
+# browser.events.data.microsoft.com
 browser-http-intake.logs.datadoghq.eu
 browser-update.org
 btloader.com
@@ -1126,7 +1126,7 @@ dms-mcdn-report.wc.yahoodns.net
 dmx.districtm.io
 d.nativendo.de
 dna.uol.com.br
-donotuse.vortex.data.microsoft.com
+# donotuse.vortex.data.microsoft.com
 d.otaserve.net
 dpvgmbh.germany-2.evergage.com
 dsb.yahoo.co.jp
@@ -1202,7 +1202,7 @@ eu-tlp01.kameleoon.eu
 eu-tlp02.kameleoon.eu
 eu-tlp04.kameleoon.eu
 eu-tlp06.kameleoon.eu
-eu.vortex-win.data.microsoft.com
+# eu.vortex-win.data.microsoft.com
 event.insticator.com
 events.bouncex.net
 events.cid.samba.tv
@@ -1606,7 +1606,7 @@ phar.gu-web.net
 pi.ispot.tv
 ping.chartbeat.net
 ping-meta-prd.jwpltx.com
-pintest.vortex-sandbox.data.microsoft.com
+# pintest.vortex-sandbox.data.microsoft.com
 pipedream.wistia.com
 piwik.avm.de
 piwik.freifunk.net
@@ -2047,10 +2047,10 @@ user-stats.rbl.ms
 uss.xplosion.de
 us.tags.newscgp.com
 us-u.openx.net
-us.vortex-win.data.microsoft.com
+# us.vortex-win.data.microsoft.com
 # v10.events.data.microsoft.com
 # v10.vortex-win.data.microsoft.com
-v10.vortex-win-sandbox.data.microsoft.com
+# v10.vortex-win-sandbox.data.microsoft.com
 # v10-win.vortex.data.microsoft.com.akadns.net
 v1.addthisedge.com
 # v20.events.data.microsoft.com
@@ -2116,10 +2116,10 @@ visitor-service.tealiumiq.com
 vis.optimizely.com
 vitals.vercel-insights.com
 vop-yahoo.akamaized.net
-vortex.data.microsoft.com
-vortex-sandbox.data.microsoft.com
-vortex-win.data.microsoft.com
-vortex-win-sandbox.data.microsoft.com
+# vortex.data.microsoft.com
+# vortex-sandbox.data.microsoft.com
+# vortex-win.data.microsoft.com
+# vortex-win-sandbox.data.microsoft.com
 vs.webtrekk.net
 vwj3o45y6f.kameleoon.eu
 w1.luckyorange.com
@@ -2245,7 +2245,7 @@ www.widespace.com
 www.wysistat.com
 www.xing-share.com
 x.bidswitch.net
-xbox-relying.vortex.data.microsoft.com
+# xbox-relying.vortex.data.microsoft.com
 xd.adnz.co
 xdevice.trafficgate.net
 xid.opsgenie.com

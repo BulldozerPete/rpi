@@ -334,10 +334,10 @@ wdcp.microsoft.com
 www.msftconnecttest.com
 
 # Microsoft
+*.aria.microsoft.com
+*.data.microsoft.com
 *.teams.microsoft.com
 *.visualstudio.com
-# *.events.data.microsoft.com
-# *.pipe.aria.microsoft.com
 codepush.appcenter.ms
 codepush.teams.microsoft.com
 codepush.trafficmanager.net
@@ -348,6 +348,9 @@ ic3.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
 prod.rewardsplatform.microsoft.com
 teams.events.data.microsoft.com
+vortex-win.data.microsoft.com
+vortex.data.microsoft.com
+web.vortex.data.microsoft.com
 
 # Netflix
 *.netflix.com

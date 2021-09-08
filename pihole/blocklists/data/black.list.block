@@ -36,7 +36,7 @@ bb5aefe212b44166addcdf4475e6b955.fp.measure.office.com
 # beacons.gcp.gvt2.com
 # beacons.gvt2.com
 bfe7807839944e829e97bd9fe4bda9c7.fp.measure.office.com
-browser.events.data.microsoft.com
+# browser.events.data.microsoft.com
 browser-update.org
 c.bing.com
 cdn-3.convertexperiments.com
@@ -69,12 +69,14 @@ de.ioam.de
 # disney.demdex.net
 # disneyplus.com.ssl.sc.omtrdc.net
 dit.whatsapp.net
+# donotuse.vortex.data.microsoft.com
 # dxz5jxhrrzigf.cloudfront.net
 eaus2watcab01.blob.core.windows.net
 eaus2watcab02.blob.core.windows.net
 edge.quantserve.com
 etahub.com
 ethn.io
+# eu.vortex-win.data.microsoft.com
 f4aad85291f44f2d95aa811b9a552d14.fp.measure.office.com
 f8cb0f2d.de.ioam.de
 fa390be3.de.ioam.de
@@ -109,6 +111,7 @@ omniture-ssl.walmart.com
 omniture.walmart.com
 open.oneplus.net
 pagead2.googlesyndication.com
+# pintest.vortex-sandbox.data.microsoft.com
 pixel.quantserve.com
 # pixel.spotify.com
 # pixel-static.spotify.com
@@ -151,19 +154,23 @@ try.abtasty.com
 uk.at.atwola.com
 upload2.fp.measure.office.com
 upload.fp.measure.office.com
+# us.vortex-win.data.microsoft.com
 # v10.events.data.microsoft.com
-v10.vortex-win.data.microsoft.com
+# v10.vortex-win.data.microsoft.com
+# v10.vortex-win-sandbox.data.microsoft.com
 v10-win.vortex.data.microsoft.com.akadns.net
 # v20.events.data.microsoft.com
 vars.hotjar.com
 via.batch.com
 # video.xxxjmp.com
-vortex.data.microsoft.com
-vortex-win.data.microsoft.com
+# vortex.data.microsoft.com
+# vortex-sandbox.data.microsoft.com
+# vortex-win.data.microsoft.com
+# vortex-win-sandbox.data.microsoft.com
 watson.telemetry.microsoft.com
 # waz.cleverpush.com
 wcs.naver.com
-web.vortex.data.microsoft.com
+# web.vortex.data.microsoft.com
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
 wipe.de
@@ -177,4 +184,5 @@ www.quantcast.com
 www.smartsuppchat.com
 www.summerhamster.com
 www.userreport.com
+# xbox-relying.vortex.data.microsoft.com
 x.skimresources.com
