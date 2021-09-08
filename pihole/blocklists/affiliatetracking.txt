@@ -22,18 +22,18 @@
 # Statistik
 # ---------
 #
-# Exclude: 449299
+# Exclude: 448153
 # Whitelist: 0
 # Deadlist: 0
 # Blacklist: 0
-# 1. Source: 121491 - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+# 1. Source: 121493 - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 # 2. Source: 181 - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
-# 3. Source: 14955 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+# 3. Source: 14973 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 # 4. Source: 15429 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 # 5. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 151872 Domains - V2021.09.07-03:35:14
+# 151903 Domains - V2021.09.08-03:35:09
 # ---------------------------------------------
 #
 000.affex.org
@@ -734,6 +734,7 @@
 4crowns.postaffiliatepro.com
 4.euleriancdn.net
 4g95gzax6qfp.ddns.dataunlocker.com
+4info.com
 4inkjets.com.102.122.2o7.net
 4iyaysuvob.www.logology.co
 4ke5b4ila.codedge.de
@@ -1025,6 +1026,7 @@
 9kz9cttz76.antonsten.com
 9-marketing.net.daraz.com
 9marketing.net.daraz.com
+9mediaonline.com
 9nl.com
 9nl.org
 9oka42pnam4d.ddns.dataunlocker.com
@@ -7271,6 +7273,7 @@ adinfo.aol.com
 adinfuse.com
 adingo.jp
 adinplay.com
+adintend.com
 adip.ly
 adis.affex.org
 adis.euleriancdn.net
@@ -7555,6 +7558,7 @@ adrms.affex.org
 adrms.euleriancdn.net
 adrolays.de
 adroll.com
+ad.rosszlanyok.hu
 adrsp.net
 adrta.com
 adrtx.net
@@ -7567,6 +7571,7 @@ ads2.affex.org
 ads2.euleriancdn.net
 ads2.msn.com
 ads5-adnow.com
+ads5.matichon.co.th
 ads.adnico.jp
 ads.adondemand.com
 adsafeprotected.com
@@ -7601,6 +7606,7 @@ adserv.affex.org
 adserv.com
 adservd.com
 adserve.adstarsmedia.co.id
+adserv.emh.ch
 adserver2.affex.org
 adserver2.euleriancdn.net
 adserver.affex.org
@@ -7886,6 +7892,7 @@ adslnat-curridabat-128.affex.org
 adslnat-curridabat-128.euleriancdn.net
 ads.mediams.mb.softbank.jp
 ads.mindfactory.de
+ads.motorgraph.com
 ads.msn.com
 ads.mtgroup.kr
 ads.mulan.cloud
@@ -8020,6 +8027,7 @@ advantagetech.actonservice.com
 advantic01.webtrekk.net
 advantic.webtrekk.net
 advcake.com
+adv.dlh.net
 adv.eleliftmontascale.it
 adventive.com
 adventori.com
@@ -10971,6 +10979,7 @@ asiamarketing.sedgwick.com
 asian.affex.org
 asian.euleriancdn.net
 asianimage-gb.asianimage.co.uk
+asianmedia.com
 asia.spotifyforbrands.com
 asideasiconistshop01.wt-eu02.net
 asi.euleriancdn.net
@@ -24700,6 +24709,7 @@ dynamic.criteo.com
 dynamic.da1.vip.prod.criteo.com
 dynamic.euleriancdn.net
 dynamic.hk5.vip.prod.criteo.com
+dynamic.par.vip.prod.criteo.com
 dynamics.affex.org
 dynamics.euleriancdn.net
 dynamictsi.actonsoftware.com
@@ -28026,6 +28036,7 @@ evoice.com.102.122.2o7.net
 evoicereceptionist.com.102.122.2o7.net
 evolent.actonservice.com
 evolution.affex.org
+e-volution.ai
 evolution.euleriancdn.net
 evolutionmarketing.actonservice.com
 evolution.promo.skf.com
@@ -30915,6 +30926,7 @@ gbc1.da.us.criteo.com
 gbc1.hk.as.criteo.com
 gbc1.va.us.criteo.com
 gbc2.da.us.criteo.com
+gbc2.fr.eu.criteo.com
 gbc2.hk.as.criteo.com
 gbc2.va.us.criteo.com
 gbc3.da.us.criteo.com
@@ -46515,6 +46527,7 @@ impressiondesk.com
 impressionproduction.ricoh.fr
 imprimis.postaffiliatepro.com
 improveads.fi
+improvedigital.com
 improving.duckduckgo.com
 impuls.affex.org
 impulse.affex.org
@@ -53000,6 +53013,7 @@ kingfisher.gedaly.com
 kingfisher.niklashugo.com
 kingfisher.startupdemoday.live
 kingfisher.wishloom.com
+kingfish.fishing.net.nz
 kingkong.affex.org
 kingkong.euleriancdn.net
 kingnews.burgerking.co.za
@@ -53863,6 +53877,8 @@ latest.axsupercars.co.uk
 latest.biotyfulclub.com
 latinamerica-marketing.net.daraz.com
 latin.dns1.freshegg.net.daraz.com
+latinon.com
+latinongroup.com
 latin-www.partner.net.daraz.com
 latostadora.postaffiliatepro.com
 launch.affex.org
@@ -79825,6 +79841,7 @@ nitro.affex.org
 nitro.euleriancdn.net
 nitrogen.affex.org
 nitrogen.euleriancdn.net
+nitschkeverlag.de
 niu.actonsoftware.com
 niwepa-com.affex.org
 nix.affex.org
@@ -85195,6 +85212,7 @@ ows.ihs.com
 owss.ihs.com
 ox1jobs-gb.ox1jobs.com
 ox.affex.org
+ox.autolive.be
 oxaxks.europlan.ru
 oxbow.eulerian.net
 o.xbox.com
@@ -90311,6 +90329,7 @@ r.akipam.com
 rakurabe2.max-ltd.co.jp
 rakuten.actonservice.com
 rallio.postaffiliatepro.com
+rallyad-server.net
 rallye-dakarb.carte-gr.total.fr
 rallye-dakargr.carte-gr.total.fr
 rallytorescue.org.102.122.2o7.net
@@ -113269,6 +113288,7 @@ triton-234-cdn.blitztesting.com
 triton.actonservice.com
 triton.affex.org
 triton.companyegg.com
+tritondigital.com
 tritoneestmpb.blitztesting.com
 triton.euleriancdn.net
 triumph.actonservice.com
@@ -133701,6 +133721,7 @@ www4.dvd-dental.com
 www4.ebiquity.com
 www.4.euleriancdn.net
 www4.euleriancdn.net
+www.4info.com
 www4.inin.com
 www4.intelerad.com
 www4.itblueprint.ca
@@ -133798,6 +133819,7 @@ www9.affex.org
 www9.avg.com
 www.9.euleriancdn.net
 www9.euleriancdn.net
+www.9mediaonline.com
 www.9nl.com
 www.9nl.org
 www.a1webstats.com
@@ -133903,6 +133925,7 @@ www.adhigh.net
 www.adinfuse.com
 www.adingo.jp
 www.adinplay.com
+www.adintend.com
 www.adip.ly
 www.adition.com
 www.adizio.com
@@ -134286,6 +134309,7 @@ www.asdfg23.com
 www.as.euleriancdn.net
 www.asia.affex.org
 www.asia.euleriancdn.net
+www.asianmedia.com
 www.ask.affex.org
 www.ask.euleriancdn.net
 www.assets.affex.org
@@ -135613,6 +135637,7 @@ www.everyaction.com
 www.evidon.com
 www.evisitanalyst.com
 www.evolution.affex.org
+www.e-volution.ai
 www.evolution.euleriancdn.net
 www.evolve.aprimo.com
 www.evyy.net
@@ -136254,6 +136279,7 @@ www.impactradius-event.com
 www.impdesk.com
 www.impressiondesk.com
 www.improveads.fi
+www.improvedigital.com
 www.imrworldwide.com
 www.imshopping.com
 www.in.affex.org
@@ -136595,6 +136621,8 @@ www.lansrv090.com
 www.laptop.affex.org
 www.laptop.euleriancdn.net
 www.late6year.com
+www.latinon.com
+www.latinongroup.com
 www.lave6loki.com
 www.law.affex.org
 www.law.euleriancdn.net
@@ -148098,6 +148126,7 @@ www.ninthdecimal.com
 www.nissan.affex.org
 www.nissancorporate.co.uk
 www.nissan.euleriancdn.net
+www.nitschkeverlag.de
 www.nizardeniz.com
 www.nl00.net
 www.nl02.net
@@ -148837,6 +148866,7 @@ www.radio.affex.org
 www.radio.euleriancdn.net
 www.radiumone.com
 www.r.affex.org
+www.rallyad-server.net
 www.rals4alum.com
 www.rampanel.com
 www.rat1.com
@@ -149911,6 +149941,7 @@ www.tr.euleriancdn.net
 www.trevoce.com
 www.tribalfusion.com
 www.triggit.com
+www.tritondigital.com
 www.trkad.network
 www.trk.affex.org
 www.trk.euleriancdn.net
