@@ -24,16 +24,16 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 12333
-# Deadlist: 448153
+# Whitelist: 12338
+# Deadlist: 450170
 # Blacklist: 1265
 # 1. Source: 459 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.vzni.black.list
-# 2. Source: 1347 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.ts.black.list
+# 2. Source: 1349 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.ts.black.list
 # 3. Source: 4839 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 4. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10889 Domains - V2021.09.07-09:50:39
+# 10893 Domains - V2021.09.09-03:36:19
 # ---------------------------------------------
 #
 1200isplenty.com
@@ -2012,6 +2012,7 @@ goldhandel-kauf-hier.de
 goldhandel-kontor.de
 goldhandel-kundenfreundlich.de
 goldhandel-markt.de
+goldhandel-o-kaufen.de
 goldhandel-pacht.de
 goldhandel-preissieger.de
 goldhandel-seit-1981.de
@@ -4946,6 +4947,7 @@ trusted-goldshops-liste.de
 trusted-goldshops-nr398273.de
 trusted-gold-shops-nr83582.de
 trusted-goldshops-nr9813.de
+trusted-goldshops-nr9983.de
 trusted-immediate-edge.com
 trusted-onlineshop-nr18253.de
 trusted-onlineshop-nr24283.de
@@ -7330,6 +7332,7 @@ www.goldhandel-kauf-hier.de
 www.goldhandel-kontor.de
 www.goldhandel-kundenfreundlich.de
 www.goldhandel-markt.de
+www.goldhandel-o-kaufen.de
 www.goldhandel-pacht.de
 www.goldhandel-preissieger.de
 www.goldhandel-seit-1981.de
@@ -10190,6 +10193,7 @@ www.trusted-goldshops-liste.de
 www.trusted-goldshops-nr398273.de
 www.trusted-gold-shops-nr83582.de
 www.trusted-goldshops-nr9813.de
+www.trusted-goldshops-nr9983.de
 www.trusted-immediate-edge.com
 www.trusted-onlineshop-nr18253.de
 www.trusted-onlineshop-nr24283.de

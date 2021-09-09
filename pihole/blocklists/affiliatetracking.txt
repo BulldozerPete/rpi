@@ -22,18 +22,18 @@
 # Statistik
 # ---------
 #
-# Exclude: 448153
+# Exclude: 450170
 # Whitelist: 0
 # Deadlist: 0
 # Blacklist: 0
-# 1. Source: 121493 - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+# 1. Source: 121496 - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 # 2. Source: 181 - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
-# 3. Source: 14973 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+# 3. Source: 14987 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 # 4. Source: 15429 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 # 5. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 151903 Domains - V2021.09.08-03:35:09
+# 151926 Domains - V2021.09.09-03:35:06
 # ---------------------------------------------
 #
 000.affex.org
@@ -7570,6 +7570,7 @@ ads1.msn.com
 ads2.affex.org
 ads2.euleriancdn.net
 ads2.msn.com
+ads.4x4brasil.com.br
 ads5-adnow.com
 ads5.matichon.co.th
 ads.adnico.jp
@@ -7610,6 +7611,7 @@ adserv.emh.ch
 adserver2.affex.org
 adserver2.euleriancdn.net
 adserver.affex.org
+adserver.boersen-zeitung.de
 adserver.diariodeavisos.com
 adserver.diariodosertao.com.br
 adserver.doccheck.com
@@ -16203,6 +16205,7 @@ cdn.rozetka.com.ua
 cdn-rum.ngenix.net
 c.dnsdelegation.io
 cdn.thekrauseagency.com
+cdntrf.com
 cdn.tt.omtrdc.net
 cdn.wbtrk.net
 cdo.affex.org
@@ -30921,6 +30924,7 @@ gba.kwm.com
 gbc0.da.us.criteo.com
 gbc0.fr.eu.criteo.com
 gbc0.hk.as.criteo.com
+gbc0.jp2.as.criteo.com
 gbc0.va.us.criteo.com
 gbc1.da.us.criteo.com
 gbc1.hk.as.criteo.com
@@ -30933,6 +30937,7 @@ gbc3.da.us.criteo.com
 gbc3.hk.as.criteo.com
 gbc3.va.us.criteo.com
 gbc4.da.us.criteo.com
+gbc4.fr.eu.criteo.com
 gbc4.hk.as.criteo.com
 gbc4.nl.eu.criteo.com
 gbc4.va.us.criteo.com
@@ -51497,6 +51502,7 @@ ism.brother.com
 ism.euleriancdn.net
 ismtp.affex.org
 ismtp.euleriancdn.net
+isn.nl
 iso.affex.org
 iso.com.102.112.2o7.net
 iso.euleriancdn.net
@@ -77637,6 +77643,7 @@ mug.da1.vip.prod.criteo.com
 mugen.affex.org
 mugen.euleriancdn.net
 mug.hk5.vip.prod.criteo.com
+mug.par.vip.prod.criteo.com
 mug.va1.vip.prod.criteo.com
 muhttw.spotlightstores.com
 mujjrh.stylenanda.com
@@ -78883,6 +78890,7 @@ nationalinstruments.hb.omtrdc.net
 nationalswitchgear.actonsoftware.com
 nationwidepower.actonsoftware.com
 nativeads.com
+nativendo.de
 nativeremedies.com.102.122.2o7.net
 nato.affex.org
 nato.euleriancdn.net
@@ -84657,6 +84665,7 @@ openvpn.euleriancdn.net
 openvz.affex.org
 openvz.euleriancdn.net
 openworksweb.actonservice.com
+openx2.kytary.cz
 openx.affex.org
 openx.com
 openxenterprise.com
@@ -88444,6 +88453,7 @@ porn.affex.org
 porn.euleriancdn.net
 porno.affex.org
 porno.euleriancdn.net
+porovname.cz
 porpoise.azettl.net
 porpoise.deschtimes.com
 porpoise.fruittreecottage.com.au
@@ -89536,6 +89546,7 @@ publish.euleriancdn.net
 publishing.affex.org
 publishing.euleriancdn.net
 publitas.com
+pub.macommune.info
 pubmatic.com
 pubmine.com
 pubnation.com
@@ -91829,6 +91840,7 @@ reunion.affex.org
 reunion.euleriancdn.net
 rev.affex.org
 revcontent.com
+rev.contractoruk.com
 revdepo.com
 revealvirology.com.102.122.2o7.net
 revealytics.com
@@ -91855,6 +91867,7 @@ revista.affex.org
 revista.euleriancdn.net
 revistas.affex.org
 revistas.euleriancdn.net
+revive.thebusinessjournal.com
 revive.workmedia.pt
 revjet.com
 revmetrix.com
@@ -95994,6 +96007,7 @@ seed.affex.org
 seed.euleriancdn.net
 seedsman.postaffiliatepro.com
 seedsupreme.postaffiliatepro.com
+seedtag.com
 seedtime.app
 see.euleriancdn.net
 see.evfusa.org
@@ -112949,6 +112963,7 @@ treefrog.tschmeisser.com
 treefrog.walkingwithdaddy.com
 treehouse.affex.org
 treehouse.euleriancdn.net
+treehouse.wwoz.org
 tree.indot.nl
 tr.e.entreprise-pm.fr
 tr.e.entreprise-pm.net
@@ -127804,6 +127819,7 @@ weedfamilyautomotive.actonsoftware.com
 weekend.affex.org
 weekendesk.eulerian.net
 weekend.euleriancdn.net
+weekli.systems
 weekly.affex.org
 weekly.euleriancdn.net
 we.euleriancdn.net
@@ -133578,6 +133594,7 @@ www3.championenergyservices.com
 www3.championmt.com
 www3.cloudera.com
 www3.coneva.com
+www3.convergenciadigital.com.br
 www3.corelight.com
 www3.cumminsallison.com
 www3.cuorec3.co.jp
@@ -134745,6 +134762,7 @@ www.cdn.ad.xiaomi.com
 www.cdn.affex.org
 www.cdn.euleriancdn.net
 www.cdn-net.com
+www.cdntrf.com
 www.cdxr53.com
 www.cedexis.com
 www.cedexis-radar.net
@@ -136442,6 +136460,7 @@ www.isboost.co.jp
 www.isdiprofesionesdigitales.com
 www.islam.affex.org
 www.islam.euleriancdn.net
+www.isn.nl
 www.israel.affex.org
 www.israel.euleriancdn.net
 www.ist-track.com
@@ -148038,6 +148057,7 @@ www.nano.euleriancdn.net
 www.nanogardens.tech
 www.nanorep.com
 www.nativeads.com
+www.nativendo.de
 www.naturalvet.us
 www.navigatorprep.org
 www.navrcholu.cz
@@ -148643,6 +148663,7 @@ www.popcash.net
 www.pop.euleriancdn.net
 www.popmyads.com
 www.poqwo3.com
+www.porovname.cz
 www.portal.affex.org
 www.portal.euleriancdn.net
 www.portbay.trade
@@ -149175,6 +149196,7 @@ www.securepaths.com
 www.secure.rc-club.ricoh.co.jp
 www.security.affex.org
 www.security.euleriancdn.net
+www.seedtag.com
 www.seedtime.app
 www.se.euleriancdn.net
 www.segment.com
@@ -150305,6 +150327,7 @@ www.webtrendslive.com
 www.web.ulqcl.com
 www.wedding.affex.org
 www.wedding.euleriancdn.net
+www.weekli.systems
 www.wellfsargo.us
 www.wellnessprofit.net
 www.wescam.info
