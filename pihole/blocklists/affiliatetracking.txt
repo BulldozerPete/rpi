@@ -22,18 +22,18 @@
 # Statistik
 # ---------
 #
-# Exclude: 450170
+# Exclude: 449039
 # Whitelist: 0
 # Deadlist: 0
 # Blacklist: 0
-# 1. Source: 121496 - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+# 1. Source: 121499 - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 # 2. Source: 181 - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 # 3. Source: 14987 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 # 4. Source: 15429 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 # 5. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 151926 Domains - V2021.09.09-03:35:06
+# 151929 Domains - V2021.09.10-03:35:15
 # ---------------------------------------------
 #
 000.affex.org
@@ -24704,6 +24704,7 @@ dymic.actonservice.com
 dymista.se
 dyn.affex.org
 dynamic.affex.org
+dynamic.am5.vip.prod.criteo.com
 dynamic.ca.102.122.2o7.net
 dynamic-content.auchandrive.fr
 dynamic-content.croquetteland.com
@@ -30935,6 +30936,7 @@ gbc2.hk.as.criteo.com
 gbc2.va.us.criteo.com
 gbc3.da.us.criteo.com
 gbc3.hk.as.criteo.com
+gbc3.jp2.as.criteo.com
 gbc3.va.us.criteo.com
 gbc4.da.us.criteo.com
 gbc4.fr.eu.criteo.com
@@ -30944,6 +30946,7 @@ gbc4.va.us.criteo.com
 gbc5.da.us.criteo.com
 gbc5.fr.eu.criteo.com
 gbc5.hk.as.criteo.com
+gbc5.nl.eu.criteo.com
 gbc5.va.us.criteo.com
 gbc6.fr.eu.criteo.com
 gbc6.hk.as.criteo.com
