@@ -24,16 +24,16 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 12338
-# Deadlist: 450170
-# Blacklist: 1265
-# 1. Source: 459 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.vzni.black.list
+# Whitelist: 12346
+# Deadlist: 450730
+# Blacklist: 1273
+# 1. Source: 464 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.vzni.black.list
 # 2. Source: 1349 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.ts.black.list
 # 3. Source: 4839 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 4. Source: 1483 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10893 Domains - V2021.09.09-03:36:19
+# 10901 Domains - V2021.09.12-18:14:48
 # ---------------------------------------------
 #
 1200isplenty.com
@@ -767,7 +767,6 @@ cabriofliegen.at
 cacemuse.com
 cafe-adrenalin.at
 cafe-hardenberg.de
-cagholdinggmbh.com
 cagliostroberlin.de
 cain-spedition.de
 caledonia-ev.de
@@ -1254,6 +1253,7 @@ dommsch.de
 domstrren.com
 donifly.com
 donovan.store
+donoyo.net
 donplay.de
 dooplay.de
 dopeclicsq.com
@@ -1859,6 +1859,7 @@ gaming-pate.de
 gamingplanet.eu
 gamingrockstars.de
 gaming-sky.de
+gaming-xpress.com
 gaming-z0ne.com
 gamma24.de
 gammy-world.de
@@ -1991,6 +1992,7 @@ gocabsgoy.com
 godcontroller.de
 gogielektro.com
 gogplay.de
+golaplay.de
 goldankaufbayern.net
 gold-barren-muenzen.de
 goldbarren-munzen.kaufen.de
@@ -3649,6 +3651,7 @@ onlinecheapbest2021.ru
 onlinechemicalandpills.com
 online-downloaden.de
 online-gold-shop.de
+online-handelsregister.eu
 onlinejobs2020.at
 online-mode-1.de
 onlinenewsh.com
@@ -5102,6 +5105,7 @@ varibel.de
 vaschoen.com
 vassv.com
 vast-spedition.com
+vaxcontrolgroup.com
 vaymuanham.com
 vbridal.com
 vdd-osnabrueck.de
@@ -6128,7 +6132,6 @@ www.cabriofliegen.at
 www.cacemuse.com
 www.cafe-adrenalin.at
 www.cafe-hardenberg.de
-www.cagholdinggmbh.com
 www.cagliostroberlin.de
 www.cain-spedition.de
 www.caledonia-ev.de
@@ -6590,6 +6593,7 @@ www.dommsch.de
 www.domstrren.com
 www.donifly.com
 www.donovan.store
+www.donoyo.net
 www.donplay.de
 www.dooplay.de
 www.dopeclicsq.com
@@ -7184,6 +7188,7 @@ www.gaming-pate.de
 www.gamingplanet.eu
 www.gamingrockstars.de
 www.gaming-sky.de
+www.gaming-xpress.com
 www.gaming-z0ne.com
 www.gamma24.de
 www.gammy-world.de
@@ -7312,6 +7317,7 @@ www.gocabsgoy.com
 www.godcontroller.de
 www.gogielektro.com
 www.gogplay.de
+www.golaplay.de
 www.goldankaufbayern.net
 www.gold-barren-muenzen.de
 www.goldchef.de
@@ -8926,6 +8932,7 @@ www.onlinecheapbest2021.ru
 www.onlinechemicalandpills.com
 www.online-downloaden.de
 www.online-gold-shop.de
+www.online-handelsregister.eu
 www.onlinejobs2020.at
 www.online-mode-1.de
 www.onlinenewsh.com
@@ -10337,6 +10344,7 @@ www.varibel.de
 www.vaschoen.com
 www.vassv.com
 www.vast-spedition.com
+www.vaxcontrolgroup.com
 www.vaymuanham.com
 www.vbridal.com
 www.vdd-osnabrueck.de
