@@ -22,7 +22,7 @@
 # Statistik
 # ---------
 #
-# Exclude: 451631
+# Exclude: 450326
 # Whitelist: 0
 # Deadlist: 0
 # Blacklist: 0
@@ -33,7 +33,7 @@
 # 5. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 152502 Domains - V2021.09.11-03:35:16
+# 152501 Domains - V2021.09.12-03:35:10
 # ---------------------------------------------
 #
 000.affex.org
@@ -408,7 +408,6 @@
 1kpv4njzilv.community.intersystems.com
 1.librestream.com
 1m639v56m9d.development.pit.taxmachine.be
-1m7bv0c62id.www.cybernetman.com
 1missionnutrition.postaffiliatepro.com
 1mnzt9u4qwf.www.alefcity.com
 1motormart.com.102.122.2o7.net
