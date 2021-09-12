@@ -22,8 +22,8 @@
 # ---------------------------------------------
 
 # Exclude data/white.list: 311
-# Exclude data/dead.list: 451631
-# Exclude: 451942
+# Exclude data/dead.list: 450326
+# Exclude: 450637
 
 # Whitelist: 0
 # Deadlist: 0
@@ -31,13 +31,13 @@
 # Blacklist: 0
 
 # 1. Source: 10893 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/fake.txt
-# 2. Source: 559191 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt
-# 3. Source: 986303 - https://dbl.oisd.nl
-# #. Source: 1556387
+# 2. Source: 560155 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt
+# 3. Source: 984604 - https://dbl.oisd.nl
+# #. Source: 1555652
 
 Statistik big.txt:
-== Source (unique): 1217703
--- Exclude:         1174485 (-43218)
--- Unblock:         1174367 (-118)
-++ WWW-Domains:     1181165 (+6798)
-++ FLD-Domains:     1181307 (+142)
+== Source (unique): 1217361
+-- Exclude:         1174224 (-43137)
+-- Unblock:         1174106 (-118)
+++ WWW-Domains:     1180886 (+6780)
+++ FLD-Domains:     1181028 (+142)
