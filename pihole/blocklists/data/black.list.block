@@ -20,7 +20,7 @@ ad.samsungadhub.com
 # analytics-collector-28944298.us-east-1.elb.amazonaws.com
 analyticsnew.overwolf.com
 api.ad.xiaomi.com
-# api.cleverpush.com
+api.cleverpush.com
 api.mixpanel.com
 api.segment.io
 app-measurement.com
@@ -49,13 +49,13 @@ ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
 cf.iadsdk.apple.com
 chimpstatic.com
-# cleverpush.com
+cleverpush.com
 collector.appconsent.io
 # collector.githubapp.com
 config.ioam.de
 contributor.google.com
 crashlogs.whatsapp.net
-# crashlyticsreports-pa.googleapis.com
+crashlyticsreports-pa.googleapis.com
 d3b278f2.de.ioam.de
 # d3p8zr0ffa9t17.cloudfront.net
 d6e9703b8c294e01b0bb672079e881f9.fp.measure.office.com
@@ -63,7 +63,7 @@ d9f7df8da41943d7a00f7aa5dd98e970.fp.measure.office.com
 data.mistat.india.xiaomi.com
 db5.vortex.data.microsoft.com.akadns.net
 de.ioam.de
-# derwesten.cleverpush.com
+derwesten.cleverpush.com
 # device-metrics-us-2.amazon.com
 # device-metrics-us.amazon.com
 # disney.demdex.net
@@ -80,8 +80,8 @@ ethn.io
 f4aad85291f44f2d95aa811b9a552d14.fp.measure.office.com
 f8cb0f2d.de.ioam.de
 fa390be3.de.ioam.de
-# firebaselogging-pa.googleapis.com
-# firebase-settings.crashlytics.com
+firebaselogging-pa.googleapis.com
+firebase-settings.crashlytics.com
 geo.vortex.data.microsoft.com.akadns.net
 gj.mmstat.com
 globalapi.ad.xiaomi.com
@@ -89,7 +89,7 @@ google-analytics.com
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
-# heise.cleverpush.com
+heise.cleverpush.com
 hotjar.com
 ht.youporn.com
 hubblecontent.osi.office.net
@@ -100,7 +100,7 @@ iadsdk.apple.com
 instant.page
 # js-cdn.dynatrace.com
 lcs.naver.com
-# liveapi.cleverpush.com
+liveapi.cleverpush.com
 mc.yandex.ru
 metrics.brightcove.com
 mouseflow.com
@@ -118,17 +118,18 @@ pixel.quantserve.com
 pixel.wp.com
 privatestats.whatsapp.net
 # prod.rewardsplatform.microsoft.com
-# production.cleverpush.com
+production.cleverpush.com
 p.skimresources.com
 pubads.g.doubleclick.net
 publisher-assets.spot.im
 pvtag.yahoo.co.jp
 rat.rakuten.co.jp
 r.skimresources.com
+# s3t3d2y7.ackcdn.net
 sa.api.intl.miui.com
 samsungadhub.com
 # sanalytics.disneyplus.com
-# sb.scorecardresearch.com
+sb.scorecardresearch.com
 script.hotjar.com
 secure-dcr.imrworldwide.com
 secure-it.imrworldwide.com
@@ -140,11 +141,11 @@ s.skimresources.com
 ssl.google-analytics.com
 sstats.adobe.com
 stags.bluekai.com
-# static.cleverpush.com
+static.cleverpush.com
 static.hotjar.com
 sumo.com
 swa.bol.com
-# t3n.cleverpush.com
+t3n.cleverpush.com
 tags.bkrtx.com
 tags.crwdcntrl.net
 telecommand.telemetry.microsoft.com
@@ -168,7 +169,7 @@ via.batch.com
 # vortex-win.data.microsoft.com
 # vortex-win-sandbox.data.microsoft.com
 watson.telemetry.microsoft.com
-# waz.cleverpush.com
+waz.cleverpush.com
 wcs.naver.com
 # web.vortex.data.microsoft.com
 weus2watcab01.blob.core.windows.net

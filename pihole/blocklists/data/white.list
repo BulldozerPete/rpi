@@ -67,7 +67,7 @@ dmqdd6hw24ucf.cloudfront.net
 # Apps (Mobile)
 app.link
 mobilesdk-us.kampyle.com
-sb.scorecardresearch.com
+# sb.scorecardresearch.com
 
 # Apple (https://support.apple.com/en-us/HT210060)
 *.aaplimg.com
@@ -258,7 +258,7 @@ github.io
 user-images.githubusercontent.com
 
 # Google
-*.googleapis.com
+# *.googleapis.com
 # app-measurement.com
 fundingchoicesmessages.google.com
 # geller-pa.googleapis.com
@@ -491,6 +491,7 @@ wl.spotify.com
 cdn-gl.imrworldwide.com
 cdn2.cam-content.com
 cws-eu.conviva.com
+ht-cdn2.adtng.com
 hw-cdn.trafficjunky.net
 hw-cdn2.adtng.com
 hw-cdn2.trafficjunky.net
@@ -501,6 +502,7 @@ redefine.hit.stat24.com
 s0-2mdn-net.l.google.com
 s0.2mdn.net
 s2.static.cfgr3.com
+s3t3d2y7.ackcdn.net
 uim.tifbs.net
 video.xxxjmp.com
 videos-fms.jwpsrv.com
@@ -531,8 +533,8 @@ analytics.twitter.com
 syndication.twitter.com
 
 # Verschiedene
-*.cleverpush.com
-*.crashlytics.com
+# *.cleverpush.com
+# *.crashlytics.com
 *.sentry.io
 cdn.optimizely.com
 

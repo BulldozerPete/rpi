@@ -600,7 +600,7 @@ api2.amplitude.com
 api.addefend.com
 # api.ad.xiaomi.com
 api.bounceexchange.com
-# api.cleverpush.com
+api.cleverpush.com
 api.company-target.com
 api.devatics.io
 api.enthusiastgaming.net
@@ -886,8 +886,9 @@ c.go-mpulse.net
 chimpstatic.com
 clarium.global.ssl.fastly.net
 cl.canva.com
+cleaning-device.com
 clevernt.com
-# cleverpush.com
+cleverpush.com
 click.oneplus.cn
 click.oneplus.com
 click.uol.com.br
@@ -954,7 +955,7 @@ counter.yadro.ru
 cpanel.nativeads.com
 cpx.golem.de
 cpxl.golem.de
-# crashlyticsreports-pa.googleapis.com
+crashlyticsreports-pa.googleapis.com
 creativecdn.com
 cross.econda-monitor.de
 cr-p22000.ladsp.jp
@@ -1082,7 +1083,7 @@ deliver.ptgncdn.com
 delivery.adrecover.com
 de-makerist-main.collector.snplow.net
 derekseamancom.api.oneall.com
-# derwesten.cleverpush.com
+derwesten.cleverpush.com
 # device-metrics-us-2.amazon.com
 # device-metrics-us.amazon.com
 dev.visualwebsiteoptimizer.com
@@ -1253,8 +1254,8 @@ fed67a8354314beca07f1f4186ae1500.nrb.footprintdns.com
 feedback.userreport.com
 fff.dailymail.co.uk
 files.upscore.com
-# firebaselogging-pa.googleapis.com
-# firebase-settings.crashlytics.com
+firebaselogging-pa.googleapis.com
+firebase-settings.crashlytics.com
 fling.cid.samba.tv
 fls.doubleclick.net
 f.monetate.net
@@ -1311,7 +1312,7 @@ hbopenbid.pubmatic.com
 hb.vntsm.com
 hbx.media.net
 h.df-srv.de
-# heise.cleverpush.com
+heise.cleverpush.com
 hexagon-analytics.com
 hifi-d.openx.net
 hit-pool.upscore.com
@@ -1437,7 +1438,7 @@ licensing.bitmovin.com
 lifestreet.com
 lightning.cnn.com
 likemore-go.imgsmail.ru
-# liveapi.cleverpush.com
+liveapi.cleverpush.com
 live.ec2.cxo.name
 live.rezync.com
 liveticker.abendblatt.de
@@ -1663,7 +1664,7 @@ prod.fe.telemetry.microsoft.com
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 prod-m-node-3111.ssp.advertising.com
 # prod.rewardsplatform.microsoft.com
-# production.cleverpush.com
+production.cleverpush.com
 profiles.tagger.opecloud.com
 profusesupport.com
 prophet.heise.de
@@ -1745,7 +1746,7 @@ s2.adform.net
 s2.go-mpulse.net
 s2s.yieldlove-ad-serving.net
 s385.mxcdn.net
-s3t3d2y7.ackcdn.net
+# s3t3d2y7.ackcdn.net
 s400.mxcdn.net
 sa.api.intl.miui.com
 sac.ayads.co
@@ -1763,7 +1764,7 @@ sanalytics.express.de
 sanalytics.ksta.de
 sat.public.bd.313.nl
 sb.monetate.net
-# sb.scorecardresearch.com
+sb.scorecardresearch.com
 scdn.cxense.com
 sc.lfeeder.com
 scnd.landsend.de
@@ -1798,6 +1799,7 @@ secure.quantserve.com
 secure.rat.rakuten.co.jp
 secure-sg.imrworldwide.com
 secure-sts-prod.imrworldwide.com
+security-system.net
 segment-data-us-east.zqtk.net
 segment-data.zqtk.net
 # self.events.data.microsoft.com
@@ -1878,7 +1880,7 @@ startribune.zeustechnology.com
 startsear.ch
 static.addtoany.com
 static.ads-twitter.com
-# static.cleverpush.com
+static.cleverpush.com
 static.clicktripz.com
 static.criteo.net
 static-de.plista.com
@@ -1927,7 +1929,7 @@ sync.sxp.smartclip.net
 sync.taboola.com
 sync-tm.everesttech.net
 sz.met.vgwort.de
-# t3n.cleverpush.com
+t3n.cleverpush.com
 t.9gag.com
 tagan.adlightning.com
 tag.aumago.com
@@ -2137,7 +2139,7 @@ watson.ppe.telemetry.microsoft.com
 watson.telemetry.microsoft.com
 wa.wdr.de
 wa.web.de
-# waz.cleverpush.com
+waz.cleverpush.com
 waz.met.vgwort.de
 wbtrkk.deutschlandcard.de
 wbtrkk.teufel.de
