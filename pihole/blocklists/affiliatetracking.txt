@@ -26,14 +26,14 @@
 # Whitelist: 0
 # Deadlist: 0
 # Blacklist: 0
-# 1. Source: 121660 - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+# 1. Source: 121668 - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 # 2. Source: 181 - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
-# 3. Source: 14987 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+# 3. Source: 15057 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 # 4. Source: 15429 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 # 5. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 152092 Domains - V2021.09.12-18:13:35
+# 152176 Domains - V2021.09.13-03:35:03
 # ---------------------------------------------
 #
 000.affex.org
@@ -6262,6 +6262,7 @@ a.apachens.emailvision.net.daraz.com
 aa.paramountplus.com
 a-api.skz.dev
 aapt.com.au.102.122.2o7.net
+aaqrvt.thefryecompany.com
 aardvark.considerable.cx
 aardvark.helpingpets.org.uk
 aardvark.jimenezlinares.com
@@ -6613,6 +6614,7 @@ abwjpw.misssixty.com
 abxslg.jollyroom.fi
 abyss.affex.org
 abyss.euleriancdn.net
+ac24horas.com
 ac2.affex.org
 ac2.euleriancdn.net
 ac-3.mix.tokyo
@@ -6995,6 +6997,7 @@ adamhall01.webtrekk.net
 adams.affex.org
 adams.euleriancdn.net
 adamsoftware.actonservice.com
+ad.aniu.tv
 ad-app.morion.ua
 adap.tv
 ad.atdmt.com
@@ -7275,6 +7278,7 @@ adinfuse.com
 adingo.jp
 adinplay.com
 adintend.com
+ad.investmap.pl
 adip.ly
 adis.affex.org
 adis.euleriancdn.net
@@ -7567,19 +7571,25 @@ ads1.euleriancdn.net
 ads1.knxs.net
 ads1.msn.com
 ads2.affex.org
+ads2.epsilonnet.gr
 ads2.euleriancdn.net
+ads2.focus-news.net
+ads2.jenite.bg
 ads2.msn.com
 ads.4x4brasil.com.br
 ads5-adnow.com
 ads5.matichon.co.th
+ads.a2epub.com
 ads.adnico.jp
 ads.adondemand.com
+ads.adsolut.in
 adsafeprotected.com
 adsafety.net
 ads.affex.org
 ad.samsungadhub.com
 ads.asccommunications.com
 ads.as.criteo.com
+ads.baotainguyenmoitruong.vn
 ads.bid
 adsbid.ru
 adsbookie.com
@@ -7588,17 +7598,24 @@ ads.brave.com
 adscale.de
 ads.chaturbate.com
 adscience.nl
+ads.citymagazine.rs
 ads.clubz.bg
 ads.cocoad.jp
 adsco.re
 ad-score.com
 ads-creativesyndicator.com
+ads.d3corp.com
 ads.dandelionchocolate.jp
+ads.diariodehuelva.es
+ads.directa.cat
 adsdk.yandex.ru
 ads.dreamteamfc.com
 ads-d.viber.com
+ads.easyodds.com
 ads.ebay.com
 ads.ejz.de
+ads.elperiodic.ad
+ads.eltemps.cat
 ads.enhance.co.jp
 adsense.affex.org
 adsense.euleriancdn.net
@@ -7610,14 +7627,21 @@ adserv.emh.ch
 adserver2.affex.org
 adserver2.euleriancdn.net
 adserver.affex.org
+adserver.automobilwoche.de
 adserver.boersen-zeitung.de
+adserver.desnivel.com
 adserver.diariodeavisos.com
 adserver.diariodosertao.com.br
 adserver.doccheck.com
 adserver.euleriancdn.net
+adserverhd.com
+adserver.krankenkassennetz.de
 adserver.lenouvelliste.com
+adserver.logisticaprofesional.com
+adserver.maispb.com.br
 adserver.pandora.com
 ad-serverparc.nl
+adserver.polemicaparaiba.com.br
 adserver.pressboard.ca
 adserver.wolterskluwer.pl
 adserver.yahoo.com
@@ -7866,12 +7890,15 @@ ads.eurocom.bg
 ads.every.tv
 ads.facebook.com
 adsfac.eu
+ads.fakulteti.mk
+ads.femmexpat.net
 ads.financialcontent.com
 adsfs.oppomobile.com
 adsgaga.com
 adsgainer.com
 ads.genieessp.com
 ads.glasove.com
+ads.gogovest.com
 ads.gold
 ads.google.com
 ads.hearstmags.com
@@ -7879,11 +7906,14 @@ ad.shinjuku-mens-chuoh.com
 adship.postaffiliatepro.com
 ads.ign.com
 ads.imbc.com
+ads.inselradio.com
 ads.interfax.ru
 ads.isboost.co.jp
 ads.itbiz.asia
+ads.kafepauza.mk
 adskeeper.com
 adskeeper.co.uk
+ads.khoahocdoisong.vn
 adsl2.affex.org
 adsl2.euleriancdn.net
 adsl.affex.org
@@ -7907,16 +7937,20 @@ adspace.adstarsmedia.co.id
 adspdbl.com
 adspecs.yahoo.com
 adspeed.net
+ads.performanceracing.com
 ads.pinterest.com
 ads.pointermedia.hu
 ad.spot.app.sony.jp
+ads.press24.mk
 ads.proboards.com
 adspsp.com
 ads.reddit.com
+ads.republica.com.uy
 adsrv.affex.org
 adsrv.euleriancdn.net
 adsrvr.org
 adsrvs.com
+ads.samartdigitalmedia.com
 ads.samba.tv
 adssea.byspotify.com
 ads.sedemosmi.tv
@@ -7928,6 +7962,7 @@ ads.sprout-ad.com
 ads.ssp.shufoo.net
 ads.superawesome.tv
 adstara.postaffiliatepro.com
+ads.tcsemotion.com
 adstdg.net
 adsterra.com
 ads.thescottishsun.co.uk
@@ -7936,25 +7971,32 @@ ads.thesun.co.uk
 ads.thesun.ie
 ads.thetimes.co.uk
 ads.tiktok.com
+ads.tirabol.cat
 ad-stir.com
 adstir.com
 adstrck.tutotoons.com
 ad-stub-tvc.cdnvideo.ru
+ads.tuniscope.com
 ads.tutotoons.com
+ads.tvh.no
 ads-twitter.com
 ads.twitter.com
+ads.uh.ro
 adsupply.com
 adsupplyssl.com
 ads.urgente24.com
 ads.us.criteo.com
 ads.uwayapply.com
 ads.uway.com
+ads.veterinaren.nu
 ads.viber.com
+ads.warrelics.eu
 adswizz.com
 ads.yahoo.com
 ads.yap.yahoo.com
 adsymptotic.com
 ads.youtube.com
+ads.zilesinopti.ro
 ad.takasu.co.jp
 adtarget.me
 adtarget.tech
@@ -8113,6 +8155,7 @@ adx1.com
 adxadserv.com
 adx.ads.oppomobile.com
 adx.affex.org
+adx.ephoto.sk
 adx.euleriancdn.net
 ad.xn--o9jem5iv41o982db8k.jp
 adxpansion.com
@@ -8122,6 +8165,7 @@ adxwxw.kp.ru
 adxzju.penti.com
 adzerk.com
 adzerk.net
+ad.zfk.de
 adzhub.com
 adzip.co
 ae01.bscycle.co.jp
@@ -10910,6 +10954,7 @@ asana.r-ch-1.net.daraz.com
 asana.r-hx-1.net.daraz.com
 asap.affex.org
 asap.euleriancdn.net
+asap.sindikata.org
 asap-systems.actonservice.com
 as.autobild.de
 as.axelspringer.com
@@ -12346,6 +12391,7 @@ ba06.eulerian.net
 ba07.eulerian.net
 ba08.eulerian.net
 ba09.eulerian.net
+ba1.groupgti.com
 ba.affex.org
 baba.affex.org
 baba.euleriancdn.net
@@ -12589,6 +12635,7 @@ bannerhealth.hrm.healthgrades.com
 banner.profile.ru
 banners.affex.org
 banners.euleriancdn.net
+banners.evoluhcion.es
 banners.mobile.yandex.net
 banners-slb.mobile.yandex.net
 banner.ws.pho.to
@@ -13732,6 +13779,7 @@ bjeehz.accademiadellusso.com
 bj.euleriancdn.net
 bjfbac.hyundaivaudreuil.com
 bjiiow.opticontacts.com
+b.jp2.vip.prod.criteo.com
 bjqjze.morinfrance.com
 bjs.com.102.112.2o7.net
 bk01.affex.org
@@ -18549,6 +18597,7 @@ compare.deferias.pt
 compare.destination2.co.uk
 compare.easyviaggio.com
 compare.easyvols.fr
+compare.easyvoyage.com
 compare.easyvoyage.co.uk
 compare.easyvoyage.de
 compare.economybookings.com
@@ -24709,6 +24758,7 @@ dymic.actonservice.com
 dymista.se
 dyn.affex.org
 dynamic.affex.org
+dynamic.am5.vip.prod.criteo.com
 dynamic.ca.102.122.2o7.net
 dynamic-content.auchandrive.fr
 dynamic-content.croquetteland.com
@@ -25172,6 +25222,7 @@ ebs.da1.vip.prod.criteo.com
 ebs.euleriancdn.net
 ebs.hk5.vip.prod.criteo.com
 ebs-paris-fr.eulerian.net
+ebs.par.vip.prod.criteo.com
 ebs.va1.vip.prod.criteo.com
 ebs.viosalon.com
 ebtxxz.travellink.se
@@ -26939,6 +26990,7 @@ engagement.applearn.com
 engagement.nextviewconsulting.com
 engagement.practice-labs.blog
 engagement.practice-labs.com
+engagement.sandesh.com
 engagement.vfund.com
 engagemetrics.cisco.com
 engage.mhainc.com
@@ -27004,6 +27056,7 @@ engineering.affex.org
 engineering.euleriancdn.net
 engine.euleriancdn.net
 eng.info.mouser.com
+england365.gr
 english.affex.org
 english.euleriancdn.net
 eng-mx.tlmktng.com
@@ -29581,7 +29634,6 @@ forex.euleriancdn.net
 forge.affex.org
 forge.euleriancdn.net
 forgingmagazine.com.102.122.2o7.net
-forkmedia.in
 form401.webtrekk.net
 forma.abracemoslalibertad.com.mx
 formacion.affex.org
@@ -52706,6 +52758,7 @@ kamikaze.euleriancdn.net
 kamil.affex.org
 kamil.euleriancdn.net
 kampagne.curexus.com
+kampane.virtualstudio.sk
 kampanja.bhtelecom.ba
 kampanjat.atea.fi
 kampanjat.nhk.fi
@@ -65078,6 +65131,7 @@ mkt10994.com
 mkt10995.com
 mkt10996.com
 mkt10997.com
+mkt10998.com
 mkt10999.com
 mkt1099.com
 mkt109.com
@@ -65093,6 +65147,7 @@ mkt11010.com
 mkt11011.com
 mkt11012.com
 mkt11013.com
+mkt11014.com
 mkt11016.com
 mkt11017.com
 mkt11018.com
@@ -65103,8 +65158,12 @@ mkt11024.com
 mkt11027.com
 mkt11028.com
 mkt1102.com
+mkt11032.com
 mkt11033.com
+mkt11036.com
+mkt11037.com
 mkt1103.com
+mkt11041.com
 mkt1104.com
 mkt1105.com
 mkt1106.com
@@ -77664,6 +77723,7 @@ mtpwie.garagetools.ru
 mtracking.mhequipment.com
 m.transfix.io
 m.trb.com
+mtrck.info
 mtrcs.popcap.com
 mtrcs.redhat.com
 mtrl.me
@@ -84752,6 +84812,8 @@ openx.com
 openxenterprise.com
 openxenterprise.org
 openx.euleriancdn.net
+openx.jawharafm.net
+openx.mediatrust.de
 openx.net
 openx.org
 opera.affex.org
@@ -85315,6 +85377,7 @@ oxford.affex.org
 oxford.euleriancdn.net
 oxfordmail-gb.oxfordmail.co.uk
 oxfordtimes-gb.oxfordtimes.co.uk
+ox.ghanasoccernet.com
 ox.ines-papert.de
 oxmoorhouse.com.102.122.2o7.net
 oxocbg.sarokas.fi
@@ -85349,6 +85412,7 @@ ozkkuy.fabianafilippi.com
 ozone.affex.org
 ozone.euleriancdn.net
 ozowis.ledger.com
+ozxswqkwlniitz.net
 ozzy.affex.org
 ozzy.euleriancdn.net
 p004.raffi-hair.com
@@ -88706,6 +88770,7 @@ pplrsc.charmingpuglia.com
 ppm.affex.org
 ppmakl.oscarcalcados.com.br
 ppm.euleriancdn.net
+p.posventa.info
 ppp7.destinia.kr
 ppp.affex.org
 ppp.euleriancdn.net
@@ -89635,8 +89700,10 @@ publitas.com
 pub.macommune.info
 pubmatic.com
 pubmine.com
+pub.naiz.eus
 pubnation.com
 pub.network
+pubs2.latinspots.com
 pubs.affex.org
 pub-sdk-cfg.criteo.com
 pub-sdk-cfg.da1.vip.prod.criteo.com
@@ -91408,6 +91475,7 @@ reka.euleriancdn.net
 reklama.affex.org
 reklama.euleriancdn.net
 reklam.affex.org
+reklama.silnet.pl
 reklam.euleriancdn.net
 rekrutacja.affex.org
 rekrutacja.euleriancdn.net
@@ -91970,7 +92038,11 @@ revista.affex.org
 revista.euleriancdn.net
 revistas.affex.org
 revistas.euleriancdn.net
+revive.agenda.ge
+revive.bdnews24.com
+revive.theaterkrant.nl
 revive.thebusinessjournal.com
+revive.unizo.be
 revive.workmedia.pt
 revjet.com
 revmetrix.com
@@ -92480,6 +92552,7 @@ rover.affex.org
 rover.euleriancdn.net
 row.fujirebio.com
 rowsrm.atasunoptik.com.tr
+row.volksstimme.de
 roxtec.actonservice.com
 roxy.affex.org
 roxy.euleriancdn.net
@@ -98691,7 +98764,6 @@ smetrics.cbc.ca
 smetrics.cbc.youtube.mercedes-benz.com
 smetrics.cbn.com
 smetrics.cdiscount.com
-smetrics.cdw.ca
 smetrics.cdw.com
 smetrics.cdwg.com
 smetrics.cedars-sinai.org
@@ -99357,6 +99429,7 @@ smetrics.hai-senishou.jp
 smetrics.happyfamilyorganics.com
 smetrics.harborfreight.com
 smetrics.harley-davidson.com
+smetrics.harmonfacevalues.com
 smetrics.havenwellwithin.com
 smetrics.hawthorn.com
 smetrics.hayesandjarvis.co.uk
@@ -100660,6 +100733,7 @@ smetrics.sisalpay.it
 smetrics.sis.se
 smetrics.sitestuff.com
 smetrics.site-value.com
+smetrics.sivasdescalzo.com
 smetrics.sj.se
 smetrics.skandiabanken.se
 smetrics.skiphop.com
@@ -105936,6 +106010,7 @@ ssp.euleriancdn.net
 ssp.isboost.co.jp
 ssp.oomph.co.id
 s.sporks.space
+ssp.putaojiu.com
 ssqilo.bodytimero.com
 ssr.affex.org
 ssr.euleriancdn.net
@@ -112484,7 +112559,6 @@ track.sublytics-5db9e5dd1b2c2.com
 track.sublytics-5df8eec4bca66.com
 track.sublytics-5f04ec02ca223.com
 track.sublytics-600afc6bd3e89.com
-track.sublytics-602424689e430.com
 track.sublytics-610c0bdd48cf6.com
 tracks.yclients.com
 track-test.workframe.com
@@ -134022,6 +134096,7 @@ www.abmr.net
 www.about.affex.org
 www.about.euleriancdn.net
 www.abtasty.com
+www.ac24horas.com
 www.ac.affex.org
 www.acalvio.online
 www.acc.affex.org
@@ -134202,6 +134277,7 @@ www.adserv.com
 www.adservd.com
 www.adserver.affex.org
 www.adserver.euleriancdn.net
+www.adserverhd.com
 www.ad-serverparc.nl
 www.adserve.zone
 www.ads.euleriancdn.net
@@ -135730,6 +135806,7 @@ www.engage.swaindestinations.com
 www.engageya.com
 www.eng.euleriancdn.net
 www.engineering.linde.com
+www.england365.gr
 www.english.affex.org
 www.english.euleriancdn.net
 www.ensighten.com
@@ -135960,7 +136037,6 @@ www.forensics1000.com
 www.forensiq.com
 www.foresee.com
 www.foreseeresults.com
-www.forkmedia.in
 www.formalyzer.com
 www.forms.affex.org
 www.forms.euleriancdn.net
@@ -138404,6 +138480,7 @@ www.mkt10994.com
 www.mkt10995.com
 www.mkt10996.com
 www.mkt10997.com
+www.mkt10998.com
 www.mkt10999.com
 www.mkt1099.com
 www.mkt109.com
@@ -138419,6 +138496,7 @@ www.mkt11010.com
 www.mkt11011.com
 www.mkt11012.com
 www.mkt11013.com
+www.mkt11014.com
 www.mkt11016.com
 www.mkt11017.com
 www.mkt11018.com
@@ -138429,8 +138507,12 @@ www.mkt11024.com
 www.mkt11027.com
 www.mkt11028.com
 www.mkt1102.com
+www.mkt11032.com
 www.mkt11033.com
+www.mkt11036.com
+www.mkt11037.com
 www.mkt1103.com
+www.mkt11041.com
 www.mkt1104.com
 www.mkt1105.com
 www.mkt1106.com
@@ -148156,6 +148238,7 @@ www.mta.euleriancdn.net
 www.mt.affex.org
 www.mt.euleriancdn.net
 www.mthsense.com
+www.mtrck.info
 www.mtrl.me
 www.mu.affex.org
 www.mu.euleriancdn.net
@@ -148516,6 +148599,7 @@ www.owebanalytics.com
 www.ownedit.com
 www.owneriq.net
 www.ozccoin.com
+www.ozxswqkwlniitz.net
 www.p161.net
 www.pa.affex.org
 www.pacific-media.biz
